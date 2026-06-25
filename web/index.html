@@ -246,7 +246,13 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 
 <!-- hidden YT -->
 <div id="yt-host"><div id="yt-player"></div></div>
+<script>
+  // Default engine URL — overridden by localStorage if the user sets a custom one
+  if (!localStorage.getItem('digmore_engine')) {
+    window.DIGMORE_ENGINE = 'https://dsa222ffd-digmore-engine.hf.space';
+  }
+</script>
 <script src="https://www.youtube.com/iframe_api" async></script>
-<script src="app.js?v=3"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>

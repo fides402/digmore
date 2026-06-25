@@ -35,10 +35,15 @@ import discogs_hunter  # for the cover-proxy User-Agent header
 
 app = FastAPI(title="DIGMORE engine")
 
-_origins = os.environ.get("DIGMORE_CORS", "*")
+_DEFAULT_CORS = (
+    "https://digmore-app.vercel.app,"
+    "https://digmore-app-*.vercel.app,"
+    "*"   # allow all for local dev; restrict in prod via DIGMORE_CORS env
+)
+_origins = os.environ.get("DIGMORE_CORS", _DEFAULT_CORS)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"] if _origins == "*" else [o.strip() for o in _origins.split(",")],
+    allow_origins=["*"] if "*" in _origins else [o.strip() for o in _origins.split(",")],
     allow_methods=["*"], allow_headers=["*"], allow_credentials=False,
 )
 
