@@ -8,6 +8,7 @@ Strategy:
 """
 import random
 import re
+import threading
 import urllib.parse
 from pathlib import Path
 
@@ -252,7 +253,8 @@ def search_yt_for_track(artist: str, title: str, use_cache: bool = True) -> dict
         title,  # last resort: title only
     ]
     opts = {"quiet": True, "no_warnings": True,
-            "extract_flat": True, "skip_download": True}
+            "extract_flat": True, "skip_download": True,
+            "socket_timeout": 20}
     best, best_score = None, -1e9
     with YoutubeDL(opts) as ydl:
         for query in queries:
@@ -304,14 +306,29 @@ def download_snippet(video_id: str) -> str:
         "outtmpl": str(out_base) + ".%(ext)s",
         "download_ranges": download_range_func(None, [(20, 170)]),
         "force_keyframes_at_cuts": True,
+        "socket_timeout": 30,
         "postprocessors": [{
             "key": "FFmpegExtractAudio",
             "preferredcodec": "mp3",
             "preferredquality": "192",
         }],
     }
-    with YoutubeDL(opts) as ydl:
-        ydl.download([f"https://www.youtube.com/watch?v={video_id}"])
+    exc_holder: list[Exception] = []
+
+    def _do_download():
+        try:
+            with YoutubeDL(opts) as ydl:
+                ydl.download([f"https://www.youtube.com/watch?v={video_id}"])
+        except Exception as e:
+            exc_holder.append(e)
+
+    t = threading.Thread(target=_do_download, daemon=True)
+    t.start()
+    t.join(timeout=120)
+    if t.is_alive():
+        raise TimeoutError(f"download timeout for {video_id}")
+    if exc_holder:
+        raise exc_holder[0]
 
     if not target.exists():
         hits = list(SNIPPET_DIR.glob(f"{video_id}.*"))
