@@ -67,11 +67,26 @@ def _resolve_cookiefile():
 _COOKIEFILE = _resolve_cookiefile()
 
 
+# YouTube blocks the default `web` client's innertube API from datacenter IPs
+# (Read-timeout on search, SSL UNEXPECTED_EOF on download). The tv / ios / mweb
+# clients hit different endpoints that survive the block. Override per env if
+# YouTube shifts again.
+_PLAYER_CLIENTS = [
+    c.strip() for c in
+    _os.environ.get("YT_PLAYER_CLIENTS", "tv,ios,mweb,web").split(",")
+    if c.strip()
+]
+
+
 def YoutubeDL(opts=None, *args, **kwargs):
-    """yt-dlp wrapper that injects the cookie file (if configured) everywhere."""
+    """yt-dlp wrapper: inject cookies + datacenter-friendly player clients."""
     opts = dict(opts or {})
     if _COOKIEFILE and "cookiefile" not in opts and "cookiesfrombrowser" not in opts:
         opts["cookiefile"] = _COOKIEFILE
+    ea = dict(opts.get("extractor_args") or {})
+    if "youtube" not in ea:
+        ea["youtube"] = {"player_client": _PLAYER_CLIENTS}
+        opts["extractor_args"] = ea
     return _RealYoutubeDL(opts, *args, **kwargs)
 
 _YT_SEARCH_NS = "yt_search"   # kvcache namespace: "artist::title" → resolved video

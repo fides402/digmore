@@ -6,3 +6,4 @@ engine/data/
 engine/_localbuild/
 .DS_Store
 *.log
+HANDOFF.md
