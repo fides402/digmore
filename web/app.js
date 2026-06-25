@@ -1,7 +1,8 @@
 /* DIGMORE — frontend v3 */
 (() => {
+  const _DEFAULT_ENGINE = 'https://dsa222ffd-digmore-engine.hf.space';
   const ENGINE = (window.DIGMORE_ENGINE ||
-    localStorage.getItem('digmore_engine') || '').replace(/\/$/, '');
+    localStorage.getItem('digmore_engine') || _DEFAULT_ENGINE).replace(/\/$/, '');
   const api = p => ENGINE + p;
 
   const $ = id => document.getElementById(id);
