@@ -1,6 +1,6 @@
 /* DIGMORE — frontend v3 */
 (() => {
-  const _DEFAULT_ENGINE = 'https://dsa222ffd-digmore-engine.hf.space';
+  const _DEFAULT_ENGINE = 'https://discipline-cal-sam-plenty.trycloudflare.com';
   const ENGINE = (window.DIGMORE_ENGINE ||
     localStorage.getItem('digmore_engine') || _DEFAULT_ENGINE).replace(/\/$/, '');
   const api = p => ENGINE + p;
