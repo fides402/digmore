@@ -22,14 +22,13 @@ from paths_boot import DATA_DIR
 import discogs_ext
 import listened_store
 import yt_hunter
-import features
-import scorer
+import clap_model
 
 HIT_CLAP    = 0.78    # raw CLAP cosine that maps to ~95% vibe (SampleHunter)
 CLAP_MIN    = 0.10    # pre-filter: skip truly unrelated audio (same as SampleHunter)
 TARGET      = 30
 MAX_ROUNDS  = 10
-POOL_WORKERS = 4
+POOL_WORKERS = 6      # downloads run in parallel; CLAP is lock-serialized
 
 
 def _seen_path(pid: str):
@@ -66,7 +65,12 @@ def _clap_sim(profile_emb: np.ndarray, cand_clap) -> float:
 
 
 def _evaluate(cand: dict, profile_emb: np.ndarray) -> dict | None:
-    """Resolve -> download -> CLAP -> score one candidate. None on failure."""
+    """Resolve -> download short snippet -> CLAP -> score one candidate.
+
+    CLAP-only fast path: DIGMORE scores purely on the CLAP cosine vs the
+    profile, so we skip all the heavy librosa analysis (HPSS, mfcc, chroma,
+    tempogram, key detection) that features.extract would compute and discard.
+    """
     yt = yt_hunter.search_yt_for_track(cand["artist"], cand["title"])
     if not yt:
         return None
@@ -74,8 +78,7 @@ def _evaluate(cand: dict, profile_emb: np.ndarray) -> dict | None:
     if listened_store.contains_video(vid):
         return None
     snippet = yt_hunter.download_snippet(vid)
-    feat = features.extract(snippet, with_clap=True, drum_robust=True, segment=True)
-    clap = feat.get("clap")
+    clap = clap_model.embed_audio(snippet)   # 512-dim L2-normalized, single window
     if clap is None:
         return None
     sim = _clap_sim(profile_emb, clap)
@@ -129,10 +132,14 @@ def run(job: dict, profile: str, profile_emb: np.ndarray,
 
             job["status_msg"] = f"Round {rnd}: cerco dischi su Discogs…"
 
+            # Pull ~2.5× target candidates per round so a single round usually
+            # suffices; fewer releases/tracks = fewer Discogs + YouTube calls.
+            n_rel = max(8, min(16, target))
             cands, diag = discogs_ext.build_candidates(
                 profile, max_have=max_have, min_rating=min_rating,
                 min_votes=min_votes, require_rating=require_rating,
                 max_listeners=max_listeners, exclude_ids=seen_releases,
+                n_releases=n_rel, tracks_per_release=2,
             )
             seen_releases.update(diag.get("release_ids", []))
 

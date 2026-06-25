@@ -322,12 +322,12 @@ def search_yt_for_track(artist: str, title: str, use_cache: bool = True) -> dict
     return None
 
 
-def download_snippet(video_id: str) -> str:
-    """Download seconds 20-170 of a video as mp3; return the file path.
+def download_snippet(video_id: str, start: int = 40, dur: int = 30) -> str:
+    """Download a short snippet of a video as mp3; return the file path.
 
-    A wider 150s span lets multi-segment analysis sample several windows of the
-    track, so a flip buried deep in the song still gets compared.
-    MP3 at 192kbps is ~3MB vs ~30MB for WAV — same quality for librosa/CLAP.
+    DIGMORE scores tracks purely on a single CLAP embedding, so a short ~30s
+    window from the body of the track is enough — far faster to download and
+    transcode than the full 150s span. MP3 at 128kbps is plenty for CLAP.
     """
     out_base = SNIPPET_DIR / video_id
     target = out_base.with_suffix(".mp3")
@@ -338,13 +338,13 @@ def download_snippet(video_id: str) -> str:
         "quiet": True, "no_warnings": True,
         "format": "bestaudio/best",
         "outtmpl": str(out_base) + ".%(ext)s",
-        "download_ranges": download_range_func(None, [(20, 170)]),
+        "download_ranges": download_range_func(None, [(start, start + dur)]),
         "force_keyframes_at_cuts": True,
         "socket_timeout": 30,
         "postprocessors": [{
             "key": "FFmpegExtractAudio",
             "preferredcodec": "mp3",
-            "preferredquality": "192",
+            "preferredquality": "128",
         }],
     }
     exc_holder: list[Exception] = []
