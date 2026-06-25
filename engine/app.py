@@ -222,13 +222,16 @@ def debug_ytdl(vid: str = "tDQk5KP9p4U", q: str = "Marvin Gaye Inner City Blues"
         out["search_error"] = f"{type(e).__name__}: {e}"
     out["search_secs"] = round(time.time() - t0, 1)
 
-    # 2) raw download (NO wrapping thread — let the real yt-dlp error surface)
+    # 2) try multiple player clients to find one that survives the datacenter-IP
+    #    block. Report timing + error per client so we can pin the winner.
     out["download_vid"] = vid
-    t1 = time.time()
-    try:
-        from yt_dlp.utils import download_range_func
-        from pathlib import Path as _P
-        base = yt_hunter.SNIPPET_DIR / f"dbg_{vid}"
+    from yt_dlp.utils import download_range_func
+    import yt_dlp as _ydlp
+    out["yt_dlp_version"] = getattr(_ydlp, "version", None) and _ydlp.version.__version__
+    clients = ["tv", "ios", "mweb", "web_safari", "android", "web"]
+    out["clients"] = {}
+    for client in clients:
+        base = yt_hunter.SNIPPET_DIR / f"dbg_{client}_{vid}"
         opts = {
             "quiet": True, "no_warnings": True,
             "format": "bestaudio/best",
@@ -236,18 +239,22 @@ def debug_ytdl(vid: str = "tDQk5KP9p4U", q: str = "Marvin Gaye Inner City Blues"
             "download_ranges": download_range_func(None, [(40, 70)]),
             "force_keyframes_at_cuts": True,
             "socket_timeout": 20,
+            "extractor_args": {"youtube": {"player_client": [client]}},
             "postprocessors": [{"key": "FFmpegExtractAudio",
                                 "preferredcodec": "mp3", "preferredquality": "128"}],
         }
-        with yt_hunter.YoutubeDL(opts) as ydl:
-            ydl.download([f"https://www.youtube.com/watch?v={vid}"])
-        hits = list(yt_hunter.SNIPPET_DIR.glob(f"dbg_{vid}.*"))
-        out["download_ok"] = bool(hits)
-        out["download_files"] = [h.name for h in hits]
-    except Exception as e:
-        out["download_ok"] = False
-        out["download_error"] = f"{type(e).__name__}: {e}"[:400]
-    out["download_secs"] = round(time.time() - t1, 1)
+        t1 = time.time()
+        try:
+            with yt_hunter.YoutubeDL(opts) as ydl:
+                ydl.download([f"https://www.youtube.com/watch?v={vid}"])
+            hits = list(yt_hunter.SNIPPET_DIR.glob(f"dbg_{client}_{vid}.*"))
+            out["clients"][client] = {
+                "ok": bool(hits), "secs": round(time.time() - t1, 1),
+                "files": [h.name for h in hits]}
+        except Exception as e:
+            out["clients"][client] = {
+                "ok": False, "secs": round(time.time() - t1, 1),
+                "error": f"{type(e).__name__}: {e}"[:200]}
     return out
 
 
