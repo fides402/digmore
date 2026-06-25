@@ -100,7 +100,7 @@ def build_status(job_id: str):
 @app.post("/api/generate")
 def generate(
     profile:        str   = Form(...),
-    vibe_gate:      int   = Form(55),
+    vibe_gate:      int   = Form(0),
     max_have:       int   = Form(800),
     min_rating:     float = Form(3.8),
     min_votes:      int   = Form(2),

@@ -19,6 +19,7 @@ import discogs_ext
 import listened_store
 import yt_hunter
 import clap_model
+import features as _features
 
 HIT_CLAP     = 0.78
 CLAP_MIN     = 0.05   # skip only silent/noise; show everything else
@@ -70,7 +71,10 @@ def _evaluate_inner(cand: dict, profile_emb: np.ndarray) -> dict | None:
     if listened_store.contains_video(vid):
         return None
     snippet = yt_hunter.download_snippet(vid)
-    clap = clap_model.embed_audio(snippet)
+    # Use the same preprocessing as profile building: HPSS harmonic extraction
+    # before CLAP embedding. Raw embed_audio gives near-zero cosine vs profile.
+    feat = _features.extract(snippet, with_clap=True, drum_robust=True, segment=False)
+    clap = feat.get("clap")
     if clap is None:
         return None
     sim = _clap_sim(profile_emb, clap)
