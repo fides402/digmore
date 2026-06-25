@@ -1,12 +1,9 @@
 """Playlist orchestrator -- the heart of DIGMORE.
 
-Mirrors SampleHunter's _run_search (YT-playlist mode) exactly:
-  - Search YouTube for genre playlists → guaranteed tracks that exist online
-  - Download short snippet → CLAP embed → cosine vs profile
-  - Collect all above CLAP_MIN, sort by vibe descending, return top N
-  - Rescale so the best track = 95% vibe
-
-Freshness: seen video_ids are remembered per-profile on disk.
+Candidate source: Discogs (obscure 1969-1983 releases) → resolve on YouTube
+via ytsearch8 (this works on HF datacenter IPs unlike playlist scraping).
+Score: CLAP cosine vs profile embedding, no hard gate.
+Sort by vibe descending, return top N.
 """
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -14,30 +11,23 @@ from pathlib import Path
 
 import numpy as np
 
-import paths_boot  # noqa: F401  -- engine_libs on sys.path
+import paths_boot  # noqa: F401
 from paths_boot import DATA_DIR
 
+import discogs_ext
 import listened_store
 import yt_hunter
 import clap_model
 
-HIT_CLAP     = 0.78   # cosine that maps to ~95% vibe (SampleHunter constant)
-CLAP_MIN     = 0.10   # skip truly unrelated audio
+HIT_CLAP     = 0.78
+CLAP_MIN     = 0.05   # skip only silent/noise; show everything else
 TARGET       = 30
 MAX_ROUNDS   = 10
-BATCH_SIZE   = 20     # YT candidates per round (same as SampleHunter _BATCH_YT)
 POOL_WORKERS = 4
-
-# Profile id → YouTube search keyword (what the playlist search uses)
-_GENRE_KW = {
-    "soul": "soul",
-    "jazz": "jazz",
-    "ost":  "film score",
-}
 
 
 def _seen_path(pid: str) -> Path:
-    return DATA_DIR / f"seen_videos_{pid}.json"
+    return DATA_DIR / f"seen_releases_{pid}.json"
 
 
 def _load_seen(pid: str) -> set:
@@ -67,8 +57,11 @@ def _clap_sim(profile_emb: np.ndarray, cand_clap) -> float:
     return float(np.clip(np.dot(profile_emb, cand), 0.0, 1.0))
 
 
-def _score_yt(yt: dict, profile_emb: np.ndarray) -> dict | None:
-    """Download short snippet, CLAP-embed, score against profile. None = skip."""
+def _evaluate(cand: dict, profile_emb: np.ndarray) -> dict | None:
+    """Discogs candidate → find on YouTube → CLAP score. None on failure."""
+    yt = yt_hunter.search_yt_for_track(cand["artist"], cand["title"])
+    if not yt:
+        return None
     vid = yt["video_id"]
     if listened_store.contains_video(vid):
         return None
@@ -80,22 +73,29 @@ def _score_yt(yt: dict, profile_emb: np.ndarray) -> dict | None:
     if sim < CLAP_MIN:
         return None
     return {
-        "artist":      yt.get("channel", ""),
-        "title":       yt.get("title", ""),
-        "video_id":    vid,
-        "yt_title":    yt.get("title", ""),
-        "cover_image": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
-        "url":         yt.get("url", f"https://www.youtube.com/watch?v={vid}"),
-        "clap":        round(float(sim), 3),
-        "vibe":        vibe_pct(sim),
+        "artist":        cand["artist"],
+        "title":         cand["title"],
+        "release_title": cand.get("release_title", ""),
+        "year":          cand.get("year"),
+        "label":         cand.get("label", ""),
+        "country":       cand.get("country", ""),
+        "discogs_id":    cand.get("discogs_id"),
+        "rating_avg":    cand.get("rating_avg"),
+        "cover_image":   cand.get("cover_image") or f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
+        "video_id":      vid,
+        "yt_title":      yt.get("title", ""),
+        "clap":          round(float(sim), 3),
+        "vibe":          vibe_pct(sim),
     }
 
 
 def run(job: dict, profile: str, profile_emb: np.ndarray,
-        vibe_gate: int = 0, target: int = TARGET, **_kwargs):
-    """Run a full generation, mutating `job` in place for progress polling."""
-    genre_kw = _GENRE_KW.get(profile, profile)
-    seen_vids = _load_seen(profile)
+        vibe_gate: int = 0, max_have: int = 800,
+        min_rating: float = 3.5, min_votes: int = 1,
+        require_rating: bool = False, max_listeners: int = 500_000,
+        target: int = TARGET, **_kw):
+    seen_releases = _load_seen(profile)
+    seen_videos: set = set()
     raw_results: list = []
     best_clap = 0.0
 
@@ -110,25 +110,34 @@ def run(job: dict, profile: str, profile_emb: np.ndarray,
             if len(raw_results) >= target * 2:
                 break
 
-            job["status_msg"] = f"Round {rnd}: cerco su YouTube ({genre_kw})…"
+            job["status_msg"] = f"Round {rnd}: cerco dischi su Discogs…"
 
-            # Search YouTube genre playlists — same as SampleHunter _run_search
-            pool = yt_hunter.search_candidates(genre_kw, n=BATCH_SIZE * 3,
-                                               exclude=seen_vids)
-            batch = [c for c in pool if c["video_id"] not in seen_vids][:BATCH_SIZE]
+            cands, diag = discogs_ext.build_candidates(
+                profile,
+                max_have=max_have,
+                min_rating=min_rating,
+                min_votes=min_votes,
+                require_rating=require_rating,
+                max_listeners=max_listeners,
+                exclude_ids=seen_releases,
+                n_releases=12,
+                tracks_per_release=3,
+            )
+            seen_releases.update(diag.get("release_ids", []))
 
-            if not batch:
-                job["status_msg"] = f"Round {rnd}: nessun nuovo candidato."
+            cands = [c for c in cands
+                     if not listened_store.contains(c["artist"], c["title"])]
+            if not cands:
+                job["status_msg"] = f"Round {rnd}: nessun candidato nuovo."
                 continue
 
-            with ThreadPoolExecutor(max_workers=POOL_WORKERS) as ex:
-                futs = {}
-                for c in batch:
-                    if job.get("stop_requested"):
-                        break
-                    seen_vids.add(c["video_id"])
-                    futs[ex.submit(_score_yt, c, profile_emb)] = c
+            job["status_msg"] = (
+                f"Round {rnd}: {len(cands)} tracce trovate su Discogs, "
+                f"cerco su YouTube…"
+            )
 
+            with ThreadPoolExecutor(max_workers=POOL_WORKERS) as ex:
+                futs = {ex.submit(_evaluate, c, profile_emb): c for c in cands}
                 for fut in as_completed(futs):
                     job["analyzed"] = job.get("analyzed", 0) + 1
                     try:
@@ -137,10 +146,10 @@ def run(job: dict, profile: str, profile_emb: np.ndarray,
                         job.setdefault("skipped", []).append(str(e)[:160])
                         res = None
 
-                    if res:
-                        raw_clap = float(res["clap"])
-                        if raw_clap > best_clap:
-                            best_clap = raw_clap
+                    if res and res["video_id"] not in seen_videos:
+                        seen_videos.add(res["video_id"])
+                        if float(res["clap"]) > best_clap:
+                            best_clap = float(res["clap"])
                         raw_results.append(res)
 
                     best_pct = vibe_pct(best_clap)
@@ -151,12 +160,12 @@ def run(job: dict, profile: str, profile_emb: np.ndarray,
                     job["results"] = top_now
                     job["accepted"] = len(top_now)
                     job["status_msg"] = (
-                        f"[Round {rnd}] Analizzati {job['analyzed']} · "
-                        f"Miglior vibe: {int(best_clap * 100)}% "
-                        f"(target {int(HIT_CLAP * 100)}%)"
+                        f"[Round {rnd}] analizzati {job['analyzed']} · "
+                        f"trovati {len(raw_results)} · "
+                        f"miglior vibe: {int(best_clap * 100)}%"
                     )
 
-        _save_seen(profile, seen_vids)
+        _save_seen(profile, seen_releases)
 
         final = sorted(raw_results, key=lambda r: r["clap"], reverse=True)
         if vibe_gate > 0:
