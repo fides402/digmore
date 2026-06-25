@@ -3,5 +3,6 @@ __pycache__/
 engine/.cache/
 engine/engine_libs/.cache/
 engine/data/
+engine/_localbuild/
 .DS_Store
 *.log

@@ -32,13 +32,47 @@ _GAME_RE = re.compile(
     re.IGNORECASE,
 )
 
-from yt_dlp import YoutubeDL
+import os as _os
+from yt_dlp import YoutubeDL as _RealYoutubeDL
 from yt_dlp.utils import download_range_func
 
 import kvcache
 
 SNIPPET_DIR = Path(__file__).resolve().parent / ".cache" / "snippets"
 SNIPPET_DIR.mkdir(parents=True, exist_ok=True)
+
+
+# ── YouTube cookies (bypass datacenter-IP bot detection on Hugging Face) ──────
+# YouTube blocks requests from cloud/datacenter IPs ("Sign in to confirm you're
+# not a bot"). Providing the user's browser cookies makes yt-dlp authenticate as
+# a logged-in user, which lifts the block. Two ways to supply them:
+#   * YT_COOKIES_FILE = path to a Netscape cookies.txt
+#   * YT_COOKIES      = the cookies.txt *content* (e.g. an HF Secret) — written
+#                       to a temp file once at import.
+def _resolve_cookiefile():
+    p = _os.environ.get("YT_COOKIES_FILE", "").strip()
+    if p and Path(p).is_file():
+        return p
+    raw = _os.environ.get("YT_COOKIES", "")
+    if raw.strip():
+        dst = SNIPPET_DIR.parent / "yt_cookies.txt"
+        try:
+            dst.write_text(raw, encoding="utf-8")
+            return str(dst)
+        except Exception:
+            return None
+    return None
+
+
+_COOKIEFILE = _resolve_cookiefile()
+
+
+def YoutubeDL(opts=None, *args, **kwargs):
+    """yt-dlp wrapper that injects the cookie file (if configured) everywhere."""
+    opts = dict(opts or {})
+    if _COOKIEFILE and "cookiefile" not in opts and "cookiesfrombrowser" not in opts:
+        opts["cookiefile"] = _COOKIEFILE
+    return _RealYoutubeDL(opts, *args, **kwargs)
 
 _YT_SEARCH_NS = "yt_search"   # kvcache namespace: "artist::title" → resolved video
 

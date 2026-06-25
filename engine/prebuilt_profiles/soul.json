@@ -1,0 +1,42 @@
+{
+  "id": "soul",
+  "n_tracks": 6,
+  "tracks": [
+    {
+      "artist": "Jon Lucien",
+      "title": "Lady Love",
+      "yt_title": "Jon Lucien   Lady Love",
+      "video_id": "7vXPe6_jIR8"
+    },
+    {
+      "artist": "Livingston Taylor",
+      "title": "Get Out Of Bed",
+      "yt_title": "Get Out Of Bed / Livingston Taylor",
+      "video_id": "havQo7FunSI"
+    },
+    {
+      "artist": "Irene Cara",
+      "title": "Out Here On My Own",
+      "yt_title": "IRENE CARA - OUT HERE ON MY OWN (from FAME)",
+      "video_id": "i4mkRwkQRoQ"
+    },
+    {
+      "artist": "Bill Withers",
+      "title": "I love You Dawn",
+      "yt_title": "Bill Withers I Love You Dawn",
+      "video_id": "GlFaJ8k7cfw"
+    },
+    {
+      "artist": "Grady Tate",
+      "title": "Movin' Day",
+      "yt_title": "Grady Tate - \"Movin' Day\"",
+      "video_id": "TyGIL0ZStZo"
+    },
+    {
+      "artist": "Gerson King Combo",
+      "title": "Foi Um Sonho",
+      "yt_title": "GERSON KING COMBO _ FOI UM SONHO (OFFICIAL MÚSIC)",
+      "video_id": "eK4fQfqDbuA"
+    }
+  ]
+}

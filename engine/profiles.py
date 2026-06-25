@@ -28,6 +28,27 @@ from paths_boot import DATA_DIR, CSV_DIR
 _PROFILE_DIR = DATA_DIR / "profiles"
 _PROFILE_DIR.mkdir(parents=True, exist_ok=True)
 
+# Profiles are pre-built locally (YouTube blocks HF's datacenter IP) and shipped
+# in the repo under prebuilt_profiles/. Seed the persistent data dir from there
+# on first import so the Space comes up with ready profiles.
+_PREBUILT_DIR = Path(__file__).resolve().parent / "prebuilt_profiles"
+
+
+def _seed_prebuilt():
+    if not _PREBUILT_DIR.is_dir():
+        return
+    for npy in _PREBUILT_DIR.glob("*.npy"):
+        dst = _PROFILE_DIR / npy.name
+        if not dst.exists():
+            dst.write_bytes(npy.read_bytes())
+        j = npy.with_suffix(".json")
+        jdst = _PROFILE_DIR / j.name
+        if j.exists() and not jdst.exists():
+            jdst.write_text(j.read_text(encoding="utf-8"), encoding="utf-8")
+
+
+_seed_prebuilt()
+
 # Registry: profile id -> display label + CSV filename + Discogs macrogenre key.
 PROFILES: dict[str, dict] = {
     "soul": {"label": "Chill Soul", "csv": "chill_soul.csv"},
