@@ -59,7 +59,7 @@ def _clap_sim(profile_emb: np.ndarray, cand_clap) -> float:
     return float(np.clip(np.dot(profile_emb, cand), 0.0, 1.0))
 
 
-_EVAL_TIMEOUT = 50   # hard per-candidate wall-clock budget (seconds)
+_EVAL_TIMEOUT = 120  # hard per-candidate wall-clock budget (seconds)
 
 
 def _evaluate_inner(cand: dict, profile_emb: np.ndarray) -> dict | None:

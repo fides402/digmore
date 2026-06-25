@@ -283,12 +283,10 @@ def search_yt_for_track(artist: str, title: str, use_cache: bool = True) -> dict
     queries = [
         f"{artist} - {title}",
         f"{artist} {title}",
-        f"{title} {artist}",
-        title,  # last resort: title only
     ]
     opts = {"quiet": True, "no_warnings": True,
             "extract_flat": True, "skip_download": True,
-            "socket_timeout": 20}
+            "socket_timeout": 8}
     best, best_score = None, -1e9
     with YoutubeDL(opts) as ydl:
         for query in queries:
