@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+engine/.cache/
+engine/engine_libs/.cache/
+engine/data/
+.DS_Store
+*.log

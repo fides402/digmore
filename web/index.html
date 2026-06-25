@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>DIGMORE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0 }
+
+:root {
+  --cream: #F4EFE6;
+  --white: #FDFBF8;
+  --orange: #E8391A;
+  --orange-fg: #FFF2EE;
+  --ink: #141210;
+  --ink2: #8a8075;
+  --line: #E2DAD0;
+}
+
+html { background: var(--cream); color: var(--ink); -webkit-font-smoothing: antialiased }
+body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14px; padding-bottom: 80px; min-height: 100dvh }
+
+/* NAV */
+.nav {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 20px 24px 14px;
+}
+.nav button { background: none; border: none; cursor: pointer; font: inherit; font-size: 13px; color: var(--ink2) }
+.nav button:hover { color: var(--ink) }
+.nav .logo { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 400; letter-spacing: .05em }
+.nav .logo b { color: var(--orange) }
+
+/* HERO AREA */
+.hero {
+  padding: 0 24px;
+  display: flex; flex-direction: column; align-items: flex-start;
+}
+
+/* big orange circle — empty state / loading state */
+.hero-circle {
+  width: min(72vw, 320px); height: min(72vw, 320px);
+  background: var(--orange);
+  border-radius: 50%;
+  margin: 8px 0 28px;
+  transition: transform .6s cubic-bezier(.16,1,.3,1), opacity .4s;
+  align-self: center;
+}
+.hero-circle.hidden { transform: scale(.4); opacity: 0; pointer-events: none; position: absolute }
+
+/* now-playing cover replaces circle */
+.hero-cover {
+  width: min(72vw, 320px); height: min(72vw, 320px);
+  border-radius: 20px; object-fit: cover; background: var(--line);
+  margin: 8px 0 28px; align-self: center;
+  display: none;
+  box-shadow: 0 24px 60px rgba(20,18,16,.18);
+  transition: opacity .3s;
+}
+.hero-cover.visible { display: block }
+
+/* PROFILE NAME — giant editorial */
+.profile-headline {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(40px, 12vw, 72px);
+  font-weight: 400; line-height: 1.0;
+  letter-spacing: -.01em;
+  margin-bottom: 6px;
+  transition: opacity .3s;
+}
+.profile-headline em { font-style: italic; color: var(--ink2) }
+
+/* track title when playing */
+.now-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(28px, 7vw, 48px);
+  font-weight: 400; line-height: 1.05;
+  margin-bottom: 4px;
+  display: none;
+}
+.now-artist { font-size: 13px; color: var(--ink2); margin-bottom: 16px; display: none }
+
+/* tag row */
+.tag-row { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 28px }
+.tag { border: 1.5px solid var(--line); border-radius: 999px; padding: 6px 14px; font-size: 12px; color: var(--ink2) }
+.tag.hot { border-color: var(--orange); color: var(--orange) }
+
+/* profile chips row */
+.profile-label { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink2); padding: 0 24px; margin-bottom: 10px }
+.profile-row { display: flex; gap: 8px; padding: 0 24px; flex-wrap: wrap; margin-bottom: 32px }
+.pcap { border: 1.5px solid var(--line); border-radius: 999px; padding: 9px 18px;
+  font-size: 13px; background: none; cursor: pointer; display: flex; align-items: center; gap: 7px;
+  transition: .15s; font-family: inherit; color: var(--ink) }
+.pcap:hover { border-color: var(--ink) }
+.pcap.on { background: var(--ink); color: var(--white); border-color: var(--ink) }
+.pcap.on .pip { background: var(--orange) }
+.pcap.nocsv { opacity: .3; pointer-events: none }
+.pip { width: 6px; height: 6px; border-radius: 50%; background: var(--line); flex: none; transition: .15s }
+.pcap:hover .pip { background: var(--ink2) }
+
+/* divider */
+.divider { height: 1px; background: var(--line); margin: 0 24px 0 }
+
+/* STATUS */
+.status-row { padding: 12px 24px 0; font-size: 13px; color: var(--ink2); min-height: 36px }
+.progress { height: 2px; background: var(--line); margin: 8px 24px 0 }
+.progress i { display: block; height: 100%; width: 0; background: var(--orange); transition: width .5s }
+
+/* PLAYLIST */
+.list { padding: 6px 0 }
+.track-row {
+  display: flex; align-items: center; gap: 14px;
+  padding: 13px 24px; cursor: pointer;
+  border-bottom: 1px solid var(--line);
+  transition: background .12s;
+}
+.track-row:hover, .track-row.playing { background: var(--white) }
+.tcover { width: 56px; height: 56px; border-radius: 12px; object-fit: cover; background: var(--line); flex: none }
+.tmeta { flex: 1; min-width: 0 }
+.ttitle { font-family: 'Playfair Display', serif; font-size: 17px; font-weight: 400;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 1.2 }
+.tartist { font-size: 12px; color: var(--ink2); margin-top: 2px;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis }
+.tright { text-align: right; flex: none }
+.tvibe { font-size: 13px; font-weight: 500; color: var(--orange) }
+.tyear { font-size: 11px; color: var(--ink2); margin-top: 2px }
+.tidx { width: 22px; font-size: 12px; color: var(--ink2); text-align: right; flex: none }
+
+/* BOTTOM BAR */
+.bar {
+  position: fixed; bottom: 0; left: 0; right: 0;
+  background: var(--cream); border-top: 1px solid var(--line);
+  z-index: 40;
+}
+#gen {
+  display: flex; align-items: center; justify-content: space-between;
+  width: 100%; padding: 18px 24px 20px;
+  background: var(--orange); color: var(--orange-fg); border: none; cursor: pointer;
+  font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 400;
+  letter-spacing: .01em; transition: opacity .15s;
+}
+#gen:disabled { opacity: .45; cursor: default }
+#gen .chevron { font-size: 22px }
+#stop-btn {
+  display: none; width: 100%; padding: 16px 24px 18px;
+  background: var(--ink); color: var(--white); border: none; cursor: pointer;
+  font-size: 14px; letter-spacing: .06em; text-transform: uppercase; font-family: inherit;
+}
+
+/* MODALS */
+.ov { position: fixed; inset: 0; background: rgba(15,12,10,.45); z-index: 60;
+  display: none; align-items: flex-end; justify-content: center }
+.ov.on { display: flex }
+.sheet { background: var(--white); border-radius: 24px 24px 0 0;
+  width: 100%; max-width: 560px; padding: 28px 24px 44px; max-height: 80dvh; overflow-y: auto }
+.sheet h3 { font-family: 'Playfair Display', serif; font-size: 28px; font-weight: 400; margin-bottom: 8px }
+.sheet p { font-size: 13px; color: var(--ink2); line-height: 1.6; margin-bottom: 16px }
+.sheet textarea { width: 100%; min-height: 130px; border: 1.5px solid var(--line);
+  border-radius: 12px; padding: 12px; font: inherit; resize: vertical; background: var(--cream); font-size: 13px }
+.sheet input[type=file] { font-size: 13px; margin-top: 10px; color: var(--ink2) }
+.sheet input[type=text] { width: 100%; border: 1.5px solid var(--line); border-radius: 12px;
+  padding: 12px; font: inherit; background: var(--cream); font-size: 14px }
+.sheet-row { display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px }
+.btn-ghost { border: 1.5px solid var(--line); border-radius: 999px; padding: 10px 22px;
+  background: none; cursor: pointer; font: inherit; font-size: 13px }
+.btn-solid { border: none; border-radius: 999px; padding: 11px 26px;
+  background: var(--ink); color: var(--white); font: inherit; cursor: pointer; font-size: 13px }
+.mut { font-size: 12px; color: var(--ink2); margin-top: 8px }
+
+/* hidden YT player */
+#yt-host { position: fixed; left: -9999px; top: -9999px; width: 1px; height: 1px; opacity: 0; pointer-events: none }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<div class="nav">
+  <button id="btn-listened">Ascoltati</button>
+  <div class="logo">DIG<b>MORE</b></div>
+  <button id="btn-settings">Engine</button>
+</div>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-circle" id="hero-circle"></div>
+  <img class="hero-cover" id="hero-cover" alt="">
+
+  <div class="profile-headline" id="profile-headline"><em>scegli un profilo</em></div>
+  <div class="now-title" id="now-title"></div>
+  <div class="now-artist" id="now-artist"></div>
+
+  <div class="tag-row" id="tag-row"></div>
+</div>
+
+<!-- PROFILE SELECTOR -->
+<div class="profile-label">Profilo</div>
+<div class="profile-row" id="profile-row"></div>
+
+<div class="divider"></div>
+
+<!-- STATUS -->
+<div class="status-row" id="status-row"></div>
+<div class="progress"><i id="prog-i"></i></div>
+
+<!-- PLAYLIST -->
+<div class="list" id="list"></div>
+
+<!-- BOTTOM BAR -->
+<div class="bar">
+  <button id="stop-btn">■ &nbsp;Ferma</button>
+  <button id="gen" disabled>
+    <span>Genera playlist</span>
+    <span class="chevron">↵</span>
+  </button>
+</div>
+
+<!-- MODALS -->
+<div class="ov" id="ov-listened">
+  <div class="sheet">
+    <h3>Già ascoltati</h3>
+    <p>Incolla brani sentiti anche fuori dall'app — <code>artista, titolo</code> per riga,
+       oppure carica un export Spotify CSV. Saranno esclusi da ogni generazione.</p>
+    <textarea id="listened-text" placeholder="Marvin Gaye, Inner City Blues&#10;Roy Ayers - We Live In Brooklyn Baby"></textarea>
+    <input type="file" id="listened-file" accept=".csv,.txt">
+    <div class="mut" id="listened-stats"></div>
+    <div class="sheet-row">
+      <button class="btn-ghost" data-close>Chiudi</button>
+      <button class="btn-solid" id="listened-save">Importa</button>
+    </div>
+  </div>
+</div>
+
+<div class="ov" id="ov-settings">
+  <div class="sheet">
+    <h3>Indirizzo engine</h3>
+    <p>URL del tuo Hugging Face Space. Lascia vuoto per usare il backend locale.</p>
+    <input type="text" id="engine-url" placeholder="https://tuo-space.hf.space">
+    <div class="sheet-row">
+      <button class="btn-ghost" data-close>Chiudi</button>
+      <button class="btn-solid" id="engine-save">Salva</button>
+    </div>
+  </div>
+</div>
+
+<!-- hidden YT -->
+<div id="yt-host"><div id="yt-player"></div></div>
+<script src="https://www.youtube.com/iframe_api" async></script>
+<script src="app.js?v=3"></script>
+</body>
+</html>
