@@ -6,6 +6,7 @@ Score: CLAP cosine vs profile embedding, no hard gate.
 Sort by vibe descending, return top N.
 """
 import json
+import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
@@ -57,7 +58,10 @@ def _clap_sim(profile_emb: np.ndarray, cand_clap) -> float:
     return float(np.clip(np.dot(profile_emb, cand), 0.0, 1.0))
 
 
-def _evaluate(cand: dict, profile_emb: np.ndarray) -> dict | None:
+_EVAL_TIMEOUT = 50   # hard per-candidate wall-clock budget (seconds)
+
+
+def _evaluate_inner(cand: dict, profile_emb: np.ndarray) -> dict | None:
     """Discogs candidate → find on YouTube → CLAP score. None on failure."""
     yt = yt_hunter.search_yt_for_track(cand["artist"], cand["title"])
     if not yt:
@@ -87,6 +91,34 @@ def _evaluate(cand: dict, profile_emb: np.ndarray) -> dict | None:
         "clap":          round(float(sim), 3),
         "vibe":          vibe_pct(sim),
     }
+
+
+def _evaluate(cand: dict, profile_emb: np.ndarray) -> dict | None:
+    """_evaluate_inner with a hard wall-clock timeout.
+
+    search_yt_for_track can hang on HF datacenter IPs when YouTube returns
+    a bot-check page that yt-dlp tries to parse indefinitely despite
+    socket_timeout. We wrap the whole call in a daemon thread so stuck
+    workers don't freeze the pool forever.
+    """
+    result: list = []
+    exc: list = []
+
+    def _run():
+        try:
+            result.append(_evaluate_inner(cand, profile_emb))
+        except Exception as e:
+            exc.append(e)
+
+    t = threading.Thread(target=_run, daemon=True)
+    t.start()
+    t.join(timeout=_EVAL_TIMEOUT)
+    if t.is_alive():
+        raise TimeoutError(
+            f"timeout ({_EVAL_TIMEOUT}s): {cand['artist']} – {cand['title']}")
+    if exc:
+        raise exc[0]
+    return result[0] if result else None
 
 
 def run(job: dict, profile: str, profile_emb: np.ndarray,
