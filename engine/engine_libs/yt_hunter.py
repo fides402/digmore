@@ -67,26 +67,54 @@ def _resolve_cookiefile():
 _COOKIEFILE = _resolve_cookiefile()
 
 
-# YouTube blocks the default `web` client's innertube API from datacenter IPs
-# (Read-timeout on search, SSL UNEXPECTED_EOF on download). The tv / ios / mweb
-# clients hit different endpoints that survive the block. Override per env if
-# YouTube shifts again.
+_COOKIES_HARDPATH = Path(r"C:\Users\User\Downloads\sre\digmore\yt_cookies.txt")
+
+def _get_cookiefile():
+    """Return cookie file path: env var → hardcoded fallback."""
+    if _COOKIEFILE:
+        return _COOKIEFILE
+    rt = _resolve_cookiefile()
+    if rt:
+        return rt
+    if _COOKIES_HARDPATH.is_file():
+        print(f"[yt_hunter] cookie: {_COOKIES_HARDPATH}", flush=True)
+        return str(_COOKIES_HARDPATH)
+    print(f"[yt_hunter] NESSUN cookie trovato!", flush=True)
+    return None
+
+
+# Player-client override. Locally (residential IP) yt-dlp's DEFAULT client
+# selection returns downloadable non-DRM audio formats — forcing web/tv/ios
+# instead yields DRM-only streams that fail with "This video is DRM protected".
+# So we only override when YT_PLAYER_CLIENTS is *explicitly* set (e.g. on HF,
+# where the default client's innertube is blocked from the datacenter IP).
 _PLAYER_CLIENTS = [
-    c.strip() for c in
-    _os.environ.get("YT_PLAYER_CLIENTS", "tv,ios,mweb,web").split(",")
+    c.strip() for c in _os.environ.get("YT_PLAYER_CLIENTS", "").split(",")
     if c.strip()
 ]
 
 
+_FFMPEG_PATH = r"C:\ffmpeg\ffmpeg-master-latest-win64-gpl\bin\ffmpeg.exe"
+
 def YoutubeDL(opts=None, *args, **kwargs):
-    """yt-dlp wrapper: inject cookies + datacenter-friendly player clients."""
+    """yt-dlp wrapper: inject cookies + Node.js EJS solver + ffmpeg path."""
     opts = dict(opts or {})
-    if _COOKIEFILE and "cookiefile" not in opts and "cookiesfrombrowser" not in opts:
-        opts["cookiefile"] = _COOKIEFILE
-    ea = dict(opts.get("extractor_args") or {})
-    if "youtube" not in ea:
-        ea["youtube"] = {"player_client": _PLAYER_CLIENTS}
-        opts["extractor_args"] = ea
+    cf = _get_cookiefile()
+    if cf and "cookiefile" not in opts and "cookiesfrombrowser" not in opts:
+        opts["cookiefile"] = cf
+    # Node.js + EJS solver da GitHub: risolve le challenge JS di YouTube senza bot-check
+    if "js_runtimes" not in opts:
+        opts["js_runtimes"] = {"node": {}}
+    if "remote_components" not in opts:
+        opts["remote_components"] = ["ejs:github"]
+    if _PLAYER_CLIENTS:
+        ea = dict(opts.get("extractor_args") or {})
+        if "youtube" not in ea:
+            ea["youtube"] = {"player_client": _PLAYER_CLIENTS}
+            opts["extractor_args"] = ea
+    import os
+    if os.path.exists(_FFMPEG_PATH) and "ffmpeg_location" not in opts:
+        opts["ffmpeg_location"] = _FFMPEG_PATH
     return _RealYoutubeDL(opts, *args, **kwargs)
 
 _YT_SEARCH_NS = "yt_search"   # kvcache namespace: "artist::title" → resolved video
@@ -335,6 +363,152 @@ def search_yt_for_track(artist: str, title: str, use_cache: bool = True) -> dict
     return None
 
 
+_EMBED_NS = "yt_embeddable"   # kvcache: video_id → bool
+
+
+_YT_API_KEY = _os.environ.get("YT_API_KEY", "").strip()
+# Region the player runs in — used to honour YouTube region restrictions.
+_PLAYER_REGION = _os.environ.get("YT_REGION", "IT").strip().upper()
+
+
+def _embeddable_via_data_api(video_id: str) -> bool | None:
+    """Authoritative embeddability check via the YouTube Data API.
+
+    status.embeddable is the exact flag the IFrame player honours. Also rejects
+    unprocessed/private videos and ones region-blocked where the player runs.
+    Returns None if the API can't answer (so caller can fall back).
+    """
+    import json
+    import urllib.request
+    import urllib.error
+    url = ("https://www.googleapis.com/youtube/v3/videos"
+           f"?part=status,contentDetails&id={video_id}&key={_YT_API_KEY}")
+    try:
+        with urllib.request.urlopen(url, timeout=10) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError:
+        return None          # quota/key problem → let caller fall back
+    except Exception:
+        return None
+
+    items = data.get("items") or []
+    if not items:
+        return False         # removed / private / nonexistent
+    it = items[0]
+    st = it.get("status", {}) or {}
+    if not st.get("embeddable", False):
+        return False         # owner disabled embedding → player error 150
+    if st.get("uploadStatus") != "processed":
+        return False         # still processing / rejected
+    if st.get("privacyStatus") not in ("public", "unlisted"):
+        return False
+
+    rr = (it.get("contentDetails", {}) or {}).get("regionRestriction", {}) or {}
+    blocked = rr.get("blocked")
+    allowed = rr.get("allowed")
+    if blocked and _PLAYER_REGION in blocked:
+        return False
+    if allowed is not None and _PLAYER_REGION not in allowed:
+        return False
+    return True
+
+
+def _embeddable_via_embed_page(video_id: str) -> bool | None:
+    """Ground-truth check: fetch the actual embed page and parse playabilityStatus.
+
+    This is exactly what the IFrame player does internally. Catches Content ID
+    restrictions that status.embeddable and oEmbed both miss.
+    Returns None on network errors so the caller can fall back.
+    """
+    import json
+    import re
+    import urllib.request
+    url = f"https://www.youtube.com/embed/{video_id}?hl=en"
+    try:
+        req = urllib.request.Request(
+            url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        with urllib.request.urlopen(req, timeout=12) as resp:
+            html = resp.read().decode("utf-8", errors="ignore")
+    except Exception:
+        return None   # network error → caller falls back
+
+    idx = html.find('ytInitialPlayerResponse')
+    if idx == -1:
+        return None
+    idx = html.find('{', idx)
+    if idx == -1:
+        return None
+    depth = 0
+    data = None
+    for i, c in enumerate(html[idx:], idx):
+        if c == '{':
+            depth += 1
+        elif c == '}':
+            depth -= 1
+            if depth == 0:
+                try:
+                    data = json.loads(html[idx:i + 1])
+                except Exception:
+                    return None
+                break
+    if data is None:
+        return None
+
+    ps = data.get("playabilityStatus") or {}
+    status = ps.get("status", "")
+    # Solo OK è garantito nell'IFrame senza login
+    if status == "OK":
+        return True
+    # CONTENT_CHECK_REQUIRED, AGE_VERIFICATION_REQUIRED, LOGIN_REQUIRED → non funziona nell'IFrame
+    return False
+
+
+def _embeddable_via_oembed(video_id: str) -> bool:
+    """Last-resort check via YouTube's oEmbed endpoint (no API key).
+
+    200 = embeddable+available; 401/403 = embedding disabled; 404 = unavailable.
+    Note: oEmbed misses Content ID restrictions, use embed-page check first.
+    """
+    import urllib.request
+    import urllib.error
+    url = ("https://www.youtube.com/oembed?format=json&url="
+           + urllib.parse.quote(
+               f"https://www.youtube.com/watch?v={video_id}", safe=""))
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            return resp.status == 200
+    except urllib.error.HTTPError:
+        return False
+    except Exception:
+        return False  # errore di rete → scarta, meglio un falso negativo che un falso positivo
+
+
+def is_embeddable(video_id: str, use_cache: bool = True) -> bool:
+    """True if the video can actually play in an off-site IFrame embed.
+
+    Chain: embed-page parse (ground truth) → Data API (fast, misses Content ID)
+    → oEmbed (last resort). Cached per video_id.
+    """
+    if use_cache:
+        hit = kvcache.get(_EMBED_NS, video_id)
+        if hit is not None:
+            return bool(hit)
+
+    # Primary: parse the actual embed page — same check the IFrame player does.
+    ok = _embeddable_via_embed_page(video_id)
+    # Fallback 1: Data API (fast but misses Content ID restrictions)
+    if ok is None and _YT_API_KEY:
+        ok = _embeddable_via_data_api(video_id)
+    # Fallback 2: oEmbed (least reliable but requires no key)
+    if ok is None:
+        ok = _embeddable_via_oembed(video_id)
+
+    if use_cache:
+        kvcache.put(_EMBED_NS, video_id, ok)
+    return ok
+
+
 def download_snippet(video_id: str, start: int = 40, dur: int = 30) -> str:
     """Download a short snippet of a video as mp3; return the file path.
 
@@ -344,12 +518,24 @@ def download_snippet(video_id: str, start: int = 40, dur: int = 30) -> str:
     """
     out_base = SNIPPET_DIR / video_id
     target = out_base.with_suffix(".mp3")
-    if target.exists():
+
+    # Rimuovi file parziali/corrotti lasciati da interruzioni (es. riavvio PC)
+    for stale in SNIPPET_DIR.glob(f"{video_id}.*"):
+        if stale.suffix in (".part", ".ytdl") or (stale != target and stale.stat().st_size == 0):
+            try:
+                stale.unlink()
+            except OSError:
+                pass
+
+    if target.exists() and target.stat().st_size > 0:
         return str(target)
 
     opts = {
         "quiet": True, "no_warnings": True,
-        "format": "bestaudio/best",
+        # Prefer the classic progressive/DASH audio itags (140 m4a, 251 opus,
+        # 139 m4a-low). "bestaudio" alone can resolve to a DRM/SABR stream that
+        # fails with "This video is DRM protected" even on non-DRM videos.
+        "format": "140/251/139/bestaudio[has_drm=0]/bestaudio/best",
         "outtmpl": str(out_base) + ".%(ext)s",
         "download_ranges": download_range_func(None, [(start, start + dur)]),
         "force_keyframes_at_cuts": True,

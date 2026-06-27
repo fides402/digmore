@@ -6,7 +6,29 @@
 <title>DIGMORE</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500&display=swap" rel="stylesheet">
+<style>
+@font-face {
+  font-family: 'Relaxe';
+  src: url('Relaxe.woff2') format('woff2'), url('Relaxe.woff') format('woff'), url('Relaxe.otf') format('opentype');
+  font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'JRK';
+  src: url('JRK.otf') format('opentype');
+  font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Roketto';
+  src: url('Roketto.ttf') format('truetype');
+  font-weight: normal; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'GCGodthem';
+  src: url('GCGodthem-Bold.otf') format('opentype');
+  font-weight: bold; font-style: normal; font-display: swap;
+}
+</style>
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0 }
 
@@ -21,7 +43,7 @@
 }
 
 html { background: var(--cream); color: var(--ink); -webkit-font-smoothing: antialiased }
-body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14px; padding-bottom: 80px; min-height: 100dvh }
+body { font-family: 'Plus Jakarta Sans', ui-rounded, system-ui, sans-serif; font-size: 14px; padding-bottom: 140px; min-height: 100dvh }
 
 /* NAV */
 .nav {
@@ -30,8 +52,8 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 }
 .nav button { background: none; border: none; cursor: pointer; font: inherit; font-size: 13px; color: var(--ink2) }
 .nav button:hover { color: var(--ink) }
-.nav .logo { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 400; letter-spacing: .05em }
-.nav .logo b { color: var(--orange) }
+.nav .logo { font-family: 'GCGodthem', 'Plus Jakarta Sans', sans-serif; font-size: 22px; font-weight: bold; letter-spacing: .02em; text-transform: uppercase; color: #000 }
+.nav .logo b { color: #000 }
 
 /* HERO AREA */
 .hero {
@@ -39,7 +61,6 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
   display: flex; flex-direction: column; align-items: flex-start;
 }
 
-/* big orange circle — empty state / loading state */
 .hero-circle {
   width: min(72vw, 320px); height: min(72vw, 320px);
   background: var(--orange);
@@ -50,7 +71,6 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 }
 .hero-circle.hidden { transform: scale(.4); opacity: 0; pointer-events: none; position: absolute }
 
-/* now-playing cover replaces circle */
 .hero-cover {
   width: min(72vw, 320px); height: min(72vw, 320px);
   border-radius: 20px; object-fit: cover; background: var(--line);
@@ -61,9 +81,8 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 }
 .hero-cover.visible { display: block }
 
-/* PROFILE NAME — giant editorial */
 .profile-headline {
-  font-family: 'Playfair Display', Georgia, serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: clamp(40px, 12vw, 72px);
   font-weight: 400; line-height: 1.0;
   letter-spacing: -.01em;
@@ -72,9 +91,8 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 }
 .profile-headline em { font-style: italic; color: var(--ink2) }
 
-/* track title when playing */
 .now-title {
-  font-family: 'Playfair Display', Georgia, serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: clamp(28px, 7vw, 48px);
   font-weight: 400; line-height: 1.05;
   margin-bottom: 4px;
@@ -82,12 +100,10 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 }
 .now-artist { font-size: 13px; color: var(--ink2); margin-bottom: 16px; display: none }
 
-/* tag row */
 .tag-row { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 28px }
 .tag { border: 1.5px solid var(--line); border-radius: 999px; padding: 6px 14px; font-size: 12px; color: var(--ink2) }
 .tag.hot { border-color: var(--orange); color: var(--orange) }
 
-/* profile chips row */
 .profile-label { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink2); padding: 0 24px; margin-bottom: 10px }
 .profile-row { display: flex; gap: 8px; padding: 0 24px; flex-wrap: wrap; margin-bottom: 32px }
 .pcap { border: 1.5px solid var(--line); border-radius: 999px; padding: 9px 18px;
@@ -100,13 +116,33 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 .pip { width: 6px; height: 6px; border-radius: 50%; background: var(--line); flex: none; transition: .15s }
 .pcap:hover .pip { background: var(--ink2) }
 
-/* divider */
 .divider { height: 1px; background: var(--line); margin: 0 24px 0 }
 
-/* STATUS */
 .status-row { padding: 12px 24px 0; font-size: 13px; color: var(--ink2); min-height: 36px }
+.taste-box { margin-top: 20px; padding-top: 18px; border-top: 1px solid var(--line, rgba(0,0,0,.1)) }
+.taste-head { display: flex; align-items: center; justify-content: space-between; gap: 12px }
+.taste-title { font-size: 15px; font-weight: 600 }
+.taste-sub { font-size: 12px; color: var(--ink2); margin-top: 3px; max-width: 320px }
+.taste-reset { margin-top: 12px; font-size: 12px }
+.switch { position: relative; display: inline-block; width: 44px; height: 24px; flex: none }
+.switch input { opacity: 0; width: 0; height: 0 }
+.switch .slider { position: absolute; inset: 0; background: rgba(0,0,0,.18); border-radius: 24px; transition: .2s; cursor: pointer }
+.switch .slider:before { content: ""; position: absolute; height: 18px; width: 18px; left: 3px; top: 3px; background: #fff; border-radius: 50%; transition: .2s }
+.switch input:checked + .slider { background: var(--orange) }
+.switch input:checked + .slider:before { transform: translateX(20px) }
 .progress { height: 2px; background: var(--line); margin: 8px 24px 0 }
 .progress i { display: block; height: 100%; width: 0; background: var(--orange); transition: width .5s }
+
+/* SAVE ROW */
+#save-row { display: none; align-items: center; justify-content: flex-end; padding: 14px 24px 4px; }
+#save-row.on { display: flex; }
+#btn-save { border: none; border-radius: 999px; padding: 10px 22px;
+  background: var(--ink); cursor: pointer; font: inherit; font-size: 13px; color: var(--white);
+  display: flex; align-items: center; gap: 8px;
+  transition: opacity .15s, background .15s; }
+#btn-save:hover { opacity: .85; }
+#btn-save svg { display: block; width: 15px; height: 15px; }
+#btn-save.saved { background: var(--orange); }
 
 /* PLAYLIST */
 .list { padding: 6px 0 }
@@ -119,12 +155,14 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 .track-row:hover, .track-row.playing { background: var(--white) }
 .tcover { width: 56px; height: 56px; border-radius: 12px; object-fit: cover; background: var(--line); flex: none }
 .tmeta { flex: 1; min-width: 0 }
-.ttitle { font-family: 'Playfair Display', serif; font-size: 17px; font-weight: 400;
+.ttitle { font-family: 'Plus Jakarta Sans', serif; font-size: 17px; font-weight: 400;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 1.2 }
 .tartist { font-size: 12px; color: var(--ink2); margin-top: 2px;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis }
 .tright { text-align: right; flex: none }
 .tvibe { font-size: 13px; font-weight: 500; color: var(--orange) }
+.bo-del { background: none; border: none; color: var(--ink2); font-size: 12px; cursor: pointer; padding: 4px 6px; border-radius: 4px; line-height: 1; margin-left: 4px; opacity: 0.5; transition: opacity .15s, color .15s }
+.bo-del:hover { opacity: 1; color: #c0392b }
 .tyear { font-size: 11px; color: var(--ink2); margin-top: 2px }
 .tidx { width: 22px; font-size: 12px; color: var(--ink2); text-align: right; flex: none }
 
@@ -138,7 +176,7 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
   display: flex; align-items: center; justify-content: space-between;
   width: 100%; padding: 18px 24px 20px;
   background: var(--orange); color: var(--orange-fg); border: none; cursor: pointer;
-  font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 400;
+  font-family: 'Plus Jakarta Sans', serif; font-size: 18px; font-weight: 400;
   letter-spacing: .01em; transition: opacity .15s;
 }
 #gen:disabled { opacity: .45; cursor: default }
@@ -155,7 +193,7 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 .ov.on { display: flex }
 .sheet { background: var(--white); border-radius: 24px 24px 0 0;
   width: 100%; max-width: 560px; padding: 28px 24px 44px; max-height: 80dvh; overflow-y: auto }
-.sheet h3 { font-family: 'Playfair Display', serif; font-size: 28px; font-weight: 400; margin-bottom: 8px }
+.sheet h3 { font-family: 'Plus Jakarta Sans', serif; font-size: 28px; font-weight: 400; margin-bottom: 8px }
 .sheet p { font-size: 13px; color: var(--ink2); line-height: 1.6; margin-bottom: 16px }
 .sheet textarea { width: 100%; min-height: 130px; border: 1.5px solid var(--line);
   border-radius: 12px; padding: 12px; font: inherit; resize: vertical; background: var(--cream); font-size: 13px }
@@ -169,16 +207,83 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
   background: var(--ink); color: var(--white); font: inherit; cursor: pointer; font-size: 13px }
 .mut { font-size: 12px; color: var(--ink2); margin-top: 8px }
 
-/* hidden YT player */
-#yt-host { position: fixed; left: -9999px; top: -9999px; width: 1px; height: 1px; opacity: 0; pointer-events: none }
+/* LIBRARY */
+.pl-row { display: flex; align-items: center; gap: 12px; padding: 14px 0;
+  border-bottom: 1px solid var(--line); }
+.pl-row:last-child { border-bottom: none; }
+.pl-meta { flex: 1; min-width: 0; cursor: pointer; }
+.pl-name { font-family: 'Plus Jakarta Sans', serif; font-size: 17px; font-weight: 400;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pl-sub { font-size: 12px; color: var(--ink2); margin-top: 3px; }
+.pl-del { background: none; border: none; cursor: pointer; color: var(--ink2); padding: 8px;
+  border-radius: 8px; display: flex; align-items: center; flex: none;
+  transition: background .12s, color .12s; }
+.pl-del:hover { background: var(--line); color: var(--orange); }
+.lib-sep { font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--ink2); margin: 24px 0 10px; }
+
+
+/* PLAYER BAR */
+#player-bar {
+  display: none; flex-direction: column;
+  border-bottom: 1px solid var(--line);
+}
+#player-bar.on { display: flex }
+.pb-progress { height: 3px; background: var(--line); cursor: pointer }
+.pb-progress-inner { height: 100%; width: 0; background: var(--orange); transition: width .8s linear; pointer-events: none }
+.pb-body {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 16px 10px;
+}
+#pb-cover { width: 44px; height: 44px; border-radius: 8px; object-fit: cover; background: var(--line); flex: none }
+.pb-info { flex: 1; min-width: 0 }
+#pb-title { font-family: "Playfair Display", serif; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis }
+#pb-artist { font-size: 11px; color: var(--ink2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 1px }
+.pb-controls { display: flex; align-items: center; gap: 2px; flex: none }
+.pb-btn { background: none; border: none; cursor: pointer; color: var(--ink); padding: 8px; border-radius: 8px; line-height: 0; transition: background .12s, color .12s; display: flex; align-items: center; justify-content: center }
+.pb-btn:hover { background: var(--line) }
+.pb-btn svg { display: block; width: 18px; height: 18px }
+#pb-play svg { width: 22px; height: 22px }
+#pb-repeat svg { width: 17px; height: 17px }
+#pb-repeat.active { color: var(--orange) }
+#pb-copy { background: none; border: none; cursor: pointer; color: var(--ink2); padding: 8px; border-radius: 8px; line-height: 1; transition: background .12s, color .12s; flex: none; display: flex; align-items: center }
+#pb-copy:hover { background: var(--line); color: var(--ink) }
+#pb-copy.copied { color: var(--orange) }
+#pb-copy svg { display: block }
+
+/* VOLUME — desktop only */
+.pb-vol {
+  display: none;
+  align-items: center; gap: 8px;
+  padding: 0 4px 0 8px;
+  border-left: 1px solid var(--line);
+  margin-left: 4px;
+}
+@media (min-width: 600px) { .pb-vol { display: flex } }
+#pb-volume {
+  -webkit-appearance: none; appearance: none;
+  width: 80px; height: 3px;
+  background: var(--line); border-radius: 99px; outline: none; cursor: pointer;
+}
+#pb-volume::-webkit-slider-thumb {
+  -webkit-appearance: none; appearance: none;
+  width: 12px; height: 12px; border-radius: 50%;
+  background: var(--ink); cursor: pointer;
+  transition: background .15s;
+}
+#pb-volume::-webkit-slider-thumb:hover { background: var(--orange) }
+#pb-volume::-moz-range-thumb {
+  width: 12px; height: 12px; border-radius: 50%; border: none;
+  background: var(--ink); cursor: pointer;
+}
 </style>
 </head>
 <body>
 
 <!-- NAV -->
 <div class="nav">
-  <button id="btn-listened">Ascoltati</button>
-  <div class="logo">DIG<b>MORE</b></div>
+  <button id="btn-library">Libreria</button>
+  <div class="logo">DIG<b>MORE</b> <span id="ver" style="font-size:9px;color:var(--ink2);font-family:'Plus Jakarta Sans',sans-serif;letter-spacing:0;vertical-align:middle"></span></div>
   <button id="btn-settings">Engine</button>
 </div>
 
@@ -204,11 +309,53 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 <div class="status-row" id="status-row"></div>
 <div class="progress"><i id="prog-i"></i></div>
 
+<!-- SAVE ROW -->
+<div id="save-row">
+  <button id="btn-save">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg>
+    <span>Salva playlist</span>
+  </button>
+</div>
+
 <!-- PLAYLIST -->
 <div class="list" id="list"></div>
 
 <!-- BOTTOM BAR -->
 <div class="bar">
+  <div id="player-bar">
+    <div class="pb-progress" id="pb-progress"><div class="pb-progress-inner" id="pb-prog-inner"></div></div>
+    <div class="pb-body">
+      <img id="pb-cover" alt="">
+      <div class="pb-info">
+        <div id="pb-title"></div>
+        <div id="pb-artist"></div>
+      </div>
+      <button id="pb-copy" title="Copia artista – titolo">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="5" y="1" width="9" height="11" rx="1.5"/>
+          <path d="M3 4H2a1 1 0 0 0-1 1v9a1.5 1.5 0 0 0 1.5 1.5h7A1 1 0 0 0 11 14v-1"/>
+        </svg>
+      </button>
+      <div class="pb-controls">
+        <button class="pb-btn" id="pb-prev" title="Precedente">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 6a1 1 0 0 1 2 0v4.5l8.5-5A1 1 0 0 1 19 6.5v11a1 1 0 0 1-1.5.86L9 13.5V18a1 1 0 0 1-2 0V6z"/></svg>
+        </button>
+        <button class="pb-btn" id="pb-play" title="Play/Pausa">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5a1 1 0 0 1 1.54-.84l10 6.5a1 1 0 0 1 0 1.68l-10 6.5A1 1 0 0 1 8 18.5v-13z"/></svg>
+        </button>
+        <button class="pb-btn" id="pb-next" title="Successivo">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17 6a1 1 0 0 0-2 0v4.5l-8.5-5A1 1 0 0 0 5 6.5v11a1 1 0 0 0 1.5.86L15 13.5V18a1 1 0 0 0 2 0V6z"/></svg>
+        </button>
+        <button class="pb-btn" id="pb-repeat" title="Ripeti">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
+        </button>
+      </div>
+      <div class="pb-vol" id="pb-vol">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="flex:none;opacity:.5"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 7.97v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg>
+        <input type="range" id="pb-volume" min="0" max="100" value="100" step="1">
+      </div>
+    </div>
+  </div>
   <button id="stop-btn">■ &nbsp;Ferma</button>
   <button id="gen" disabled>
     <span>Genera playlist</span>
@@ -216,11 +363,14 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
   </button>
 </div>
 
-<!-- MODALS -->
-<div class="ov" id="ov-listened">
+<!-- MODAL: LIBRERIA -->
+<div class="ov" id="ov-library">
   <div class="sheet">
-    <h3>Già ascoltati</h3>
-    <p>Incolla brani sentiti anche fuori dall'app — <code>artista, titolo</code> per riga,
+    <h3>Libreria</h3>
+    <div id="library-list"></div>
+
+    <div class="lib-sep">Già ascoltati</div>
+    <p>Incolla brani sentiti fuori dall'app — <code>artista, titolo</code> per riga,
        oppure carica un export Spotify CSV. Saranno esclusi da ogni generazione.</p>
     <textarea id="listened-text" placeholder="Marvin Gaye, Inner City Blues&#10;Roy Ayers - We Live In Brooklyn Baby"></textarea>
     <input type="file" id="listened-file" accept=".csv,.txt">
@@ -235,8 +385,20 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
 <div class="ov" id="ov-settings">
   <div class="sheet">
     <h3>Indirizzo engine</h3>
-    <p>URL del tuo Hugging Face Space. Lascia vuoto per usare il backend locale.</p>
+    <p>URL del backend. Lascia vuoto per usare il backend locale.</p>
     <input type="text" id="engine-url" placeholder="https://tuo-space.hf.space">
+
+    <div class="taste-box">
+      <div class="taste-head">
+        <div>
+          <div class="taste-title">🎧 Profilo d'ascolto</div>
+          <div class="taste-sub" id="taste-sub">Affina le generazioni in base a cosa ascolti davvero.</div>
+        </div>
+        <label class="switch"><input type="checkbox" id="taste-toggle"><span class="slider"></span></label>
+      </div>
+      <button class="btn-ghost taste-reset" id="taste-reset">Azzera memoria d'ascolto</button>
+    </div>
+
     <div class="sheet-row">
       <button class="btn-ghost" data-close>Chiudi</button>
       <button class="btn-solid" id="engine-save">Salva</button>
@@ -244,15 +406,39 @@ body { font-family: 'DM Sans', ui-rounded, system-ui, sans-serif; font-size: 14p
   </div>
 </div>
 
-<!-- hidden YT -->
-<div id="yt-host"><div id="yt-player"></div></div>
+<!-- MODAL: SALVA NOME PLAYLIST -->
+<div class="ov" id="ov-save">
+  <div class="sheet">
+    <h3>Salva playlist</h3>
+    <p>Dai un nome per ritrovarla in libreria.</p>
+    <input type="text" id="save-name" placeholder="es. Relax Jazz giugno">
+    <div class="sheet-row">
+      <button class="btn-ghost" data-close>Annulla</button>
+      <button class="btn-solid" id="save-confirm">Salva</button>
+    </div>
+  </div>
+</div>
+
 <script>
-  // Default engine URL — overridden by localStorage if the user sets a custom one
   if (!localStorage.getItem('digmore_engine')) {
-    window.DIGMORE_ENGINE = 'https://dsa222ffd-digmore-engine.hf.space';
+    window.DIGMORE_ENGINE = '';
+  }
+  // Service Worker was causing stale cached code on mobile. Kill it outright:
+  // unregister any existing SW and wipe its caches so the phone always loads
+  // fresh code straight from the network. (Saved playlists live in
+  // localStorage, so offline library browsing is unaffected.)
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistrations().then(rs => {
+      let had = false;
+      rs.forEach(r => { had = true; r.unregister(); });
+      if (window.caches && caches.keys) caches.keys().then(ks => ks.forEach(k => caches.delete(k)));
+      if (had) setTimeout(() => location.reload(), 300); // one reload to drop stale shell
+    }).catch(() => {});
   }
 </script>
-<script src="https://www.youtube.com/iframe_api" async></script>
-<script src="app.js?v=5"></script>
+<div id="_yt_audio_player" style="position:fixed;width:1px;height:1px;opacity:0;pointer-events:none;bottom:0;left:0"></div>
+<script>function onYouTubeIframeAPIReady(){ if(window._ytAudioInit) window._ytAudioInit(); }</script>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="app.js?v=44"></script>
 </body>
 </html>

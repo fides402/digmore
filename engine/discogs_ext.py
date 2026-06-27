@@ -32,11 +32,49 @@ _EXCLUDED_COUNTRIES = frozenset({
     "India", "IN", "China", "CN", "People's Republic of China",
 })
 
-# macrogenre id -> Discogs search params
+# macrogenre id -> family of Discogs (genre, style) search combos.
+# Each combo opens a distinct pool of releases, so unioning several greatly
+# enlarges the reachable catalogue (vital once seen_releases grows large) and
+# naturally mixes nationalities (bossa→Brazil, library→Italy/Germany, latin→…).
+# "exclude_styles": styles to drop post-fetch (the search API has no negative
+# filter, so we reject releases whose style list intersects).
+#
+# The profiles are intentionally NOT pure: a "jazz" search also pulls jazz-funk,
+# bossa, soul-jazz, fusion…; "soul" pulls funk, R&B, gospel, soul-jazz (never
+# Disco); "ost" pulls soundtrack/score/theme plus cinematic library music.
 GENRE_MAP: dict[str, dict] = {
-    "soul": {"genre": "Funk / Soul"},
-    "jazz": {"genre": "Jazz"},
-    "ost":  {"genre": "Stage & Screen", "style": "Soundtrack"},
+    "soul": {
+        "searches": [
+            {"genre": "Funk / Soul"},
+            {"genre": "Funk / Soul", "style": "Soul"},
+            {"genre": "Funk / Soul", "style": "Funk"},
+            {"genre": "Funk / Soul", "style": "Rhythm & Blues"},
+            {"genre": "Jazz", "style": "Soul-Jazz"},
+        ],
+        "exclude_styles": {"Disco", "Gospel"},
+    },
+    "jazz": {
+        "searches": [
+            {"genre": "Jazz"},
+            {"genre": "Jazz", "style": "Bossa Nova"},
+            {"genre": "Jazz", "style": "Jazz-Funk"},
+            {"genre": "Jazz", "style": "Fusion"},
+            {"genre": "Jazz", "style": "Soul-Jazz"},
+            {"genre": "Jazz", "style": "Modal"},
+            {"genre": "Jazz", "style": "Latin Jazz"},
+            {"genre": "Jazz", "style": "Cool Jazz"},
+        ],
+    },
+    "ost": {
+        "searches": [
+            {"genre": "Stage & Screen", "style": "Soundtrack"},
+            {"genre": "Stage & Screen", "style": "Score"},
+            {"genre": "Stage & Screen", "style": "Theme"},
+            {"genre": "Jazz", "style": "Library Music"},
+            {"genre": "Funk / Soul", "style": "Library Music"},
+            {"genre": "Electronic", "style": "Library Music"},
+        ],
+    },
 }
 
 
@@ -101,16 +139,40 @@ def build_candidates(
     candidates: shuffled [{artist,title,release_title,year,label,country,
     discogs_id,rating_avg,rating_count,cover_image}].
     """
-    params = GENRE_MAP.get(profile, {"genre": ""})
-    releases = dh.search_releases(
-        genre=params.get("genre", ""),
-        style=params.get("style", ""),
-        year_from=YEAR_FROM,
-        year_to=YEAR_TO,
-        max_have=max_have,
-        n=n_releases,
-        exclude_ids=exclude_ids,
-    )
+    cfg = GENRE_MAP.get(profile, {"searches": [{"genre": ""}]})
+    exclude_styles = {s.lower() for s in cfg.get("exclude_styles", set())}
+    searches = cfg.get("searches") or [{"genre": cfg.get("genre", ""),
+                                        "style": cfg.get("style", "")}]
+
+    # Pick a random handful of (genre, style) combos this round so different
+    # scenes/nationalities surface and the reachable pool stays large despite
+    # accumulating exclusions. Each combo opens its own catalogue slice.
+    k = min(3, len(searches))
+    chosen_searches = random.sample(searches, k)
+    per_search = max(1, -(-n_releases // k))   # ceil division
+
+    releases = []
+    seen_rel_ids = set()
+    for s in chosen_searches:
+        try:
+            batch = dh.search_releases(
+                genre=s.get("genre", ""),
+                style=s.get("style", ""),
+                year_from=YEAR_FROM,
+                year_to=YEAR_TO,
+                max_have=max_have,
+                n=per_search,
+                exclude_ids=exclude_ids,
+            )
+        except Exception:
+            continue
+        for r in batch:
+            rid = r.get("id")
+            if rid not in seen_rel_ids:
+                seen_rel_ids.add(rid)
+                releases.append(r)
+    random.shuffle(releases)
+    releases = releases[:n_releases]
 
     diag = {
         "releases_found": len(releases),
@@ -129,6 +191,13 @@ def build_candidates(
             if rel_country in _EXCLUDED_COUNTRIES:
                 diag["country_rejected"] += 1
                 continue
+
+            # style exclusion (e.g. drop Disco from the soul profile)
+            if exclude_styles:
+                rel_styles = {s.lower() for s in (rel.get("style") or [])}
+                if rel_styles & exclude_styles:
+                    diag["style_rejected"] = diag.get("style_rejected", 0) + 1
+                    continue
 
             det = get_release_detail(rel["id"])
             votes = det["rating_count"]

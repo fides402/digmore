@@ -1,0 +1,61 @@
+@echo off
+title DIGMORE
+
+:: --- TEMPLATE ---
+:: Copia questo file in "start_digmore.bat" e inserisci i tuoi valori.
+:: start_digmore.bat e' nel .gitignore (contiene segreti) e non va committato.
+
+:: Kill old instances
+for /f "tokens=5" %%a in ('netstat -ano 2^>nul ^| findstr ":8099 "') do (
+    taskkill /PID %%a /F >nul 2>&1
+)
+timeout /t 1 /nobreak >nul
+
+:: Firewall (richiede admin solo la prima volta)
+netsh advfirewall firewall delete rule name="DIGMORE 8099" >nul 2>&1
+netsh advfirewall firewall add rule name="DIGMORE 8099" dir=in action=allow protocol=TCP localport=8099 >nul 2>&1
+
+:: Env — INSERISCI I TUOI TOKEN
+set DISCOGS_TOKEN=IL_TUO_DISCOGS_TOKEN
+set YT_API_KEY=LA_TUA_YOUTUBE_API_KEY
+set YT_REGION=IT
+set DIGMORE_DIR=%~dp0engine
+
+:: Python — adatta il percorso alla tua installazione
+set PYTHON=C:\Users\TUOUTENTE\AppData\Local\Programs\Python\Python313\python.exe
+
+:: Cookie YouTube — esportati con "Get cookies.txt LOCALLY" da Chrome/Edge
+:: Rinnovare il file se YouTube inizia a dare bot-check (di solito durano mesi)
+set YT_COOKIES_FILE=%~dp0yt_cookies.txt
+
+:: Pulizia file .part corrotti (download interrotti al riavvio)
+del /Q "%~dp0engine\engine_libs\.cache\snippets\*.part" >nul 2>&1
+
+:: Assicura ffmpeg visibile al backend (adatta il percorso)
+set PATH=C:\ffmpeg\bin;%PATH%
+
+:: Avvia backend (su tutta la rete)
+start "" /B "%PYTHON%" -m uvicorn app:app --app-dir "%DIGMORE_DIR%" --host 0.0.0.0 --port 8099
+
+:: Aspetta backend pronto
+:wait_backend
+timeout /t 2 /nobreak >nul
+curl -s http://127.0.0.1:8099/api/health >nul 2>&1
+if errorlevel 1 goto wait_backend
+
+:: Link fisso via Tailscale (opzionale, per accesso da cellulare ovunque)
+:: Sostituisci con l'IP Tailscale del tuo PC: tailscale ip -4
+set CELL_IP=100.x.y.z
+set LOCAL_URL=http://%CELL_IP%:8099
+start "" /B "C:\Program Files\Tailscale\tailscale.exe" up --hostname=digmore-pc >nul 2>&1
+curl -s -X POST http://127.0.0.1:8099/api/tunnel -H "Content-Type: application/json" -d "{\"url\":\"%LOCAL_URL%\"}" >nul 2>&1
+
+:: Apri browser
+start "" http://localhost:8099
+
+echo.
+echo  ============================================================
+echo   DIGMORE e' pronto!
+echo   PC:    http://localhost:8099
+echo   Cell:  %LOCAL_URL%
+echo  ============================================================

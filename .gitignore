@@ -7,3 +7,9 @@ engine/_localbuild/
 .DS_Store
 *.log
 HANDOFF.md
+
+# Segreti / specifici della macchina — NON committare
+yt_cookies.txt
+start_digmore.bat
+start_digmore_silent.vbs
+.claude/
