@@ -36,6 +36,217 @@ import digger
 import listened_store
 import discogs_hunter  # for the cover-proxy User-Agent header
 
+_OPENROUTER_KEY = os.environ.get("OPENROUTER_KEY", "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")
+
+# Modelli free — lista di fallback statica, sovrascritta al primo fetch da OR
+_OR_MODELS = [
+    "meta-llama/llama-3.3-70b-instruct:free",
+    "mistralai/mistral-7b-instruct:free",
+    "qwen/qwen3-235b-a22b:free",
+    "deepseek/deepseek-r1:free",
+]
+_or_models_ts: float = 0.0
+_OR_MODELS_TTL = 6 * 3600   # ricarica ogni 6h
+
+
+def _fetch_free_models() -> list[dict]:
+    """Recupera da OpenRouter la lista aggiornata dei modelli free."""
+    import time as _t
+    global _OR_MODELS, _or_models_ts
+    try:
+        r = requests.get(
+            "https://openrouter.ai/api/v1/models",
+            headers={"Authorization": f"Bearer {_OPENROUTER_KEY}"},
+            timeout=15,
+        )
+        r.raise_for_status()
+        all_models = r.json().get("data", [])
+        free = [
+            m for m in all_models
+            if str(m.get("pricing", {}).get("prompt", "1")) == "0"
+            and str(m.get("pricing", {}).get("completion", "1")) == "0"
+            and m.get("id", "").endswith(":free")
+        ]
+        free.sort(key=lambda m: m.get("name", ""))
+        if free:
+            _OR_MODELS = [m["id"] for m in free]
+            _or_models_ts = _t.time()
+            print(f"[OR models] {len(free)} modelli free", flush=True)
+        return free
+    except Exception as e:
+        print(f"[OR models] fetch fallito: {e}", flush=True)
+        return []
+
+
+def _ensure_models_fresh():
+    import time as _t
+    if _t.time() - _or_models_ts > _OR_MODELS_TTL:
+        threading.Thread(target=_fetch_free_models, daemon=True).start()
+
+
+# Carica la lista al boot in background
+threading.Thread(target=_fetch_free_models, daemon=True).start()
+
+# Una sola chiamata OR alla volta — il rate limit è per chiave, non per modello
+_or_sem = threading.Semaphore(1)
+
+def _or_call(messages: list, temperature: float = 0.5, max_tokens: int = 400, models: list | None = None) -> str:
+    """Chiama OpenRouter con fallback tra modelli free e backoff su 429."""
+    import time as _t
+    with _or_sem:
+        for attempt, model in enumerate(models or _OR_MODELS):
+            try:
+                resp = requests.post(
+                    "https://openrouter.ai/api/v1/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {_OPENROUTER_KEY}",
+                        "HTTP-Referer": "http://localhost:8099",
+                        "X-Title": "DIGMORE",
+                        "Content-Type": "application/json",
+                    },
+                    json={"model": model, "messages": messages,
+                          "temperature": temperature, "max_tokens": max_tokens},
+                    timeout=40,
+                )
+                if resp.status_code == 429:
+                    wait = 20 + attempt * 10   # 20s, 30s, 40s, 50s
+                    print(f"[OR] 429 su {model}, aspetto {wait}s", flush=True)
+                    _t.sleep(wait)
+                    continue
+                if resp.status_code in (502, 503):
+                    print(f"[OR] {resp.status_code} su {model}, provo prossimo", flush=True)
+                    _t.sleep(3)
+                    continue
+                resp.raise_for_status()
+                content = resp.json()["choices"][0]["message"]["content"]
+                print(f"[OR] ok {model}", flush=True)
+                return content
+            except Exception as e:
+                print(f"[OR] errore {model}: {e}", flush=True)
+                _t.sleep(3)
+                continue
+    raise RuntimeError("OpenRouter non disponibile — riprova tra qualche minuto")
+
+
+_annot_cache: dict[str, dict] = {}   # video_id → {mood, feel, instruments, scene}
+_annot_lock = threading.Lock()
+
+
+import queue as _queue
+
+_annot_queue: _queue.Queue = _queue.Queue()
+_ANNOT_BATCH = 5       # brani per chiamata LLM
+_ANNOT_INTERVAL = 25   # secondi tra un batch e l'altro (rate-limit friendly)
+
+
+def _annotate_batch(tracks: list):
+    """Annota fino a _ANNOT_BATCH brani in una sola chiamata LLM."""
+    lines = []
+    for i, t in enumerate(tracks):
+        gs = " | ".join(filter(None, [
+            ", ".join(t.get("genres") or []),
+            ", ".join(t.get("styles") or []),
+        ])) or "—"
+        lines.append(
+            f"{i}: {t.get('artist','?')} — {t.get('title','?')} "
+            f"({t.get('year','?')}) [{t.get('label','?')}] [{gs}]"
+        )
+    prompt = (
+        "Analizza questi brani musicali e ritorna SOLO un JSON array "
+        "(nessun testo fuori dal JSON):\n"
+        + "\n".join(lines) + "\n\n"
+        'Formato: [{"i":0,"mood":["tag1","tag2"],"feel":["tag1","tag2"],'
+        '"instruments":["str1","str2"],"scene":"frase evocativa 5-8 parole italiano"},...]\n'
+        "mood=emozione/atmosfera. feel=texture sonora. instruments=strumenti principali. "
+        "2-4 tag per campo. Tutti i brani dell'input."
+    )
+    try:
+        content = _or_call(
+            [{"role": "user", "content": prompt}], temperature=0.3,
+            max_tokens=_ANNOT_BATCH * 120,
+        )
+        m = _re.search(r'\[.*\]', content, _re.DOTALL)
+        if not m:
+            return
+        results = json.loads(m.group())
+        for item in results:
+            idx = item.get("i")
+            if not isinstance(idx, int) or idx >= len(tracks):
+                continue
+            t = tracks[idx]
+            vid = t.get("video_id", "")
+            if not vid:
+                continue
+            tags = {
+                "mood":        item.get("mood", []),
+                "feel":        item.get("feel", []),
+                "instruments": item.get("instruments", []),
+                "scene":       item.get("scene", ""),
+            }
+            with _annot_lock:
+                _annot_cache[vid] = tags
+                t.update(tags)
+            print(f"[annot] {vid} — {tags['scene']}", flush=True)
+    except Exception as e:
+        print(f"[annot batch] fail: {e}", flush=True)
+
+
+def _annot_worker():
+    """Thread unico che drena la coda a batch, con pausa tra un batch e l'altro."""
+    import time as _t
+    while True:
+        batch = []
+        try:
+            batch.append(_annot_queue.get(timeout=10))
+        except _queue.Empty:
+            continue
+        while len(batch) < _ANNOT_BATCH:
+            try:
+                batch.append(_annot_queue.get_nowait())
+            except _queue.Empty:
+                break
+        with _annot_lock:
+            to_do = [t for t in batch if t.get("video_id") not in _annot_cache]
+        if to_do:
+            _annotate_batch(to_do)
+            _t.sleep(_ANNOT_INTERVAL)
+
+
+threading.Thread(target=_annot_worker, daemon=True, name="annot-worker").start()
+
+
+def _prefilter_tracks(tracks: list, message: str, max_n: int = 60) -> list:
+    """Keyword scoring: seleziona i max_n brani più rilevanti per la richiesta."""
+    import re as _re2
+    msg_lower = message.lower()
+    stopwords = {
+        "di","il","la","lo","le","un","una","per","che","e","a","in","da","con",
+        "su","non","ho","mi","voglio","dammi","qualcosa","musica","brani","playlist",
+        "vorrei","metti","cerca","trova","seleziona","mood","feel","scena","momento",
+    }
+    keywords = {w for w in _re2.findall(r'\w+', msg_lower)
+                if len(w) > 2 and w not in stopwords}
+
+    def _score(t):
+        text = " ".join(filter(None, [
+            " ".join(t.get("genres") or []),
+            " ".join(t.get("styles") or []),
+            " ".join(t.get("mood") or []),
+            " ".join(t.get("feel") or []),
+            " ".join(t.get("instruments") or []),
+            t.get("scene") or "",
+            t.get("artist") or "",
+            t.get("label") or "",
+        ])).lower()
+        kw = sum(1 for kw in keywords if kw in text)
+        return kw * 3 + (t.get("vibe") or 0) / 100
+
+    ranked = sorted(tracks, key=_score, reverse=True)
+    # garantisce sempre una quota top-vibe per varietà
+    top_vibe = sorted(tracks, key=lambda t: t.get("vibe") or 0, reverse=True)[:15]
+    merged = {t["video_id"]: t for t in ranked[:max_n] + top_vibe if t.get("video_id")}
+    return list(merged.values())[:max_n]
+
 app = FastAPI(title="DIGMORE engine")
 
 _DEFAULT_CORS = (
@@ -123,8 +334,11 @@ def generate(
            "results": [], "accepted": 0, "analyzed": 0}
     JOBS[job_id] = job
 
-    def _on_track(video_id: str):
-        _url_executor.submit(_preload_track, video_id)
+    def _on_track(track: dict):
+        vid = track.get("video_id", "")
+        if vid:
+            _url_executor.submit(_preload_track, vid)
+        _annot_queue.put(track)
 
     threading.Thread(
         target=digger.run,
@@ -143,7 +357,15 @@ def generate_status(job_id: str):
     j = JOBS.get(job_id)
     if not j:
         return JSONResponse({"status": "unknown"}, status_code=404)
-    return j
+    with _annot_lock:
+        cached = dict(_annot_cache)
+    results = []
+    for t in (j.get("results") or []):
+        ann = cached.get(t.get("video_id", ""))
+        if ann:
+            t = {**t, **ann}
+        results.append(t)
+    return {**j, "results": results}
 
 
 @app.post("/api/generate/{job_id}/stop")
@@ -242,6 +464,141 @@ def library_delete(pl_id: str):
     lib = [p for p in _lib_read() if p.get("id") != pl_id]
     _lib_write(lib)
     return {"ok": True}
+
+
+# ── OpenRouter model list ─────────────────────────────────────────────────────
+
+@app.get("/api/or-models")
+def or_models():
+    _ensure_models_fresh()
+    import time as _t
+    all_models = []
+    try:
+        r = requests.get(
+            "https://openrouter.ai/api/v1/models",
+            headers={"Authorization": f"Bearer {_OPENROUTER_KEY}"},
+            timeout=15,
+        )
+        r.raise_for_status()
+        all_models = r.json().get("data", [])
+    except Exception:
+        pass
+    free = [
+        {"id": m["id"], "name": m.get("name", m["id"])}
+        for m in all_models
+        if str(m.get("pricing", {}).get("prompt", "1")) == "0"
+        and str(m.get("pricing", {}).get("completion", "1")) == "0"
+        and m.get("id", "").endswith(":free")
+    ]
+    free.sort(key=lambda m: m["name"])
+    if not free:
+        free = [{"id": m, "name": m} for m in _OR_MODELS]
+    return {"models": free}
+
+
+# ── DigChat ──────────────────────────────────────────────────────────────────
+
+import re as _re
+import datetime as _dt
+
+
+@app.post("/api/digchat")
+async def digchat(request: Request):
+    body = await request.json()
+    message = (body.get("message") or "").strip()
+    history = body.get("history") or []
+    tracks = body.get("tracks") or []
+    preferred_model = body.get("model") or ""
+
+    if not message:
+        raise HTTPException(400, "message vuoto")
+    if not tracks:
+        raise HTTPException(400, "nessun brano disponibile — genera prima una playlist")
+
+    tracks = _prefilter_tracks(tracks, message)
+
+    catalog_lines = []
+    for i, t in enumerate(tracks):
+        genres = ", ".join(t.get("genres") or [])
+        styles = ", ".join(t.get("styles") or [])
+        genre_str = " | ".join(filter(None, [genres, styles])) or "—"
+        mood_str = ", ".join(t.get("mood") or [])
+        feel_str = ", ".join(t.get("feel") or [])
+        instr_str = ", ".join(t.get("instruments") or [])
+        scene_str = t.get("scene") or ""
+        ann_parts = " | ".join(filter(None, [
+            f"mood:{mood_str}" if mood_str else "",
+            f"feel:{feel_str}" if feel_str else "",
+            f"instr:{instr_str}" if instr_str else "",
+            f'"{scene_str}"' if scene_str else "",
+        ]))
+        catalog_lines.append(
+            f"{i}: {t.get('artist','?')} — {t.get('title','?')} "
+            f"({t.get('year','?')}) [{t.get('label','?')}] "
+            f"[{genre_str}] vibe:{t.get('vibe',0)}%"
+            + (f" | {ann_parts}" if ann_parts else "")
+        )
+    catalog = "\n".join(catalog_lines)
+
+    system_prompt = (
+        "Sei DigChat, l'assistente musicale di DIGMORE. "
+        "Hai accesso a un catalogo di dischi obscuri 1969-1983 trovati dal digger. "
+        "Il vibe% indica quanto ogni brano corrisponde al profilo musicale dell'utente (CLAP similarity).\n\n"
+        f"CATALOGO ({len(tracks)} brani):\n{catalog}\n\n"
+        "Il tuo compito: selezionare i brani più adatti alla richiesta (5-30 brani), "
+        "scegliere un nome tematico evocativo per la playlist, rispondere brevemente in italiano.\n"
+        "Se l'utente chiede varietà o una seconda selezione, scegli brani DIVERSI dalla conversazione precedente.\n\n"
+        "Rispondi SOLO con JSON valido (nessun testo fuori dal JSON):\n"
+        '{"reply":"risposta breve 1-2 frasi","playlist_name":"Nome Evocativo","track_indices":[0,5,12]}'
+    )
+
+    messages = [{"role": "system", "content": system_prompt}]
+    for h in history[-6:]:
+        messages.append({"role": h["role"], "content": h["content"]})
+    messages.append({"role": "user", "content": message})
+
+    try:
+        models = ([preferred_model] + [m for m in _OR_MODELS if m != preferred_model]
+                  if preferred_model else _OR_MODELS)
+        content = _or_call(messages, temperature=0.85, max_tokens=600, models=models)
+    except Exception as e:
+        raise HTTPException(502, f"OpenRouter error: {e}")
+
+    m = _re.search(r'\{.*\}', content, _re.DOTALL)
+    if not m:
+        raise HTTPException(502, "risposta LLM non parsabile")
+    try:
+        result = json.loads(m.group())
+    except Exception:
+        raise HTTPException(502, "JSON non valido dalla risposta LLM")
+
+    reply = result.get("reply") or "Ecco la tua playlist."
+    playlist_name = result.get("playlist_name") or "Playlist DigChat"
+    indices = result.get("track_indices") or []
+
+    selected = []
+    for idx in indices:
+        if isinstance(idx, int) and 0 <= idx < len(tracks):
+            t = dict(tracks[idx])
+            t["_yt_cover"] = f"https://i.ytimg.com/vi/{t['video_id']}/hqdefault.jpg"
+            selected.append(t)
+
+    if not selected:
+        raise HTTPException(502, "nessun brano selezionato dal modello")
+
+    pl = {
+        "id": "digchat_" + uuid.uuid4().hex[:10],
+        "name": playlist_name,
+        "profile": "digchat",
+        "savedAt": _dt.datetime.now().isoformat(),
+        "tracks": selected,
+    }
+    lib = _lib_read()
+    lib = [p for p in lib if p.get("id") != pl["id"]]
+    lib.insert(0, pl)
+    _lib_write(lib)
+
+    return {"reply": reply, "playlist_name": playlist_name, "playlist_id": pl["id"], "tracks": selected}
 
 
 # ── Taste fine-tuning (locale, privato) ───────────────────────────────────────

@@ -6,8 +6,13 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 
-# torch CPU wheel first (laion-clap would otherwise pull the large CUDA build)
-RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+# torch CPU wheels first (laion-clap would otherwise pull the large CUDA build).
+# torchvision is NOT optional: laion_clap.clap_module.utils imports
+# torchvision.ops.misc.FrozenBatchNorm2d at import time, so without it every
+# CLAP call dies with ModuleNotFoundError — which stayed invisible until
+# /api/embed became the first endpoint on the Space to actually load the
+# model (profiles ship as pre-built .npy, so nothing else ever touched it).
+RUN pip install --no-cache-dir torch torchvision --index-url https://download.pytorch.org/whl/cpu
 
 COPY engine/requirements.txt /app/requirements.txt
 RUN pip install --no-cache-dir -r /app/requirements.txt
