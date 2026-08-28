@@ -74,7 +74,7 @@ def search_yt_for_track(artist: str, title: str, use_cache: bool = True) -> dict
         # that was silently swallowing every rejection reason during the
         # first GitHub Actions runs (accepted=0, no diagnostic anywhere).
         if os.environ.get("DIGGER_DEBUG") and proc.stderr:
-            print(f"[yt_newpipe] not_found {artist} - {title}: {proc.stderr.strip()[-400:]}", flush=True)
+            print(f"[yt_newpipe] not_found {artist} - {title}:\n{proc.stderr.strip()}", flush=True)
         return None
 
     vid = data["videoId"]
