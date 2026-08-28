@@ -75,7 +75,18 @@ jobs:
           # values containing shell metacharacters ($, `, ", ...) can't break
           # or inject into this step.
           DIGMORE_YT_COOKIES: ${{ inputs.yt_cookies }}
-        run: printf '%s\n' "$DIGMORE_YT_COOKIES" > "${{ github.workspace }}/yt_cookies.txt"
+        run: |
+          printf '%s\n' "$DIGMORE_YT_COOKIES" > "${{ github.workspace }}/yt_cookies.txt"
+          # Diagnostic only (no cookie values logged): line count, byte
+          # count, and whether real tabs/newlines survived the round trip
+          # through the workflow_dispatch input — the file must be
+          # tab-separated (Netscape format) for yt-dlp to accept it.
+          echo "--- cookie file diagnostic ---"
+          echo "lines: $(wc -l < "${{ github.workspace }}/yt_cookies.txt")"
+          echo "bytes: $(wc -c < "${{ github.workspace }}/yt_cookies.txt")"
+          echo "tab count: $(tr -cd '\t' < "${{ github.workspace }}/yt_cookies.txt" | wc -c)"
+          echo "first line length: $(head -1 "${{ github.workspace }}/yt_cookies.txt" | wc -c)"
+          echo "--- end diagnostic ---"
 
       - name: Generate playlist
         working-directory: engine
