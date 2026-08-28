@@ -1,19 +1,27 @@
 name: digmore-generate
 
-# Runs one DIGMORE playlist generation for a profile (jazz/soul/ost) entirely
-# in the cloud, so it never depends on the home PC being on. Triggered by the
-# diggaplayer Android app via the GitHub REST API (workflow_dispatch), which
-# then polls this run to completion and reads back results/latest-<profile>.json
-# (committed straight to the repo — NOT an upload-artifact: this account's
-# Actions artifact storage quota is already exhausted by other repos, and a
-# few KB of JSON costs nothing as a repo file).
+# Runs one DIGMORE candidate-list generation for a profile (jazz/soul/ost)
+# entirely in the cloud, so it never depends on the home PC being on.
+# Triggered by the diggaplayer Android app via the GitHub REST API
+# (workflow_dispatch), which then polls this run to completion and reads
+# back results/latest-<profile>.json (committed straight to the repo — NOT
+# an upload-artifact: this account's Actions artifact storage quota is
+# already exhausted by other repos, and a few KB of JSON costs nothing as a
+# repo file).
 #
-# See digmore/engine/generate_cli.py and digmore/engine/engine_libs/yt_newpipe.py
-# for why this doesn't reuse yt_hunter.py's yt-dlp path: YouTube blocks plain
-# HTML-scrape/yt-dlp extraction from datacenter IPs (documented in profiles.py),
-# which GitHub-hosted runners are. newpipe-cli (built in this same workflow)
-# resolves YouTube via NewPipeExtractor instead — the same approach
-# diggaplayer/jatz use on-device — which is not affected by that block.
+# This is Discogs-only (discogs_ext.build_candidates): a first version tried
+# resolving each candidate on YouTube and CLAP-scoring the audio (see the
+# newpipe-cli/ module and yt_newpipe.py, still in the repo but unused by
+# generate_cli.py now) — search worked fine from a GitHub-hosted IP, but the
+# watch/player-response step YouTube gates behind SignInConfirmNotBotException
+# ("Sign in to confirm you're not a bot") for every single candidate, tested
+# live. That's an IP-reputation gate, not a client-library problem — swapping
+# yt-dlp for NewPipeExtractor fixed the search half (which worked) but not
+# the fetch half (which doesn't, on this class of IP). Real curation now
+# happens on the phone instead: DigmoreViewModel searches each Discogs
+# candidate on Spotify and only keeps confident matches — which was always
+# the step that actually decides "is this real enough to put in the
+# playlist", CLAP or not.
 
 permissions:
   contents: write
@@ -27,47 +35,27 @@ on:
         type: choice
         options: [jazz, soul, ost]
       target:
-        description: "How many tracks to accept before stopping"
+        description: "How many Discogs candidates to gather (Spotify filtering on the phone will shrink this)"
         required: false
         default: "25"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-
-      - name: Set up JDK 17
-        uses: actions/setup-java@v4
-        with:
-          distribution: temurin
-          java-version: "17"
-
-      - name: Build newpipe-cli
-        working-directory: newpipe-cli
-        run: ./gradlew installDist --no-daemon
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
+      - name: Install Python deps (just requests — no torch/CLAP needed anymore)
+        run: pip install --no-cache-dir requests
 
-      - name: Install Python deps (CPU torch first, same order as the Dockerfile)
+      - name: Generate candidate list
         working-directory: engine
-        run: |
-          pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
-          pip install --no-cache-dir -r requirements.txt
-
-      - name: Generate playlist
-        working-directory: engine
-        env:
-          NEWPIPE_CLI_PATH: ${{ github.workspace }}/newpipe-cli/build/install/newpipe-cli/bin/newpipe-cli
-          HF_HOME: ${{ github.workspace }}/.hf-cache
-          DIGGER_DEBUG: "1"
         run: |
           python generate_cli.py \
             --profile "${{ inputs.profile }}" \
