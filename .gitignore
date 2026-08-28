@@ -8,6 +8,10 @@ engine/_localbuild/
 *.log
 HANDOFF.md
 
+# newpipe-cli (Kotlin/JVM Gradle module) build output
+newpipe-cli/.gradle/
+newpipe-cli/build/
+
 # Segreti / specifici della macchina — NON committare
 yt_cookies.txt
 start_digmore.bat

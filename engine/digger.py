@@ -84,15 +84,16 @@ def _clap_sim(profile_emb: np.ndarray, cand_clap) -> float:
 _EVAL_TIMEOUT = 120  # hard per-candidate wall-clock budget (seconds)
 
 
-def _evaluate_inner(cand: dict, profile_emb: np.ndarray) -> dict | None:
+def _evaluate_inner(cand: dict, profile_emb: np.ndarray, yt_module=None) -> dict | None:
     """Discogs candidate → find on YouTube → CLAP score. None on failure."""
-    yt = yt_hunter.search_yt_for_track(cand["artist"], cand["title"])
+    yt_mod = yt_module or yt_hunter
+    yt = yt_mod.search_yt_for_track(cand["artist"], cand["title"])
     if not yt:
         return None
     vid = yt["video_id"]
     if listened_store.contains_video(vid):
         return None
-    snippet = yt_hunter.download_snippet(vid)
+    snippet = yt_mod.download_snippet(vid)
     clap = clap_model.embed_audio(snippet)
     if clap is None:
         return None
@@ -118,6 +119,8 @@ def _evaluate_inner(cand: dict, profile_emb: np.ndarray) -> dict | None:
         "yt_title":      yt.get("title", ""),
         "clap":          round(float(sim), 3),
         "vibe":          vibe_pct(sim),
+        "genres":        cand.get("genres", []),
+        "styles":        cand.get("styles", []),
         "_vec":          vec.tolist(),   # stripped before sending to client
     }
 
@@ -127,7 +130,7 @@ def _public(r: dict) -> dict:
     return {k: v for k, v in r.items() if not k.startswith("_")}
 
 
-def _evaluate(cand: dict, profile_emb: np.ndarray) -> dict | None:
+def _evaluate(cand: dict, profile_emb: np.ndarray, yt_module=None) -> dict | None:
     """_evaluate_inner with a hard wall-clock timeout.
 
     search_yt_for_track can hang on HF datacenter IPs when YouTube returns
@@ -140,7 +143,7 @@ def _evaluate(cand: dict, profile_emb: np.ndarray) -> dict | None:
 
     def _run():
         try:
-            result.append(_evaluate_inner(cand, profile_emb))
+            result.append(_evaluate_inner(cand, profile_emb, yt_module))
         except Exception as e:
             exc.append(e)
 
@@ -160,7 +163,7 @@ def run(job: dict, profile: str, profile_emb: np.ndarray,
         min_rating: float = 3.5, min_votes: int = 1,
         require_rating: bool = False, max_listeners: int = 500_000,
         target: int = TARGET, taste_tune: bool = False,
-        on_track_accepted=None, **_kw):
+        on_track_accepted=None, yt_module=None, **_kw):
     seen_releases = _load_seen(profile)
     seen_videos: set = _load_seen_videos(profile)
     raw_results: list = []
@@ -294,7 +297,7 @@ def run(job: dict, profile: str, profile_emb: np.ndarray,
             )
 
             with ThreadPoolExecutor(max_workers=POOL_WORKERS) as ex:
-                futs = {ex.submit(_evaluate, c, profile_emb): c for c in cands}
+                futs = {ex.submit(_evaluate, c, profile_emb, yt_module): c for c in cands}
                 for fut in as_completed(futs):
                     job["analyzed"] = job.get("analyzed", 0) + 1
                     try:
@@ -314,7 +317,7 @@ def run(job: dict, profile: str, profile_emb: np.ndarray,
                             pass
                         raw_results.append(res)
                         if on_track_accepted:
-                            try: on_track_accepted(res["video_id"])
+                            try: on_track_accepted(res)
                             except Exception: pass
 
                     best_pct = vibe_pct(best_clap)

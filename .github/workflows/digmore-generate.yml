@@ -1,0 +1,76 @@
+name: digmore-generate
+
+# Runs one DIGMORE playlist generation for a profile (jazz/soul/ost) entirely
+# in the cloud, so it never depends on the home PC being on. Triggered by the
+# diggaplayer Android app via the GitHub REST API (workflow_dispatch), which
+# then polls this run and downloads the "digmore-results" artifact.
+#
+# See digmore/engine/generate_cli.py and digmore/engine/engine_libs/yt_newpipe.py
+# for why this doesn't reuse yt_hunter.py's yt-dlp path: YouTube blocks plain
+# HTML-scrape/yt-dlp extraction from datacenter IPs (documented in profiles.py),
+# which GitHub-hosted runners are. newpipe-cli (built in this same workflow)
+# resolves YouTube via NewPipeExtractor instead — the same approach
+# diggaplayer/jatz use on-device — which is not affected by that block.
+
+on:
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: "Macrogenre profile"
+        required: true
+        type: choice
+        options: [jazz, soul, ost]
+      target:
+        description: "How many tracks to accept before stopping"
+        required: false
+        default: "25"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Build newpipe-cli
+        working-directory: newpipe-cli
+        run: ./gradlew installDist --no-daemon
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
+
+      - name: Install Python deps (CPU torch first, same order as the Dockerfile)
+        working-directory: engine
+        run: |
+          pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+          pip install --no-cache-dir -r requirements.txt
+
+      - name: Generate playlist
+        working-directory: engine
+        env:
+          NEWPIPE_CLI_PATH: ${{ github.workspace }}/newpipe-cli/build/install/newpipe-cli/bin/newpipe-cli
+          HF_HOME: ${{ github.workspace }}/.hf-cache
+        run: |
+          python generate_cli.py \
+            --profile "${{ inputs.profile }}" \
+            --target "${{ inputs.target }}" \
+            --out "${{ github.workspace }}/digmore-out.json"
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: digmore-results
+          path: digmore-out.json
+          retention-days: 3
