@@ -6,6 +6,7 @@ Score: CLAP cosine vs profile embedding, no hard gate.
 Sort by vibe descending, return top N.
 """
 import json
+import os
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -26,6 +27,19 @@ CLAP_MIN     = 0.01   # skip only silent/noise; show everything else
 TARGET       = 30
 MAX_ROUNDS   = 10
 POOL_WORKERS = 4
+
+# Per-candidate why-it-was-skipped tracing, off by default (silent no-op for
+# the live local server). Set DIGGER_DEBUG=1 to see why every candidate was
+# rejected — added after a GitHub Actions run came back "accepted=0,
+# analyzed=266" with zero exceptions logged, i.e. every candidate was
+# rejected by a normal `return None`, not a crash, and there was no visibility
+# into which check was doing the rejecting.
+_DEBUG = bool(os.environ.get("DIGGER_DEBUG"))
+
+
+def _dbg(msg: str):
+    if _DEBUG:
+        print(f"[digger] {msg}", flush=True)
 
 # ── Taste fine-tuning (additivo, capato) ──────────────────────────────────────
 TASTE_LAMBDA   = 0.40   # peso max del profilo affinato sul ranking
@@ -87,19 +101,25 @@ _EVAL_TIMEOUT = 120  # hard per-candidate wall-clock budget (seconds)
 def _evaluate_inner(cand: dict, profile_emb: np.ndarray, yt_module=None) -> dict | None:
     """Discogs candidate → find on YouTube → CLAP score. None on failure."""
     yt_mod = yt_module or yt_hunter
+    tag = f"{cand['artist']} - {cand['title']}"
     yt = yt_mod.search_yt_for_track(cand["artist"], cand["title"])
     if not yt:
+        _dbg(f"REJECT no_yt_match: {tag}")
         return None
     vid = yt["video_id"]
     if listened_store.contains_video(vid):
+        _dbg(f"REJECT already_listened: {tag} ({vid})")
         return None
     snippet = yt_mod.download_snippet(vid)
     clap = clap_model.embed_audio(snippet)
     if clap is None:
+        _dbg(f"REJECT clap_embed_none: {tag} ({vid})")
         return None
     sim = _clap_sim(profile_emb, clap)
     if sim < CLAP_MIN:
+        _dbg(f"REJECT below_clap_min sim={sim:.4f}: {tag} ({vid})")
         return None
+    _dbg(f"ACCEPT sim={sim:.4f}: {tag} ({vid})")
     # pooled+normalized vector for the taste centroid (same space as P0)
     vec = np.asarray(clap, dtype=np.float32)
     if vec.ndim == 2:

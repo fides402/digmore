@@ -53,6 +53,12 @@ def main() -> int:
     print(f"status={status} accepted={len(results)} analyzed={job.get('analyzed')} "
           f"elapsed={time.time() - t0:.1f}s", flush=True)
 
+    skipped = job.get("skipped", [])
+    if skipped:
+        print(f"skipped (exceptions during evaluation): {len(skipped)}", file=sys.stderr)
+        for s in skipped[:15]:
+            print(f"  - {s}", file=sys.stderr)
+
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump({
             "profile": args.profile,
