@@ -463,6 +463,65 @@ def get_tunnel():
     return {"tunnel": _tunnel_url, "local": f"http://{local_ip}:8099"}
 
 
+@app.post("/api/embed")
+async def embed_audio(profile: str = Form(...), audio: UploadFile = File(...)):
+    """Stateless CLAP scorer for the diggaplayer Android app: it resolves a
+    candidate's audio on-device (NewPipeYoutube — a legitimate mobile/home
+    IP) and uploads a snippet here rather than having GitHub Actions try to
+    fetch YouTube itself, which YouTube blocks outright for that class of IP
+    even with valid session cookies (SignInConfirmNotBotException, tested
+    live — a session-provenance/anti-hijack check, not a cookie-validity
+    one, so nothing on the fetching side can route around it). This endpoint
+    never touches YouTube at all — just audio bytes in, a CLAP similarity
+    score out.
+
+    `audio` is whatever the phone managed to download (often a byte-range
+    slice of a DASH/WebM stream, not a complete container) — ffmpeg is
+    tolerant of that, same as yt_hunter.download_snippet already relies on
+    for its own snippets.
+    """
+    if profile not in profiles.PROFILES:
+        raise HTTPException(404, f"profilo sconosciuto: {profile}")
+    prof_emb = profiles.get_embedding(profile)
+    if prof_emb is None:
+        raise HTTPException(400, f"profilo '{profile}' non ha un embedding pronto")
+
+    raw = await audio.read()
+    if not raw:
+        raise HTTPException(400, "audio vuoto")
+    if len(raw) > 8 * 1024 * 1024:
+        raise HTTPException(413, "audio troppo grande (max 8MB)")
+
+    import subprocess
+    import tempfile
+
+    import numpy as np
+    import clap_model
+
+    with tempfile.NamedTemporaryFile(suffix=".bin", delete=False) as tmp_in:
+        tmp_in.write(raw)
+        tmp_in_path = tmp_in.name
+    tmp_out_path = tmp_in_path + ".mp3"
+    try:
+        proc = subprocess.run(
+            ["ffmpeg", "-y", "-i", tmp_in_path, "-t", "30", "-vn",
+             "-acodec", "libmp3lame", "-b:a", "128k", tmp_out_path],
+            capture_output=True, text=True, timeout=30,
+        )
+        if proc.returncode != 0 or not os.path.exists(tmp_out_path) or os.path.getsize(tmp_out_path) == 0:
+            raise HTTPException(422, f"audio non decodificabile: {proc.stderr[-300:]}")
+
+        clap = clap_model.embed_audio(tmp_out_path)
+        sim = float(np.clip(np.dot(np.asarray(prof_emb), np.asarray(clap)), 0.0, 1.0))
+        return {"profile": profile, "sim": round(sim, 4), "vibe": int(round(sim * 100))}
+    finally:
+        for p in (tmp_in_path, tmp_out_path):
+            try:
+                os.remove(p)
+            except OSError:
+                pass
+
+
 # ── Static UI (local dev / single-host deploy) ───────────────────────────────
 _WEB = (Path(__file__).resolve().parents[1] / "web")
 if _WEB.is_dir():
