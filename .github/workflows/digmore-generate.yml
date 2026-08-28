@@ -1,27 +1,24 @@
 name: digmore-generate
 
-# Runs one DIGMORE candidate-list generation for a profile (jazz/soul/ost)
-# entirely in the cloud, so it never depends on the home PC being on.
-# Triggered by the diggaplayer Android app via the GitHub REST API
-# (workflow_dispatch), which then polls this run to completion and reads
-# back results/latest-<profile>.json (committed straight to the repo — NOT
-# an upload-artifact: this account's Actions artifact storage quota is
-# already exhausted by other repos, and a few KB of JSON costs nothing as a
-# repo file).
+# Runs one DIGMORE playlist generation for a profile (jazz/soul/ost) entirely
+# in the cloud, so it never depends on the home PC being on. Triggered by the
+# diggaplayer Android app via the GitHub REST API (workflow_dispatch), which
+# then polls this run to completion and reads back results/latest-<profile>.json
+# (committed straight to the repo — NOT an upload-artifact: this account's
+# Actions artifact storage quota was exhausted by other repos when this was
+# first built; a few KB of JSON costs nothing as a repo file, so it just
+# stayed that way).
 #
-# This is Discogs-only (discogs_ext.build_candidates): a first version tried
-# resolving each candidate on YouTube and CLAP-scoring the audio (see the
-# newpipe-cli/ module and yt_newpipe.py, still in the repo but unused by
-# generate_cli.py now) — search worked fine from a GitHub-hosted IP, but the
-# watch/player-response step YouTube gates behind SignInConfirmNotBotException
-# ("Sign in to confirm you're not a bot") for every single candidate, tested
-# live. That's an IP-reputation gate, not a client-library problem — swapping
-# yt-dlp for NewPipeExtractor fixed the search half (which worked) but not
-# the fetch half (which doesn't, on this class of IP). Real curation now
-# happens on the phone instead: DigmoreViewModel searches each Discogs
-# candidate on Spotify and only keeps confident matches — which was always
-# the step that actually decides "is this real enough to put in the
-# playlist", CLAP or not.
+# See digmore/engine/generate_cli.py and digmore/engine/engine_libs/yt_newpipe.py
+# for why this doesn't reuse yt_hunter.py's yt-dlp path: YouTube blocks
+# anonymous access to the watch/player-response endpoint from datacenter IPs
+# (SignInConfirmNotBotException, confirmed live — search itself is NOT
+# blocked, only that one endpoint). newpipe-cli (built in this same workflow)
+# resolves YouTube via NewPipeExtractor instead — the same approach
+# diggaplayer/jatz use on-device — but the actual fix for the block is real
+# cookies from a logged-in session, passed in via the `yt_cookies` input
+# below (the app can re-send fresh ones any time they expire — no need to
+# ever touch a GitHub secret by hand).
 
 permissions:
   contents: write
@@ -35,27 +32,61 @@ on:
         type: choice
         options: [jazz, soul, ost]
       target:
-        description: "How many Discogs candidates to gather (Spotify filtering on the phone will shrink this)"
+        description: "How many tracks to accept before stopping"
         required: false
         default: "25"
+      yt_cookies:
+        description: "Netscape-format YouTube cookies.txt content (optional, but the watch/player-response endpoint is blocked without them from this runner)"
+        required: false
+        default: ""
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Build newpipe-cli
+        working-directory: newpipe-cli
+        run: ./gradlew installDist --no-daemon
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install Python deps (just requests — no torch/CLAP needed anymore)
-        run: pip install --no-cache-dir requests
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
 
-      - name: Generate candidate list
+      - name: Install Python deps (CPU torch first, same order as the Dockerfile)
         working-directory: engine
+        run: |
+          pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+          pip install --no-cache-dir -r requirements.txt
+
+      - name: Write YouTube cookies
+        if: inputs.yt_cookies != ''
+        env:
+          # Passed via env, not interpolated into the script body, so cookie
+          # values containing shell metacharacters ($, `, ", ...) can't break
+          # or inject into this step.
+          DIGMORE_YT_COOKIES: ${{ inputs.yt_cookies }}
+        run: printf '%s\n' "$DIGMORE_YT_COOKIES" > "${{ github.workspace }}/yt_cookies.txt"
+
+      - name: Generate playlist
+        working-directory: engine
+        env:
+          NEWPIPE_CLI_PATH: ${{ github.workspace }}/newpipe-cli/build/install/newpipe-cli/bin/newpipe-cli
+          YT_COOKIES_FILE: ${{ github.workspace }}/yt_cookies.txt
+          HF_HOME: ${{ github.workspace }}/.hf-cache
+          DIGGER_DEBUG: "1"
         run: |
           python generate_cli.py \
             --profile "${{ inputs.profile }}" \

@@ -27,6 +27,10 @@ fun main(args: Array<String>) {
         exitProcess(2)
     }
 
+    val cookiesPath = System.getenv("YT_COOKIES_FILE")
+    val cookieHeader = if (!cookiesPath.isNullOrBlank()) Cookies.loadHeader(cookiesPath) else null
+    Resolver.ensureInit(cookieHeader)
+
     val resolved = try {
         Resolver.resolve(artist, title)
     } catch (e: Exception) {

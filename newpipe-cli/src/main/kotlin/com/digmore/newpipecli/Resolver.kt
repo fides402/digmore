@@ -57,9 +57,13 @@ object Resolver {
         "reverb", "loop", "type beat", "mashup", "edit", "remaster",
     )
 
-    fun ensureInit() {
+    /** Must be called once, before [findBest]/[resolveStream]/[resolve], with
+     *  the cookie header ([Cookies.loadHeader]) if the caller has one — after
+     *  the first call the cookie header is locked in for the process, same as
+     *  everything else NewPipe.init() sets up. */
+    fun ensureInit(cookieHeader: String? = null) {
         if (initialized.compareAndSet(false, true)) {
-            NewPipe.init(OkHttpNewPipeDownloader(httpClient), Localization("en", "US"), ContentCountry("US"))
+            NewPipe.init(OkHttpNewPipeDownloader(httpClient, cookieHeader), Localization("en", "US"), ContentCountry("US"))
         }
     }
 
