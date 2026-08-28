@@ -35,9 +35,14 @@ def collect_candidates(profile: str, target: int) -> list[dict]:
     Overshoots the target on purpose: many obscure vinyl-only credits aren't
     on Spotify at all, and that filtering happens later on the phone.
     """
-    OVERSHOOT = 4
-    MAX_ROUNDS = 20
-    want = max(target * OVERSHOOT, 40)
+    # 2x, not 4x. Roughly two thirds of Discogs candidates turn out to exist
+    # on Spotify (measured: 66 of 100), so 2x still comfortably clears the
+    # target — and every extra candidate costs a Discogs round here AND a
+    # Spotify search + YouTube resolve + CLAP score on the phone later, which
+    # is what actually made a run feel slow.
+    OVERSHOOT = 2
+    MAX_ROUNDS = 12
+    want = max(target * OVERSHOOT, 30)
 
     seen_release_ids: set = set()
     seen_keys: set = set()
