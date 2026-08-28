@@ -9,18 +9,21 @@ name: digmore-generate
 # first built; a few KB of JSON costs nothing as a repo file, so it just
 # stayed that way).
 #
-# Uses yt_hunter.py (yt-dlp) for the per-candidate YouTube step — a first
-# attempt swapped it for a homemade NewPipeExtractor-based tool (newpipe-cli/,
-# still in the repo, unused) specifically to dodge YouTube's block on
-# anonymous watch/player-response requests from datacenter IPs
-# (SignInConfirmNotBotException). That attempt's own cookie support (just
-# attaching a raw Cookie header) turned out to not be enough — tested live,
-# still blocked with real cookies. yt-dlp's cookie auth is a mature,
-# maintained implementation of the real thing (Google's SAPISIDHASH-signed
-# requests), and yt_hunter.py already had YT_COOKIES_FILE support built for
-# the exact same block on Hugging Face Spaces (see profiles.py) — it just had
-# never actually been tried against a GitHub Actions runner specifically.
-# Needs Node.js (yt-dlp's `js_runtimes` JS-challenge solver) and ffmpeg.
+# DISCOGS ONLY. No YouTube and no CLAP happen here, and that is deliberate:
+# YouTube refuses watch/player-response requests from this IP class outright
+# (SignInConfirmNotBotException) and keeps refusing with a fully authenticated
+# cookie export from a real logged-in session — verified live 28/08/2026 with
+# TWO independent clients, first NewPipeExtractor (newpipe-cli/, still in the
+# repo, unused) and then yt-dlp, whose cookie auth is the mature reference
+# implementation. Same wall both times, so it's a check on where a session is
+# being used from, not on cookie validity: nothing on the fetching side fixes
+# it from a datacenter.
+#
+# Real CLAP scoring was NOT dropped — it moved to the phone, which has an
+# ordinary mobile/home IP that YouTube serves normally. diggaplayer resolves
+# each candidate, grabs a snippet, and POSTs it to the engine's /api/embed
+# (see engine/app.py) for the actual similarity score. This job just produces
+# good Discogs candidates, fast — hence no JDK, no torch, no ffmpeg.
 
 permissions:
   contents: write
@@ -37,63 +40,24 @@ on:
         description: "How many tracks to accept before stopping"
         required: false
         default: "25"
-      yt_cookies:
-        description: "Netscape-format YouTube cookies.txt content (required — YouTube blocks anonymous watch access from this runner's IP without them)"
-        required: false
-        default: ""
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-
-      - name: Set up Node.js (yt-dlp's JS-challenge solver)
-        uses: actions/setup-node@v4
-        with:
-          node-version: "22"
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
-
-      - name: Install Python deps (CPU torch first, same order as the Dockerfile)
-        working-directory: engine
-        run: |
-          pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
-          pip install --no-cache-dir -r requirements.txt
-
-      - name: Write YouTube cookies
-        if: inputs.yt_cookies != ''
-        env:
-          # Passed via env, not interpolated into the script body, so cookie
-          # values containing shell metacharacters ($, `, ", ...) can't break
-          # or inject into this step.
-          DIGMORE_YT_COOKIES: ${{ inputs.yt_cookies }}
-        run: |
-          printf '%s\n' "$DIGMORE_YT_COOKIES" > "${{ github.workspace }}/yt_cookies.txt"
-          # Diagnostic only (no cookie values logged): line count, byte
-          # count, and whether real tabs/newlines survived the round trip
-          # through the workflow_dispatch input — the file must be
-          # tab-separated (Netscape format) for yt-dlp to accept it.
-          echo "--- cookie file diagnostic ---"
-          echo "lines: $(wc -l < "${{ github.workspace }}/yt_cookies.txt")"
-          echo "bytes: $(wc -c < "${{ github.workspace }}/yt_cookies.txt")"
-          echo "tab count: $(tr -cd '\t' < "${{ github.workspace }}/yt_cookies.txt" | wc -c)"
-          echo "first line length: $(head -1 "${{ github.workspace }}/yt_cookies.txt" | wc -c)"
-          echo "--- end diagnostic ---"
+      - name: Install Python deps (just requests — CLAP runs on the engine, not here)
+        run: pip install --no-cache-dir requests
 
       - name: Generate playlist
         working-directory: engine
-        env:
-          YT_COOKIES_FILE: ${{ github.workspace }}/yt_cookies.txt
-          HF_HOME: ${{ github.workspace }}/.hf-cache
-          DIGGER_DEBUG: "1"
         run: |
           python generate_cli.py \
             --profile "${{ inputs.profile }}" \

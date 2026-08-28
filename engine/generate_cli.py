@@ -1,23 +1,21 @@
 """Non-interactive entrypoint for a GitHub Actions runner: generate one
 DIGMORE playlist for a profile and dump the results as JSON.
 
-Same engine as app.py's POST /api/generate (digger.run over profiles.py
-embeddings), synchronous (no job store, no polling).
+DISCOGS ONLY — no YouTube, no CLAP here. Both were tried in the cloud and
+both are impossible from a GitHub Actions IP: YouTube refuses
+watch/player-response requests from that IP class outright
+(SignInConfirmNotBotException), and it keeps refusing with a fully
+authenticated cookie export from a real logged-in session — verified live
+on 28/08/2026, first with NewPipeExtractor (newpipe-cli/, still in the repo,
+unused) and then with yt-dlp, whose cookie auth is the mature reference
+implementation. Two independent clients, same wall: it's a check on where
+the session is being used from, not on whether the cookies are valid.
 
-Uses yt_hunter.py (yt-dlp), NOT yt_newpipe.py/newpipe-cli — tried the latter
-first (see git history), but a homemade "just attach a Cookie header" login
-in Kotlin/NewPipeExtractor isn't enough to lift YouTube's
-SignInConfirmNotBotException on the watch/player-response endpoint: tested
-live with real cookies, still blocked on every candidate. Google's
-authenticated endpoints need a proper SAPISIDHASH Authorization header
-derived from the cookies, which yt-dlp already implements correctly (it's a
-mature, actively maintained cookie-auth implementation) — yt_hunter.py's
-own YT_COOKIES_FILE mechanism (built for the exact same HF Spaces
-datacenter-IP block, see profiles.py) just needed to actually be tried on a
-GitHub Actions runner, which nobody had done before switching to
-NewPipeExtractor. Needs Node.js on the runner (yt-dlp's `js_runtimes`
-challenge solver, already configured in yt_hunter.py's YoutubeDL() wrapper)
-and ffmpeg on PATH — see .github/workflows/digmore-generate.yml.
+Real CLAP scoring still happens — on the PHONE, which has an ordinary
+mobile/home IP that YouTube serves normally. diggaplayer resolves each
+candidate, pulls a snippet, and POSTs it to the engine's /api/embed (see
+app.py) for the actual CLAP similarity. So this script's job is only to
+produce good Discogs candidates, fast.
 
 Usage:
     python generate_cli.py --profile jazz --target 30 --out out.json
@@ -28,56 +26,68 @@ import sys
 import time
 
 import paths_boot  # noqa: F401
-import profiles
-import digger
+import discogs_ext
+
+
+def collect_candidates(profile: str, target: int) -> list[dict]:
+    """Discogs candidates for `profile`, deduplicated by (artist, title).
+
+    Overshoots the target on purpose: many obscure vinyl-only credits aren't
+    on Spotify at all, and that filtering happens later on the phone.
+    """
+    OVERSHOOT = 4
+    MAX_ROUNDS = 20
+    want = max(target * OVERSHOOT, 40)
+
+    seen_release_ids: set = set()
+    seen_keys: set = set()
+    results: list[dict] = []
+
+    for rnd in range(1, MAX_ROUNDS + 1):
+        if len(results) >= want:
+            break
+        cands, diag = discogs_ext.build_candidates(
+            profile,
+            exclude_ids=seen_release_ids,
+            n_releases=18,
+            tracks_per_release=4,
+        )
+        seen_release_ids.update(diag.get("release_ids", []))
+        added = 0
+        for c in cands:
+            key = (c["artist"].strip().lower(), c["title"].strip().lower())
+            if key in seen_keys:
+                continue
+            seen_keys.add(key)
+            results.append(c)
+            added += 1
+        print(f"round {rnd}: +{added} new (total {len(results)}/{want}), "
+              f"{diag.get('releases_found', 0)} releases scanned", flush=True)
+        if added == 0 and rnd > 3:
+            break
+
+    return results[:want]
 
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--profile", required=True, choices=list(profiles.PROFILES.keys()))
+    ap.add_argument("--profile", required=True, choices=list(discogs_ext.GENRE_MAP.keys()))
     ap.add_argument("--target", type=int, default=25)
     ap.add_argument("--out", default="out.json")
     args = ap.parse_args()
 
-    emb = profiles.get_embedding(args.profile)
-    if emb is None:
-        print(f"profile '{args.profile}' has no prebuilt embedding", file=sys.stderr)
-        return 1
-
-    job: dict = {}
     t0 = time.time()
-
-    def _progress(res: dict):
-        print(f"[{time.time() - t0:6.1f}s] accepted: {res.get('artist')} - {res.get('title')} "
-              f"(vibe {res.get('vibe')})", flush=True)
-
-    digger.run(
-        job=job,
-        profile=args.profile,
-        profile_emb=emb,
-        target=args.target,
-        on_track_accepted=_progress,
-    )
-
-    status = job.get("status")
-    results = job.get("results", [])
-    print(f"status={status} accepted={len(results)} analyzed={job.get('analyzed')} "
-          f"elapsed={time.time() - t0:.1f}s", flush=True)
-
-    skipped = job.get("skipped", [])
-    if skipped:
-        print(f"skipped (exceptions during evaluation): {len(skipped)}", file=sys.stderr)
-        for s in skipped[:15]:
-            print(f"  - {s}", file=sys.stderr)
+    results = collect_candidates(args.profile, args.target)
+    print(f"status=done found={len(results)} elapsed={time.time() - t0:.1f}s", flush=True)
 
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump({
             "profile": args.profile,
-            "status": status,
+            "status": "done",
             "results": results,
         }, f, ensure_ascii=False, indent=2)
 
-    return 0 if status == "done" else (0 if results else 1)
+    return 0 if results else 1
 
 
 if __name__ == "__main__":
