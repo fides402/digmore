@@ -2,17 +2,22 @@
 DIGMORE playlist for a profile and dump the results as JSON.
 
 Same engine as app.py's POST /api/generate (digger.run over profiles.py
-embeddings), but synchronous (no job store, no polling) and using
-yt_newpipe.py instead of yt_hunter.py for the per-candidate YouTube step —
-see yt_newpipe.py's docstring for why (datacenter-IP bot-check on the
-watch/player-response endpoint, confirmed live; search itself works fine).
+embeddings), synchronous (no job store, no polling).
 
-That block turned out to require YouTube cookies from a real logged-in
-session to lift, same as yt_hunter.py's own YT_COOKIES_FILE mechanism —
-newpipe-cli reads YT_COOKIES_FILE too (see newpipe-cli/.../Cookies.kt) and
-attaches a Cookie header to every request. The workflow writes the
-`yt_cookies` workflow_dispatch input to a file and points YT_COOKIES_FILE at
-it — see .github/workflows/digmore-generate.yml.
+Uses yt_hunter.py (yt-dlp), NOT yt_newpipe.py/newpipe-cli — tried the latter
+first (see git history), but a homemade "just attach a Cookie header" login
+in Kotlin/NewPipeExtractor isn't enough to lift YouTube's
+SignInConfirmNotBotException on the watch/player-response endpoint: tested
+live with real cookies, still blocked on every candidate. Google's
+authenticated endpoints need a proper SAPISIDHASH Authorization header
+derived from the cookies, which yt-dlp already implements correctly (it's a
+mature, actively maintained cookie-auth implementation) — yt_hunter.py's
+own YT_COOKIES_FILE mechanism (built for the exact same HF Spaces
+datacenter-IP block, see profiles.py) just needed to actually be tried on a
+GitHub Actions runner, which nobody had done before switching to
+NewPipeExtractor. Needs Node.js on the runner (yt-dlp's `js_runtimes`
+challenge solver, already configured in yt_hunter.py's YoutubeDL() wrapper)
+and ffmpeg on PATH — see .github/workflows/digmore-generate.yml.
 
 Usage:
     python generate_cli.py --profile jazz --target 30 --out out.json
@@ -25,7 +30,6 @@ import time
 import paths_boot  # noqa: F401
 import profiles
 import digger
-import yt_newpipe
 
 
 def main() -> int:
@@ -52,7 +56,6 @@ def main() -> int:
         profile=args.profile,
         profile_emb=emb,
         target=args.target,
-        yt_module=yt_newpipe,
         on_track_accepted=_progress,
     )
 

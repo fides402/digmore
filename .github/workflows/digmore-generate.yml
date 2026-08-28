@@ -9,16 +9,18 @@ name: digmore-generate
 # first built; a few KB of JSON costs nothing as a repo file, so it just
 # stayed that way).
 #
-# See digmore/engine/generate_cli.py and digmore/engine/engine_libs/yt_newpipe.py
-# for why this doesn't reuse yt_hunter.py's yt-dlp path: YouTube blocks
-# anonymous access to the watch/player-response endpoint from datacenter IPs
-# (SignInConfirmNotBotException, confirmed live — search itself is NOT
-# blocked, only that one endpoint). newpipe-cli (built in this same workflow)
-# resolves YouTube via NewPipeExtractor instead — the same approach
-# diggaplayer/jatz use on-device — but the actual fix for the block is real
-# cookies from a logged-in session, passed in via the `yt_cookies` input
-# below (the app can re-send fresh ones any time they expire — no need to
-# ever touch a GitHub secret by hand).
+# Uses yt_hunter.py (yt-dlp) for the per-candidate YouTube step — a first
+# attempt swapped it for a homemade NewPipeExtractor-based tool (newpipe-cli/,
+# still in the repo, unused) specifically to dodge YouTube's block on
+# anonymous watch/player-response requests from datacenter IPs
+# (SignInConfirmNotBotException). That attempt's own cookie support (just
+# attaching a raw Cookie header) turned out to not be enough — tested live,
+# still blocked with real cookies. yt-dlp's cookie auth is a mature,
+# maintained implementation of the real thing (Google's SAPISIDHASH-signed
+# requests), and yt_hunter.py already had YT_COOKIES_FILE support built for
+# the exact same block on Hugging Face Spaces (see profiles.py) — it just had
+# never actually been tried against a GitHub Actions runner specifically.
+# Needs Node.js (yt-dlp's `js_runtimes` JS-challenge solver) and ffmpeg.
 
 permissions:
   contents: write
@@ -36,7 +38,7 @@ on:
         required: false
         default: "25"
       yt_cookies:
-        description: "Netscape-format YouTube cookies.txt content (optional, but the watch/player-response endpoint is blocked without them from this runner)"
+        description: "Netscape-format YouTube cookies.txt content (required — YouTube blocks anonymous watch access from this runner's IP without them)"
         required: false
         default: ""
 
@@ -47,15 +49,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up JDK 17
-        uses: actions/setup-java@v4
+      - name: Set up Node.js (yt-dlp's JS-challenge solver)
+        uses: actions/setup-node@v4
         with:
-          distribution: temurin
-          java-version: "17"
-
-      - name: Build newpipe-cli
-        working-directory: newpipe-cli
-        run: ./gradlew installDist --no-daemon
+          node-version: "22"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -83,7 +80,6 @@ jobs:
       - name: Generate playlist
         working-directory: engine
         env:
-          NEWPIPE_CLI_PATH: ${{ github.workspace }}/newpipe-cli/build/install/newpipe-cli/bin/newpipe-cli
           YT_COOKIES_FILE: ${{ github.workspace }}/yt_cookies.txt
           HF_HOME: ${{ github.workspace }}/.hf-cache
           DIGGER_DEBUG: "1"
