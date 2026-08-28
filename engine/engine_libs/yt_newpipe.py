@@ -68,6 +68,13 @@ def search_yt_for_track(artist: str, title: str, use_cache: bool = True) -> dict
         return None
 
     if "error" in data or "videoId" not in data:
+        # The CLI itself explains why (no candidates, StreamInfo.getInfo
+        # threw, ...) on stderr — surfaced only in DIGGER_DEBUG mode so the
+        # local server's console stays quiet, but this is exactly the branch
+        # that was silently swallowing every rejection reason during the
+        # first GitHub Actions runs (accepted=0, no diagnostic anywhere).
+        if os.environ.get("DIGGER_DEBUG") and proc.stderr:
+            print(f"[yt_newpipe] not_found {artist} - {title}: {proc.stderr.strip()[-400:]}", flush=True)
         return None
 
     vid = data["videoId"]
