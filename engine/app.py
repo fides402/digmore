@@ -879,6 +879,50 @@ async def embed_audio(profile: str = Form(...), audio: UploadFile = File(...)):
                 pass
 
 
+@app.post("/api/embed_raw")
+async def embed_raw_audio(audio: UploadFile = File(...)):
+    """Stateless raw CLAP embedding extractor for COLOSSO.
+    Accepts audio snippet (up to 8MB / ~30s), returns the 512-dim L2-normalized
+    embedding vector without computing similarity against a fixed profile.
+    """
+    raw = await audio.read()
+    if not raw:
+        raise HTTPException(400, "audio vuoto")
+    if len(raw) > 8 * 1024 * 1024:
+        raise HTTPException(413, "audio troppo grande (max 8MB)")
+
+    import subprocess
+    import tempfile
+    import numpy as np
+    import clap_model
+
+    with tempfile.NamedTemporaryFile(suffix=".bin", delete=False) as tmp_in:
+        tmp_in.write(raw)
+        tmp_in_path = tmp_in.name
+    tmp_out_path = tmp_in_path + ".mp3"
+    try:
+        proc = subprocess.run(
+            ["ffmpeg", "-y", "-i", tmp_in_path, "-t", "30", "-vn",
+             "-acodec", "libmp3lame", "-b:a", "128k", tmp_out_path],
+            capture_output=True, text=True, timeout=30,
+        )
+        if proc.returncode != 0 or not os.path.exists(tmp_out_path) or os.path.getsize(tmp_out_path) == 0:
+            raise HTTPException(422, f"audio non decodificabile: {proc.stderr[-300:]}")
+
+        emb = clap_model.embed_audio(tmp_out_path)
+        emb_arr = np.asarray(emb, dtype=np.float32)
+        norm = float(np.linalg.norm(emb_arr))
+        if norm > 1e-9:
+            emb_arr = emb_arr / norm
+        return {"embedding": emb_arr.tolist(), "dim": len(emb_arr)}
+    finally:
+        for p in (tmp_in_path, tmp_out_path):
+            try:
+                os.remove(p)
+            except OSError:
+                pass
+
+
 # ── Static UI (local dev / single-host deploy) ───────────────────────────────
 _WEB = (Path(__file__).resolve().parents[1] / "web")
 if _WEB.is_dir():

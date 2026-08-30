@@ -164,6 +164,8 @@ def build_candidates(
                     "label":         (rel.get("label") or [""])[0],
                     "country":       rel.get("country", ""),
                     "discogs_id":    rel["id"],
+                    "genres":        rel.get("genre", []),
+                    "styles":        rel.get("style", []),
                 })
             time.sleep(0.4)   # ~60 req/min limit
         except Exception:
