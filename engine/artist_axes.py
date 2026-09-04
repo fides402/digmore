@@ -188,8 +188,16 @@ def axes_for_artists(names: list[str], use_cache: bool = True) -> dict:
             country_releases[c] = country_releases.get(c, 0) + 1
         all_years += info["years"]
 
+    # The two-artist gate only makes sense when there ARE several artists to
+    # corroborate each other. Applied to a one- or two-artist profile it
+    # rejects every style and drops the search to bare genres — seen live on a
+    # single-artist link, which turned into a Discogs query for
+    # "Hip Hop, Electronic, Rock, Pop" and dug up unrelated catalogue. With few
+    # seeds there is no impostor to filter out anyway: a wrong artist would BE
+    # the profile, and no threshold saves that.
+    gate = _MIN_ARTISTS_PER_STYLE if found >= 3 else 1
     ranked_styles = sorted(
-        (s for s in style_releases if len(style_artists[s]) >= _MIN_ARTISTS_PER_STYLE),
+        (s for s in style_releases if len(style_artists[s]) >= gate),
         key=lambda s: style_releases[s],
         reverse=True,
     )

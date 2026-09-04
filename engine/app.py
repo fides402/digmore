@@ -35,6 +35,8 @@ import profiles
 import digger
 import listened_store
 import discogs_hunter  # for the cover-proxy User-Agent header
+import seq_features
+import sequencer
 
 _OPENROUTER_KEY = os.environ.get("OPENROUTER_KEY", "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")
 
@@ -263,6 +265,7 @@ app.add_middleware(
 
 JOBS: dict[str, dict] = {}          # generation jobs
 BUILD_JOBS: dict[str, dict] = {}    # profile-build jobs
+SEQUENCE_JOBS: dict[str, dict] = {}
 
 
 # ── Profiles ─────────────────────────────────────────────────────────────────
@@ -375,6 +378,67 @@ def generate_stop(job_id: str):
         raise HTTPException(404, "job sconosciuto")
     j["stop_requested"] = True
     return {"ok": True}
+
+
+# ── Sequenced TXT export ────────────────────────────────────────────────────
+
+@app.post("/api/sequence")
+async def start_sequence(request: Request):
+    body = await request.json()
+    tracks = body.get("tracks") or []
+    if not isinstance(tracks, list) or not tracks:
+        raise HTTPException(400, "playlist vuota")
+    if len(tracks) > 60:
+        raise HTTPException(400, "massimo 60 brani")
+    job_id = uuid.uuid4().hex[:12]
+    job = {"job_id": job_id, "status": "running", "analyzed": 0,
+           "total": len(tracks), "order": [], "transitions": [],
+           "unanalyzed": [], "sequenced": False, "txt": None, "error": None,
+           "name": str(body.get("name") or "playlist")}
+    SEQUENCE_JOBS[job_id] = job
+    while len(SEQUENCE_JOBS) > 20:
+        oldest = next(iter(SEQUENCE_JOBS))
+        if oldest == job_id: break
+        SEQUENCE_JOBS.pop(oldest, None)
+
+    def _run():
+        try:
+            feature_map = {}
+            reanalyze = bool(body.get("reanalyze", False))
+            def analyze(track):
+                vid = str(track.get("video_id") or "")
+                return vid, seq_features.features_for(vid, reanalyze=reanalyze) if vid else None
+            with ThreadPoolExecutor(max_workers=3) as pool:
+                futures = [pool.submit(analyze, t) for t in tracks]
+                for future in futures:
+                    vid, feat = future.result()
+                    if vid and feat is not None: feature_map[vid] = feat
+                    job["analyzed"] += 1
+            result = sequencer.sequence(tracks, feature_map)
+            job.update(result)
+            job["txt"] = sequencer.render_txt(result["order"])
+            job["status"] = "done"
+        except Exception as exc:
+            job["status"] = "error"; job["error"] = str(exc)
+    threading.Thread(target=_run, daemon=True).start()
+    return {"job_id": job_id}
+
+
+@app.get("/api/sequence/{job_id}")
+def sequence_status(job_id: str):
+    job = SEQUENCE_JOBS.get(job_id)
+    if not job: raise HTTPException(404, "job sconosciuto")
+    return job
+
+
+@app.get("/api/sequence/{job_id}/txt")
+def sequence_txt(job_id: str):
+    job = SEQUENCE_JOBS.get(job_id)
+    if not job: raise HTTPException(404, "job sconosciuto")
+    if job.get("status") != "done": raise HTTPException(409, "export non pronto")
+    filename = sequencer.slugify(job.get("name")) + ".txt"
+    return Response(job.get("txt") or "", media_type="text/plain; charset=utf-8",
+                    headers={"Content-Disposition": f'attachment; filename="{filename}"'})
 
 
 # ── Listened store ───────────────────────────────────────────────────────────
@@ -880,10 +944,20 @@ async def embed_audio(profile: str = Form(...), audio: UploadFile = File(...)):
 
 
 @app.post("/api/embed_raw")
-async def embed_raw_audio(audio: UploadFile = File(...)):
-    """Stateless raw CLAP embedding extractor for COLOSSO.
-    Accepts audio snippet (up to 8MB / ~30s), returns the 512-dim L2-normalized
+async def embed_raw_audio(audio: UploadFile = File(...), offset_sec: float = Form(0.0)):
+    """Stateless raw CLAP embedding extractor for COLOSSO and DIGMORE v2.
+    Accepts an audio snippet (up to 8MB), returns the 512-dim L2-normalized
     embedding vector without computing similarity against a fixed profile.
+
+    `offset_sec` picks where the 30-second analysis window starts inside the
+    upload. It exists because the caller CANNOT skip the intro itself: a
+    byte-range chunk taken from the middle of a WebM/Opus stream carries no
+    container header and ffmpeg rejects it outright ("Invalid data found when
+    processing input" — measured against real googlevideo URLs on 04/09/2026,
+    which is why every DIGMORE embedding silently failed until then). So the
+    phone sends a container-valid chunk starting at byte 0 and says how far in
+    the interesting part is; seeking is cheap here and impossible there.
+    Defaults to 0, so existing callers (COLOSSO) are unaffected.
     """
     raw = await audio.read()
     if not raw:
@@ -901,13 +975,25 @@ async def embed_raw_audio(audio: UploadFile = File(...)):
         tmp_in_path = tmp_in.name
     tmp_out_path = tmp_in_path + ".mp3"
     try:
-        proc = subprocess.run(
-            ["ffmpeg", "-y", "-i", tmp_in_path, "-t", "30", "-vn",
-             "-acodec", "libmp3lame", "-b:a", "128k", tmp_out_path],
-            capture_output=True, text=True, timeout=30,
-        )
-        if proc.returncode != 0 or not os.path.exists(tmp_out_path) or os.path.getsize(tmp_out_path) == 0:
-            raise HTTPException(422, f"audio non decodificabile: {proc.stderr[-300:]}")
+        def _decode(seek: float) -> bool:
+            """ffmpeg -ss BEFORE -i seeks by keyframe and is fast; a chunk
+            shorter than `seek` yields an empty file rather than an error,
+            which is why the caller checks the size and not the return code."""
+            args = ["ffmpeg", "-y"]
+            if seek > 0:
+                args += ["-ss", str(seek)]
+            args += ["-i", tmp_in_path, "-t", "30", "-vn",
+                     "-acodec", "libmp3lame", "-b:a", "128k", tmp_out_path]
+            p = subprocess.run(args, capture_output=True, text=True, timeout=30)
+            return (p.returncode == 0 and os.path.exists(tmp_out_path)
+                    and os.path.getsize(tmp_out_path) > 4096)
+
+        seek = max(0.0, float(offset_sec or 0.0))
+        # Falling back to the start matters: a short track (or a small chunk)
+        # has nothing at the requested offset, and analysing its opening is
+        # far better than refusing to analyse it at all.
+        if not _decode(seek) and not (seek > 0 and _decode(0.0)):
+            raise HTTPException(422, "audio non decodificabile")
 
         emb = clap_model.embed_audio(tmp_out_path)
         emb_arr = np.asarray(emb, dtype=np.float32)
