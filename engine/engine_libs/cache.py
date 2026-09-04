@@ -20,11 +20,15 @@ _LOCK = threading.Lock()
 CACHE_DIR = Path(__file__).resolve().parent / ".cache" / "yt"
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 INDEX = CACHE_DIR / "index.json"
+SEQ_INDEX = CACHE_DIR / "seq_index.json"
 
 # Bump when the feature schema changes → old entries auto-invalidate.
 # v3: candidate vectors are now 2-D (n_segments × dim) from multi-segment +
 #     HPSS drum-robust extraction; old 1-D entries must be re-analyzed.
 CACHE_VERSION = 3
+SEQ_CACHE_VERSION = 1
+
+SEQ_VECTOR_KEYS = ["mfcc", "chroma", "tonnetz", "clap", "instr"]
 
 # All vector features the scorer needs (numpy arrays). 'clap' may be None.
 VECTOR_KEYS = [
@@ -105,3 +109,44 @@ def stats() -> dict:
     idx = _load_index()
     return {"cached_videos": sum(1 for m in idx.values()
                                  if m.get("_v") == CACHE_VERSION)}
+
+
+def _load_seq_index() -> dict:
+    if SEQ_INDEX.exists():
+        try:
+            return json.loads(SEQ_INDEX.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+
+def seq_get(video_id: str) -> dict | None:
+    meta = _load_seq_index().get(video_id)
+    npz = CACHE_DIR / f"seq_{video_id}.npz"
+    if not meta or meta.get("_v") != SEQ_CACHE_VERSION or not npz.exists():
+        return None
+    try:
+        with np.load(npz) as data:
+            if not all(k in data.files for k in SEQ_VECTOR_KEYS):
+                return None
+            feat = {k: v for k, v in meta.items() if not k.startswith("_")}
+            feat.update({k: data[k].astype(np.float32) for k in SEQ_VECTOR_KEYS})
+            return feat
+    except Exception:
+        return None
+
+
+def seq_put(video_id: str, feat: dict):
+    arrays = {
+        k: np.asarray(feat.get(k, []), dtype=np.float32)
+        for k in SEQ_VECTOR_KEYS
+    }
+    np.savez(CACHE_DIR / f"seq_{video_id}.npz", **arrays)
+    scalars = {
+        k: _jsonable(v) for k, v in feat.items()
+        if k not in SEQ_VECTOR_KEYS
+    }
+    with _LOCK:
+        idx = _load_seq_index()
+        idx[video_id] = {**scalars, "_v": SEQ_CACHE_VERSION}
+        SEQ_INDEX.write_text(json.dumps(idx, indent=2), encoding="utf-8")
