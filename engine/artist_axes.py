@@ -42,6 +42,22 @@ _SLEEP = 1.1
 # different act; a single impostor can't clear a threshold of two.
 _MIN_ARTISTS_PER_STYLE = 2
 
+# Discogs genres/styles that are not music, or not a sound. An artist who also
+# wrote for radio or theatre carries them on their page, and they were being
+# turned into search axes: a real dig for a Lebanese songwriter went to Discogs
+# asking for "Non-Music/Radioplay" and "Jazz/Comedy" and came back with spoken
+# recordings. Nothing downstream can rescue that — CLAP will happily embed a
+# radio play and score it against a song.
+_NON_MUSICAL_GENRES = frozenset({
+    "non-music", "brass & military", "children's",
+})
+_NON_MUSICAL_STYLES = frozenset({
+    "radioplay", "comedy", "spoken word", "interview", "monolog", "dialogue",
+    "poetry", "audiobook", "education", "field recording", "sermon",
+    "political", "religious", "speech", "sound art", "special effects",
+    "public broadcast", "story", "fiction", "health-fitness",
+})
+
 _MAX_RELEASES_PER_ARTIST = 25
 _MAX_SEARCHES = 8
 _MAX_COUNTRIES = 3
@@ -96,8 +112,8 @@ def _lookup(name: str) -> dict:
     # "Stage & Screen", and Discogs returns almost nothing for those pairs.
     pairs: list[list[str]] = []
     for r in rows:
-        row_genres = [g for g in (r.get("genre") or []) if g]
-        row_styles = [s for s in (r.get("style") or []) if s]
+        row_genres = [g for g in (r.get("genre") or []) if g and g.lower() not in _NON_MUSICAL_GENRES]
+        row_styles = [s for s in (r.get("style") or []) if s and s.lower() not in _NON_MUSICAL_STYLES]
         genres += row_genres
         styles += row_styles
         for s in row_styles:
