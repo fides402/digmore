@@ -42,11 +42,15 @@ import discogs_ext
 # this many years gets padded symmetrically before the first round.
 MIN_WINDOW_YEARS = 10
 
-# Overshoot: roughly two thirds of Discogs candidates turn out to exist on
-# Spotify (measured: 66 of 100), and DIGMORE v2 then RANKS them by CLAP
-# similarity instead of taking whatever lands, so it needs real margin to
-# choose from. 3x the target, against generate_cli.py's 2x.
-OVERSHOOT = 3
+# Overshoot: the "measured: 66 of 100" Spotify hit rate below was from
+# mainstream-leaning catalogue. On the niche repertoire this axis-restricted
+# digger actually targets, a real run found only 7 of 61 Discogs candidates
+# (~11%) on Spotify (Bala Wala Chi run, 04/09/2026 — see HANDOFF.md). DIGMORE
+# v2 then RANKS whatever lands by CLAP similarity, so it needs real margin to
+# choose from: ~10x the target, up from 3x. Cheap to raise — unmatched
+# candidates cost only a Spotify search (~1s), only matched ones pay the
+# embedding.
+OVERSHOOT = 10
 MAX_ROUNDS = 14
 
 
