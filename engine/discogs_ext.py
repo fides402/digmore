@@ -158,11 +158,19 @@ def build_candidates(
 
     releases = []
     seen_rel_ids = set()
-    for s in chosen_searches:
+    # One country per search combo, cycled. Discogs' search takes a single
+    # country per query, so N countries would mean N times the queries;
+    # cycling keeps the cost proportional to the number of combos instead of
+    # multiplying it, and across the many rounds a run makes, every country in
+    # the list gets its turn. An empty list = no country filter at all, which
+    # is what every caller before DIGMORE v2 gets.
+    country_cycle = [c for c in (countries or []) if c]
+    for i, s in enumerate(chosen_searches):
         try:
             batch = dh.search_releases(
                 genre=s.get("genre", ""),
                 style=s.get("style", ""),
+                country=country_cycle[i % len(country_cycle)] if country_cycle else "",
                 year_from=y_from,
                 year_to=y_to,
                 max_have=max_have,

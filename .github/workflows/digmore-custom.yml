@@ -1,27 +1,84 @@
 name: digmore-custom
+
+# One DIGMORE dig driven by a DYNAMIC profile sent from the diggaplayer app
+# (DIGMORE v2): the phone derives a taste profile from the user's Spotify
+# liked songs or from a shared link, and sends the seed artists + era here.
+# engine/digspec_cli.py turns those into Discogs search axes (via
+# engine/artist_axes.py — Discogs itself, not Spotify, which does not expose
+# artist genres to a web-session token) and digs.
+#
+# The three-macrogenre workflow, digmore-generate.yml, is untouched and still
+# works: this is a second entry point, not a replacement.
+#
+# DISCOGS ONLY, same as digmore-generate.yml and for the same reason: YouTube
+# refuses watch/player-response requests from this IP class outright even with
+# a valid authenticated cookie export (verified live 28/08/2026 with two
+# independent clients). The audio fetch and the CLAP ranking both run on the
+# phone, which has an ordinary mobile/home IP.
+
 on:
   workflow_dispatch:
     inputs:
-      spec: {description: 'Base64 DigSpec JSON', required: true, type: string}
-permissions: {contents: write}
+      spec:
+        description: 'Base64 DigSpec JSON (seed_artists, year_from/to, optional searches/countries/target)'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    # Deriving axes costs one Discogs lookup per seed artist at ~1.1s each
+    # (their 60 req/min limit), on top of the dig itself.
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
+
       - run: pip install --no-cache-dir requests
+
       - name: Generate
         working-directory: engine
-        env: {DIGSPEC: '${{ inputs.spec }}'}
+        env:
+          DIGSPEC: '${{ inputs.spec }}'
+          DISCOGS_TOKEN: '${{ secrets.DISCOGS_TOKEN }}'
         run: python digspec_cli.py --spec "$DIGSPEC" --out "$GITHUB_WORKSPACE/digmore-custom.json"
+
+      # Committed to the repo rather than uploaded as an artifact: this
+      # account's Actions artifact storage quota is exhausted (see
+      # digmore-generate.yml). Keyed by run id so two digs started close
+      # together never overwrite each other — the app polls for its own run
+      # id and reads back exactly that file.
       - name: Publish run-specific result
+        if: always()
         run: |
-          mkdir -p results
-          cp digmore-custom.json "results/run-${{ github.run_id }}.json"
+          mkdir -p results state
+          if [ -f digmore-custom.json ]; then
+            cp digmore-custom.json "results/run-${{ github.run_id }}.json"
+          else
+            echo '{"status":"error","spec_used":{},"results":[]}' > "results/run-${{ github.run_id }}.json"
+          fi
           git config user.name digmore-bot
           git config user.email digmore-bot@users.noreply.github.com
-          git add results/run-${{ github.run_id }}.json
-          git commit -m "results: custom run ${{ github.run_id }}" || true
-          git push origin HEAD:main
+          git add "results/run-${{ github.run_id }}.json"
+          # The artist -> Discogs axes cache. A GitHub runner has no other
+          # persistent storage, and this is what makes the second dig with the
+          # same artists nearly free instead of paying the 1.1s/artist again.
+          git add state/artist-axes.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "results: custom run ${{ github.run_id }}"
+          # Two digs finishing close together race on the push; without this
+          # the second one fails AFTER doing all the work.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            echo "push rejected, rebasing (attempt $attempt)"
+            git pull --rebase origin main
+          done
+          exit 1
