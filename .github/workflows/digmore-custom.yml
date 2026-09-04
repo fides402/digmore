@@ -1,0 +1,27 @@
+name: digmore-custom
+on:
+  workflow_dispatch:
+    inputs:
+      spec: {description: 'Base64 DigSpec JSON', required: true, type: string}
+permissions: {contents: write}
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install --no-cache-dir requests
+      - name: Generate
+        working-directory: engine
+        env: {DIGSPEC: '${{ inputs.spec }}'}
+        run: python digspec_cli.py --spec "$DIGSPEC" --out "$GITHUB_WORKSPACE/digmore-custom.json"
+      - name: Publish run-specific result
+        run: |
+          mkdir -p results
+          cp digmore-custom.json "results/run-${{ github.run_id }}.json"
+          git config user.name digmore-bot
+          git config user.email digmore-bot@users.noreply.github.com
+          git add results/run-${{ github.run_id }}.json
+          git commit -m "results: custom run ${{ github.run_id }}" || true
+          git push origin HEAD:main

@@ -133,6 +133,10 @@ def build_candidates(
     n_releases: int = 18,
     tracks_per_release: int = 4,
     exclude_ids: set | None = None,
+    searches: list[dict] | None = None,
+    countries: list[str] | None = None,
+    year_from: int | None = None,
+    year_to: int | None = None,
 ) -> tuple[list[dict], dict]:
     """Return (candidates, diag) for a macrogenre profile.
 
@@ -141,8 +145,9 @@ def build_candidates(
     """
     cfg = GENRE_MAP.get(profile, {"searches": [{"genre": ""}]})
     exclude_styles = {s.lower() for s in cfg.get("exclude_styles", set())}
-    searches = cfg.get("searches") or [{"genre": cfg.get("genre", ""),
+    searches = searches or cfg.get("searches") or [{"genre": cfg.get("genre", ""),
                                         "style": cfg.get("style", "")}]
+    y_from, y_to = (YEAR_FROM if year_from is None else year_from), (YEAR_TO if year_to is None else year_to)
 
     # Pick a random handful of (genre, style) combos this round so different
     # scenes/nationalities surface and the reachable pool stays large despite
@@ -158,8 +163,8 @@ def build_candidates(
             batch = dh.search_releases(
                 genre=s.get("genre", ""),
                 style=s.get("style", ""),
-                year_from=YEAR_FROM,
-                year_to=YEAR_TO,
+                year_from=y_from,
+                year_to=y_to,
                 max_have=max_have,
                 n=per_search,
                 exclude_ids=exclude_ids,
