@@ -1,4 +1,302 @@
 {
+ "navy blue": {
+  "countries": [
+   "Central America",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "Spain",
+   "Unknown",
+   "Netherlands",
+   "US",
+   "US",
+   "US",
+   "US",
+   "USA, Canada & Europe",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "Worldwide",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Pop",
+   "Hip Hop",
+   "Pop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Rock",
+   "Folk, World, & Country",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "Drone",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Dream Pop",
+    "Electronic"
+   ],
+   [
+    "Dream Pop",
+    "Rock"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Rock"
+   ],
+   [
+    "Lo-Fi",
+    "Electronic"
+   ],
+   [
+    "Lo-Fi",
+    "Rock"
+   ],
+   [
+    "Shoegaze",
+    "Electronic"
+   ],
+   [
+    "Shoegaze",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Dream Pop",
+    "Electronic"
+   ],
+   [
+    "Dream Pop",
+    "Rock"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Rock"
+   ],
+   [
+    "Shoegaze",
+    "Electronic"
+   ],
+   [
+    "Shoegaze",
+    "Rock"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Jazzy Hip-Hop",
+   "Ambient",
+   "New Age",
+   "Drone",
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Conscious",
+   "Ambient",
+   "Dream Pop",
+   "Ethereal",
+   "Lo-Fi",
+   "Shoegaze",
+   "Ambient",
+   "Dream Pop",
+   "Ethereal",
+   "Shoegaze",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Folk Rock",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Conscious"
+  ],
+  "years": [
+   2022,
+   2018,
+   2021,
+   2021,
+   2026,
+   2025,
+   2009,
+   1983,
+   2022,
+   2023,
+   2023,
+   2026,
+   2017,
+   2020,
+   2026,
+   2025,
+   2026,
+   1982,
+   2022,
+   2026,
+   2026,
+   2022
+  ]
+ },
  "ziad rahbani": {
   "countries": [
    "Lebanon",
