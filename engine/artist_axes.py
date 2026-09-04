@@ -47,6 +47,10 @@ _MAX_SEARCHES = 8
 _MAX_COUNTRIES = 3
 _COUNTRY_MIN_SHARE = 0.20
 
+# A genre must be at least this share of the seed artists' catalogue to
+# contribute search axes. See the note in axes_for_artists.
+_GENRE_MIN_SHARE = 0.20
+
 
 def _norm(name: str) -> str:
     return " ".join(name.strip().lower().split())
@@ -206,6 +210,46 @@ def axes_for_artists(names: list[str], use_cache: bool = True) -> dict:
         pairs = genre_of_style.get(s) or {}
         genre = max(pairs, key=pairs.get) if pairs else ""
         searches.append({"genre": genre, "style": s})
+
+    # Drop the marginal genres.
+    #
+    # An artist's Discogs page spans everything they have ever been credited
+    # on, so taking the top styles by raw frequency mixes worlds: a hip-hop
+    # producer with a handful of ambient credits yielded "Hip Hop/Conscious,
+    # Jazzy Hip-Hop, Electronic/Ambient, Dream Pop, Ethereal, Shoegaze, New
+    # Age, Drone" — and since Discogs then samples those combos evenly, half
+    # the candidate pool was guaranteed to have nothing to do with the
+    # reference before a single note was heard. The CLAP ranking can only sort
+    # what it is given; it cannot conjure near matches out of a pool that has
+    # none, which is exactly how a dig comes back "generically the right genre
+    # but musically far away".
+    #
+    # So a genre has to account for a real share of the artist's catalogue to
+    # stay. Relaxed rather than enforced when it would leave too little to
+    # search: a thin set of axes returns almost nothing, which is a worse
+    # failure than a slightly wide one.
+    total_genre = sum(genre_releases.values()) or 1
+    shares = {g: n / total_genre for g, n in genre_releases.items()}
+    strong = {g for g, sh in shares.items() if sh >= _GENRE_MIN_SHARE}
+    focused = [q for q in searches if q["genre"] in strong]
+    if focused:
+        dropped = [q["style"] for q in searches if q not in focused]
+        if dropped:
+            print(
+                f"[artist_axes] dropped marginal-genre styles {dropped} "
+                f"(shares: { {g: round(v, 2) for g, v in shares.items()} })",
+                flush=True,
+            )
+        # Too few axes returns almost nothing, so the set still has to be
+        # widened — but widened INSIDE the dominant genre, with its bare
+        # genre search, never by letting a 10%-share genre back in. Going
+        # wide in the right place beats going wide in the wrong one.
+        if len(focused) < 3:
+            top = max(strong, key=lambda g: shares[g])
+            if not any(q["genre"] == top and not q["style"] for q in focused):
+                focused.append({"genre": top, "style": ""})
+                print(f"[artist_axes] widened within '{top}' instead of across genres", flush=True)
+        searches = focused
 
     # Nothing cleared the two-artist gate (a very small or very eclectic
     # profile): fall back to bare genres, which are far coarser but never
