@@ -1,4 +1,12 @@
 {
+ "ahmed mounib": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
  "airto moreira": {
   "countries": [
    "US",
@@ -859,6 +867,14 @@
    2022,
    2024
   ]
+ },
+ "al massrieen": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
  },
  "alessandro alessandroni": {
   "countries": [
@@ -1855,6 +1871,161 @@
    2014,
    2010,
    2014
+  ]
+ },
+ "amr diab": {
+  "countries": [
+   "Middle East",
+   "United Arab Emirates",
+   "Egypt",
+   "Middle East",
+   "Greece",
+   "Egypt",
+   "Egypt",
+   "Europe",
+   "Egypt",
+   "Middle East",
+   "Middle East",
+   "Middle East",
+   "Egypt",
+   "Middle East",
+   "Egypt",
+   "Europe",
+   "Middle East",
+   "Europe",
+   "Egypt",
+   "Egypt",
+   "Middle East",
+   "Middle East",
+   "Lebanon",
+   "Middle East",
+   "Egypt"
+  ],
+  "genres": [
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Electronic",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Electronic",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Arabic Pop",
+    "Pop"
+   ],
+   [
+    "Arabic Pop",
+    "Folk, World, & Country"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Pop"
+   ],
+   [
+    "House",
+    "Folk, World, & Country"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Pop"
+   ],
+   [
+    "Techno",
+    "Folk, World, & Country"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Folk, World, & Country"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Arabic Pop",
+   "Vocal",
+   "House",
+   "Techno",
+   "Vocal"
+  ],
+  "years": [
+   2012,
+   2010,
+   1998,
+   1987,
+   1998,
+   2001,
+   2005,
+   1990,
+   1992,
+   1991,
+   2001,
+   1991,
+   2002,
+   2004,
+   2015,
+   2003,
+   1994,
+   2004,
+   1993,
+   1987,
+   1994,
+   1993
   ]
  },
  "ankhlejohn": {
@@ -4181,6 +4352,251 @@
    2023
   ]
  },
+ "dorsaf hamdani": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
+ "douaa": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
+ "elias rahbani": {
+  "countries": [
+   "Lebanon",
+   "Middle East",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Turkey",
+   "Egypt",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Egypt",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Saudi Arabia",
+   "Europe"
+  ],
+  "genres": [
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Folk, World, & Country",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Funk / Soul",
+   "Pop",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Electronic",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Children's",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Funk / Soul",
+   "Pop",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Classical",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Funk / Soul",
+   "Pop",
+   "Folk, World, & Country",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Folk",
+    "Pop"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Folk",
+    "Pop"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Pop"
+   ],
+   [
+    "Psychedelic",
+    "Folk, World, & Country"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Pop"
+   ],
+   [
+    "Psychedelic",
+    "Folk, World, & Country"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soundtrack",
+   "Folk",
+   "Soundtrack",
+   "Theme",
+   "Folk",
+   "Soundtrack",
+   "Psychedelic",
+   "Soundtrack",
+   "Psychedelic",
+   "Psychedelic"
+  ],
+  "years": [
+   2009,
+   1998,
+   1978,
+   1981,
+   1974,
+   1973,
+   1982,
+   1974,
+   1998,
+   1995,
+   1974,
+   1976,
+   1998,
+   1974,
+   1974,
+   1976,
+   1976,
+   1999
+  ]
+ },
  "ennio morricone": {
   "countries": [
    "Japan",
@@ -4840,6 +5256,186 @@
    1994
   ]
  },
+ "fairuz": {
+  "countries": [
+   "Lebanon",
+   "Greece",
+   "Lebanon",
+   "Middle East",
+   "Lebanon",
+   "Europe",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Greece",
+   "Lebanon",
+   "US",
+   "Lebanon",
+   "Unknown",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon"
+  ],
+  "genres": [
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Classical",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Holiday",
+    "Folk, World, & Country"
+   ],
+   [
+    "Musical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Musical",
+    "Stage & Screen"
+   ],
+   [
+    "Musical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Musical",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Jazz"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary",
+    "Stage & Screen"
+   ],
+   [
+    "Andalusian Classical",
+    "Classical"
+   ],
+   [
+    "Andalusian Classical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Andalusian Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Musical",
+    "Classical"
+   ],
+   [
+    "Musical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Musical",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Holiday",
+   "Musical",
+   "Musical",
+   "Contemporary Jazz",
+   "Folk",
+   "Contemporary",
+   "Andalusian Classical",
+   "Musical"
+  ],
+  "years": [
+   1972,
+   1973,
+   1995,
+   2000,
+   1997,
+   1972,
+   1967,
+   1967,
+   1974,
+   1972,
+   1972,
+   2010,
+   1957,
+   1999,
+   1993,
+   1995
+  ]
+ },
+ "ferkat al ard": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
  "fly anakin": {
   "countries": [
    "UK",
@@ -4966,6 +5562,258 @@
    2019,
    2022,
    2018
+  ]
+ },
+ "georgette sayegh": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
+ "ghalia benali": {
+  "countries": [
+   "Netherlands",
+   "Netherlands",
+   "Belgium",
+   "Belgium",
+   "Belgium",
+   "Netherlands",
+   "Europe",
+   "Belgium",
+   "Netherlands",
+   "US",
+   "Benelux"
+  ],
+  "genres": [
+   "Folk, World, & Country",
+   "Jazz",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Jazz",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Classical",
+   "Folk, World, & Country",
+   "Jazz",
+   "Folk, World, & Country",
+   "Classical",
+   "Folk, World, & Country",
+   "Electronic",
+   "Folk, World, & Country",
+   "Classical",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Persian Classical",
+    "Jazz"
+   ],
+   [
+    "Persian Classical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Jazz"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Pop"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary",
+    "Pop"
+   ],
+   [
+    "Contemporary",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Pop"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "African",
+    "Pop"
+   ],
+   [
+    "African",
+    "Folk, World, & Country"
+   ],
+   [
+    "Arabic Pop",
+    "Pop"
+   ],
+   [
+    "Arabic Pop",
+    "Folk, World, & Country"
+   ],
+   [
+    "African",
+    "Jazz"
+   ],
+   [
+    "African",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Indian Classical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ottoman Classical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Folk, World, & Country"
+   ],
+   [
+    "African",
+    "Jazz"
+   ],
+   [
+    "African",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Persian Classical",
+    "Classical"
+   ],
+   [
+    "Persian Classical",
+    "Folk, World, & Country"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Folk, World, & Country"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Folk, World, & Country"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Folk, World, & Country"
+   ],
+   [
+    "Early",
+    "Classical"
+   ],
+   [
+    "Early",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Folk, World, & Country"
+   ],
+   [
+    "Renaissance",
+    "Classical"
+   ],
+   [
+    "Renaissance",
+    "Folk, World, & Country"
+   ],
+   [
+    "Andalusian Classical",
+    "Classical"
+   ],
+   [
+    "Andalusian Classical",
+    "Folk, World, & Country"
+   ]
+  ],
+  "releases": 11,
+  "styles": [
+   "Persian Classical",
+   "Folk",
+   "Folk",
+   "Contemporary",
+   "Folk",
+   "African",
+   "Arabic Pop",
+   "African",
+   "Contemporary Jazz",
+   "Indian Classical",
+   "Ottoman Classical",
+   "Contemporary",
+   "African",
+   "Contemporary Jazz",
+   "Persian Classical",
+   "House",
+   "Electro",
+   "Baroque",
+   "Early",
+   "Contemporary",
+   "Renaissance",
+   "Andalusian Classical"
+  ],
+  "years": [
+   2010,
+   2011,
+   2011,
+   2001,
+   2017,
+   2008,
+   2020,
+   2022,
+   2011,
+   2016
   ]
  },
  "gianni ferrio": {
@@ -7286,6 +8134,278 @@
    1998
   ]
  },
+ "hanan": {
+  "countries": [
+   "US",
+   "Israel",
+   "Israel",
+   "Israel",
+   "Unknown",
+   "Israel",
+   "US",
+   "Israel",
+   "Israel",
+   "US",
+   "Israel",
+   "Israel",
+   "Israel",
+   "US",
+   "Europe",
+   "US",
+   "Israel",
+   "US",
+   "Unknown",
+   "UK",
+   "US",
+   "US",
+   "Israel",
+   "Israel",
+   "Israel"
+  ],
+  "genres": [
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Folk, World, & Country",
+   "Jazz",
+   "Pop",
+   "Folk, World, & Country",
+   "Rock",
+   "Pop",
+   "Stage & Screen",
+   "Rock",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Electronic",
+   "Stage & Screen",
+   "Pop",
+   "Jazz",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Folk, World, & Country",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Post Rock",
+    "Rock"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Folk",
+    "Pop"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Rock"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Pop"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Stage & Screen"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Zemer Ivri",
+    "Rock"
+   ],
+   [
+    "Zemer Ivri",
+    "Pop"
+   ],
+   [
+    "Zemer Ivri",
+    "Folk, World, & Country"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Ambient",
+   "Post Rock",
+   "Folk",
+   "Score",
+   "Folk",
+   "Easy Listening",
+   "Pop Rock",
+   "Soundtrack",
+   "Folk Rock",
+   "Folk",
+   "Folk",
+   "Soundtrack",
+   "Soundtrack",
+   "Soundtrack",
+   "Chanson",
+   "Easy Listening",
+   "Soundtrack",
+   "Contemporary",
+   "Classical",
+   "Soundtrack",
+   "Easy Listening",
+   "Easy Listening",
+   "Soft Rock",
+   "Zemer Ivri"
+  ],
+  "years": [
+   2014,
+   1989,
+   1976,
+   1977,
+   2020,
+   1987,
+   1994,
+   2006,
+   1982,
+   2016,
+   1985,
+   2003,
+   1989,
+   2013,
+   2016,
+   2012,
+   1971,
+   1999,
+   2013,
+   2020,
+   1991,
+   1999,
+   2011,
+   1974,
+   1992
+  ]
+ },
  "harold alexander": {
   "countries": [
    "Europe",
@@ -7921,6 +9041,14 @@
    2018,
    2018
   ]
+ },
+ "issam hajali": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
  },
  "james vincent": {
   "countries": [
@@ -9019,6 +10147,14 @@
    1998,
    1977
   ]
+ },
+ "joseph saker": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
  },
  "kingo hamada": {
   "countries": [
@@ -11501,6 +12637,317 @@
    1989,
    2025
   ]
+ },
+ "maha": {
+  "countries": [
+   "UK",
+   "Turkey",
+   "Turkey",
+   "Spain",
+   "US",
+   "Germany",
+   "Nigeria",
+   "Germany",
+   "US",
+   "Germany",
+   "Ukraine",
+   "Greece",
+   "Greece",
+   "US",
+   "Germany",
+   "Germany",
+   "Chile",
+   "Germany",
+   "Italy",
+   "Unknown",
+   "US",
+   "USA & Canada",
+   "Canada",
+   "Unknown",
+   "Germany"
+  ],
+  "genres": [
+   "Electronic",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Rock",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Folk, World, & Country",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Classical",
+   "Folk, World, & Country",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Deep House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Acid Rock",
+    "Rock"
+   ],
+   [
+    "Acid Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Black Metal",
+    "Rock"
+   ],
+   [
+    "Death Metal",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Folk, World, & Country"
+   ],
+   [
+    "Highlife",
+    "Funk / Soul"
+   ],
+   [
+    "Highlife",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Folk, World, & Country"
+   ],
+   [
+    "African",
+    "Funk / Soul"
+   ],
+   [
+    "African",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Dark Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Drone",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Doom Metal",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Stoner Rock",
+    "Rock"
+   ],
+   [
+    "Stoner Rock",
+    "Rock"
+   ],
+   [
+    "Space Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Breaks",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Folk, World, & Country"
+   ],
+   [
+    "Stoner Rock",
+    "Rock"
+   ],
+   [
+    "Dark Ambient",
+    "Electronic"
+   ],
+   [
+    "Doom Metal",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Black Metal",
+    "Rock"
+   ],
+   [
+    "Death Metal",
+    "Rock"
+   ],
+   [
+    "Choral",
+    "Pop"
+   ],
+   [
+    "Choral",
+    "Classical"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Deep House",
+   "House",
+   "Acid Rock",
+   "Black Metal",
+   "Death Metal",
+   "Psychedelic Rock",
+   "Disco",
+   "Highlife",
+   "Soul",
+   "African",
+   "Ambient",
+   "Downtempo",
+   "Dark Ambient",
+   "Ambient",
+   "Downtempo",
+   "Drone",
+   "Abstract",
+   "Doom Metal",
+   "Psychedelic Rock",
+   "Stoner Rock",
+   "Stoner Rock",
+   "Space Rock",
+   "Psychedelic Rock",
+   "Ambient",
+   "Downtempo",
+   "Downtempo",
+   "Trip Hop",
+   "Breaks",
+   "New Age",
+   "Stoner Rock",
+   "Dark Ambient",
+   "Doom Metal",
+   "Psychedelic Rock",
+   "Black Metal",
+   "Death Metal",
+   "Choral",
+   "Psychedelic Rock"
+  ],
+  "years": [
+   1999,
+   2010,
+   2021,
+   2014,
+   1983,
+   2013,
+   2018,
+   2011,
+   2024,
+   2021,
+   2022,
+   2025,
+   2014,
+   2012,
+   2014,
+   2001,
+   2022,
+   2017,
+   2021,
+   2018,
+   1996,
+   2005,
+   2014
+  ]
+ },
+ "majida el roumi": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
  },
  "mick jenkins": {
   "countries": [
@@ -15554,6 +17001,179 @@
    1983
   ]
  },
+ "salwa": {
+  "countries": [
+   "France",
+   "Europe",
+   "Malaysia",
+   "Egypt",
+   "Malaysia",
+   "Malaysia",
+   "Malaysia",
+   "Malaysia",
+   "Malaysia",
+   "Malaysia",
+   "Malaysia",
+   "Malaysia",
+   "Malaysia",
+   "Malaysia",
+   "Poland",
+   "Germany",
+   "Germany",
+   "Belgium"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Funk / Soul",
+   "Classical",
+   "Folk, World, & Country",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Non-Music",
+   "Classical",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Vocal",
+    "Classical"
+   ],
+   [
+    "Vocal",
+    "Folk, World, & Country"
+   ],
+   [
+    "Dangdut",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Dangdut",
+    "Pop"
+   ],
+   [
+    "Dangdut",
+    "Folk, World, & Country"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Dangdut",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Dangdut",
+    "Electronic"
+   ],
+   [
+    "Dangdut",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Dangdut",
+    "Pop"
+   ],
+   [
+    "Education",
+    "Non-Music"
+   ],
+   [
+    "Spoken Word",
+    "Non-Music"
+   ],
+   [
+    "Folk",
+    "Classical"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "African",
+    "Folk, World, & Country"
+   ],
+   [
+    "Arabic Pop",
+    "Folk, World, & Country"
+   ],
+   [
+    "Raï",
+    "Folk, World, & Country"
+   ]
+  ],
+  "releases": 18,
+  "styles": [
+   "Vocal",
+   "Dangdut",
+   "Disco",
+   "Dangdut",
+   "Disco",
+   "Dangdut",
+   "Disco",
+   "Dangdut",
+   "Disco",
+   "Dangdut",
+   "Education",
+   "Spoken Word",
+   "Folk",
+   "African",
+   "Arabic Pop",
+   "Raï"
+  ],
+  "years": [
+   2000,
+   2026,
+   2010,
+   1995,
+   1987,
+   1987,
+   1990,
+   1997,
+   1987,
+   1996,
+   1989,
+   1994,
+   2002,
+   2011,
+   2000,
+   2001
+  ]
+ },
  "sandro brugnolini": {
   "countries": [
    "Worldwide",
@@ -17287,6 +18907,14 @@
    1976,
    1982
   ]
+ },
+ "seta hagopian": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
  },
  "shungu": {
   "countries": [
@@ -20929,6 +22557,176 @@
    2020,
    2021,
    2024
+  ]
+ },
+ "zaki nassif": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
+ "ziad rahbani": {
+  "countries": [
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Gulf Cooperation Council",
+   "Lebanon",
+   "Middle East",
+   "Lebanon",
+   "Middle East",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon",
+   "Middle East",
+   "Lebanon",
+   "Middle East",
+   "Middle East",
+   "Middle East",
+   "United Arab Emirates",
+   "Lebanon",
+   "Lebanon",
+   "Lebanon"
+  ],
+  "genres": [
+   "Folk, World, & Country",
+   "Jazz",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Non-Music",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Non-Music",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Jazz",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Non-Music",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Non-Music",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Radioplay",
+    "Non-Music"
+   ],
+   [
+    "Comedy",
+    "Jazz"
+   ],
+   [
+    "Comedy",
+    "Non-Music"
+   ],
+   [
+    "Comedy",
+    "Folk, World, & Country"
+   ],
+   [
+    "Comedy",
+    "Stage & Screen"
+   ],
+   [
+    "Radioplay",
+    "Non-Music"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Disco",
+   "Jazz-Funk",
+   "Radioplay",
+   "Comedy",
+   "Radioplay",
+   "Disco"
+  ],
+  "years": [
+   1995,
+   1977,
+   1995,
+   2008,
+   1995,
+   2010,
+   1973,
+   1975,
+   1985,
+   1974,
+   1985,
+   1974,
+   1985,
+   2010,
+   1995,
+   1995,
+   1999,
+   1996,
+   1995,
+   1985
   ]
  },
  "формация студио балкантон": {
