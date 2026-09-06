@@ -1,0 +1,597 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Score"
+      },
+      {
+        "genre": "Latin",
+        "style": "MPB"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2011,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "coverage": {
+      "artists_asked": 19,
+      "artists_found": 17,
+      "fresh_lookups": 19,
+      "styles_considered": 73
+    }
+  },
+  "results": [
+    {
+      "artist": "Robert Cobert",
+      "title": "Ben Confronts Terror",
+      "release_title": "Robert Cobert - Burnt Offerings (Original MGM Motion Picture Soundtrack)",
+      "year": "2011",
+      "label": "Counterpoint Records - Linden, Virginia",
+      "country": "US",
+      "discogs_id": 5505621,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/FlQ6q1Pa8ma1XtZnjW_VfA6ovEWggVUVu-rVZec-0B0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDU2/MjEtMTcwODIyNjY3/Ny0yMjYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "João Donato",
+      "title": "Straight Jacket",
+      "release_title": "Donato* - A Bad Donato",
+      "year": "1970",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 9596523,
+      "rating_avg": 4.59,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/o9aNyiO8bI5JSuop32ALyD13C5MX3V0VClanZ3BQTu4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY1/MjMtMTQ4MzM4OTQ3/OS0yMDAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "João Donato",
+      "title": "Celestial Showers",
+      "release_title": "Donato* - A Bad Donato",
+      "year": "1970",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 9596523,
+      "rating_avg": 4.59,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/o9aNyiO8bI5JSuop32ALyD13C5MX3V0VClanZ3BQTu4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY1/MjMtMTQ4MzM4OTQ3/OS0yMDAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Linha De Frente",
+      "title": "Pra Frente Brasil",
+      "release_title": "Various - Play Brazil",
+      "year": "2006",
+      "label": "Warner Music Latina",
+      "country": "US",
+      "discogs_id": 13781118,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jhThHUGrxbNUiA65UL0FolPQyt_1MuZiIet150L7jAQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgx/MTE4LTE1NjE3NjQz/MjEtNTc1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Victor Biglione",
+      "title": "Baleia Azul (Blue Whale)",
+      "release_title": "Various - Sampler '89",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 31217632,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_KB_-NOPjkjPpof1W5gomr6qaX1LdhAZ84BsZYtbfHE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE3/NjMyLTE3MjA5NDk3/MTItOTExNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert Cobert",
+      "title": "A House Reborn/End Title",
+      "release_title": "Robert Cobert - Burnt Offerings (Original MGM Motion Picture Soundtrack)",
+      "year": "2011",
+      "label": "Counterpoint Records - Linden, Virginia",
+      "country": "US",
+      "discogs_id": 5505621,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/FlQ6q1Pa8ma1XtZnjW_VfA6ovEWggVUVu-rVZec-0B0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDU2/MjEtMTcwODIyNjY3/Ny0yMjYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobby Walls & Co",
+      "title": "Just You And Me",
+      "release_title": "Bobby Walls & Company* - Just You And Me",
+      "year": "1972",
+      "label": "Paula Records",
+      "country": "US",
+      "discogs_id": 7192734,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/CxImN6jmXwMOX2StyUazgZbqio0DqiYBctNyuPm5jDM/rs:fit/g:sm/q:90/h:396/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTI3/MzQtMTQzNTgyNTEx/MS0zNjY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "João Donato",
+      "title": "The Frog",
+      "release_title": "Donato* - A Bad Donato",
+      "year": "1970",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 9596523,
+      "rating_avg": 4.59,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/o9aNyiO8bI5JSuop32ALyD13C5MX3V0VClanZ3BQTu4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY1/MjMtMTQ4MzM4OTQ3/OS0yMDAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lori Jenaire",
+      "title": "California Dreamin'",
+      "release_title": "Lori Jenaire - Fruition",
+      "year": "2007",
+      "label": "Nouveau Bleu Entertainment Records",
+      "country": "US",
+      "discogs_id": 5708548,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/-w_JDSjK3I4zI-fL3W02_KZpLG3_74J5iscl30Oz9wU/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDg1/NDgtMTQwMDUyMDU5/MS0yMjU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Alberto Favero",
+      "title": "Classical Tropico",
+      "release_title": "Various - Sampler '89",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 31217632,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_KB_-NOPjkjPpof1W5gomr6qaX1LdhAZ84BsZYtbfHE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE3/NjMyLTE3MjA5NDk3/MTItOTExNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tommy Steele",
+      "title": "I Know What I Am",
+      "release_title": "Tommy Steele - Half A Sixpence (Original Sound Track Recording)",
+      "year": "1968",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 32347737,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cDif81dqdYMWeVC1pF6sDbSV-SA1X2guX75_qBkJq4k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzQ3/NzM3LTE3MzIxOTEy/NTgtNTc4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dimitri Tiomkin & Pittsburgh Symphony Orchestra & Gary Merrill",
+      "title": "Part Four",
+      "release_title": "Dimitri Tiomkin, The Pittsburgh Symphony*, Gary Merrill - Rhapsody Of Steel",
+      "year": "2009",
+      "label": "Kritzerland",
+      "country": "US",
+      "discogs_id": 11119804,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WxYKOE75YfveEKKiG5FS76a25z-KR0wDpiJ2wj1anCs/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE5/ODA0LTE1NzU3Njk2/MjctNDI3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlinhos Brown",
+      "title": "Argila",
+      "release_title": "Carlinhos Brown - Alfagamabetizado",
+      "year": "1996",
+      "label": "Metro Blue",
+      "country": "US",
+      "discogs_id": 14799402,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Artie Kane",
+      "title": "Laura & Neville (Instrumental)",
+      "release_title": "Various - Eyes Of Laura Mars (Music From The Original Motion Picture Soundtrack)",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 24682733,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/vYO7JLm_wmeE5Iu36kU0YyIslFAOZZd8z_KfAMJv7-c/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njgy/NzMzLTE3MTk3OTQ2/OTUtNTQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kiko Zambianchi",
+      "title": "Povo Feliz (Voa, Canarinho Voa)",
+      "release_title": "Various - Play Brazil",
+      "year": "2006",
+      "label": "Warner Music Latina",
+      "country": "US",
+      "discogs_id": 13781118,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jhThHUGrxbNUiA65UL0FolPQyt_1MuZiIet150L7jAQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgx/MTE4LTE1NjE3NjQz/MjEtNTc1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Sundown",
+      "release_title": "Johnnie Taylor - Next Time / Sundown",
+      "year": "1968",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 3401806,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SuJgs92pLAbupOYqIg04Ll9qXplkIhvtb963oLT86jw/rs:fit/g:sm/q:90/h:308/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDE4/MDYtMTM2MzAzOTI2/Ny04MTA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Next Time",
+      "release_title": "Johnnie Taylor - Next Time / Sundown",
+      "year": "1968",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 3401806,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SuJgs92pLAbupOYqIg04Ll9qXplkIhvtb963oLT86jw/rs:fit/g:sm/q:90/h:308/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDE4/MDYtMTM2MzAzOTI2/Ny04MTA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "João Donato",
+      "title": "Cade Jodel? (The Beautiful One)",
+      "release_title": "Donato* - A Bad Donato",
+      "year": "1970",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 9596523,
+      "rating_avg": 4.59,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/o9aNyiO8bI5JSuop32ALyD13C5MX3V0VClanZ3BQTu4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY1/MjMtMTQ4MzM4OTQ3/OS0yMDAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Molejo",
+      "title": "Samba Rock Do Molejão",
+      "release_title": "Various - Play Brazil",
+      "year": "2006",
+      "label": "Warner Music Latina",
+      "country": "US",
+      "discogs_id": 13781118,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jhThHUGrxbNUiA65UL0FolPQyt_1MuZiIet150L7jAQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgx/MTE4LTE1NjE3NjQz/MjEtNTc1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert Cobert",
+      "title": "The Ride Back",
+      "release_title": "Robert Cobert - Burnt Offerings (Original MGM Motion Picture Soundtrack)",
+      "year": "2011",
+      "label": "Counterpoint Records - Linden, Virginia",
+      "country": "US",
+      "discogs_id": 5505621,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/FlQ6q1Pa8ma1XtZnjW_VfA6ovEWggVUVu-rVZec-0B0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDU2/MjEtMTcwODIyNjY3/Ny0yMjYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tommy Steele",
+      "title": "Half A Sixpence (Reprise), Flash Bang Wallop (Reprise)",
+      "release_title": "Tommy Steele - Half A Sixpence (Original Sound Track Recording)",
+      "year": "1968",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 32347737,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cDif81dqdYMWeVC1pF6sDbSV-SA1X2guX75_qBkJq4k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzQ3/NzM3LTE3MzIxOTEy/NTgtNTc4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby Walls & Co",
+      "title": "Baby Doll",
+      "release_title": "Bobby Walls & Company* - Just You And Me",
+      "year": "1972",
+      "label": "Paula Records",
+      "country": "US",
+      "discogs_id": 7192734,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/CxImN6jmXwMOX2StyUazgZbqio0DqiYBctNyuPm5jDM/rs:fit/g:sm/q:90/h:396/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTI3/MzQtMTQzNTgyNTEx/MS0zNjY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lori Jenaire",
+      "title": "Lately I",
+      "release_title": "Lori Jenaire - Fruition",
+      "year": "2007",
+      "label": "Nouveau Bleu Entertainment Records",
+      "country": "US",
+      "discogs_id": 5708548,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/-w_JDSjK3I4zI-fL3W02_KZpLG3_74J5iscl30Oz9wU/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDg1/NDgtMTQwMDUyMDU5/MS0yMjU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tommy Steele",
+      "title": "Lady  Botting's Boating Regatta Cup Racing Song (The Race)",
+      "release_title": "Tommy Steele - Half A Sixpence (Original Sound Track Recording)",
+      "year": "1968",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 32347737,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cDif81dqdYMWeVC1pF6sDbSV-SA1X2guX75_qBkJq4k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzQ3/NzM3LTE3MzIxOTEy/NTgtNTc4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marcos Ariel",
+      "title": "Lua Branca (White Moon)",
+      "release_title": "Various - Sampler '89",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 31217632,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_KB_-NOPjkjPpof1W5gomr6qaX1LdhAZ84BsZYtbfHE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE3/NjMyLTE3MjA5NDk3/MTItOTExNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlinhos Brown",
+      "title": "Frases Ventias",
+      "release_title": "Carlinhos Brown - Alfagamabetizado",
+      "year": "1996",
+      "label": "Metro Blue",
+      "country": "US",
+      "discogs_id": 14799402,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Dimitri Tiomkin & Pittsburgh Symphony Orchestra & Gary Merrill",
+      "title": "Part Three",
+      "release_title": "Dimitri Tiomkin, The Pittsburgh Symphony*, Gary Merrill - Rhapsody Of Steel",
+      "year": "2009",
+      "label": "Kritzerland",
+      "country": "US",
+      "discogs_id": 11119804,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WxYKOE75YfveEKKiG5FS76a25z-KR0wDpiJ2wj1anCs/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE5/ODA0LTE1NzU3Njk2/MjctNDI3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maria Alcina",
+      "title": "Fio Maravilha (Filho Maravilha) (Nond Vox Edit)",
+      "release_title": "Various - Play Brazil",
+      "year": "2006",
+      "label": "Warner Music Latina",
+      "country": "US",
+      "discogs_id": 13781118,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jhThHUGrxbNUiA65UL0FolPQyt_1MuZiIet150L7jAQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgx/MTE4LTE1NjE3NjQz/MjEtNTc1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlinhos Brown",
+      "title": "Zanza",
+      "release_title": "Carlinhos Brown - Alfagamabetizado",
+      "year": "1996",
+      "label": "Metro Blue",
+      "country": "US",
+      "discogs_id": 14799402,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Tommy Steele",
+      "title": "Entr'Acte, Flash, Bang Wallop",
+      "release_title": "Tommy Steele - Half A Sixpence (Original Sound Track Recording)",
+      "year": "1968",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 32347737,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cDif81dqdYMWeVC1pF6sDbSV-SA1X2guX75_qBkJq4k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzQ3/NzM3LTE3MzIxOTEy/NTgtNTc4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Dreams",
+      "title": "Do What You Wanna (Instr.)",
+      "release_title": "The Dreams (5) - Do What You Wanna",
+      "year": "1969",
+      "label": "D.C. Sound Ltd.",
+      "country": "US",
+      "discogs_id": 14055592,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YDbFMADYgc79lT56Z7pumtildtcww3Y8i2irTQrXAgQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU1/NTkyLTE1OTk4NDUz/NjMtODk0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Artie Kane",
+      "title": "Lulu And Michelle",
+      "release_title": "Various - Eyes Of Laura Mars (Music From The Original Motion Picture Soundtrack)",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 24682733,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/vYO7JLm_wmeE5Iu36kU0YyIslFAOZZd8z_KfAMJv7-c/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njgy/NzMzLTE3MTk3OTQ2/OTUtNTQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lori Jenaire",
+      "title": "Pieces",
+      "release_title": "Lori Jenaire - Fruition",
+      "year": "2007",
+      "label": "Nouveau Bleu Entertainment Records",
+      "country": "US",
+      "discogs_id": 5708548,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/-w_JDSjK3I4zI-fL3W02_KZpLG3_74J5iscl30Oz9wU/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDg1/NDgtMTQwMDUyMDU5/MS0yMjU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert Cobert",
+      "title": "\"Music Box Theme (Shorter Version)",
+      "release_title": "Robert Cobert - Burnt Offerings (Original MGM Motion Picture Soundtrack)",
+      "year": "2011",
+      "label": "Counterpoint Records - Linden, Virginia",
+      "country": "US",
+      "discogs_id": 5505621,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/FlQ6q1Pa8ma1XtZnjW_VfA6ovEWggVUVu-rVZec-0B0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDU2/MjEtMTcwODIyNjY3/Ny0yMjYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carlinhos Brown",
+      "title": "O Bode",
+      "release_title": "Carlinhos Brown - Alfagamabetizado",
+      "year": "1996",
+      "label": "Metro Blue",
+      "country": "US",
+      "discogs_id": 14799402,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "The Dreams",
+      "title": "Do What You Wanna",
+      "release_title": "The Dreams (5) - Do What You Wanna",
+      "year": "1969",
+      "label": "D.C. Sound Ltd.",
+      "country": "US",
+      "discogs_id": 14055592,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YDbFMADYgc79lT56Z7pumtildtcww3Y8i2irTQrXAgQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU1/NTkyLTE1OTk4NDUz/NjMtODk0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dimitri Tiomkin & Pittsburgh Symphony Orchestra & Gary Merrill",
+      "title": "Part One",
+      "release_title": "Dimitri Tiomkin, The Pittsburgh Symphony*, Gary Merrill - Rhapsody Of Steel",
+      "year": "2009",
+      "label": "Kritzerland",
+      "country": "US",
+      "discogs_id": 11119804,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WxYKOE75YfveEKKiG5FS76a25z-KR0wDpiJ2wj1anCs/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE5/ODA0LTE1NzU3Njk2/MjctNDI3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lori Jenaire",
+      "title": "Dontcha Wanna Know",
+      "release_title": "Lori Jenaire - Fruition",
+      "year": "2007",
+      "label": "Nouveau Bleu Entertainment Records",
+      "country": "US",
+      "discogs_id": 5708548,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/-w_JDSjK3I4zI-fL3W02_KZpLG3_74J5iscl30Oz9wU/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDg1/NDgtMTQwMDUyMDU5/MS0yMjU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Artie Kane",
+      "title": "Love And Pity",
+      "release_title": "Various - Eyes Of Laura Mars (Music From The Original Motion Picture Soundtrack)",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 24682733,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/vYO7JLm_wmeE5Iu36kU0YyIslFAOZZd8z_KfAMJv7-c/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njgy/NzMzLTE3MTk3OTQ2/OTUtNTQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Geraissati",
+      "title": "Vozes (Voices)",
+      "release_title": "Various - Sampler '89",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 31217632,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_KB_-NOPjkjPpof1W5gomr6qaX1LdhAZ84BsZYtbfHE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE3/NjMyLTE3MjA5NDk3/MTItOTExNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bateria Nota 1000",
+      "title": "Curticao",
+      "release_title": "Various - Samba Rock - Club Vol. 3 - The Evolution",
+      "year": "2009",
+      "label": "Brazilian Food",
+      "country": "US",
+      "discogs_id": 1694540,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wLH2_WZGJjBOcApPLbQAGPdTy9PxSnXs-gKerXcT16c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQ1/NDAtMTY1MjY5Mjc4/MC00NzU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Boots Randolph",
+      "title": "Marie",
+      "release_title": "Boots Randolph - Sentimental Journey",
+      "year": "1973",
+      "label": "Monument",
+      "country": "US",
+      "discogs_id": 9930049,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/AiwmFLPSXgKiTU7uKboYYAdiTk3WvrWGKvUn9Gi0vJ4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzAw/NDktMTQ4OTM1MjY1/OS05NjA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Los Brasilios & The Juan Morales Singers & Alberto On The Marimbas",
+      "title": "Brasilian Beat (Tijuana Country)",
+      "release_title": "Los Brasilios And The Juan Morales Singers Featuring Alberto On The Marimbas - Brasilian Beat '67",
+      "year": "1967",
+      "label": "Design Records",
+      "country": "US",
+      "discogs_id": 1597347,
+      "rating_avg": 4.17,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/Dz2SVVUvGFFtUAnRVbszRkwU8mOxp-Y7MW3WfTuilbU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTcz/NDctMTMyODM0ODIx/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Whitney Phoenix",
+      "title": "On My Own (From 'Les Miserables')",
+      "release_title": "Whitney Phoenix - Awakening - Solo Piano",
+      "year": "2011",
+      "label": "Hobby Lobby",
+      "country": "US",
+      "discogs_id": 7603558,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XKZRyOfhFg2Uo-aFFQiYH-55x0zzsp_DlfSek11bek0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM1/NTgtMTQ0NDk0NjI5/OC00NzM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roy Smeck",
+      "title": "The Shadow Of Your Smile",
+      "release_title": "Roy Smeck - Red Roses For A Blue Lady",
+      "year": "1969",
+      "label": "Kapp Records",
+      "country": "US",
+      "discogs_id": 13112939,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pfwLx8WyBrciXg5MEI35dsTrVYjnOcfckLdr357TfHQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEy/OTM5LTE1NDgyNzIx/NDktNTYxOC5qcGVn.jpeg"
+    }
+  ]
+}
