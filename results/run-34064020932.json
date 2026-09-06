@@ -1,0 +1,597 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Rock"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1971,
+    "year_to": 2015,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "coverage": {
+      "artists_asked": 14,
+      "artists_found": 14,
+      "fresh_lookups": 13,
+      "styles_considered": 71
+    }
+  },
+  "results": [
+    {
+      "artist": "Larry Carlton",
+      "title": "Perfect Peace",
+      "release_title": "Larry Carlton - Alone / But Never Alone",
+      "year": "1986",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 14790227,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3HKbrvH1CSjFoKgUNu6cT4wdnykI5TCjxUH0iSAp28g/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/MjI3LTE1ODE2NDgy/MjctMTQ4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Inner City Jam Band",
+      "title": "Theme From Bob Newhart Show (Home To Emily)",
+      "release_title": "Inner City Jam Band - Inner City Jam (Mambonique) / Theme From Bob Newhart Show (Home To Emily)",
+      "year": "1977",
+      "label": "Bareback Records, Inc.",
+      "country": "US",
+      "discogs_id": 829122,
+      "rating_avg": 4.27,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/VJ4i0llxxw4OWgNbAXrHJi2KttffHu7U03VpKmpfEaU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTEy/Mi0xMzk2MDg5NTA2/LTcwODEuanBlZw.jpeg"
+    },
+    {
+      "artist": "Inner City Jam Band",
+      "title": "Inner City Jam (Mambonique)",
+      "release_title": "Inner City Jam Band - Inner City Jam (Mambonique) / Theme From Bob Newhart Show (Home To Emily)",
+      "year": "1977",
+      "label": "Bareback Records, Inc.",
+      "country": "US",
+      "discogs_id": 829122,
+      "rating_avg": 4.27,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/VJ4i0llxxw4OWgNbAXrHJi2KttffHu7U03VpKmpfEaU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTEy/Mi0xMzk2MDg5NTA2/LTcwODEuanBlZw.jpeg"
+    },
+    {
+      "artist": "Ron Carter",
+      "title": "Baretta's Theme (Keep Your Eye On The Sparrow)",
+      "release_title": "Ron Carter - Baretta's Theme (Keep Your Eye On The Sparrow)",
+      "year": "1976",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 1662507,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/7Oy_okoErl5tRHWwH7cgva9t2CoyoYW7eKeaEW0cEN8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjI1/MDctMTQ0MjY0MDU5/MS00NTg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Van McCoy",
+      "title": "Rhythms Of The World (part 2)",
+      "release_title": "Van McCoy - Rhythms Of The World",
+      "year": "1976",
+      "label": "H & L Records",
+      "country": "US",
+      "discogs_id": 24849116,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/T6RPUeHPP1WAECH0TW_jk_tn_EqWWa7RepnnAEDrVws/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ5/MTE2LTE2Njg3MDQw/NTgtMTU2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Alonzo Peters",
+      "title": "A-Dios (To God / Allah)",
+      "release_title": "Alonzo Peters - A-Dios (To God/Allah)",
+      "year": "1987",
+      "label": "Kimberly Records",
+      "country": "US",
+      "discogs_id": 7408165,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/jVyFjE61U-lD7RebO3UT_POONYWc4oKHVcF2FOx8fKk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDgx/NjUtMTU3NjMyMTkz/NC01Njg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Van McCoy",
+      "title": "Indian Warpath",
+      "release_title": "Van McCoy - Rhythms Of The World",
+      "year": "1976",
+      "label": "H & L Records",
+      "country": "US",
+      "discogs_id": 24849116,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/T6RPUeHPP1WAECH0TW_jk_tn_EqWWa7RepnnAEDrVws/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ5/MTE2LTE2Njg3MDQw/NTgtMTU2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Montreux",
+      "title": "Uptown Ed",
+      "release_title": "Blue Montreux - Blue Montreux II",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 2563421,
+      "rating_avg": 3.83,
+      "rating_count": 35,
+      "cover_image": "https://i.discogs.com/o4aJBzdeVTYg9qIEs9vy0Z2oSWw7p13Gdi3UP7rzBdI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjM0/MjEtMTMwNzEwNTQz/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jenny Burton",
+      "title": "(Nobody Loves Me) Like You Do Do (Part 1)",
+      "release_title": "Jeanne Burton* - (Nobody Loves Me) Like You Do Do",
+      "year": "1975",
+      "label": "Cotton Records",
+      "country": "US",
+      "discogs_id": 25180519,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/AdbsmTWpAzMiZ0uu2kWtQXtKYe4h5VsPVc0GTk70VJQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTgw/NTE5LTE2Njg1ODkz/MTAtNTYyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Montreux",
+      "title": "Candles",
+      "release_title": "Blue Montreux - Blue Montreux II",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 2563421,
+      "rating_avg": 3.83,
+      "rating_count": 35,
+      "cover_image": "https://i.discogs.com/o4aJBzdeVTYg9qIEs9vy0Z2oSWw7p13Gdi3UP7rzBdI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjM0/MjEtMTMwNzEwNTQz/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Redhouse Quartet",
+      "title": "Naomi's Dance",
+      "release_title": "Larry Redhouse Quartet - Naomi's Dance",
+      "year": "1989",
+      "label": "2000 and Larry Records",
+      "country": "US",
+      "discogs_id": 25894906,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UzsJguum8FnEiouBw654mUqlz2LrvOkHhyuV_dCK0GI/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODk0/OTA2LTE2NzQ3NTk5/ODYtOTM1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Redhouse Quartet",
+      "title": "On the Flip Side",
+      "release_title": "Larry Redhouse Quartet - Naomi's Dance",
+      "year": "1989",
+      "label": "2000 and Larry Records",
+      "country": "US",
+      "discogs_id": 25894906,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UzsJguum8FnEiouBw654mUqlz2LrvOkHhyuV_dCK0GI/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODk0/OTA2LTE2NzQ3NTk5/ODYtOTM1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Redhouse Quartet",
+      "title": "Street Fair",
+      "release_title": "Larry Redhouse Quartet - Naomi's Dance",
+      "year": "1989",
+      "label": "2000 and Larry Records",
+      "country": "US",
+      "discogs_id": 25894906,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UzsJguum8FnEiouBw654mUqlz2LrvOkHhyuV_dCK0GI/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODk0/OTA2LTE2NzQ3NTk5/ODYtOTM1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "Take Me To The Mardi Gras (UB Edit)",
+      "release_title": "Bob James - Take Me To The Mardi Gras",
+      "year": "2014",
+      "label": "Get On Down",
+      "country": "US",
+      "discogs_id": 7224485,
+      "rating_avg": 4.77,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/3xU_9sth9bIhbv5hrMhSp8IowENm7GKSs8t-uVNrO1U/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjQ0/ODUtMTQ0Mzg1NzUx/MC03NDMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fantasy",
+      "title": "Too Much Too Soon",
+      "release_title": "Fantasy (2) - Too Much Too Soon",
+      "year": "1981",
+      "label": "Pavillion",
+      "country": "US",
+      "discogs_id": 7885229,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DtySR0tLu7Hv0AOyU6MpBGvFdZmfW1sMNgn9wXl7-iM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODUy/MjktMTUwNjM1MDkw/OC01MTAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Grease Piece",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 36837511,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pwBDMRmffZ01SMDfrsTFQmgw1Hbn71BSUjFBQZgZ3Ps/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM3/NTExLTE3NzQxMDc2/MTYtMjI5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Montreux",
+      "title": "Love Play",
+      "release_title": "Blue Montreux - Blue Montreux II",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 2563421,
+      "rating_avg": 3.83,
+      "rating_count": 35,
+      "cover_image": "https://i.discogs.com/o4aJBzdeVTYg9qIEs9vy0Z2oSWw7p13Gdi3UP7rzBdI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjM0/MjEtMTMwNzEwNTQz/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "Take Me To The Mardi Gras",
+      "release_title": "Bob James - Take Me To The Mardi Gras",
+      "year": "2014",
+      "label": "Get On Down",
+      "country": "US",
+      "discogs_id": 7224485,
+      "rating_avg": 4.77,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/3xU_9sth9bIhbv5hrMhSp8IowENm7GKSs8t-uVNrO1U/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjQ0/ODUtMTQ0Mzg1NzUx/MC03NDMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Dig A Little Deeper",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 36837511,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pwBDMRmffZ01SMDfrsTFQmgw1Hbn71BSUjFBQZgZ3Ps/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM3/NTExLTE3NzQxMDc2/MTYtMjI5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "The Clincher",
+      "release_title": "David Newman* - Captain Buckles",
+      "year": "1971",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 7976793,
+      "rating_avg": 4.5,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/ABhPRqgYbUQyJ_47unWxHHWgvpXbX6TyRaSbyZb1D0w/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzY3/OTMtMTQ2Njk3OTcx/MS0zNzAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Van McCoy",
+      "title": "Rhythms Of The World (part 1)",
+      "release_title": "Van McCoy - Rhythms Of The World",
+      "year": "1976",
+      "label": "H & L Records",
+      "country": "US",
+      "discogs_id": 24849116,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/T6RPUeHPP1WAECH0TW_jk_tn_EqWWa7RepnnAEDrVws/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ5/MTE2LTE2Njg3MDQw/NTgtMTU2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Night Flight",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 36837511,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pwBDMRmffZ01SMDfrsTFQmgw1Hbn71BSUjFBQZgZ3Ps/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM3/NTExLTE3NzQxMDc2/MTYtMjI5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Carlton",
+      "title": "High Steppin'",
+      "release_title": "Larry Carlton - Alone / But Never Alone",
+      "year": "1986",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 14790227,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3HKbrvH1CSjFoKgUNu6cT4wdnykI5TCjxUH0iSAp28g/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/MjI3LTE1ODE2NDgy/MjctMTQ4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ron Carter",
+      "title": "De Samba",
+      "release_title": "Ron Carter - Baretta's Theme (Keep Your Eye On The Sparrow)",
+      "year": "1976",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 1662507,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/7Oy_okoErl5tRHWwH7cgva9t2CoyoYW7eKeaEW0cEN8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjI1/MDctMTQ0MjY0MDU5/MS00NTg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Azar Lawrence",
+      "title": "The Beautiful And Omnipresent Love",
+      "release_title": "Azar Lawrence - Bridge Into The New Age",
+      "year": "1974",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 12278152,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/b0HMytVR6EJubN_bhMBuds1y7vsGBSC4Jr0fiN2ik7Q/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc4/MTUyLTE1MzIwMTE2/MjYtODcxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jenny Burton",
+      "title": "(Nobody Loves Me) Like You Do Do (Part 2)",
+      "release_title": "Jeanne Burton* - (Nobody Loves Me) Like You Do Do",
+      "year": "1975",
+      "label": "Cotton Records",
+      "country": "US",
+      "discogs_id": 25180519,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/AdbsmTWpAzMiZ0uu2kWtQXtKYe4h5VsPVc0GTk70VJQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTgw/NTE5LTE2Njg1ODkz/MTAtNTYyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Redhouse Quartet",
+      "title": "Piano Improv",
+      "release_title": "Larry Redhouse Quartet - Naomi's Dance",
+      "year": "1989",
+      "label": "2000 and Larry Records",
+      "country": "US",
+      "discogs_id": 25894906,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UzsJguum8FnEiouBw654mUqlz2LrvOkHhyuV_dCK0GI/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODk0/OTA2LTE2NzQ3NTk5/ODYtOTM1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Carlton",
+      "title": "Smiles And Smiles To Go",
+      "release_title": "Larry Carlton - Alone / But Never Alone",
+      "year": "1986",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 14790227,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3HKbrvH1CSjFoKgUNu6cT4wdnykI5TCjxUH0iSAp28g/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/MjI3LTE1ODE2NDgy/MjctMTQ4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Van McCoy",
+      "title": "The Shuffle",
+      "release_title": "Van McCoy - Rhythms Of The World",
+      "year": "1976",
+      "label": "H & L Records",
+      "country": "US",
+      "discogs_id": 24849116,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/T6RPUeHPP1WAECH0TW_jk_tn_EqWWa7RepnnAEDrVws/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ5/MTE2LTE2Njg3MDQw/NTgtMTU2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Azar Lawrence",
+      "title": "Warriors Of Peace",
+      "release_title": "Azar Lawrence - Bridge Into The New Age",
+      "year": "1974",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 12278152,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/b0HMytVR6EJubN_bhMBuds1y7vsGBSC4Jr0fiN2ik7Q/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc4/MTUyLTE1MzIwMTE2/MjYtODcxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Azar Lawrence",
+      "title": "Fatisha",
+      "release_title": "Azar Lawrence - Bridge Into The New Age",
+      "year": "1974",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 12278152,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/b0HMytVR6EJubN_bhMBuds1y7vsGBSC4Jr0fiN2ik7Q/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc4/MTUyLTE1MzIwMTE2/MjYtODcxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Montreux",
+      "title": "Cloud Motion",
+      "release_title": "Blue Montreux - Blue Montreux II",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 2563421,
+      "rating_avg": 3.83,
+      "rating_count": 35,
+      "cover_image": "https://i.discogs.com/o4aJBzdeVTYg9qIEs9vy0Z2oSWw7p13Gdi3UP7rzBdI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjM0/MjEtMTMwNzEwNTQz/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fantasy",
+      "title": "Too Much Too Soon (Instrumental Version)",
+      "release_title": "Fantasy (2) - Too Much Too Soon",
+      "year": "1981",
+      "label": "Pavillion",
+      "country": "US",
+      "discogs_id": 7885229,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DtySR0tLu7Hv0AOyU6MpBGvFdZmfW1sMNgn9wXl7-iM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODUy/MjktMTUwNjM1MDkw/OC01MTAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Captain Buckles",
+      "release_title": "David Newman* - Captain Buckles",
+      "year": "1971",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 7976793,
+      "rating_avg": 4.5,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/ABhPRqgYbUQyJ_47unWxHHWgvpXbX6TyRaSbyZb1D0w/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzY3/OTMtMTQ2Njk3OTcx/MS0zNzAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "I Didn't Know What Time It Was",
+      "release_title": "David Newman* - Captain Buckles",
+      "year": "1971",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 7976793,
+      "rating_avg": 4.5,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/ABhPRqgYbUQyJ_47unWxHHWgvpXbX6TyRaSbyZb1D0w/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzY3/OTMtMTQ2Njk3OTcx/MS0zNzAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Negus",
+      "release_title": "David Newman* - Captain Buckles",
+      "year": "1971",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 7976793,
+      "rating_avg": 4.5,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/ABhPRqgYbUQyJ_47unWxHHWgvpXbX6TyRaSbyZb1D0w/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzY3/OTMtMTQ2Njk3OTcx/MS0zNzAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Azar Lawrence",
+      "title": "Bridge Into The New Age",
+      "release_title": "Azar Lawrence - Bridge Into The New Age",
+      "year": "1974",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 12278152,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/b0HMytVR6EJubN_bhMBuds1y7vsGBSC4Jr0fiN2ik7Q/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc4/MTUyLTE1MzIwMTE2/MjYtODcxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "What Can A Miracle Do",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 36837511,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pwBDMRmffZ01SMDfrsTFQmgw1Hbn71BSUjFBQZgZ3Ps/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM3/NTExLTE3NzQxMDc2/MTYtMjI5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Alonzo Peters",
+      "title": "Rio Sunset",
+      "release_title": "Alonzo Peters - A-Dios (To God/Allah)",
+      "year": "1987",
+      "label": "Kimberly Records",
+      "country": "US",
+      "discogs_id": 7408165,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/jVyFjE61U-lD7RebO3UT_POONYWc4oKHVcF2FOx8fKk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDgx/NjUtMTU3NjMyMTkz/NC01Njg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Larry Carlton",
+      "title": "Alone / But Never Alone",
+      "release_title": "Larry Carlton - Alone / But Never Alone",
+      "year": "1986",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 14790227,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3HKbrvH1CSjFoKgUNu6cT4wdnykI5TCjxUH0iSAp28g/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/MjI3LTE1ODE2NDgy/MjctMTQ4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charlie Byrd Trio & Ken Peplowski",
+      "title": "Samba D'Orpheo",
+      "release_title": "Charlie Byrd Trio With Special Guest Ken Peplowski - The Bossa Nova Years",
+      "year": "2003",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 6764839,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/ODUDLuHmnsY0eS-N2BGZFsTOUavZ8YnoYLyNE3Fqr00/rs:fit/g:sm/q:90/h:408/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjQ4/MzktMTQyNjE1NDgx/MC05Njg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Byrd Trio & Ken Peplowski",
+      "title": "Wave",
+      "release_title": "Charlie Byrd Trio With Special Guest Ken Peplowski - The Bossa Nova Years",
+      "year": "2003",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 6764839,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/ODUDLuHmnsY0eS-N2BGZFsTOUavZ8YnoYLyNE3Fqr00/rs:fit/g:sm/q:90/h:408/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjQ4/MzktMTQyNjE1NDgx/MC05Njg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chris Hunter",
+      "title": "Purple Rain",
+      "release_title": "Chris Hunter - Chris Hunter",
+      "year": "1986",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 38052588,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/C0CbCFu6EaokuSx_cw7zqzYfmYPJmLpCmSU_uIj8x9U/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDUy/NTg4LTE3ODU3NzUx/MzYtNDgzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sugar & Spice",
+      "title": "You're My Sugar, You're My Spice (Vocal)",
+      "release_title": "Sugar & Spice (3) - You're My Sugar, You're My Spice",
+      "year": "1979",
+      "label": "West End Records",
+      "country": "US",
+      "discogs_id": 3686217,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zoa5ZX9NjBEGdxTMQCuuygM5t3_o_mbJ1TtXoJfXN1s/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODYy/MTctMTM0MDM0NDEw/NC02NjE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "5 After 4",
+      "title": "Be Still",
+      "release_title": "Five After Four* - Public Solitude",
+      "year": "1996",
+      "label": "Jazz Inspiration Records",
+      "country": "US",
+      "discogs_id": 8326570,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MhKGK2SVRQgqr-ugAhJCtHKMWEgmWZ2ylTjdhUXVUEc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjY1/NzAtMTU1Njk0OTc3/Ni0xMzEzLmpwZWc.jpeg"
+    }
+  ]
+}

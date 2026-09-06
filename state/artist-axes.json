@@ -602,6 +602,355 @@
    1973
   ]
  },
+ "al korvin": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Greece",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Netherlands",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Spain",
+   "Brazil",
+   "Italy",
+   "Spain",
+   "Belgium",
+   "Brazil",
+   "Turkey",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Japan"
+  ],
+  "genres": [
+   "Pop",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Music Hall",
+    "Jazz"
+   ],
+   [
+    "Music Hall",
+    "Pop"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Chanson",
+   "Music Hall",
+   "Swing",
+   "Easy Listening",
+   "Easy Listening",
+   "Theme",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Chanson",
+   "Easy Listening",
+   "Swing",
+   "Easy Listening",
+   "Theme",
+   "Easy Listening",
+   "Chanson",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Soundtrack",
+   "Theme",
+   "Soundtrack",
+   "Easy Listening",
+   "Easy Listening",
+   "Smooth Jazz",
+   "Easy Listening",
+   "Easy Listening",
+   "Soundtrack"
+  ],
+  "years": [
+   1967,
+   1973,
+   1975,
+   1982,
+   1989,
+   1967,
+   1973,
+   1982,
+   1967,
+   1969,
+   1966,
+   1968,
+   1962,
+   1969,
+   1967,
+   1967,
+   1966,
+   1966,
+   1975,
+   1966,
+   1966
+  ]
+ },
  "alfred newman": {
   "countries": [
    "US",
@@ -1813,6 +2162,422 @@
    1976,
    1992,
    1974
+  ]
+ },
+ "bob james": {
+  "countries": [
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "South Korea",
+   "Japan",
+   "Australia",
+   "USSR",
+   "Japan",
+   "Netherlands",
+   "US",
+   "Australia",
+   "Turkey",
+   "Rhodesia",
+   "Japan",
+   "Spain",
+   "Japan",
+   "Venezuela",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Acoustic",
+    "Jazz"
+   ],
+   [
+    "Modern Classical",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Smooth Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Easy Listening",
+   "Smooth Jazz",
+   "Jazz-Funk",
+   "Fusion",
+   "Smooth Jazz",
+   "Fusion",
+   "Fusion",
+   "Theme",
+   "Fusion",
+   "Contemporary Jazz",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Jazz-Funk",
+   "Fusion",
+   "Smooth Jazz",
+   "Fusion",
+   "Fusion",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Smooth Jazz",
+   "Jazz-Funk",
+   "Fusion",
+   "Fusion",
+   "Fusion",
+   "Smooth Jazz",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Fusion",
+   "Acoustic",
+   "Modern Classical",
+   "Easy Listening",
+   "Jazz-Funk",
+   "Contemporary Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Easy Listening",
+   "Fusion",
+   "Smooth Jazz",
+   "Fusion",
+   "Smooth Jazz",
+   "Fusion",
+   "Classic Rock",
+   "Smooth Jazz",
+   "Disco",
+   "Fusion",
+   "Smooth Jazz",
+   "Jazz-Funk",
+   "Fusion",
+   "Easy Listening",
+   "Fusion",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Fusion",
+   "Smooth Jazz"
+  ],
+  "years": [
+   1978,
+   1983,
+   1980,
+   1978,
+   1980,
+   1987,
+   1980,
+   1978,
+   1988,
+   1980,
+   1977,
+   1984,
+   1983,
+   1988,
+   1988,
+   1986,
+   1977,
+   2002,
+   1983,
+   1979,
+   1986,
+   1981,
+   2005,
+   2013
   ]
  },
  "bruno martino": {
@@ -3536,6 +4301,802 @@
    1986,
    1979,
    1990
+  ]
+ },
+ "diana ross": {
+  "countries": [
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Taiwan",
+   "Taiwan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Taiwan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Taiwan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Taiwan"
+  ],
+  "genres": [
+   "Electronic",
+   "Funk / Soul",
+   "Pop",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Funk / Soul",
+   "Pop",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Electronic",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Funk / Soul",
+   "Pop",
+   "Pop",
+   "Stage & Screen",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Rock"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Rock"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "Rock & Roll",
+    "Rock"
+   ],
+   [
+    "Rock & Roll",
+    "Funk / Soul"
+   ],
+   [
+    "Rock & Roll",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Rock"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Rock"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Rock"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "Rock & Roll",
+    "Rock"
+   ],
+   [
+    "Rock & Roll",
+    "Funk / Soul"
+   ],
+   [
+    "Rock & Roll",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Funk / Soul"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Rock"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Funk / Soul"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Electronic"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Electronic"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Electronic"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Funk / Soul"
+   ],
+   [
+    "House",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Funk",
+   "Contemporary R&B",
+   "Soul",
+   "Soul",
+   "Rhythm & Blues",
+   "Ballad",
+   "Funk",
+   "Rock & Roll",
+   "Pop Rock",
+   "Pop Rock",
+   "Soul",
+   "Rhythm & Blues",
+   "Soul",
+   "Soul",
+   "Rhythm & Blues",
+   "Ballad",
+   "Funk",
+   "Rock & Roll",
+   "Pop Rock",
+   "Soul",
+   "Vocal",
+   "Ballad",
+   "House",
+   "Rhythm & Blues",
+   "Soul",
+   "Ballad",
+   "Soundtrack",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Contemporary R&B",
+   "Ballad",
+   "Rhythm & Blues",
+   "Soul",
+   "Rhythm & Blues",
+   "Soul",
+   "Rhythm & Blues",
+   "Soul",
+   "Downtempo",
+   "Disco",
+   "Soul",
+   "Disco",
+   "Synth-pop",
+   "Funk",
+   "Pop Rock",
+   "Ballad",
+   "Vocal",
+   "Rhythm & Blues",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Ballad",
+   "Ballad",
+   "Soundtrack",
+   "Rhythm & Blues",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Rhythm & Blues",
+   "Soul",
+   "Disco",
+   "Rhythm & Blues",
+   "Soul",
+   "Soul",
+   "Ballad",
+   "Disco",
+   "House"
+  ],
+  "years": [
+   1989,
+   1993,
+   1985,
+   2001,
+   1993,
+   2006,
+   2006,
+   1974,
+   1990,
+   1986,
+   1997,
+   2005,
+   1978,
+   2012,
+   2012,
+   1990,
+   1983,
+   2002,
+   2012,
+   1990,
+   2012,
+   1981,
+   1993,
+   2012,
+   2001
   ]
  },
  "francesco de masi": {
@@ -5819,6 +7380,1439 @@
    2005,
    1973,
    2011
+  ]
+ },
+ "gwen mccrae": {
+  "countries": [
+   "UK",
+   "UK",
+   "US",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "Japan",
+   "Unknown",
+   "UK",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "Japan",
+   "Germany",
+   "Colombia",
+   "US",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Electronic",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Boogie",
+    "Funk / Soul"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Boogie",
+    "Funk / Soul"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Disco",
+   "Funk",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Disco",
+   "Boogie",
+   "House",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Disco",
+   "Boogie",
+   "House",
+   "House",
+   "Soul"
+  ],
+  "years": [
+   2000,
+   1988,
+   1975,
+   1974,
+   1975,
+   1976,
+   1973,
+   1975,
+   1988,
+   1974,
+   2019,
+   1981,
+   1982,
+   1975,
+   2025,
+   1999,
+   1994,
+   1978,
+   2022,
+   2010,
+   1982,
+   1995,
+   1994,
+   1981
+  ]
+ },
+ "harlem river drive": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "France",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Europe",
+   "US",
+   "US",
+   "UK",
+   "France",
+   "UK",
+   "Colombia",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "France"
+  ],
+  "genres": [
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Free Funk",
+    "Jazz"
+   ],
+   [
+    "Free Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Free Funk",
+    "Jazz"
+   ],
+   [
+    "Free Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Free Funk",
+    "Jazz"
+   ],
+   [
+    "Free Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Soul",
+   "Funk",
+   "Jazz-Funk",
+   "Soul",
+   "Funk",
+   "Funk",
+   "Soul",
+   "Jazz-Funk",
+   "Soul",
+   "Jazz-Funk",
+   "Soul",
+   "Funk",
+   "Jazz-Funk",
+   "Soul",
+   "Funk",
+   "Jazz-Funk",
+   "Soul",
+   "Jazz-Funk",
+   "Free Funk",
+   "Funk",
+   "Jazz-Funk",
+   "Soul",
+   "Jazz-Funk",
+   "Soul",
+   "Jazz-Funk",
+   "Funk",
+   "Latin Jazz",
+   "Soul",
+   "Jazz-Funk",
+   "Soul",
+   "Jazz-Funk",
+   "Soul",
+   "Funk",
+   "Jazz-Funk",
+   "Free Funk",
+   "Funk",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Soul",
+   "Latin Jazz",
+   "Jazz-Funk",
+   "Soul",
+   "Funk",
+   "Jazz-Funk",
+   "Soul",
+   "Funk",
+   "Funk",
+   "Jazz-Funk",
+   "Funk",
+   "Disco",
+   "Jazz-Funk",
+   "Free Funk",
+   "Funk"
+  ],
+  "years": [
+   1975,
+   1971,
+   1971,
+   2014,
+   1971,
+   1971,
+   1996,
+   1975,
+   1971,
+   1971,
+   2005,
+   2025,
+   1975,
+   2017,
+   1971,
+   1972,
+   1971,
+   1975,
+   1997,
+   1975
+  ]
+ },
+ "jean-luc ponty": {
+  "countries": [
+   "Japan",
+   "US",
+   "US",
+   "Netherlands",
+   "Portugal",
+   "US",
+   "Japan",
+   "Germany",
+   "US",
+   "Mexico",
+   "Canada",
+   "Russia",
+   "Brazil",
+   "US",
+   "US",
+   "Poland",
+   "Canada",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Brazil",
+   "Canada",
+   "US",
+   "Italy"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Electronic",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Rock",
+   "Electronic",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Folk, World, & Country"
+   ],
+   [
+    "Afrobeat",
+    "Jazz"
+   ],
+   [
+    "Afrobeat",
+    "Folk, World, & Country"
+   ],
+   [
+    "Zouk",
+    "Jazz"
+   ],
+   [
+    "Zouk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Space Rock",
+    "Jazz"
+   ],
+   [
+    "Space Rock",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Modern Classical",
+    "Jazz"
+   ],
+   [
+    "Modern Classical",
+    "Rock"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Jazz"
+   ],
+   [
+    "Electro",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Jazz"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Electronic"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Electronic"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Space Rock",
+    "Electronic"
+   ],
+   [
+    "Space Rock",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Fusion",
+   "Jazz-Rock",
+   "Fusion",
+   "Jazz-Rock",
+   "Fusion",
+   "Jazz-Rock",
+   "Fusion",
+   "Contemporary Jazz",
+   "Jazz-Rock",
+   "Fusion",
+   "Jazz-Rock",
+   "Fusion",
+   "Fusion",
+   "Jazz-Rock",
+   "Fusion",
+   "Contemporary Jazz",
+   "Fusion",
+   "Jazz-Funk",
+   "Fusion",
+   "Afrobeat",
+   "Zouk",
+   "Jazz-Rock",
+   "Fusion",
+   "Jazz-Rock",
+   "Fusion",
+   "Jazz-Rock",
+   "Contemporary Jazz",
+   "Jazz-Rock",
+   "Space Rock",
+   "Fusion",
+   "Modern Classical",
+   "Electro",
+   "Synth-pop",
+   "Fusion",
+   "Fusion",
+   "Jazz-Rock",
+   "Jazz-Rock",
+   "Fusion",
+   "Fusion",
+   "Jazz-Rock",
+   "Space Rock",
+   "Experimental"
+  ],
+  "years": [
+   1985,
+   1979,
+   1995,
+   1980,
+   1989,
+   1968,
+   1979,
+   1979,
+   1998,
+   2001,
+   2001,
+   1975,
+   1982,
+   1976,
+   1987,
+   1976,
+   1989,
+   1978,
+   1984,
+   1983,
+   1978
   ]
  },
  "joan armatrading": {
@@ -8717,6 +11711,676 @@
    1985
   ]
  },
+ "mandrill": {
+  "countries": [
+   "US",
+   "Australia",
+   "Japan",
+   "Japan",
+   "US",
+   "Colombia",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Canada",
+   "UK",
+   "US",
+   "US",
+   "Italy",
+   "US",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "Germany",
+   "USA & Europe",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Afro-Cuban",
+    "Latin"
+   ],
+   [
+    "Afro-Cuban",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Afro-Cuban",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Jazz"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Rock"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Latin"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Afro-Cuban",
+    "Latin"
+   ],
+   [
+    "Afro-Cuban",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Latin"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Jazz"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Rock"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Latin"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Prog Rock",
+    "Jazz"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Latin"
+   ],
+   [
+    "Prog Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Calypso",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Funk",
+   "Afro-Cuban",
+   "Funk",
+   "Funk",
+   "Afro-Cuban",
+   "Funk",
+   "Disco",
+   "Afro-Cuban Jazz",
+   "Soul",
+   "Funk",
+   "Funk",
+   "Afro-Cuban",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Funk",
+   "Funk",
+   "House",
+   "Techno",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Rhythm & Blues",
+   "Funk",
+   "Soul",
+   "Soul",
+   "Funk",
+   "Funk",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Funk",
+   "Afro-Cuban Jazz",
+   "Soul",
+   "Funk",
+   "Prog Rock",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Calypso"
+  ],
+  "years": [
+   1974,
+   1973,
+   1973,
+   1982,
+   1971,
+   1974,
+   2000,
+   1973,
+   1973,
+   1974,
+   1972,
+   1995,
+   1978,
+   1998,
+   1975,
+   1980,
+   1973,
+   1977,
+   1974,
+   2006,
+   1975,
+   2020,
+   1974,
+   1973
+  ]
+ },
+ "millie jackson": {
+  "countries": [
+   "Japan",
+   "Japan",
+   "US",
+   "Germany",
+   "UK",
+   "UK",
+   "US",
+   "US",
+   "Italy",
+   "Portugal",
+   "US",
+   "US",
+   "Canada",
+   "Netherlands",
+   "US",
+   "Germany",
+   "Canada",
+   "US",
+   "US",
+   "Japan",
+   "UK",
+   "Japan",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Soul",
+   "Soul"
+  ],
+  "years": [
+   1974,
+   1975,
+   1972,
+   1974,
+   2013,
+   1994,
+   1980,
+   1979,
+   1979,
+   1985,
+   1971,
+   1988,
+   1988,
+   2004,
+   1986,
+   2006,
+   1976,
+   1980,
+   1977,
+   1990,
+   1986,
+   1993,
+   1975
+  ]
+ },
  "natalie cole": {
   "countries": [
    "Japan",
@@ -9938,6 +13602,90 @@
    1977,
    1979,
    1977
+  ]
+ },
+ "pamoja": {
+  "countries": [
+   "Tanzania",
+   "Italy",
+   "UK & Europe",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Folk, World, & Country",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "African",
+    "Hip Hop"
+   ],
+   [
+    "African",
+    "Folk, World, & Country"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 7,
+  "styles": [
+   "African",
+   "House",
+   "Soul",
+   "Funk",
+   "Funk",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Disco"
+  ],
+  "years": [
+   2006,
+   2023,
+   2019,
+   1975,
+   1975,
+   2009,
+   2005
   ]
  },
  "paul desmond": {
@@ -12488,6 +16236,1436 @@
    1983,
    1981,
    1983
+  ]
+ },
+ "sandro brugnolini": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Worldwide",
+   "Italy",
+   "Worldwide",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Worldwide",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Worldwide",
+   "Italy",
+   "Worldwide",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Electronic",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Electronic",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Dixieland",
+    "Jazz"
+   ],
+   [
+    "Dixieland",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Rock"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Rock"
+   ],
+   [
+    "Free Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Free Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Rock"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Rock"
+   ],
+   [
+    "Free Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Free Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Prog Rock",
+    "Jazz"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Prog Rock",
+    "Jazz"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Rock"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Rock"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Prog Rock",
+    "Jazz"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Dixieland",
+    "Jazz"
+   ],
+   [
+    "Dixieland",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Rock"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Rock"
+   ],
+   [
+    "Easy Listening",
+    "Funk / Soul"
+   ],
+   [
+    "Art Rock",
+    "Jazz"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Rock"
+   ],
+   [
+    "Cool Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Electronic"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Rock"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Rock"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Rock"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Rock"
+   ],
+   [
+    "Cool Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Rock"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Rock"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Rock"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Rock"
+   ],
+   [
+    "Easy Listening",
+    "Funk / Soul"
+   ],
+   [
+    "Art Rock",
+    "Jazz"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Rock"
+   ],
+   [
+    "Cool Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Prog Rock",
+    "Jazz"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Rock"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Rock"
+   ],
+   [
+    "Easy Listening",
+    "Funk / Soul"
+   ],
+   [
+    "Art Rock",
+    "Jazz"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Rock"
+   ],
+   [
+    "Cool Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Rock"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Rock"
+   ],
+   [
+    "Easy Listening",
+    "Funk / Soul"
+   ],
+   [
+    "Art Rock",
+    "Jazz"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Rock"
+   ],
+   [
+    "Cool Jazz",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soundtrack",
+   "Cool Jazz",
+   "Dixieland",
+   "Psychedelic Rock",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Avant-garde Jazz",
+   "Soundtrack",
+   "Free Jazz",
+   "Psychedelic Rock",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Avant-garde Jazz",
+   "Soundtrack",
+   "Free Jazz",
+   "Jazz-Rock",
+   "Psychedelic",
+   "Prog Rock",
+   "Prog Rock",
+   "Psychedelic Rock",
+   "Jazz-Funk",
+   "Soundtrack",
+   "Soundtrack",
+   "Theme",
+   "Score",
+   "Avant-garde Jazz",
+   "Psychedelic Rock",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Psychedelic",
+   "Prog Rock",
+   "Soundtrack",
+   "Jazz-Funk",
+   "Soundtrack",
+   "Jazz-Funk",
+   "Bop",
+   "Hard Bop",
+   "Cool Jazz",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Soundtrack",
+   "Jazz-Funk",
+   "Soundtrack",
+   "Cool Jazz",
+   "Dixieland",
+   "Soul-Jazz",
+   "Easy Listening",
+   "Art Rock",
+   "Jazz-Funk",
+   "Psychedelic Rock",
+   "Jazz-Rock",
+   "Psychedelic",
+   "Cool Jazz",
+   "Bossa Nova",
+   "Soundtrack",
+   "Psychedelic Rock",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Score",
+   "Soundtrack",
+   "Score",
+   "Easy Listening",
+   "Theme",
+   "Score",
+   "Avant-garde Jazz",
+   "Psychedelic Rock",
+   "Jazz-Funk",
+   "Cool Jazz",
+   "Theme",
+   "Score",
+   "Avant-garde Jazz",
+   "Psychedelic Rock",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Easy Listening",
+   "Art Rock",
+   "Jazz-Funk",
+   "Psychedelic Rock",
+   "Jazz-Rock",
+   "Psychedelic",
+   "Cool Jazz",
+   "Prog Rock",
+   "Psychedelic Rock",
+   "Jazz-Funk",
+   "Soundtrack",
+   "Soul-Jazz",
+   "Easy Listening",
+   "Art Rock",
+   "Jazz-Funk",
+   "Psychedelic Rock",
+   "Jazz-Rock",
+   "Psychedelic",
+   "Cool Jazz",
+   "Soul-Jazz",
+   "Easy Listening",
+   "Art Rock",
+   "Jazz-Funk",
+   "Psychedelic Rock",
+   "Jazz-Rock",
+   "Psychedelic",
+   "Cool Jazz"
+  ],
+  "years": [
+   1964,
+   2014,
+   2020,
+   2024,
+   2019,
+   2020,
+   2021,
+   2024,
+   1975,
+   2015,
+   2017,
+   2016,
+   2022,
+   2017,
+   2008,
+   1966,
+   2025,
+   2021,
+   1972,
+   2024,
+   2019,
+   2016,
+   2009,
+   2004
   ]
  },
  "serge chaloff": {
@@ -15533,6 +20711,292 @@
    2002
   ]
  },
+ "stone city band": {
+  "countries": [
+   "France",
+   "France",
+   "UK",
+   "US",
+   "US",
+   "Canada",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Italy",
+   "UK",
+   "UK",
+   "UK",
+   "Germany",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "Australia",
+   "US",
+   "Germany",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Electronic",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Boogie",
+    "Electronic"
+   ],
+   [
+    "Boogie",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Funk",
+   "Disco",
+   "Funk",
+   "Boogie",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Funk",
+   "Funk",
+   "Disco",
+   "Disco",
+   "Synth-pop",
+   "Disco",
+   "Synth-pop",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Disco",
+   "Disco"
+  ],
+  "years": [
+   1981,
+   1981,
+   1983,
+   1980,
+   1980,
+   1980,
+   1981,
+   1980,
+   1981,
+   1980,
+   1983,
+   1983,
+   1981,
+   1983,
+   1981,
+   1981,
+   1980,
+   1980,
+   1983,
+   1980,
+   1981,
+   1980,
+   1981,
+   1980,
+   1981
+  ]
+ },
  "takashi yoshimatsu": {
   "countries": [
    "Japan",
@@ -15787,6 +21251,257 @@
    1999,
    2004,
    2001
+  ]
+ },
+ "the black fire": {
+  "countries": [
+   "Argentina",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "US",
+   "US",
+   "Poland",
+   "South Korea",
+   "Brazil",
+   "Unknown",
+   "Canada"
+  ],
+  "genres": [
+   "Rock",
+   "Funk / Soul",
+   "Electronic",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Electronic",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Electronic",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Rock",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Hard Rock",
+    "Rock"
+   ],
+   [
+    "Doom Metal",
+    "Rock"
+   ],
+   [
+    "Stoner Rock",
+    "Rock"
+   ],
+   [
+    "Bossa Nova",
+    "Electronic"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Electronic"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Latin"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Electronic"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Electronic"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Latin"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Drone",
+    "Electronic"
+   ],
+   [
+    "Drone",
+    "Rock"
+   ],
+   [
+    "P.Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Black Metal",
+    "Rock"
+   ],
+   [
+    "Black Metal",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ]
+  ],
+  "releases": 13,
+  "styles": [
+   "Hard Rock",
+   "Doom Metal",
+   "Stoner Rock",
+   "Bossa Nova",
+   "Funk",
+   "Space-Age",
+   "Bossa Nova",
+   "Funk",
+   "Space-Age",
+   "Score",
+   "Score",
+   "Drone",
+   "P.Funk",
+   "Disco",
+   "Soul",
+   "Black Metal",
+   "Black Metal",
+   "Alternative Rock",
+   "Indie Rock",
+   "Therapy",
+   "Therapy"
+  ],
+  "years": [
+   2009,
+   1977,
+   2015,
+   2015,
+   1973,
+   2009,
+   2008,
+   2012
   ]
  },
  "the modern jazz quartet": {
@@ -16610,6 +22325,503 @@
    1972,
    1982,
    2014
+  ]
+ },
+ "tim maia": {
+  "countries": [
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Unknown",
+   "Unknown",
+   "Unknown",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Argentina",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Colombia",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil"
+  ],
+  "genres": [
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Ballad",
+    "Latin"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Latin"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Boogie",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Boogie",
+    "Latin"
+   ],
+   [
+    "Boogie",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Boogie",
+    "Latin"
+   ],
+   [
+    "Boogie",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Latin"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "MPB",
+   "MPB",
+   "Ballad",
+   "Soul",
+   "Soul",
+   "Funk",
+   "MPB",
+   "Soul",
+   "MPB",
+   "Soul",
+   "Ballad",
+   "MPB",
+   "Soul",
+   "Funk",
+   "MPB",
+   "Soul",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Boogie",
+   "Funk",
+   "MPB",
+   "Soul",
+   "Soul",
+   "Boogie",
+   "MPB",
+   "Boogie",
+   "Soul",
+   "Funk",
+   "MPB",
+   "MPB",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Funk",
+   "MPB",
+   "Soul",
+   "MPB",
+   "Soul",
+   "Funk",
+   "Soul",
+   "MPB",
+   "Soul"
+  ],
+  "years": [
+   1998,
+   2001,
+   1993,
+   1970,
+   2001,
+   2016,
+   2019,
+   2012,
+   1985,
+   1998,
+   2007,
+   1988,
+   1983,
+   1991,
+   1979,
+   1984,
+   1982,
+   1973,
+   1971,
+   1971,
+   1981
   ]
  },
  "valerie simpson": {
