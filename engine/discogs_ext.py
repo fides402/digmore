@@ -137,11 +137,18 @@ def build_candidates(
     countries: list[str] | None = None,
     year_from: int | None = None,
     year_to: int | None = None,
+    obscure: bool = True,
 ) -> tuple[list[dict], dict]:
     """Return (candidates, diag) for a macrogenre profile.
 
     candidates: shuffled [{artist,title,release_title,year,label,country,
     discogs_id,rating_avg,rating_count,cover_image}].
+
+    obscure: when False, skips the Last.fm "too famous" filter below — for a
+    profile whose point is to resemble a mainstream source (DIGMORE's DWE
+    mode expanding Discover Weekly), rejecting well-known artists throws away
+    exactly the candidates most likely to actually match. The caller controls
+    max_have the same way (pass 0/None to also lift the popularity cap).
     """
     cfg = GENRE_MAP.get(profile, {"searches": [{"genre": ""}]})
     exclude_styles = {s.lower() for s in cfg.get("exclude_styles", set())}
@@ -233,7 +240,7 @@ def build_candidates(
             chosen = random.sample(tracks, min(tracks_per_release, len(tracks)))
             diag["tracks_total"] += len(chosen)
             for t in chosen:
-                if lastfm.is_too_famous(t["artist"], max_listeners):
+                if obscure and lastfm.is_too_famous(t["artist"], max_listeners):
                     diag["filtered_famous"] += 1
                     continue
                 candidates.append({

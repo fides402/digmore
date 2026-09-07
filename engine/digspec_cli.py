@@ -22,7 +22,14 @@ Input spec (JSON, base64-encoded, from the `spec` workflow input):
      "year_from": 1966, "year_to": 1979,   # optional; wins over derived
      "searches": [["Jazz", "Modal"], ...], # optional; skips derivation
      "countries": ["Italy"],               # optional; wins over derived
-     "target": 30}                         # optional, default 30
+     "target": 30,                         # optional, default 30
+     "obscure": true}                      # optional, default true — false
+                                            # skips the Last.fm fame filter and
+                                            # the Discogs popularity cap, and
+                                            # lowers the Spotify-hit overshoot
+                                            # (DIGMORE's DWE mode: expanding a
+                                            # mainstream source, not crate-
+                                            # digging for rare vinyl)
 
 Usage:
     python digspec_cli.py --spec <base64> --out out.json
@@ -51,6 +58,15 @@ MIN_WINDOW_YEARS = 10
 # candidates cost only a Spotify search (~1s), only matched ones pay the
 # embedding.
 OVERSHOOT = 10
+
+# Non-obscure profiles (DIGMORE's DWE mode) skip the Last.fm fame filter and
+# the Discogs popularity cap, so far more of what Discogs returns already
+# exists on Spotify — the ~11% hit rate that justifies OVERSHOOT=10 for
+# genuinely rare vinyl was measured on obscure catalogue; mainstream-leaning
+# candidates matched closer to 66% in the same measurement (see the OVERSHOOT
+# comment below). A smaller multiplier still leaves real margin without
+# paying for Discogs rounds nothing needed.
+NON_OBSCURE_OVERSHOOT = 3
 MAX_ROUNDS = 14
 
 
@@ -80,9 +96,10 @@ def _widen(lo: int, hi: int, by: int) -> tuple[int, int]:
     return max(1900, lo - by), min(2035, hi + by)
 
 
-def collect(searches, countries, year_from, year_to, target):
+def collect(searches, countries, year_from, year_to, target, obscure=True):
     """Deduplicated candidates for these axes, plus how it went."""
-    want = max(target * OVERSHOOT, 45)
+    overshoot = OVERSHOOT if obscure else NON_OBSCURE_OVERSHOOT
+    want = max(target * overshoot, 45 if obscure else target + 15)
     seen_release_ids: set = set()
     seen_keys: set = set()
     results: list[dict] = []
@@ -100,6 +117,8 @@ def collect(searches, countries, year_from, year_to, target):
             exclude_ids=seen_release_ids,
             n_releases=18,
             tracks_per_release=4,
+            obscure=obscure,
+            max_have=(800 if obscure else 0),
         )
         seen_release_ids.update(diag.get("release_ids", []))
         added = 0
@@ -143,6 +162,7 @@ def main() -> int:
     countries = [c for c in (spec.get("countries") or []) if c]
     year_from = spec.get("year_from")
     year_to = spec.get("year_to")
+    obscure = bool(spec.get("obscure", True))
 
     derived = None
     if not searches:
@@ -174,7 +194,7 @@ def main() -> int:
         year_from, year_to = _widen(year_from, year_to, pad)
         print(f"window padded to {year_from}-{year_to} (floor {MIN_WINDOW_YEARS}y)", flush=True)
 
-    results, how = collect(searches, countries, year_from, year_to, target)
+    results, how = collect(searches, countries, year_from, year_to, target, obscure)
 
     out = {
         "status": "done" if results else "empty",
@@ -188,6 +208,7 @@ def main() -> int:
             "derived": derived is not None,
             "widened": how["widened"],
             "rounds": how["rounds"],
+            "obscure": obscure,
             "coverage": (derived or {}).get("coverage", {}),
         },
         "results": results,
