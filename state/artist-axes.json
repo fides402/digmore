@@ -15110,6 +15110,360 @@
    1969
   ]
  },
+ "gato barbieri": {
+  "countries": [
+   "US",
+   "US",
+   "Europe",
+   "Italy",
+   "Germany",
+   "US",
+   "Europe",
+   "Canada",
+   "Australia",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "Panama",
+   "Brazil",
+   "Spain",
+   "Guatemala",
+   "US",
+   "US",
+   "Canada",
+   "France",
+   "UK",
+   "UK",
+   "UK",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin"
+  ],
+  "pairs": [
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Latin"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Bolero",
+    "Jazz"
+   ],
+   [
+    "Bolero",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Tango",
+    "Jazz"
+   ],
+   [
+    "Tango",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Jazz"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Latin"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Latin"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Afro-Cuban Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Jazz-Funk",
+   "Latin Jazz",
+   "Jazz-Funk",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Contemporary Jazz",
+   "Latin Jazz",
+   "Free Jazz",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Free Jazz",
+   "Fusion",
+   "Latin Jazz",
+   "Bolero",
+   "Latin Jazz",
+   "Smooth Jazz",
+   "Tango",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Free Jazz",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Afro-Cuban Jazz",
+   "Soul-Jazz",
+   "Fusion",
+   "Modal",
+   "Free Jazz",
+   "Afro-Cuban Jazz",
+   "Jazz-Funk",
+   "Latin Jazz",
+   "Latin Jazz"
+  ],
+  "years": [
+   1982,
+   1976,
+   1972,
+   1990,
+   1998,
+   1975,
+   1978,
+   1975,
+   1978,
+   1977,
+   1979,
+   1974,
+   1982,
+   1976,
+   1974,
+   1971,
+   1977,
+   1973,
+   1971,
+   1972,
+   1973,
+   1982
+  ]
+ },
  "gene harris": {
   "countries": [
    "US",
@@ -32860,6 +33214,228 @@
    2001
   ]
  },
+ "ralph towner": {
+  "countries": [
+   "Germany",
+   "Germany",
+   "US",
+   "Brazil",
+   "Japan",
+   "South Korea",
+   "US",
+   "US",
+   "Japan",
+   "Scandinavia",
+   "Germany",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "Japan",
+   "Germany",
+   "US",
+   "Germany",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Free Improvisation",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Post Bop",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz"
+  ],
+  "years": [
+   1975,
+   1996,
+   1996,
+   1980,
+   1974,
+   1988,
+   1978,
+   2014,
+   1978,
+   1989,
+   1975,
+   1977,
+   2024,
+   1996,
+   1997,
+   2015,
+   1989,
+   1992,
+   1989
+  ]
+ },
  "ray bryant trio": {
   "countries": [
    "Japan",
@@ -41391,6 +41967,503 @@
    1999,
    2004,
    2001
+  ]
+ },
+ "terje rypdal": {
+  "countries": [
+   "Japan",
+   "Germany",
+   "Japan",
+   "Germany",
+   "Germany",
+   "US",
+   "Spain",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "US",
+   "Germany",
+   "US",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Norway",
+   "Norway",
+   "Germany",
+   "Germany",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Classical"
+  ],
+  "pairs": [
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Space Rock",
+    "Jazz"
+   ],
+   [
+    "Space Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Neo-Classical",
+    "Jazz"
+   ],
+   [
+    "Neo-Classical",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Jazz"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Avantgarde",
+    "Jazz"
+   ],
+   [
+    "Avantgarde",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Jazz"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Rock"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Avantgarde",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary",
+    "Jazz"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Fusion",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Jazz-Rock",
+   "Fusion",
+   "Contemporary Jazz",
+   "Jazz-Rock",
+   "Contemporary Jazz",
+   "Fusion",
+   "Fusion",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Jazz-Rock",
+   "Fusion",
+   "Fusion",
+   "Space Rock",
+   "Psychedelic Rock",
+   "Contemporary Jazz",
+   "Fusion",
+   "Jazz-Rock",
+   "Avant-garde Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Fusion",
+   "Neo-Classical",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Jazz-Rock",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Jazz-Rock",
+   "Fusion",
+   "Jazz-Rock",
+   "Post Bop",
+   "Fusion",
+   "Avantgarde",
+   "Jazz-Rock",
+   "Psychedelic Rock",
+   "Prog Rock",
+   "Big Band",
+   "Post Bop",
+   "Fusion",
+   "Avantgarde",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary",
+   "Contemporary Jazz"
+  ],
+  "years": [
+   1973,
+   2001,
+   1971,
+   1976,
+   1980,
+   1988,
+   2012,
+   1974,
+   1995,
+   1974,
+   1978,
+   2017,
+   2008,
+   1997,
+   1993
   ]
  },
  "the black fire": {
