@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Score"
+      },
+      {
+        "genre": "Latin",
+        "style": "MPB"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2011,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 19,
+      "artists_found": 17,
+      "fresh_lookups": 0,
+      "styles_considered": 73
+    }
+  },
+  "results": [
+    {
+      "artist": "Veronica Martell",
+      "title": "Sometimes I Wonder Why",
+      "release_title": "Veronica Martell -  The Art Of Intimacy",
+      "year": "2005",
+      "label": "Apria Records",
+      "country": "US",
+      "discogs_id": 17673259,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_nQqbximUmtLD3gStf7rJcYPD5PPcS8e4eSXrmXylII/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcz/MjU5LTE2MTQ3OTA5/NDAtODIzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "Reason For Staying",
+      "release_title": "The Mystic Moods Orchestra - Highway One",
+      "year": "1996",
+      "label": "High Definition Surround",
+      "country": "US",
+      "discogs_id": 10251544,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/FYPW6xTOZ-ngP3r28uFPg5nK4_yyr3HfQhCdp-maSgo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjUx/NTQ0LTE2NTg5MTkz/MDEtODI5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dan Hill",
+      "title": "I Still Reach For You (Stereo)",
+      "release_title": "Dan Hill - I Still Reach For You",
+      "year": "1980",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 5191835,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Jtg3CsaJpOcF-qi8BBhfxDyb8bsqdxY7thBGKAx-0UQ/rs:fit/g:sm/q:90/h:592/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTE4/MzUtMTM4NzAzMjQx/NS0zNDkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Al Hirt",
+      "title": "Bye Bye Blues",
+      "release_title": "Al Hirt - Al Hirt Plays Bert Kaempfert",
+      "year": "1968",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 21959575,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SFB1LnqOlL2kKpuKpk3UNjeVWMQkHIV98wSZZLhUcX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTU5/NTc1LTE2NDUzODE5/NDctNTc2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marcella Detroit",
+      "title": "Something",
+      "release_title": "Marcella Detroit - Abfab Songs",
+      "year": "1999",
+      "label": "Make Zee Music",
+      "country": "US",
+      "discogs_id": 2663441,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/jMS_lkQu8qxLODtEyuxJ361hnd6RG5BK-WqbpvdA3nk/rs:fit/g:sm/q:90/h:563/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM0/NDEtMTI5NTU1OTYz/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Veronica Martell",
+      "title": "Eleven Seventeen",
+      "release_title": "Veronica Martell -  The Art Of Intimacy",
+      "year": "2005",
+      "label": "Apria Records",
+      "country": "US",
+      "discogs_id": 17673259,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_nQqbximUmtLD3gStf7rJcYPD5PPcS8e4eSXrmXylII/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcz/MjU5LTE2MTQ3OTA5/NDAtODIzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mike Reagan",
+      "title": "Graven Intro/Battle",
+      "release_title": "Mike Reagan - Conan Soundtrack",
+      "year": "2007",
+      "label": "THQ",
+      "country": "US",
+      "discogs_id": 22079275,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8ypIvjKAXvEpBie4PRYkxGglVHs0K1YfjBTu8OoUcoI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc5/Mjc1LTE2NDQzNDM4/NTEtNjYxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mike Reagan",
+      "title": "Conan End Theme",
+      "release_title": "Mike Reagan - Conan Soundtrack",
+      "year": "2007",
+      "label": "THQ",
+      "country": "US",
+      "discogs_id": 22079275,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8ypIvjKAXvEpBie4PRYkxGglVHs0K1YfjBTu8OoUcoI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc5/Mjc1LTE2NDQzNDM4/NTEtNjYxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sharon Stone",
+      "title": "Knock Three Times",
+      "release_title": "Sharon Stone (3) - Knock Three Times / With Pen In Hand",
+      "year": "1971",
+      "label": "Extremely Brave",
+      "country": "US",
+      "discogs_id": 13304076,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2x07-wB-2Pr879rJPgBbsTHAFcFK_iSAhny0lH4Tw7E/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA0/MDc2LTE1NTE3MjUx/MTUtMTY4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Veronica Martell",
+      "title": "Dreams",
+      "release_title": "Veronica Martell -  The Art Of Intimacy",
+      "year": "2005",
+      "label": "Apria Records",
+      "country": "US",
+      "discogs_id": 17673259,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_nQqbximUmtLD3gStf7rJcYPD5PPcS8e4eSXrmXylII/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcz/MjU5LTE2MTQ3OTA5/NDAtODIzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Let Me Be Your Wings",
+      "release_title": "Various - Thumbelina (Original Motion Picture Soundtrack)",
+      "year": "1994",
+      "label": "SBK Records",
+      "country": "US",
+      "discogs_id": 9181740,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ok2W7G3spIKjpbGX-EyOhN2eAaMio5aR92ZZOO4Bygo/rs:fit/g:sm/q:90/h:600/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODE3/NDAtMTc1MTIxMDg3/OC05NDU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "My Love, My Life",
+      "release_title": "The Mystic Moods Orchestra - Highway One",
+      "year": "1996",
+      "label": "High Definition Surround",
+      "country": "US",
+      "discogs_id": 10251544,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/FYPW6xTOZ-ngP3r28uFPg5nK4_yyr3HfQhCdp-maSgo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjUx/NTQ0LTE2NTg5MTkz/MDEtODI5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Veronica Martell",
+      "title": "Love Don't Pay The Bills",
+      "release_title": "Veronica Martell -  The Art Of Intimacy",
+      "year": "2005",
+      "label": "Apria Records",
+      "country": "US",
+      "discogs_id": 17673259,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_nQqbximUmtLD3gStf7rJcYPD5PPcS8e4eSXrmXylII/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcz/MjU5LTE2MTQ3OTA5/NDAtODIzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sharon Stone",
+      "title": "With Pen In Hand",
+      "release_title": "Sharon Stone (3) - Knock Three Times / With Pen In Hand",
+      "year": "1971",
+      "label": "Extremely Brave",
+      "country": "US",
+      "discogs_id": 13304076,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2x07-wB-2Pr879rJPgBbsTHAFcFK_iSAhny0lH4Tw7E/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA0/MDc2LTE1NTE3MjUx/MTUtMTY4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Wayne Newton",
+      "title": "Love Of The Common People",
+      "release_title": "Wayne Newton - The Greatest!",
+      "year": "1968",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 20281816,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B9EA7WnaJdE1MI1EDFFqd1qMyqcyhoUxXwQlVjAWZj8/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjgx/ODE2LTE2MzE5ODk5/NzEtMjI5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Hirt",
+      "title": "Magic Trumpet",
+      "release_title": "Al Hirt - Al Hirt Plays Bert Kaempfert",
+      "year": "1968",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 21959575,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SFB1LnqOlL2kKpuKpk3UNjeVWMQkHIV98wSZZLhUcX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTU5/NTc1LTE2NDUzODE5/NDctNTc2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Kennedy",
+      "title": "When The Chips Are Down",
+      "release_title": "Dave Kennedy (5) - All By Myself",
+      "year": "1971",
+      "label": "Page",
+      "country": "US",
+      "discogs_id": 7398425,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/udze5Tqw621DFV4_kPkPLUqeBOznI13e9QHh1dCJveE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTg0/MjUtMTcyNzUxNjcx/NC02NzExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Basil Poledouris & Sinfonia Of London",
+      "title": "Clarence Frags Bob",
+      "release_title": "Basil Poledouris, The Sinfonia Of London Orchestra* - RoboCop",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 11109020,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/zY87wJZfp4cqah7flGfu1SypPqI4LNvKrX629qHDcsE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA5/MDIwLTE2MzE5ODEx/MzYtODkxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marcella Detroit",
+      "title": "Today's My Day",
+      "release_title": "Marcella Detroit - Abfab Songs",
+      "year": "1999",
+      "label": "Make Zee Music",
+      "country": "US",
+      "discogs_id": 2663441,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/jMS_lkQu8qxLODtEyuxJ361hnd6RG5BK-WqbpvdA3nk/rs:fit/g:sm/q:90/h:563/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM0/NDEtMTI5NTU1OTYz/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Hirt",
+      "title": "Red Roses For A Blue Lady",
+      "release_title": "Al Hirt - Al Hirt Plays Bert Kaempfert",
+      "year": "1968",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 21959575,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SFB1LnqOlL2kKpuKpk3UNjeVWMQkHIV98wSZZLhUcX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTU5/NTc1LTE2NDUzODE5/NDctNTc2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maurice Jarre",
+      "title": "We Can Interface",
+      "release_title": "Maurice Jarre - No Way Out",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 5816948,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/CS6lRN6nSZtXfd9iWnPIWsC9_NQeydwAyfJ6H_DxZgI/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTY5/NDgtMTQwMzY0NzQ5/Ni0xNzg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maurice Jarre",
+      "title": "No Way Out",
+      "release_title": "Maurice Jarre - No Way Out",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 5816948,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/CS6lRN6nSZtXfd9iWnPIWsC9_NQeydwAyfJ6H_DxZgI/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTY5/NDgtMTQwMzY0NzQ5/Ni0xNzg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Basil Poledouris & Sinfonia Of London",
+      "title": "Home",
+      "release_title": "Basil Poledouris, The Sinfonia Of London Orchestra* - RoboCop",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 11109020,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/zY87wJZfp4cqah7flGfu1SypPqI4LNvKrX629qHDcsE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA5/MDIwLTE2MzE5ODEx/MzYtODkxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Kennedy",
+      "title": "Take It Easy",
+      "release_title": "Dave Kennedy (5) - All By Myself",
+      "year": "1971",
+      "label": "Page",
+      "country": "US",
+      "discogs_id": 7398425,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/udze5Tqw621DFV4_kPkPLUqeBOznI13e9QHh1dCJveE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTg0/MjUtMTcyNzUxNjcx/NC02NzExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Opening Credits: Let Me Be Your Wings",
+      "release_title": "Various - Thumbelina (Original Motion Picture Soundtrack)",
+      "year": "1994",
+      "label": "SBK Records",
+      "country": "US",
+      "discogs_id": 9181740,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ok2W7G3spIKjpbGX-EyOhN2eAaMio5aR92ZZOO4Bygo/rs:fit/g:sm/q:90/h:600/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODE3/NDAtMTc1MTIxMDg3/OC05NDU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Let Me Be Your Wings (End Title Duet)",
+      "release_title": "Various - Thumbelina (Original Motion Picture Soundtrack)",
+      "year": "1994",
+      "label": "SBK Records",
+      "country": "US",
+      "discogs_id": 9181740,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ok2W7G3spIKjpbGX-EyOhN2eAaMio5aR92ZZOO4Bygo/rs:fit/g:sm/q:90/h:600/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODE3/NDAtMTc1MTIxMDg3/OC05NDU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Wayne Newton",
+      "title": "How Loud A Sound",
+      "release_title": "Wayne Newton - The Greatest!",
+      "year": "1968",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 20281816,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B9EA7WnaJdE1MI1EDFFqd1qMyqcyhoUxXwQlVjAWZj8/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjgx/ODE2LTE2MzE5ODk5/NzEtMjI5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Kennedy",
+      "title": "Moonlight And Roses",
+      "release_title": "Dave Kennedy (5) - All By Myself",
+      "year": "1971",
+      "label": "Page",
+      "country": "US",
+      "discogs_id": 7398425,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/udze5Tqw621DFV4_kPkPLUqeBOznI13e9QHh1dCJveE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTg0/MjUtMTcyNzUxNjcx/NC02NzExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Basil Poledouris & Sinfonia Of London",
+      "title": "Drive To Jones' Office",
+      "release_title": "Basil Poledouris, The Sinfonia Of London Orchestra* - RoboCop",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 11109020,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/zY87wJZfp4cqah7flGfu1SypPqI4LNvKrX629qHDcsE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA5/MDIwLTE2MzE5ODEx/MzYtODkxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Basil Poledouris & Sinfonia Of London",
+      "title": "Showdown",
+      "release_title": "Basil Poledouris, The Sinfonia Of London Orchestra* - RoboCop",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 11109020,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/zY87wJZfp4cqah7flGfu1SypPqI4LNvKrX629qHDcsE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA5/MDIwLTE2MzE5ODEx/MzYtODkxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maurice Jarre",
+      "title": "In The Pentagon",
+      "release_title": "Maurice Jarre - No Way Out",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 5816948,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/CS6lRN6nSZtXfd9iWnPIWsC9_NQeydwAyfJ6H_DxZgI/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTY5/NDgtMTQwMzY0NzQ5/Ni0xNzg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mike Reagan",
+      "title": "Sand Dragon!",
+      "release_title": "Mike Reagan - Conan Soundtrack",
+      "year": "2007",
+      "label": "THQ",
+      "country": "US",
+      "discogs_id": 22079275,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8ypIvjKAXvEpBie4PRYkxGglVHs0K1YfjBTu8OoUcoI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc5/Mjc1LTE2NDQzNDM4/NTEtNjYxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Mama Toad Kidnaps Thumbelina",
+      "release_title": "Various - Thumbelina (Original Motion Picture Soundtrack)",
+      "year": "1994",
+      "label": "SBK Records",
+      "country": "US",
+      "discogs_id": 9181740,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ok2W7G3spIKjpbGX-EyOhN2eAaMio5aR92ZZOO4Bygo/rs:fit/g:sm/q:90/h:600/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODE3/NDAtMTc1MTIxMDg3/OC05NDU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Wayne Newton",
+      "title": "Just A Memory",
+      "release_title": "Wayne Newton - The Greatest!",
+      "year": "1968",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 20281816,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B9EA7WnaJdE1MI1EDFFqd1qMyqcyhoUxXwQlVjAWZj8/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjgx/ODE2LTE2MzE5ODk5/NzEtMjI5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Kennedy",
+      "title": "Street Of Dreams",
+      "release_title": "Dave Kennedy (5) - All By Myself",
+      "year": "1971",
+      "label": "Page",
+      "country": "US",
+      "discogs_id": 7398425,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/udze5Tqw621DFV4_kPkPLUqeBOznI13e9QHh1dCJveE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTg0/MjUtMTcyNzUxNjcx/NC02NzExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dan Hill",
+      "title": "I Still Reach For You (Mono)",
+      "release_title": "Dan Hill - I Still Reach For You",
+      "year": "1980",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 5191835,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Jtg3CsaJpOcF-qi8BBhfxDyb8bsqdxY7thBGKAx-0UQ/rs:fit/g:sm/q:90/h:592/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTE4/MzUtMTM4NzAzMjQx/NS0zNDkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maurice Jarre",
+      "title": "National Security",
+      "release_title": "Maurice Jarre - No Way Out",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 5816948,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/CS6lRN6nSZtXfd9iWnPIWsC9_NQeydwAyfJ6H_DxZgI/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTY5/NDgtMTQwMzY0NzQ5/Ni0xNzg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Marcella Detroit",
+      "title": "Sign",
+      "release_title": "Marcella Detroit - Abfab Songs",
+      "year": "1999",
+      "label": "Make Zee Music",
+      "country": "US",
+      "discogs_id": 2663441,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/jMS_lkQu8qxLODtEyuxJ361hnd6RG5BK-WqbpvdA3nk/rs:fit/g:sm/q:90/h:563/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM0/NDEtMTI5NTU1OTYz/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Wayne Newton",
+      "title": "Green Green Grass Of Home",
+      "release_title": "Wayne Newton - The Greatest!",
+      "year": "1968",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 20281816,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B9EA7WnaJdE1MI1EDFFqd1qMyqcyhoUxXwQlVjAWZj8/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjgx/ODE2LTE2MzE5ODk5/NzEtMjI5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "The First Time",
+      "release_title": "The Mystic Moods Orchestra - Highway One",
+      "year": "1996",
+      "label": "High Definition Surround",
+      "country": "US",
+      "discogs_id": 10251544,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/FYPW6xTOZ-ngP3r28uFPg5nK4_yyr3HfQhCdp-maSgo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjUx/NTQ0LTE2NTg5MTkz/MDEtODI5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "Rain",
+      "release_title": "The Mystic Moods Orchestra - Highway One",
+      "year": "1996",
+      "label": "High Definition Surround",
+      "country": "US",
+      "discogs_id": 10251544,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/FYPW6xTOZ-ngP3r28uFPg5nK4_yyr3HfQhCdp-maSgo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjUx/NTQ0LTE2NTg5MTkz/MDEtODI5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Hirt",
+      "title": "Sweet Maria",
+      "release_title": "Al Hirt - Al Hirt Plays Bert Kaempfert",
+      "year": "1968",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 21959575,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SFB1LnqOlL2kKpuKpk3UNjeVWMQkHIV98wSZZLhUcX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTU5/NTc1LTE2NDUzODE5/NDctNTc2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mike Reagan",
+      "title": "An Age Undreamed Of",
+      "release_title": "Mike Reagan - Conan Soundtrack",
+      "year": "2007",
+      "label": "THQ",
+      "country": "US",
+      "discogs_id": 22079275,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8ypIvjKAXvEpBie4PRYkxGglVHs0K1YfjBTu8OoUcoI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc5/Mjc1LTE2NDQzNDM4/NTEtNjYxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marcella Detroit",
+      "title": "Valdesaire",
+      "release_title": "Marcella Detroit - Abfab Songs",
+      "year": "1999",
+      "label": "Make Zee Music",
+      "country": "US",
+      "discogs_id": 2663441,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/jMS_lkQu8qxLODtEyuxJ361hnd6RG5BK-WqbpvdA3nk/rs:fit/g:sm/q:90/h:563/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM0/NDEtMTI5NTU1OTYz/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Groupé",
+      "title": "Shotcut To Greatness",
+      "release_title": "Larry Groupé - The Contender",
+      "year": "2000",
+      "label": "Zomba Screen Music",
+      "country": "US",
+      "discogs_id": 12056740,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5OwuS5JFzFxnjE8Z-s_ypuGzRMjD36q2MxtpYPQgMYk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU2/NzQwLTE1Mjc1MjQ1/NzctMTA1MC5qcGVn.jpeg"
+    }
+  ]
+}
