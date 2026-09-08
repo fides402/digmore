@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Score"
+      },
+      {
+        "genre": "Latin",
+        "style": "MPB"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2011,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 19,
+      "artists_found": 17,
+      "fresh_lookups": 0,
+      "styles_considered": 73
+    }
+  },
+  "results": [
+    {
+      "artist": "Milton Delugg & The Tonight Show Band",
+      "title": "Little White Horse",
+      "release_title": "Milton Delugg And \"The Tonight Show\" Big Band* - Presenting Milton Delugg And The Tonight Show Band",
+      "year": "1967",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 8337239,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4Ly93vrgu8NE19obo4JABGg1czTfG_7TGqpK9i8XFx8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzcy/MzktMTQ1OTYyNzQ3/NS05MDg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gil Mellé",
+      "title": "Suite From Vampire",
+      "release_title": "Gil Mellé - Kolchak: The Night Stalker (Original Television Soundtrack)",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 3817046,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/d70O23et1I0Ag_evTGsHaR5Zm5zIbsQhMDn-mMh5G1k/rs:fit/g:sm/q:90/h:490/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTcw/NDYtMTYxOTUyNjA5/MS02NjU3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Laura Fygi",
+      "title": "The First Time",
+      "release_title": "Laura Fygi - Live At North Sea Jazz",
+      "year": "2003",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 36830668,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DmOl4r8ZRsZ4M0G5THKG8bfkFgz_vi-BcRM7EMcrNsw/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODMw/NjY4LTE3NzQwMzgw/OTEtMTE1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "Theme From Stormy Weekend (Interlude)",
+      "release_title": "The Mystic Moods Orchestra - Stormy Weekend",
+      "year": "1993",
+      "label": "The Right Stuff",
+      "country": "US",
+      "discogs_id": 3091899,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/av8j2rjAMCPTPlQVOA2_VxTxbnyn9oAgmspGcuMOMwc/rs:fit/g:sm/q:90/h:589/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE4/OTktMTMxNTMyOTE5/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "Monday, Monday",
+      "release_title": "The Mystic Moods Orchestra - Stormy Weekend",
+      "year": "1993",
+      "label": "The Right Stuff",
+      "country": "US",
+      "discogs_id": 3091899,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/av8j2rjAMCPTPlQVOA2_VxTxbnyn9oAgmspGcuMOMwc/rs:fit/g:sm/q:90/h:589/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE4/OTktMTMxNTMyOTE5/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gil Mellé",
+      "title": "Suite From U.F.O.",
+      "release_title": "Gil Mellé - Kolchak: The Night Stalker (Original Television Soundtrack)",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 3817046,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/d70O23et1I0Ag_evTGsHaR5Zm5zIbsQhMDn-mMh5G1k/rs:fit/g:sm/q:90/h:490/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTcw/NDYtMTYxOTUyNjA5/MS02NjU3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lighthouse",
+      "title": "Sunny Days",
+      "release_title": "Various - The Event (Original Motion Picture Soundtrack)",
+      "year": "2003",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 36516538,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vFFBoU0kS4DAhL84dQenaOZWXKVhu7Si8G4G5QAItH8/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTE2/NTM4LTE3NzEyMDA0/NTMtNzQ1Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gil Mellé",
+      "title": "The Night Stalker Main Title",
+      "release_title": "Gil Mellé - Kolchak: The Night Stalker (Original Television Soundtrack)",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 3817046,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/d70O23et1I0Ag_evTGsHaR5Zm5zIbsQhMDn-mMh5G1k/rs:fit/g:sm/q:90/h:490/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTcw/NDYtMTYxOTUyNjA5/MS02NjU3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Raksin & New Philharmonia Orchestra",
+      "title": "Laura",
+      "release_title": "David Raksin, New Philharmonia Orchestra - David Raksin Conducts His Great Film Scores",
+      "year": "1976",
+      "label": "RCA Red Seal",
+      "country": "US",
+      "discogs_id": 5665629,
+      "rating_avg": 3.88,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/lIySPNPypRa4yO_Uj5IOIxiSlmv7OD9a6YRJ5oKxCQw/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjU2/MjktMTM5OTg0NjMx/My01ODM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cary Grant",
+      "title": "Night And Day",
+      "release_title": "Cary Grant - Night And Day",
+      "year": "1983",
+      "label": "Motion Picture Tracks",
+      "country": "US",
+      "discogs_id": 7706499,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/A_zCtV8QM0h9o_laNF_gLBQ0OSrG-KuPfteK6XEUSSs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDY0/OTktMTU0MTAwNjYx/Ny04MTAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Vaughn",
+      "title": "The Way That I Live",
+      "release_title": "Billy Vaughn - The Windmills Of Your Mind",
+      "year": "1969",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 10386165,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Aj7bt1sAe_3E6Crck_wNq3b8VPm7GKZ4lqKSoolzlu0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg2/MTY1LTE0OTY0MzU5/MDAtODYwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dorothy Malone",
+      "title": "In The Still Of The Night",
+      "release_title": "Cary Grant - Night And Day",
+      "year": "1983",
+      "label": "Motion Picture Tracks",
+      "country": "US",
+      "discogs_id": 7706499,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/A_zCtV8QM0h9o_laNF_gLBQ0OSrG-KuPfteK6XEUSSs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDY0/OTktMTU0MTAwNjYx/Ny04MTAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Laura Fygi",
+      "title": "Diamonds Are A Girl's Best Friend",
+      "release_title": "Laura Fygi - Live At North Sea Jazz",
+      "year": "2003",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 36830668,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DmOl4r8ZRsZ4M0G5THKG8bfkFgz_vi-BcRM7EMcrNsw/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODMw/NjY4LTE3NzQwMzgw/OTEtMTE1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "Ne Dis Rien (Say No More)",
+      "release_title": "The Mystic Moods Orchestra - Stormy Weekend",
+      "year": "1993",
+      "label": "The Right Stuff",
+      "country": "US",
+      "discogs_id": 3091899,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/av8j2rjAMCPTPlQVOA2_VxTxbnyn9oAgmspGcuMOMwc/rs:fit/g:sm/q:90/h:589/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE4/OTktMTMxNTMyOTE5/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Strongwilled",
+      "release_title": "Various - Infonewsdramatainment",
+      "year": "2005",
+      "label": "VideoHelper",
+      "country": "US",
+      "discogs_id": 30158150,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wKDQS9nvdH_PGVrNMrY7Ev0rzsEHuE5wRMNbt6OwLpo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU4/MTUwLTE3MTU3NDM4/NzMtNzcwNy5wbmc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Once No People",
+      "release_title": "Various - Infonewsdramatainment",
+      "year": "2005",
+      "label": "VideoHelper",
+      "country": "US",
+      "discogs_id": 30158150,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wKDQS9nvdH_PGVrNMrY7Ev0rzsEHuE5wRMNbt6OwLpo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU4/MTUwLTE3MTU3NDM4/NzMtNzcwNy5wbmc.jpeg"
+    },
+    {
+      "artist": "The San Sebastian Strings",
+      "title": "A La Derive",
+      "release_title": "The San Sebastian Strings - La Mer / The Sea",
+      "year": "1972",
+      "label": "Stanyan Records",
+      "country": "US",
+      "discogs_id": 5846292,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4tcZ5Zz9zGmt91ZmXwVfh8AN3kDPan1cPRqAB4nUQb0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDYy/OTItMTQ2MTY5MjYy/OC0xODAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gil Mellé",
+      "title": "Suite From The Ripper",
+      "release_title": "Gil Mellé - Kolchak: The Night Stalker (Original Television Soundtrack)",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 3817046,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/d70O23et1I0Ag_evTGsHaR5Zm5zIbsQhMDn-mMh5G1k/rs:fit/g:sm/q:90/h:490/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTcw/NDYtMTYxOTUyNjA5/MS02NjU3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Milton Delugg & The Tonight Show Band",
+      "title": "My Cup Runneth Over",
+      "release_title": "Milton Delugg And \"The Tonight Show\" Big Band* - Presenting Milton Delugg And The Tonight Show Band",
+      "year": "1967",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 8337239,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4Ly93vrgu8NE19obo4JABGg1czTfG_7TGqpK9i8XFx8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzcy/MzktMTQ1OTYyNzQ3/NS05MDg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Gerhardt & National Philharmonic Orchestra",
+      "title": "Casablanca - Main Title; The Immigrants; Morocco; Sam, I Thought I Told You Never To Play..., As Time Goes By; Flashback; Rick Remembers Paris; Love Scene; The Airport; Major Strasser's Death; ...The Beginning Of A Beautiful Friendship.",
+      "release_title": "Charles Gerhardt / National Philharmonic Orchestra - Casablanca - Classic Film Scores For Humphrey Bogart",
+      "year": "1989",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 20626324,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UQNCIByquc2i3twd8L4_R41vDpdFdp9bPVTErjanS6M/rs:fit/g:sm/q:90/h:600/w:257/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI2/MzI0LTE2MzQ0OTQ4/MzktODU2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The San Sebastian Strings",
+      "title": "Les Cadeaux De La Mer",
+      "release_title": "The San Sebastian Strings - La Mer / The Sea",
+      "year": "1972",
+      "label": "Stanyan Records",
+      "country": "US",
+      "discogs_id": 5846292,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4tcZ5Zz9zGmt91ZmXwVfh8AN3kDPan1cPRqAB4nUQb0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDYy/OTItMTQ2MTY5MjYy/OC0xODAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lenore Paxton",
+      "title": "Moanin'",
+      "release_title": "The Jack Brokensha Quartet* and The Lenore Paxton Trio* - Steel Blue And Other Hit Tunes",
+      "year": "1967",
+      "label": "Columbia Special Products",
+      "country": "US",
+      "discogs_id": 3849634,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ubBrExKYrIwllEke2ugCjczZHcUye0Dpv3UP_tRPfJ8/rs:fit/g:sm/q:90/h:537/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDk2/MzQtMTUxNzE1NDE3/Ny0zMjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Laura Fygi",
+      "title": "I Get A Kick",
+      "release_title": "Laura Fygi - Live At North Sea Jazz",
+      "year": "2003",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 36830668,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DmOl4r8ZRsZ4M0G5THKG8bfkFgz_vi-BcRM7EMcrNsw/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODMw/NjY4LTE3NzQwMzgw/OTEtMTE1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Kostelanetz",
+      "title": "Where Did The Good Times Go?",
+      "release_title": "André Kostelanetz - Where Did The Good Times Go?",
+      "year": "1974",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 22830026,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-gCZyaVwf-MQKRsTHNJWxkImpSAKdqfT_l-htqXEGbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMw/MDI2LTE2NDk1ODY5/NzktODUxMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "4:22 A.M.",
+      "release_title": "The Mystic Moods Orchestra - Stormy Weekend",
+      "year": "1993",
+      "label": "The Right Stuff",
+      "country": "US",
+      "discogs_id": 3091899,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/av8j2rjAMCPTPlQVOA2_VxTxbnyn9oAgmspGcuMOMwc/rs:fit/g:sm/q:90/h:589/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE4/OTktMTMxNTMyOTE5/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Gerhardt & National Philharmonic Orchestra",
+      "title": "Passage To Marseille - Rescue At Sea",
+      "release_title": "Charles Gerhardt / National Philharmonic Orchestra - Casablanca - Classic Film Scores For Humphrey Bogart",
+      "year": "1989",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 20626324,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UQNCIByquc2i3twd8L4_R41vDpdFdp9bPVTErjanS6M/rs:fit/g:sm/q:90/h:600/w:257/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI2/MzI0LTE2MzQ0OTQ4/MzktODU2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Instant Update",
+      "release_title": "Various - Infonewsdramatainment",
+      "year": "2005",
+      "label": "VideoHelper",
+      "country": "US",
+      "discogs_id": 30158150,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wKDQS9nvdH_PGVrNMrY7Ev0rzsEHuE5wRMNbt6OwLpo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU4/MTUwLTE3MTU3NDM4/NzMtNzcwNy5wbmc.jpeg"
+    },
+    {
+      "artist": "Milton Delugg & The Tonight Show Band",
+      "title": "That's Life",
+      "release_title": "Milton Delugg And \"The Tonight Show\" Big Band* - Presenting Milton Delugg And The Tonight Show Band",
+      "year": "1967",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 8337239,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4Ly93vrgu8NE19obo4JABGg1czTfG_7TGqpK9i8XFx8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzcy/MzktMTQ1OTYyNzQ3/NS05MDg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ginny Simms",
+      "title": "Just One Of Those Things",
+      "release_title": "Cary Grant - Night And Day",
+      "year": "1983",
+      "label": "Motion Picture Tracks",
+      "country": "US",
+      "discogs_id": 7706499,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/A_zCtV8QM0h9o_laNF_gLBQ0OSrG-KuPfteK6XEUSSs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDY0/OTktMTU0MTAwNjYx/Ny04MTAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lenore Paxton",
+      "title": "Girl Talk",
+      "release_title": "The Jack Brokensha Quartet* and The Lenore Paxton Trio* - Steel Blue And Other Hit Tunes",
+      "year": "1967",
+      "label": "Columbia Special Products",
+      "country": "US",
+      "discogs_id": 3849634,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ubBrExKYrIwllEke2ugCjczZHcUye0Dpv3UP_tRPfJ8/rs:fit/g:sm/q:90/h:537/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDk2/MzQtMTUxNzE1NDE3/Ny0zMjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Vaughn",
+      "title": "The Windmills Of Your Mind",
+      "release_title": "Billy Vaughn - The Windmills Of Your Mind",
+      "year": "1969",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 10386165,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Aj7bt1sAe_3E6Crck_wNq3b8VPm7GKZ4lqKSoolzlu0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg2/MTY1LTE0OTY0MzU5/MDAtODYwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lenore Paxton",
+      "title": "Michelle",
+      "release_title": "The Jack Brokensha Quartet* and The Lenore Paxton Trio* - Steel Blue And Other Hit Tunes",
+      "year": "1967",
+      "label": "Columbia Special Products",
+      "country": "US",
+      "discogs_id": 3849634,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ubBrExKYrIwllEke2ugCjczZHcUye0Dpv3UP_tRPfJ8/rs:fit/g:sm/q:90/h:537/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDk2/MzQtMTUxNzE1NDE3/Ny0zMjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Gerhardt & National Philharmonic Orchestra",
+      "title": "The Treasure Of The Sierra Madre - Main Title; The Trek To The Gold; Fool's Gold; The Letter; Finale; The Gold Scatters In The Wind",
+      "release_title": "Charles Gerhardt / National Philharmonic Orchestra - Casablanca - Classic Film Scores For Humphrey Bogart",
+      "year": "1989",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 20626324,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UQNCIByquc2i3twd8L4_R41vDpdFdp9bPVTErjanS6M/rs:fit/g:sm/q:90/h:600/w:257/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI2/MzI0LTE2MzQ0OTQ4/MzktODU2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Kostelanetz",
+      "title": "That's Entertainment",
+      "release_title": "André Kostelanetz - Where Did The Good Times Go?",
+      "year": "1974",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 22830026,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-gCZyaVwf-MQKRsTHNJWxkImpSAKdqfT_l-htqXEGbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMw/MDI2LTE2NDk1ODY5/NzktODUxMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The San Sebastian Strings",
+      "title": "Ta Chair A Le Gout Du Soleil",
+      "release_title": "The San Sebastian Strings - La Mer / The Sea",
+      "year": "1972",
+      "label": "Stanyan Records",
+      "country": "US",
+      "discogs_id": 5846292,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4tcZ5Zz9zGmt91ZmXwVfh8AN3kDPan1cPRqAB4nUQb0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDYy/OTItMTQ2MTY5MjYy/OC0xODAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Christophe Beck",
+      "title": "Mother",
+      "release_title": "Various - The Event (Original Motion Picture Soundtrack)",
+      "year": "2003",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 36516538,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vFFBoU0kS4DAhL84dQenaOZWXKVhu7Si8G4G5QAItH8/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTE2/NTM4LTE3NzEyMDA0/NTMtNzQ1Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Milton Delugg & The Tonight Show Band",
+      "title": "All (Theme From Run For Your Wife)",
+      "release_title": "Milton Delugg And \"The Tonight Show\" Big Band* - Presenting Milton Delugg And The Tonight Show Band",
+      "year": "1967",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 8337239,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4Ly93vrgu8NE19obo4JABGg1czTfG_7TGqpK9i8XFx8/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzcy/MzktMTQ1OTYyNzQ3/NS05MDg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ian Janes",
+      "title": "What I Was Waiting For",
+      "release_title": "Various - The Event (Original Motion Picture Soundtrack)",
+      "year": "2003",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 36516538,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vFFBoU0kS4DAhL84dQenaOZWXKVhu7Si8G4G5QAItH8/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTE2/NTM4LTE3NzEyMDA0/NTMtNzQ1Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cary Grant",
+      "title": "An Old Fashioned Garden",
+      "release_title": "Cary Grant - Night And Day",
+      "year": "1983",
+      "label": "Motion Picture Tracks",
+      "country": "US",
+      "discogs_id": 7706499,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/A_zCtV8QM0h9o_laNF_gLBQ0OSrG-KuPfteK6XEUSSs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDY0/OTktMTU0MTAwNjYx/Ny04MTAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Gerhardt & National Philharmonic Orchestra",
+      "title": "The Caine Mutiny - March",
+      "release_title": "Charles Gerhardt / National Philharmonic Orchestra - Casablanca - Classic Film Scores For Humphrey Bogart",
+      "year": "1989",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 20626324,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UQNCIByquc2i3twd8L4_R41vDpdFdp9bPVTErjanS6M/rs:fit/g:sm/q:90/h:600/w:257/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI2/MzI0LTE2MzQ0OTQ4/MzktODU2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jack Brokensha",
+      "title": "A Taste Of Honey",
+      "release_title": "The Jack Brokensha Quartet* and The Lenore Paxton Trio* - Steel Blue And Other Hit Tunes",
+      "year": "1967",
+      "label": "Columbia Special Products",
+      "country": "US",
+      "discogs_id": 3849634,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ubBrExKYrIwllEke2ugCjczZHcUye0Dpv3UP_tRPfJ8/rs:fit/g:sm/q:90/h:537/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDk2/MzQtMTUxNzE1NDE3/Ny0zMjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The San Sebastian Strings",
+      "title": "L'orage",
+      "release_title": "The San Sebastian Strings - La Mer / The Sea",
+      "year": "1972",
+      "label": "Stanyan Records",
+      "country": "US",
+      "discogs_id": 5846292,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4tcZ5Zz9zGmt91ZmXwVfh8AN3kDPan1cPRqAB4nUQb0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDYy/OTItMTQ2MTY5MjYy/OC0xODAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Laura Fygi",
+      "title": "That Old Feeling",
+      "release_title": "Laura Fygi - Live At North Sea Jazz",
+      "year": "2003",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 36830668,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DmOl4r8ZRsZ4M0G5THKG8bfkFgz_vi-BcRM7EMcrNsw/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODMw/NjY4LTE3NzQwMzgw/OTEtMTE1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Presentation 101",
+      "release_title": "Various - Infonewsdramatainment",
+      "year": "2005",
+      "label": "VideoHelper",
+      "country": "US",
+      "discogs_id": 30158150,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wKDQS9nvdH_PGVrNMrY7Ev0rzsEHuE5wRMNbt6OwLpo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU4/MTUwLTE3MTU3NDM4/NzMtNzcwNy5wbmc.jpeg"
+    },
+    {
+      "artist": "Olympic Runners & George Chandler",
+      "title": "Keep It Up",
+      "release_title": "The Olympic Runners* With George Chandler - Keep It Up",
+      "year": "1977",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 15926787,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cw4q60y6PEjTwfcHWtxfEPjg8qTtfO2fsPdYJLeeDU4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI2/Nzg3LTE2MDcxNTc1/MzMtNjk4MC5tcG8.jpeg"
+    }
+  ]
+}
