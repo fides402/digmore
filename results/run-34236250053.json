@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Score"
+      },
+      {
+        "genre": "Latin",
+        "style": "MPB"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2011,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 19,
+      "artists_found": 17,
+      "fresh_lookups": 0,
+      "styles_considered": 73
+    }
+  },
+  "results": [
+    {
+      "artist": "Bobby Enriquez",
+      "title": "Gee Baby Ain't I Good To You",
+      "release_title": "Bobby Enriquez - Wild Piano",
+      "year": "1988",
+      "label": "Portrait",
+      "country": "US",
+      "discogs_id": 9762010,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/M0QtMU9zzJGOxNNtlpUrmynr7jpq1ffAR_mEZNA-lL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjIw/MTAtMTY0OTE2NjE4/MS05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Bellavia",
+      "release_title": "Chuck Mangione - Specially Edited Selections From 'Children Of Sanchez'",
+      "year": "1978",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 5942269,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Wu2lMKYB871JpK-jE2t6gggtRm62Ww8jPqtoZtbswbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDIy/NjktMTY3MzAyODc1/Ni04MDIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maurice Jarre",
+      "title": "Deportation",
+      "release_title": "Maurice Jarre - Uprising",
+      "year": "2001",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 11659495,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fUiSIFbCntBGEWeGtRmQQi-vO-VFak0xGnc4yOAlAbE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU5/NDk1LTE1MjAxODQ5/NDctOTYwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tito Puente & Woody Herman",
+      "title": "Cha Cha Chuck",
+      "release_title": "Tito Puente And Woody Herman - Latin Flight",
+      "year": "1999",
+      "label": "LaserLight Digital",
+      "country": "US",
+      "discogs_id": 13018507,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1YiL5ifsGrGFlFEvUHCmQwYYb6OgwaaFX6Rw1KXUPic/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE4/NTA3LTE2MTk4Njcx/NTItMTY1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hilary Noble",
+      "title": "Güiro Moderno",
+      "release_title": "Hilary Noble - Noble Savage",
+      "year": "2002",
+      "label": "Whaling City Sound",
+      "country": "US",
+      "discogs_id": 8219940,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/j6Qyd4oPYCeJ5G_UJ4qmKs_NRLwhXXz4Dlg3TIrRbdg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTk5/NDAtMTQ1NzM3ODE4/OC04NzQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "Ca C'est Bon",
+      "release_title": "Tania Maria - The Best Of Tania Maria",
+      "year": "1993",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 12770405,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "Bronx",
+      "release_title": "Tania Maria - The Best Of Tania Maria",
+      "year": "1993",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 12770405,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Maurice Jarre",
+      "title": "Feathers",
+      "release_title": "Maurice Jarre - Uprising",
+      "year": "2001",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 11659495,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fUiSIFbCntBGEWeGtRmQQi-vO-VFak0xGnc4yOAlAbE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU5/NDk1LTE1MjAxODQ5/NDctOTYwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maurice Jarre",
+      "title": "Resistance",
+      "release_title": "Maurice Jarre - Uprising",
+      "year": "2001",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 11659495,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fUiSIFbCntBGEWeGtRmQQi-vO-VFak0xGnc4yOAlAbE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU5/NDk1LTE1MjAxODQ5/NDctOTYwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Lullabye",
+      "release_title": "Chuck Mangione - Specially Edited Selections From 'Children Of Sanchez'",
+      "year": "1978",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 5942269,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Wu2lMKYB871JpK-jE2t6gggtRm62Ww8jPqtoZtbswbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDIy/NjktMTY3MzAyODc1/Ni04MDIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fred Karlin",
+      "title": "Ravagers In Pursuit",
+      "release_title": "Fred Karlin - Ravagers (Original Motion Picture Soundtrack)",
+      "year": "2011",
+      "label": "Intrada",
+      "country": "US",
+      "discogs_id": 3511168,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/8EAb65_bgweOGFhtO19iQ-H4gGUoVyVFk69zoWbGSmk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTEx/NjgtMTMzMzM1Mjk5/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "Tanoca Vignette",
+      "release_title": "Tania Maria - The Best Of Tania Maria",
+      "year": "1993",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 12770405,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Tito Puente & Woody Herman",
+      "title": "Mambo Herd",
+      "release_title": "Tito Puente And Woody Herman - Latin Flight",
+      "year": "1999",
+      "label": "LaserLight Digital",
+      "country": "US",
+      "discogs_id": 13018507,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1YiL5ifsGrGFlFEvUHCmQwYYb6OgwaaFX6Rw1KXUPic/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE4/NTA3LTE2MTk4Njcx/NTItMTY1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Atlantic Starr",
+      "title": "My Sugar (LP Version)",
+      "release_title": "Atlantic Starr - My Sugar",
+      "year": "1989",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 1853922,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9yEvrkA-VNdXcxg0EPzwJaeuXUtxTdhzu8t2XhBmms8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM5/MjItMTI0ODAzMTg5/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean Plum",
+      "title": "Pour On The Loving",
+      "release_title": "Jean Plum - Pour On The Loving / You Ask Me ",
+      "year": "1978",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 11843599,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/SFAEQI5LQxrYjlyYgaCbxEMnUBfliWwmiV8j-GEhFK4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQz/NTk5LTE1MjMzMTky/MDAtNTQ0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Andrea Morricone",
+      "title": "Graduation",
+      "release_title": "Andrea Morricone - Liberty Heights (Original Score Album)",
+      "year": "1999",
+      "label": "Warner Sunset Records",
+      "country": "US",
+      "discogs_id": 1915254,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BJ-A0RFa_l-kYCL17jtjAQiwTLaGB_gfiiXaY4zK6OE/rs:fit/g:sm/q:90/h:344/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUy/NTQtMTMzMTQwMjc0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fred Karlin",
+      "title": "Falk Kills",
+      "release_title": "Fred Karlin - Ravagers (Original Motion Picture Soundtrack)",
+      "year": "2011",
+      "label": "Intrada",
+      "country": "US",
+      "discogs_id": 3511168,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/8EAb65_bgweOGFhtO19iQ-H4gGUoVyVFk69zoWbGSmk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTEx/NjgtMTMzMzM1Mjk5/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "I Do I Love You",
+      "release_title": "Tania Maria - The Best Of Tania Maria",
+      "year": "1993",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 12770405,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Bobby Enriquez",
+      "title": "Four In One",
+      "release_title": "Bobby Enriquez - Wild Piano",
+      "year": "1988",
+      "label": "Portrait",
+      "country": "US",
+      "discogs_id": 9762010,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/M0QtMU9zzJGOxNNtlpUrmynr7jpq1ffAR_mEZNA-lL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjIw/MTAtMTY0OTE2NjE4/MS05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andrea Morricone",
+      "title": "$100,000 Phone Call",
+      "release_title": "Andrea Morricone - Liberty Heights (Original Score Album)",
+      "year": "1999",
+      "label": "Warner Sunset Records",
+      "country": "US",
+      "discogs_id": 1915254,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BJ-A0RFa_l-kYCL17jtjAQiwTLaGB_gfiiXaY4zK6OE/rs:fit/g:sm/q:90/h:344/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUy/NTQtMTMzMTQwMjc0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hilary Noble",
+      "title": "Ilé-Olorun",
+      "release_title": "Hilary Noble - Noble Savage",
+      "year": "2002",
+      "label": "Whaling City Sound",
+      "country": "US",
+      "discogs_id": 8219940,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/j6Qyd4oPYCeJ5G_UJ4qmKs_NRLwhXXz4Dlg3TIrRbdg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTk5/NDAtMTQ1NzM3ODE4/OC04NzQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tito Puente & Woody Herman",
+      "title": "Sinbad The Sailor",
+      "release_title": "Tito Puente And Woody Herman - Latin Flight",
+      "year": "1999",
+      "label": "LaserLight Digital",
+      "country": "US",
+      "discogs_id": 13018507,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1YiL5ifsGrGFlFEvUHCmQwYYb6OgwaaFX6Rw1KXUPic/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE4/NTA3LTE2MTk4Njcx/NTItMTY1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fred Karlin",
+      "title": "Military Installation No. 1",
+      "release_title": "Fred Karlin - Ravagers (Original Motion Picture Soundtrack)",
+      "year": "2011",
+      "label": "Intrada",
+      "country": "US",
+      "discogs_id": 3511168,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/8EAb65_bgweOGFhtO19iQ-H4gGUoVyVFk69zoWbGSmk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTEx/NjgtMTMzMzM1Mjk5/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Hot Consuelo",
+      "release_title": "Chuck Mangione - Specially Edited Selections From 'Children Of Sanchez'",
+      "year": "1978",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 5942269,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Wu2lMKYB871JpK-jE2t6gggtRm62Ww8jPqtoZtbswbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDIy/NjktMTY3MzAyODc1/Ni04MDIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andrea Morricone",
+      "title": "Inside The School",
+      "release_title": "Andrea Morricone - Liberty Heights (Original Score Album)",
+      "year": "1999",
+      "label": "Warner Sunset Records",
+      "country": "US",
+      "discogs_id": 1915254,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BJ-A0RFa_l-kYCL17jtjAQiwTLaGB_gfiiXaY4zK6OE/rs:fit/g:sm/q:90/h:344/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUy/NTQtMTMzMTQwMjc0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tito Puente & Woody Herman",
+      "title": "Blue Gardenia",
+      "release_title": "Tito Puente And Woody Herman - Latin Flight",
+      "year": "1999",
+      "label": "LaserLight Digital",
+      "country": "US",
+      "discogs_id": 13018507,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1YiL5ifsGrGFlFEvUHCmQwYYb6OgwaaFX6Rw1KXUPic/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE4/NTA3LTE2MTk4Njcx/NTItMTY1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hilary Noble",
+      "title": "Sanduga Mofongo",
+      "release_title": "Hilary Noble - Noble Savage",
+      "year": "2002",
+      "label": "Whaling City Sound",
+      "country": "US",
+      "discogs_id": 8219940,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/j6Qyd4oPYCeJ5G_UJ4qmKs_NRLwhXXz4Dlg3TIrRbdg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTk5/NDAtMTQ1NzM3ODE4/OC04NzQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobby Enriquez",
+      "title": "Cherokee (Indian Love Song)",
+      "release_title": "Bobby Enriquez - Wild Piano",
+      "year": "1988",
+      "label": "Portrait",
+      "country": "US",
+      "discogs_id": 9762010,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/M0QtMU9zzJGOxNNtlpUrmynr7jpq1ffAR_mEZNA-lL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjIw/MTAtMTY0OTE2NjE4/MS05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andrea Morricone",
+      "title": "Down A Baltimore Street",
+      "release_title": "Andrea Morricone - Liberty Heights (Original Score Album)",
+      "year": "1999",
+      "label": "Warner Sunset Records",
+      "country": "US",
+      "discogs_id": 1915254,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BJ-A0RFa_l-kYCL17jtjAQiwTLaGB_gfiiXaY4zK6OE/rs:fit/g:sm/q:90/h:344/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUy/NTQtMTMzMTQwMjc0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Echano",
+      "release_title": "Chuck Mangione - Specially Edited Selections From 'Children Of Sanchez'",
+      "year": "1978",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 5942269,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Wu2lMKYB871JpK-jE2t6gggtRm62Ww8jPqtoZtbswbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDIy/NjktMTY3MzAyODc1/Ni04MDIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobby Enriquez",
+      "title": "Pannonica",
+      "release_title": "Bobby Enriquez - Wild Piano",
+      "year": "1988",
+      "label": "Portrait",
+      "country": "US",
+      "discogs_id": 9762010,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/M0QtMU9zzJGOxNNtlpUrmynr7jpq1ffAR_mEZNA-lL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjIw/MTAtMTY0OTE2NjE4/MS05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Tiffanies",
+      "title": "He's Good For Me",
+      "release_title": "The Tiffanies - He's Good For Me",
+      "year": "1967",
+      "label": "KR",
+      "country": "US",
+      "discogs_id": 8626465,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/i5eEbAYFbux764kvwGSkj72udatrHW8Abu39mrLNew0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY0/NjUtMTQ2NzEzNDUz/NC0xMDI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hilary Noble",
+      "title": "The Fire Next Time",
+      "release_title": "Hilary Noble - Noble Savage",
+      "year": "2002",
+      "label": "Whaling City Sound",
+      "country": "US",
+      "discogs_id": 8219940,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/j6Qyd4oPYCeJ5G_UJ4qmKs_NRLwhXXz4Dlg3TIrRbdg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTk5/NDAtMTQ1NzM3ODE4/OC04NzQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maurice Jarre",
+      "title": "General Stroop In The Ghetto",
+      "release_title": "Maurice Jarre - Uprising",
+      "year": "2001",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 11659495,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fUiSIFbCntBGEWeGtRmQQi-vO-VFak0xGnc4yOAlAbE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU5/NDk1LTE1MjAxODQ5/NDctOTYwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean Plum",
+      "title": "You Ask Me",
+      "release_title": "Jean Plum - Pour On The Loving / You Ask Me ",
+      "year": "1978",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 11843599,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/SFAEQI5LQxrYjlyYgaCbxEMnUBfliWwmiV8j-GEhFK4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQz/NTk5LTE1MjMzMTky/MDAtNTQ0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fred Karlin",
+      "title": "Ravagers Attack Ship",
+      "release_title": "Fred Karlin - Ravagers (Original Motion Picture Soundtrack)",
+      "year": "2011",
+      "label": "Intrada",
+      "country": "US",
+      "discogs_id": 3511168,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/8EAb65_bgweOGFhtO19iQ-H4gGUoVyVFk69zoWbGSmk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTEx/NjgtMTMzMzM1Mjk5/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tito Puente & His Latin Ensemble",
+      "title": "Rainfall",
+      "release_title": "Tito Puente And His Latin Ensemble* - El Rey",
+      "year": "1984",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 5481976,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/yNOTvIKttq1HagIaTTAPxuwS52uURZUgWF1S_UmR0ho/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODE5/NzYtMTYyODU5NTg2/Ni04MzY0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tamba 4",
+      "title": "San Salvador",
+      "release_title": "Tamba 4 - Samba Blim",
+      "year": "1968",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 7188292,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/JPt9ETPmZ_Q8xHuj10RNqfQKNU8j4MnjVvj0jewVN50/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODgy/OTItMTQzNTcwMDgy/My0xODEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Luis Muñoz",
+      "title": "Al Silencio",
+      "release_title": "Luis Muñoz (5) - Of Soul And Shadow",
+      "year": "2007",
+      "label": "Pelin Music",
+      "country": "US",
+      "discogs_id": 12608994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/dHOJG9Y1v2gymyr3Vm7GZdjilB2vH6pTjDiyw_aVU0U/rs:fit/g:sm/q:90/h:500/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA4/OTk0LTE1Mzg1MTcx/MjItOTc5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Lennon Sisters",
+      "title": "What The World Needs Now Is Love",
+      "release_title": "The Lennon Sisters - The Lennon Sisters Today!!",
+      "year": "1968",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 5947830,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/f-BWTVzCQrel9I0MJ3y5lCf9JRSCw9ku4icJCgZ33MU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDc4/MzAtMTQwNzI3MDkw/OS0yMjg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Barretto & New World Spirit",
+      "title": "Worlds I Love",
+      "release_title": "Ray Barretto & New World Spirit - My Summertime",
+      "year": "1995",
+      "label": "Owl Records",
+      "country": "US",
+      "discogs_id": 16296797,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cRJMDC1vj4udv9Qo9sqSd8RNpiQ-PGyRoXDW3P459pA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk2/Nzk3LTE2MDY3Nzg2/MTctMTM0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Bloodshot",
+      "release_title": "Hubert Laws - Flute By-Laws",
+      "year": "1968",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 28703524,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GkQT-rD3TQ2LHo-M_UoQApe7zNMTtjZQ-MBx3EpDnpE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzAz/NTI0LTE3MDAwNzQ1/NDctMTM3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Lucero",
+      "release_title": "Various - Tower Records Latin Jazz Sampler",
+      "year": "1994",
+      "label": "Tower Records / Video",
+      "country": "US",
+      "discogs_id": 7201488,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ou9VnpTg_M6MjZfY0NXbT7felxDIolr00-MCk_yzSxk/rs:fit/g:sm/q:90/h:435/w:435/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDE0/ODgtMTUwNTI2MTY1/OS03NTk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jorge Ben",
+      "title": "Eu Vou Torcer",
+      "release_title": "Jorge Ben - Samba Nova",
+      "year": "1976",
+      "label": "Island Records",
+      "country": "US",
+      "discogs_id": 471732,
+      "rating_avg": 4.45,
+      "rating_count": 56,
+      "cover_image": "https://i.discogs.com/DxjvuTroVNTfIiqpLBlMX-YUYaWu6GtfN2-K2MdQfTE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTcz/Mi0xNjYyNzI1MDU5/LTkxMTMuanBlZw.jpeg"
+    },
+    {
+      "artist": "The Lennon Sisters",
+      "title": "I'm Gonna Make You Love Me",
+      "release_title": "The Lennon Sisters - The Lennon Sisters Today!!",
+      "year": "1968",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 5947830,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/f-BWTVzCQrel9I0MJ3y5lCf9JRSCw9ku4icJCgZ33MU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDc4/MzAtMTQwNzI3MDkw/OS0yMjg5LmpwZWc.jpeg"
+    }
+  ]
+}
