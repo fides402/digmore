@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Cool Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Rock"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2016,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 34,
+      "artists_found": 34,
+      "fresh_lookups": 0,
+      "styles_considered": 107
+    }
+  },
+  "results": [
+    {
+      "artist": "Duke Ellington & John Coltrane",
+      "title": "Big Nick",
+      "release_title": "Duke Ellington & John Coltrane - Duke Ellington & John Coltrane",
+      "year": "1979",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 8866414,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/xDaKcF5lf3hNKxubnJMHMvJ2T0owdb8QE9T_JLJuDHo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjY0/MTQtMTQ3MzExODU5/NC0xMjQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Señor Soul",
+      "title": "Working In The Coalmine",
+      "release_title": "Señor Soul - Don't Lay Your Funky Trip On Me",
+      "year": "1970",
+      "label": "Whiz Records",
+      "country": "US",
+      "discogs_id": 3663896,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/i1tGFImSn6-tXgrTAQuZSwSyxLLJCc1fc5qnCcagqD0/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM4/OTYtMTMzOTQxNjk4/My01MzczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Duke Ellington & John Coltrane",
+      "title": "In A Sentimental Mood",
+      "release_title": "Duke Ellington & John Coltrane - Duke Ellington & John Coltrane",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 14523970,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/EfbDe-eqvnq-BoAIkpePTQbBQ8P3ftZSi5EWzvUXFnM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIz/OTcwLTE1NzYzMjIy/MjEtNDA2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Pepper & Joe Farrell & George Cables",
+      "title": "Section-8 Blues",
+      "release_title": "Pepper* / Farrell* / Cables* - Darn That Dream",
+      "year": "1985",
+      "label": "RealTime Records",
+      "country": "US",
+      "discogs_id": 7046576,
+      "rating_avg": 3.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/y_KzQZ6ksmXEdJeVvnsdej7gZ64SWxXz5RQknK4g5BU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDY1/NzYtMTY2ODM1ODg4/OS02NjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Dave Brubeck Octet & Paul Desmond & Cal Tjader & Dave Van Kriedt & Dick Collins",
+      "title": "I Hear A Rhapsody",
+      "release_title": "Dave Brubeck Octet* Featuring Paul Desmond, Cal Tjader, David Van Kriedt*, Dick Collins - Dave Brubeck Octet",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 1584757,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/4RKPBmS0Ma284sqa6JINKIV9xUDVjsEgJnmYB5LEb54/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ3/NTctMTc0Nzc1NzU0/MS05NzE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Airegin",
+      "release_title": "Hubert Laws - Then There Was Light (Volume 1)",
+      "year": "1976",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 880953,
+      "rating_avg": 4.06,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/zBWOcCXgCYMtreq_1jSkOX60yIj_bEDhhojaEzOUTro/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDk1/My0xMzk3MzgwOTQy/LTcyNjIuanBlZw.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Look Ahere",
+      "release_title": "Eddie Harris - Is It In",
+      "year": "1974",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5443541,
+      "rating_avg": 4.2,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/UrEgcR12uSbhDAWttXbPgMFrOmzorGTC-PFmPRaV9ok/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDM1/NDEtMTU4MjkwNTU3/NC03MjM0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Buddy Montgomery",
+      "title": "Winding Up",
+      "release_title": "Buddy Montgomery - This Rather Than That",
+      "year": "1970",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 2113270,
+      "rating_avg": 4.16,
+      "rating_count": 37,
+      "cover_image": "https://i.discogs.com/H0etgVRdKT0SPWkI1LfG1BySze1KX0ygVScNYacJ44U/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/NzAtMTMzMTc5Mzgw/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kevin Eubanks",
+      "title": "Trick Bag",
+      "release_title": "Kevin Eubanks - Face To Face",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 2959150,
+      "rating_avg": 4.0,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/xz3ayraR1noHFimjCPIdEOMATB1esF2VP7PltRTFteY/rs:fit/g:sm/q:90/h:544/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTkx/NTAtMTMxNDEyMjYz/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Restoration",
+      "release_title": "Hubert Laws - Then There Was Light (Volume 1)",
+      "year": "1976",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 880953,
+      "rating_avg": 4.06,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/zBWOcCXgCYMtreq_1jSkOX60yIj_bEDhhojaEzOUTro/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDk1/My0xMzk3MzgwOTQy/LTcyNjIuanBlZw.jpeg"
+    },
+    {
+      "artist": "The Dave Brubeck Octet & Paul Desmond & Cal Tjader & Dave Van Kriedt & Dick Collins",
+      "title": "Rondo",
+      "release_title": "Dave Brubeck Octet* Featuring Paul Desmond, Cal Tjader, David Van Kriedt*, Dick Collins - Dave Brubeck Octet",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 1584757,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/4RKPBmS0Ma284sqa6JINKIV9xUDVjsEgJnmYB5LEb54/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ3/NTctMTc0Nzc1NzU0/MS05NzE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Buddy Montgomery",
+      "title": "Tin Tin Deo",
+      "release_title": "Buddy Montgomery - This Rather Than That",
+      "year": "1970",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 2113270,
+      "rating_avg": 4.16,
+      "rating_count": 37,
+      "cover_image": "https://i.discogs.com/H0etgVRdKT0SPWkI1LfG1BySze1KX0ygVScNYacJ44U/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/NzAtMTMzMTc5Mzgw/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Funkaroma",
+      "release_title": "Eddie Harris - Is It In",
+      "year": "1974",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5443541,
+      "rating_avg": 4.2,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/UrEgcR12uSbhDAWttXbPgMFrOmzorGTC-PFmPRaV9ok/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDM1/NDEtMTU4MjkwNTU3/NC03MjM0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Buddy Montgomery",
+      "title": "Stormy",
+      "release_title": "Buddy Montgomery - This Rather Than That",
+      "year": "1970",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 2113270,
+      "rating_avg": 4.16,
+      "rating_count": 37,
+      "cover_image": "https://i.discogs.com/H0etgVRdKT0SPWkI1LfG1BySze1KX0ygVScNYacJ44U/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/NzAtMTMzMTc5Mzgw/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "In The Beginning",
+      "release_title": "Hubert Laws - Then There Was Light (Volume 1)",
+      "year": "1976",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 880953,
+      "rating_avg": 4.06,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/zBWOcCXgCYMtreq_1jSkOX60yIj_bEDhhojaEzOUTro/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDk1/My0xMzk3MzgwOTQy/LTcyNjIuanBlZw.jpeg"
+    },
+    {
+      "artist": "Ricky Dee",
+      "title": "Just A Gigolo (Vocal)",
+      "release_title": "Ricky Dee (3) - Just A Gigolo",
+      "year": "1984",
+      "label": "Marie Records",
+      "country": "US",
+      "discogs_id": 3694083,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/XAksJJMBluWy9l085dNnTZnmJNNzHaV8NBVcKctGB70/rs:fit/g:sm/q:90/h:274/w:275/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQw/ODMtMTM0MDY0MzQz/OS02NTk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Art Pepper & Joe Farrell & George Cables",
+      "title": "Mode For Joe",
+      "release_title": "Pepper* / Farrell* / Cables* - Darn That Dream",
+      "year": "1985",
+      "label": "RealTime Records",
+      "country": "US",
+      "discogs_id": 7046576,
+      "rating_avg": 3.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/y_KzQZ6ksmXEdJeVvnsdej7gZ64SWxXz5RQknK4g5BU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDY1/NzYtMTY2ODM1ODg4/OS02NjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Gymnopedie # 1",
+      "release_title": "Hubert Laws - Then There Was Light (Volume 1)",
+      "year": "1976",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 880953,
+      "rating_avg": 4.06,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/zBWOcCXgCYMtreq_1jSkOX60yIj_bEDhhojaEzOUTro/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDk1/My0xMzk3MzgwOTQy/LTcyNjIuanBlZw.jpeg"
+    },
+    {
+      "artist": "Kevin Eubanks",
+      "title": "Moments Aren't Moments",
+      "release_title": "Kevin Eubanks - Face To Face",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 2959150,
+      "rating_avg": 4.0,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/xz3ayraR1noHFimjCPIdEOMATB1esF2VP7PltRTFteY/rs:fit/g:sm/q:90/h:544/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTkx/NTAtMTMxNDEyMjYz/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Vessel",
+      "title": "Secrets",
+      "release_title": "Vessel (11) - Vessel",
+      "year": "2009",
+      "label": "Jamendo.com",
+      "country": "US",
+      "discogs_id": 7400718,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VfIZ76Fk3QgDJLQhKtTiEnd7O9OJ2JS0TohJRzsSm7c/rs:fit/g:sm/q:90/h:444/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDA3/MTgtMTQ0MDY5ODUw/OC0xODU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Duke Ellington & John Coltrane",
+      "title": "Take The Coltrane",
+      "release_title": "Duke Ellington & John Coltrane - Duke Ellington & John Coltrane",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 14523970,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/EfbDe-eqvnq-BoAIkpePTQbBQ8P3ftZSi5EWzvUXFnM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIz/OTcwLTE1NzYzMjIy/MjEtNDA2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Pepper & Joe Farrell & George Cables",
+      "title": "Darn That Dream",
+      "release_title": "Pepper* / Farrell* / Cables* - Darn That Dream",
+      "year": "1985",
+      "label": "RealTime Records",
+      "country": "US",
+      "discogs_id": 7046576,
+      "rating_avg": 3.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/y_KzQZ6ksmXEdJeVvnsdej7gZ64SWxXz5RQknK4g5BU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDY1/NzYtMTY2ODM1ODg4/OS02NjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kevin Eubanks",
+      "title": "Ebony Sunrise",
+      "release_title": "Kevin Eubanks - Face To Face",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 2959150,
+      "rating_avg": 4.0,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/xz3ayraR1noHFimjCPIdEOMATB1esF2VP7PltRTFteY/rs:fit/g:sm/q:90/h:544/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTkx/NTAtMTMxNDEyMjYz/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cat Miller",
+      "title": "Beat My Face (Instrumental)",
+      "release_title": "Cat Miller - Beat My Face",
+      "year": "1986",
+      "label": "Solar",
+      "country": "US",
+      "discogs_id": 6510766,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/apbUaOaTuozGnDnDnpQwRPEMGxZyDdYeLuRMQTGgFo8/rs:fit/g:sm/q:90/h:370/w:352/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTA3/NjYtMTQyMDkxODQ4/NS05NjcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Duke Ellington & John Coltrane",
+      "title": "Angelica",
+      "release_title": "Duke Ellington & John Coltrane - Duke Ellington & John Coltrane",
+      "year": "1979",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 8866414,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/xDaKcF5lf3hNKxubnJMHMvJ2T0owdb8QE9T_JLJuDHo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjY0/MTQtMTQ3MzExODU5/NC0xMjQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Señor Soul",
+      "title": "Don't Lay Your Funky Trip On Me",
+      "release_title": "Señor Soul - Don't Lay Your Funky Trip On Me",
+      "year": "1970",
+      "label": "Whiz Records",
+      "country": "US",
+      "discogs_id": 3663896,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/i1tGFImSn6-tXgrTAQuZSwSyxLLJCc1fc5qnCcagqD0/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM4/OTYtMTMzOTQxNjk4/My01MzczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Vessel",
+      "title": "Nighthours",
+      "release_title": "Vessel (11) - Vessel",
+      "year": "2009",
+      "label": "Jamendo.com",
+      "country": "US",
+      "discogs_id": 7400718,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VfIZ76Fk3QgDJLQhKtTiEnd7O9OJ2JS0TohJRzsSm7c/rs:fit/g:sm/q:90/h:444/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDA3/MTgtMTQ0MDY5ODUw/OC0xODU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Tranquility & Antagonistic",
+      "release_title": "Eddie Harris - Is It In",
+      "year": "1974",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5443541,
+      "rating_avg": 4.2,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/UrEgcR12uSbhDAWttXbPgMFrOmzorGTC-PFmPRaV9ok/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDM1/NDEtMTU4MjkwNTU3/NC03MjM0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Buddy Montgomery",
+      "title": "Beautiful Love",
+      "release_title": "Buddy Montgomery - This Rather Than That",
+      "year": "1970",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 2113270,
+      "rating_avg": 4.16,
+      "rating_count": 37,
+      "cover_image": "https://i.discogs.com/H0etgVRdKT0SPWkI1LfG1BySze1KX0ygVScNYacJ44U/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/NzAtMTMzMTc5Mzgw/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Vessel",
+      "title": "Deep Blue Sky (Part II)",
+      "release_title": "Vessel (11) - Vessel",
+      "year": "2009",
+      "label": "Jamendo.com",
+      "country": "US",
+      "discogs_id": 7400718,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VfIZ76Fk3QgDJLQhKtTiEnd7O9OJ2JS0TohJRzsSm7c/rs:fit/g:sm/q:90/h:444/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDA3/MTgtMTQ0MDY5ODUw/OC0xODU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "House Party Blues",
+      "release_title": "Eddie Harris - Is It In",
+      "year": "1974",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5443541,
+      "rating_avg": 4.2,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/UrEgcR12uSbhDAWttXbPgMFrOmzorGTC-PFmPRaV9ok/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDM1/NDEtMTU4MjkwNTU3/NC03MjM0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stan And The Man",
+      "title": "(Muscle Man) Does The Football",
+      "release_title": "Stan And The Man - (Muscle Man) Does The Football / Heavy, Heavy",
+      "year": "1970",
+      "label": "B And G Records",
+      "country": "US",
+      "discogs_id": 9989385,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5rLswGSlgIokY7o0kCJ_l9t_Pd3LrVTjZ26G9OP9dDE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODkz/ODUtMTQ4OTc2MjEz/Ni0xMTE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stan And The Man",
+      "title": "Heavy-Heavy",
+      "release_title": "Stan And The Man - (Muscle Man) Does The Football / Heavy, Heavy",
+      "year": "1970",
+      "label": "B And G Records",
+      "country": "US",
+      "discogs_id": 9989385,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5rLswGSlgIokY7o0kCJ_l9t_Pd3LrVTjZ26G9OP9dDE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODkz/ODUtMTQ4OTc2MjEz/Ni0xMTE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Dave Brubeck Octet & Paul Desmond & Cal Tjader & Dave Van Kriedt & Dick Collins",
+      "title": "Playland-At-The-Beach",
+      "release_title": "Dave Brubeck Octet* Featuring Paul Desmond, Cal Tjader, David Van Kriedt*, Dick Collins - Dave Brubeck Octet",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 1584757,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/4RKPBmS0Ma284sqa6JINKIV9xUDVjsEgJnmYB5LEb54/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ3/NTctMTc0Nzc1NzU0/MS05NzE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Duke Ellington & John Coltrane",
+      "title": "The Feeling Of Jazz",
+      "release_title": "Duke Ellington & John Coltrane - Duke Ellington & John Coltrane",
+      "year": "1979",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 8866414,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/xDaKcF5lf3hNKxubnJMHMvJ2T0owdb8QE9T_JLJuDHo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjY0/MTQtMTQ3MzExODU5/NC0xMjQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Vessel",
+      "title": "It Always Rains Where You Lie",
+      "release_title": "Vessel (11) - Vessel",
+      "year": "2009",
+      "label": "Jamendo.com",
+      "country": "US",
+      "discogs_id": 7400718,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VfIZ76Fk3QgDJLQhKtTiEnd7O9OJ2JS0TohJRzsSm7c/rs:fit/g:sm/q:90/h:444/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDA3/MTgtMTQ0MDY5ODUw/OC0xODU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cat Miller",
+      "title": "Beat My Face",
+      "release_title": "Cat Miller - Beat My Face",
+      "year": "1986",
+      "label": "Solar",
+      "country": "US",
+      "discogs_id": 6510766,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/apbUaOaTuozGnDnDnpQwRPEMGxZyDdYeLuRMQTGgFo8/rs:fit/g:sm/q:90/h:370/w:352/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTA3/NjYtMTQyMDkxODQ4/NS05NjcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willard Burton & The Pacifiers",
+      "title": "Warm The Pot (Till It Gets Good And Hot)",
+      "release_title": "Willard Burton &  The Pacifiers - Let Me Be Your Pacifier / Warm The Pot (Till It Gets Good And Hot)",
+      "year": "1976",
+      "label": "Money Records",
+      "country": "US",
+      "discogs_id": 4758967,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/67AAYo9zPp83yvTnj_rcsP68FLHK2-sRkE2TKV3-hiY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTg5/NjctMTQ4NDExMjI2/MC05NDY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kevin Eubanks",
+      "title": "Wave",
+      "release_title": "Kevin Eubanks - Face To Face",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 2959150,
+      "rating_avg": 4.0,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/xz3ayraR1noHFimjCPIdEOMATB1esF2VP7PltRTFteY/rs:fit/g:sm/q:90/h:544/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTkx/NTAtMTMxNDEyMjYz/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Pepper & Joe Farrell & George Cables",
+      "title": "Someday My Prince Will Come",
+      "release_title": "Pepper* / Farrell* / Cables* - Darn That Dream",
+      "year": "1985",
+      "label": "RealTime Records",
+      "country": "US",
+      "discogs_id": 7046576,
+      "rating_avg": 3.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/y_KzQZ6ksmXEdJeVvnsdej7gZ64SWxXz5RQknK4g5BU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDY1/NzYtMTY2ODM1ODg4/OS02NjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Dave Brubeck Octet & Paul Desmond & Cal Tjader & Dave Van Kriedt & Dick Collins",
+      "title": "Closing Theme",
+      "release_title": "Dave Brubeck Octet* Featuring Paul Desmond, Cal Tjader, David Van Kriedt*, Dick Collins - Dave Brubeck Octet",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 1584757,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/4RKPBmS0Ma284sqa6JINKIV9xUDVjsEgJnmYB5LEb54/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ3/NTctMTc0Nzc1NzU0/MS05NzE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willard Burton & The Pacifiers",
+      "title": "Let Me Be Your Pacifier",
+      "release_title": "Willard Burton &  The Pacifiers - Let Me Be Your Pacifier / Warm The Pot (Till It Gets Good And Hot)",
+      "year": "1976",
+      "label": "Money Records",
+      "country": "US",
+      "discogs_id": 4758967,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/67AAYo9zPp83yvTnj_rcsP68FLHK2-sRkE2TKV3-hiY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTg5/NjctMTQ4NDExMjI2/MC05NDY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chuck Jackson & Cissy Houston",
+      "title": "Waiting In Vain",
+      "release_title": "Chuck Jackson & Cissy Houston - I'll Take Care Of You",
+      "year": "1992",
+      "label": "Shanachie",
+      "country": "US",
+      "discogs_id": 2091146,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/wC1FtxatZhxmCW2QxfHjIB4QeGHQI74v7lP7TI0kARY/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTEx/NDYtMTMxNjA3NDM3/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Houston Person",
+      "title": "Suspicions",
+      "release_title": "Houston Person - Suspicions",
+      "year": "1980",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 9049267,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/z1RlVFpTGcBSsahWeaxVNDTsPeA11IjW9PQp5dCllQw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDky/NjctMTQ3Mzg3OTQ0/MC04ODY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eumir Deodato",
+      "title": "Spirit Of Summer",
+      "release_title": "Deodato* - Also Sprach Zarathustra (2001) / Spirit Of Summer",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 27072390,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/hECu0c9Z5LNJRKTGcus9hXBLLNK5pPCT-KJrYs73ZvI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDcy/MzkwLTE2ODQwNDMw/MjktMzA4Ni5qcGVn.jpeg"
+    }
+  ]
+}
