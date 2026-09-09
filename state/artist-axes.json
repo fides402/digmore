@@ -3327,6 +3327,196 @@
    1988
   ]
  },
+ "ankhlejohn": {
+  "countries": [
+   "US",
+   "Germany",
+   "Denmark",
+   "Denmark",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Belgium",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "UK & US",
+   "Netherlands",
+   "Denmark",
+   "Denmark",
+   "Germany",
+   "US",
+   "US",
+   "Netherlands"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Jazzy Hip-Hop",
+   "Hardcore Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Hardcore Hip-Hop",
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Boom Bap",
+   "Hardcore Hip-Hop",
+   "Boom Bap",
+   "Hardcore Hip-Hop",
+   "Hardcore Hip-Hop",
+   "Boom Bap",
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Hardcore Hip-Hop",
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Hardcore Hip-Hop",
+   "Conscious"
+  ],
+  "years": [
+   2021,
+   2018,
+   2023,
+   2020,
+   2021,
+   2020,
+   2022,
+   2018,
+   2018,
+   2020,
+   2018,
+   2018,
+   2018,
+   2024,
+   2017,
+   2017,
+   2022,
+   2024,
+   2025,
+   2020,
+   2019,
+   2017,
+   2021,
+   2023,
+   2025
+  ]
+ },
  "ann mortifee": {
   "countries": [
    "Canada",
@@ -5900,6 +6090,245 @@
    1964
   ]
  },
+ "badbadnotgood": {
+  "countries": [
+   "Canada",
+   "France",
+   "USA & Europe",
+   "USA & Canada",
+   "Canada",
+   "Australia & New Zealand",
+   "Europe",
+   "Worldwide",
+   "US",
+   "US",
+   "Unknown",
+   "Worldwide",
+   "US",
+   "US",
+   "Canada",
+   "UK & Europe",
+   "Japan",
+   "Worldwide",
+   "Unknown",
+   "Japan",
+   "UK & US",
+   "US",
+   "US",
+   "Europe",
+   "UK & Europe"
+  ],
+  "genres": [
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Minimal",
+    "Electronic"
+   ],
+   [
+    "Minimal",
+    "Hip Hop"
+   ],
+   [
+    "Minimal",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Jazz"
+   ],
+   [
+    "House",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Future Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Minimal",
+   "Contemporary Jazz",
+   "House",
+   "Funk",
+   "Fusion",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz"
+  ],
+  "years": [
+   2012,
+   2014,
+   2021,
+   2014,
+   2021,
+   2014,
+   2014,
+   2014,
+   2016,
+   2017,
+   2012,
+   2024,
+   2016,
+   2014,
+   2011,
+   2017,
+   2014,
+   2021,
+   2011,
+   2014,
+   2022,
+   2025,
+   2023,
+   2024,
+   2017
+  ]
+ },
  "baden powell": {
   "countries": [
    "Japan",
@@ -8317,6 +8746,277 @@
    1963
   ]
  },
+ "billy woods": {
+  "countries": [
+   "US",
+   "UK",
+   "US",
+   "Unknown",
+   "US",
+   "UK, Europe & US",
+   "US",
+   "US",
+   "US",
+   "Europe",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "China",
+   "US",
+   "US",
+   "Japan",
+   "Japan",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Horrorcore",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soul",
+   "Conscious",
+   "Soul",
+   "Conscious",
+   "Abstract",
+   "Boom Bap",
+   "Hardcore Hip-Hop",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Soul",
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Conscious",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Abstract",
+   "Hardcore Hip-Hop",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Abstract",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Soul",
+   "Conscious",
+   "Conscious",
+   "Horrorcore",
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Abstract",
+   "Hardcore Hip-Hop",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Conscious"
+  ],
+  "years": [
+   2015,
+   2004,
+   2024,
+   2013,
+   2022,
+   2025,
+   1966,
+   2019,
+   2025,
+   2022,
+   2015,
+   2022,
+   2023,
+   2022,
+   2025,
+   2025,
+   2022,
+   2019,
+   2025,
+   2022,
+   2025,
+   2013,
+   2017
+  ]
+ },
  "björn alkes kvartett": {
   "countries": [
    "Sweden",
@@ -9421,6 +10121,108 @@
    1986,
    2014,
    2012
+  ]
+ },
+ "boldy james": {
+  "countries": [
+   "Worldwide",
+   "US",
+   "Netherlands",
+   "Worldwide",
+   "UK",
+   "UK",
+   "Worldwide",
+   "Worldwide",
+   "Worldwide",
+   "US",
+   "Netherlands",
+   "Canada",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "UK",
+   "Worldwide",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Hardcore Hip-Hop",
+   "Hardcore Hip-Hop",
+   "Gangsta"
+  ],
+  "years": [
+   2025,
+   2020,
+   2026,
+   2025,
+   2020,
+   2020,
+   2025,
+   2025,
+   2025,
+   2021,
+   2025,
+   2024,
+   2014,
+   2025,
+   2013,
+   2025,
+   2020,
+   2025,
+   2020,
+   2024,
+   2024,
+   2024,
+   2026,
+   2025
   ]
  },
  "bong penera": {
@@ -15407,6 +16209,92 @@
    2020
   ]
  },
+ "deevodagenius": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Netherlands",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [],
+  "releases": 25,
+  "styles": [],
+  "years": [
+   2025,
+   2025,
+   2026,
+   2026,
+   2026,
+   2026,
+   2025,
+   2026,
+   2026,
+   2026,
+   2025,
+   2026,
+   2025,
+   2026,
+   2026,
+   2026,
+   2026,
+   2026,
+   2026,
+   2026,
+   2026,
+   2026,
+   2026,
+   2025,
+   2026
+  ]
+ },
  "dennis coffey": {
   "countries": [
    "UK",
@@ -18545,6 +19433,59 @@
    2017
   ]
  },
+ "dough networkz": {
+  "countries": [
+   "US",
+   "US",
+   "Worldwide",
+   "Italy",
+   "Worldwide"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 5,
+  "styles": [
+   "Boom Bap",
+   "Hardcore Hip-Hop",
+   "Boom Bap",
+   "Boom Bap",
+   "Hardcore Hip-Hop"
+  ],
+  "years": [
+   2020,
+   2019,
+   2024,
+   2024,
+   2025
+  ]
+ },
  "duncan lamont": {
   "countries": [
    "Spain",
@@ -19398,6 +20339,258 @@
    2014,
    2009,
    2015
+  ]
+ },
+ "earl sweatshirt": {
+  "countries": [
+   "US",
+   "Czech Republic & Slovakia",
+   "Europe",
+   "USA & Canada",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "Europe",
+   "UK",
+   "US",
+   "Europe",
+   "USA, Canada & Europe",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "US",
+   "Australia & New Zealand",
+   "Worldwide",
+   "UK",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Blues",
+   "Classical",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Horrorcore",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Horrorcore",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Cloud Rap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Trap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Jazz"
+   ],
+   [
+    "Conscious",
+    "Funk / Soul"
+   ],
+   [
+    "Conscious",
+    "Blues"
+   ],
+   [
+    "Conscious",
+    "Classical"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Horrorcore",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Horrorcore",
+   "Hardcore Hip-Hop",
+   "Horrorcore",
+   "Hardcore Hip-Hop",
+   "Conscious",
+   "Cloud Rap",
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Trap",
+   "Jazzy Hip-Hop",
+   "Abstract",
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Hardcore Hip-Hop",
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Hardcore Hip-Hop",
+   "Hardcore Hip-Hop",
+   "Horrorcore",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Abstract",
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Hardcore Hip-Hop"
+  ],
+  "years": [
+   2018,
+   2017,
+   2015,
+   2022,
+   2015,
+   2020,
+   2022,
+   2012,
+   2025,
+   2013,
+   2026,
+   2013,
+   2023,
+   2025,
+   2025,
+   2019,
+   2025,
+   2024,
+   2019,
+   2018,
+   2025,
+   2012,
+   2015,
+   2013
   ]
  },
  "eddie kendricks": {
@@ -33696,6 +34889,53 @@
    1978
   ]
  },
+ "iblss": {
+  "countries": [
+   "Canada",
+   "Canada",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 3,
+  "styles": [
+   "Boom Bap",
+   "Jazzy Hip-Hop",
+   "Boom Bap",
+   "Jazzy Hip-Hop",
+   "Boom Bap"
+  ],
+  "years": [
+   2023,
+   2023,
+   2022
+  ]
+ },
  "idrees sulieman": {
   "countries": [
    "Japan",
@@ -33895,6 +35135,177 @@
    2014,
    2024,
    1966
+  ]
+ },
+ "j dilla": {
+  "countries": [
+   "Germany",
+   "US",
+   "Unknown",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "USA & Europe",
+   "UK",
+   "Europe",
+   "US",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "Europe",
+   "Europe",
+   "US",
+   "USA & Canada",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "Europe"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Instrumental",
+   "Conscious",
+   "Soul",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Hardcore Hip-Hop",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental"
+  ],
+  "years": [
+   2006,
+   2007,
+   2012,
+   2017,
+   2009,
+   2017,
+   2021,
+   2017,
+   2006,
+   2007,
+   2007,
+   2007,
+   2016,
+   2015,
+   2012,
+   2016,
+   2006,
+   2006,
+   2006,
+   2015,
+   2012,
+   2022,
+   2007
   ]
  },
  "jack dejohnette": {
@@ -75876,6 +77287,223 @@
    2002,
    1974,
    1972
+  ]
+ },
+ "the roots": {
+  "countries": [
+   "US",
+   "UK",
+   "US",
+   "Unknown",
+   "Netherlands",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Europe",
+   "US",
+   "Europe",
+   "US",
+   "Italy",
+   "US",
+   "Europe",
+   "US",
+   "Thailand",
+   "US",
+   "Europe",
+   "South Korea",
+   "US"
+  ],
+  "genres": [
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Drum n Bass",
+    "Electronic"
+   ],
+   [
+    "Drum n Bass",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Jazz"
+   ],
+   [
+    "Conscious",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Acid Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Acid Jazz",
+    "Jazz"
+   ],
+   [
+    "Acid Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Jazz"
+   ],
+   [
+    "Boom Bap",
+    "Funk / Soul"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Drum n Bass",
+   "Conscious",
+   "Neo Soul",
+   "Acid Jazz",
+   "Hardcore Hip-Hop",
+   "Boom Bap",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Boom Bap"
+  ],
+  "years": [
+   1999,
+   1994,
+   2004,
+   2009,
+   2004,
+   1995,
+   1996,
+   2006,
+   1999,
+   1996,
+   2023,
+   1994,
+   2014,
+   2002,
+   1999,
+   2006,
+   2015,
+   2004,
+   2008,
+   1996,
+   2006,
+   1995
   ]
  },
  "the singers unlimited": {
