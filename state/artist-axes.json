@@ -12811,6 +12811,272 @@
    2007
   ]
  },
+ "cities aviv": {
+  "countries": [
+   "US",
+   "Unknown",
+   "Germany",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "Germany",
+   "Worldwide",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "Germany",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Sound Collage",
+    "Electronic"
+   ],
+   [
+    "Sound Collage",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Cloud Rap",
+    "Hip Hop"
+   ],
+   [
+    "Sound Collage",
+    "Electronic"
+   ],
+   [
+    "Sound Collage",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Cloud Rap",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Trip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Hip Hop",
+   "Abstract",
+   "Conscious",
+   "Experimental",
+   "Abstract",
+   "Experimental",
+   "Sound Collage",
+   "Experimental",
+   "Hip Hop",
+   "Experimental",
+   "Cloud Rap",
+   "Sound Collage",
+   "Experimental",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Experimental",
+   "Cloud Rap",
+   "Experimental",
+   "Ambient",
+   "Trip Hop",
+   "Hip Hop",
+   "Experimental",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Experimental"
+  ],
+  "years": [
+   2011,
+   2013,
+   2022,
+   2023,
+   2018,
+   2021,
+   2017,
+   2022,
+   2022,
+   2024,
+   2021,
+   2024,
+   2022,
+   2025,
+   2026,
+   2022,
+   2023,
+   2021,
+   2023,
+   2021,
+   2015,
+   2014,
+   2017,
+   2026,
+   2016
+  ]
+ },
  "claudio monteverdi": {
   "countries": [
    "Italy",
@@ -53705,6 +53971,321 @@
    1977
   ]
  },
+ "pal thowsen": {
+  "countries": [
+   "South Korea",
+   "Norway",
+   "Norway",
+   "Japan",
+   "Norway",
+   "Netherlands",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Netherlands",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Norway",
+   "Sweden",
+   "Norway"
+  ],
+  "genres": [
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Rock",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Pop"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Pop"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Pop"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Pop"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Pop"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Pop"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Jazz-Rock",
+   "Contemporary Jazz",
+   "Fusion",
+   "Jazz-Rock",
+   "Jazz-Rock",
+   "Jazz-Rock",
+   "Contemporary Jazz",
+   "Fusion",
+   "Soul-Jazz",
+   "Pop Rock",
+   "AOR",
+   "Pop Rock",
+   "Jazz-Rock",
+   "Fusion",
+   "Jazz-Rock",
+   "AOR",
+   "Soft Rock",
+   "Contemporary Jazz",
+   "Fusion",
+   "Soul-Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Jazz-Rock",
+   "AOR"
+  ],
+  "years": [
+   2013,
+   1986,
+   2021,
+   2014,
+   1983,
+   1986,
+   1986,
+   1981,
+   1986,
+   2022,
+   2024,
+   1981,
+   1979,
+   1983,
+   2025,
+   1986,
+   2022,
+   2002,
+   1986,
+   1979,
+   1983,
+   1989,
+   1989,
+   1989,
+   1992
+  ]
+ },
  "pamoja": {
   "countries": [
    "Tanzania",
@@ -74995,6 +75576,306 @@
    1961,
    1984,
    1989
+  ]
+ },
+ "the rance allen group": {
+  "countries": [
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Blues",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Blues"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Blues"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Holiday",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Holiday",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Disco",
+   "Gospel",
+   "Gospel",
+   "Gospel",
+   "Gospel",
+   "Soul",
+   "Gospel",
+   "Rhythm & Blues",
+   "Gospel",
+   "Soul",
+   "Gospel",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Gospel",
+   "Gospel",
+   "Soul",
+   "Gospel",
+   "Soul",
+   "Gospel",
+   "Soul",
+   "Holiday",
+   "Soul",
+   "Gospel",
+   "Gospel",
+   "Soul",
+   "Soul",
+   "Gospel",
+   "Gospel",
+   "Rhythm & Blues",
+   "Soul",
+   "Gospel",
+   "Soul",
+   "Gospel",
+   "Rhythm & Blues",
+   "Soul",
+   "Gospel",
+   "Soul",
+   "Holiday",
+   "Gospel",
+   "Soul"
+  ],
+  "years": [
+   2014,
+   1972,
+   2020,
+   1991,
+   1975,
+   1973,
+   1977,
+   1972,
+   1979,
+   1995,
+   1978,
+   1974,
+   1975,
+   1972,
+   1979,
+   1975,
+   1975,
+   1972,
+   1978,
+   1972,
+   2002,
+   1974,
+   1972
   ]
  },
  "the singers unlimited": {
