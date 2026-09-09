@@ -42781,6 +42781,410 @@
    1983
   ]
  },
+ "joe dassin": {
+  "countries": [
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Portugal",
+   "Netherlands",
+   "France",
+   "France",
+   "France",
+   "France",
+   "USSR",
+   "Canada",
+   "Canada",
+   "Spain",
+   "Belgium",
+   "France",
+   "France",
+   "Europe",
+   "Japan",
+   "Germany",
+   "Canada",
+   "USSR",
+   "Poland",
+   "Europe",
+   "Japan"
+  ],
+  "genres": [
+   "Rock",
+   "Pop",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country",
+   "Rock",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Jazz"
+   ],
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Jazz"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Pop"
+   ],
+   [
+    "Folk Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Folk, World, & Country"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Jazz"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Electronic"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Electronic"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Jazz"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Chanson",
+   "Pop Rock",
+   "Chanson",
+   "Chanson",
+   "Pop Rock",
+   "Chanson",
+   "Pop Rock",
+   "Folk Rock",
+   "Chanson",
+   "Chanson",
+   "Pop Rock",
+   "Chanson",
+   "Ballad",
+   "Chanson",
+   "Chanson",
+   "Pop Rock",
+   "Chanson",
+   "Chanson",
+   "Folk Rock",
+   "Chanson",
+   "Pop Rock",
+   "Chanson",
+   "Chanson",
+   "Pop Rock",
+   "Chanson",
+   "Chanson",
+   "Folk Rock",
+   "Chanson",
+   "Chanson",
+   "Chanson",
+   "Chanson",
+   "Schlager",
+   "Chanson",
+   "Chanson",
+   "Disco",
+   "Vocal",
+   "Chanson",
+   "Chanson"
+  ],
+  "years": [
+   1969,
+   1975,
+   1969,
+   1971,
+   1975,
+   1970,
+   1973,
+   1969,
+   1971,
+   1978,
+   1979,
+   1970,
+   1972,
+   1974,
+   2009,
+   1970,
+   1980,
+   1968,
+   1974,
+   1980,
+   1975
+  ]
+ },
  "joe zawinul": {
   "countries": [
    "US",
@@ -43861,6 +44265,270 @@
   ],
   "years": [
    1960
+  ]
+ },
+ "johnny bristol": {
+  "countries": [
+   "Japan",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "France",
+   "Germany",
+   "France",
+   "Venezuela",
+   "Jamaica",
+   "US",
+   "UK",
+   "Germany",
+   "US",
+   "Germany",
+   "Germany",
+   "Netherlands",
+   "US"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soul",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Gospel",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Downtempo",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul"
+  ],
+  "years": [
+   2004,
+   1974,
+   1980,
+   1981,
+   1976,
+   1974,
+   1978,
+   2007,
+   1978,
+   1981,
+   1974,
+   1981,
+   1974,
+   1981,
+   1974,
+   1980,
+   1975,
+   1980,
+   1981,
+   1994,
+   1978,
+   1974,
+   1980,
+   1980,
+   1978
   ]
  },
  "johnny harris": {
