@@ -15962,6 +15962,890 @@
    1984
   ]
  },
+ "claus ogerman orchestra": {
+  "countries": [
+   "US",
+   "Germany",
+   "Japan",
+   "Germany",
+   "US",
+   "US",
+   "Germany",
+   "Italy",
+   "US",
+   "Germany",
+   "Italy",
+   "Germany",
+   "Colombia",
+   "Germany",
+   "US",
+   "Brazil",
+   "New Zealand",
+   "Mexico",
+   "Germany",
+   "Venezuela",
+   "Canada",
+   "Spain",
+   "UK",
+   "US",
+   "El Salvador"
+  ],
+  "genres": [
+   "Jazz",
+   "Pop",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Funk / Soul",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Latin",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Rock",
+   "Latin",
+   "Jazz",
+   "Rock",
+   "Latin",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Mambo",
+    "Jazz"
+   ],
+   [
+    "Mambo",
+    "Latin"
+   ],
+   [
+    "Cha-Cha",
+    "Jazz"
+   ],
+   [
+    "Cha-Cha",
+    "Latin"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Latin"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ],
+   [
+    "Schlager",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ballad",
+    "Stage & Screen"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ],
+   [
+    "Schlager",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Latin"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ],
+   [
+    "Schlager",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ballad",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ],
+   [
+    "Schlager",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ballad",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ballad",
+    "Stage & Screen"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ],
+   [
+    "Schlager",
+    "Stage & Screen"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ],
+   [
+    "Schlager",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ballad",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Classical"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Mambo",
+    "Jazz"
+   ],
+   [
+    "Mambo",
+    "Latin"
+   ],
+   [
+    "Cha-Cha",
+    "Jazz"
+   ],
+   [
+    "Cha-Cha",
+    "Latin"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Latin"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Rock"
+   ],
+   [
+    "Post Bop",
+    "Latin"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ],
+   [
+    "Schlager",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Mambo",
+   "Cha-Cha",
+   "Easy Listening",
+   "Schlager",
+   "Theme",
+   "Ballad",
+   "Schlager",
+   "Theme",
+   "Easy Listening",
+   "Schlager",
+   "Theme",
+   "Ballad",
+   "Easy Listening",
+   "Contemporary Jazz",
+   "Jazz-Funk",
+   "Schlager",
+   "Theme",
+   "Ballad",
+   "Theme",
+   "Ballad",
+   "Schlager",
+   "Schlager",
+   "Theme",
+   "Ballad",
+   "Contemporary Jazz",
+   "Fusion",
+   "Swing",
+   "Mambo",
+   "Cha-Cha",
+   "Easy Listening",
+   "Post Bop",
+   "Big Band",
+   "Jazz-Funk",
+   "Space-Age",
+   "Schlager",
+   "Theme"
+  ],
+  "years": [
+   1976,
+   1962,
+   1967,
+   1965,
+   1966,
+   1965,
+   1989,
+   1965,
+   1965,
+   1973,
+   1965,
+   1965,
+   1965,
+   1966,
+   1967,
+   1966,
+   1965,
+   1965,
+   1965
+  ]
+ },
+ "cold blood": {
+  "countries": [
+   "France",
+   "France",
+   "France",
+   "Turkey",
+   "Japan",
+   "Canada",
+   "US",
+   "Spain",
+   "Australia",
+   "Turkey",
+   "Europe",
+   "US",
+   "Canada",
+   "US",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Canada",
+   "US",
+   "Canada",
+   "UK",
+   "Japan",
+   "US",
+   "Japan",
+   "US"
+  ],
+  "genres": [
+   "Rock",
+   "Folk, World, & Country",
+   "Rock",
+   "Rock",
+   "Folk, World, & Country",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Blues",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Blues"
+  ],
+  "pairs": [
+   [
+    "Garage Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Blues Rock",
+    "Rock"
+   ],
+   [
+    "Blues Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Rock"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Acid Rock",
+    "Rock"
+   ],
+   [
+    "Acid Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Acid Rock",
+    "Pop"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Blues Rock",
+    "Rock"
+   ],
+   [
+    "Blues Rock",
+    "Blues"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Garage Rock",
+   "Psychedelic Rock",
+   "Funk",
+   "Blues Rock",
+   "Rhythm & Blues",
+   "Funk",
+   "Acid Rock",
+   "Psychedelic Rock",
+   "Soul",
+   "Funk",
+   "Psychedelic Rock",
+   "Funk",
+   "Funk",
+   "Psychedelic Rock",
+   "Funk",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Rhythm & Blues",
+   "Soul",
+   "AOR",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Ballad",
+   "Psychedelic Rock",
+   "Funk",
+   "Blues Rock",
+   "Funk",
+   "Psychedelic"
+  ],
+  "years": [
+   2015,
+   2025,
+   2015,
+   1996,
+   1976,
+   2001,
+   1976,
+   1969,
+   1971,
+   2014,
+   1970,
+   1973,
+   1973,
+   1990,
+   2008,
+   1974,
+   1970,
+   1972,
+   1976,
+   1970,
+   2008,
+   1969,
+   2015,
+   1969
+  ]
+ },
  "cvartetul de jazz paul weiner": {
   "countries": [
    "Japan",
@@ -23820,6 +24704,503 @@
    1990,
    2014,
    2005
+  ]
+ },
+ "enrico simonetti": {
+  "countries": [
+   "Brazil",
+   "Venezuela",
+   "Italy",
+   "Brazil",
+   "Italy",
+   "Italy",
+   "Brazil",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Brazil",
+   "Italy",
+   "Uruguay",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Brazil"
+  ],
+  "genres": [
+   "Classical",
+   "Latin",
+   "Rock",
+   "Stage & Screen",
+   "Latin",
+   "Jazz",
+   "Classical",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Pop",
+   "Classical",
+   "Rock",
+   "Stage & Screen",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Latin",
+   "Pop",
+   "Stage & Screen",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Stage & Screen",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Stage & Screen",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Stage & Screen",
+   "Rock",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Classical"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Light Music",
+    "Pop"
+   ],
+   [
+    "Light Music",
+    "Classical"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Samba-Canção",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Latin"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Latin"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Pop"
+   ],
+   [
+    "Score",
+    "Folk, World, & Country"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Neo-Classical",
+    "Pop"
+   ],
+   [
+    "Neo-Classical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Neo-Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Folk, World, & Country"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary",
+    "Pop"
+   ],
+   [
+    "Contemporary",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Cool Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Folk, World, & Country"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Acoustic",
+    "Jazz"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Pop"
+   ],
+   [
+    "Acoustic",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Rock"
+   ],
+   [
+    "Score",
+    "Pop"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Prog Rock",
+    "Jazz"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "MPB",
+   "Prog Rock",
+   "Soundtrack",
+   "Samba",
+   "Score",
+   "Easy Listening",
+   "Score",
+   "Soundtrack",
+   "Light Music",
+   "Prog Rock",
+   "Soundtrack",
+   "Soundtrack",
+   "Promotional",
+   "Samba-Canção",
+   "Soundtrack",
+   "Easy Listening",
+   "Soul-Jazz",
+   "Soundtrack",
+   "Soundtrack",
+   "Easy Listening",
+   "Soul-Jazz",
+   "Soundtrack",
+   "Soundtrack",
+   "Score",
+   "Neo-Classical",
+   "Easy Listening",
+   "Contemporary",
+   "Soundtrack",
+   "Cool Jazz",
+   "Easy Listening",
+   "Score",
+   "Soundtrack",
+   "Holiday",
+   "Acoustic",
+   "Score",
+   "Prog Rock",
+   "Prog Rock",
+   "Soundtrack"
+  ],
+  "years": [
+   1998,
+   1979,
+   2022,
+   1958,
+   1972,
+   1975,
+   1976,
+   1973,
+   1974,
+   1973,
+   1974,
+   1975,
+   1974,
+   2010,
+   1973,
+   1973,
+   1967,
+   1975,
+   1976
   ]
  },
  "francesco de masi": {
@@ -37100,6 +38481,42 @@
   "releases": 0,
   "styles": [],
   "years": []
+ },
+ "herbert baker": {
+  "countries": [
+   "Brazil",
+   "UK",
+   "US"
+  ],
+  "genres": [
+   "Classical",
+   "Classical",
+   "Classical"
+  ],
+  "pairs": [
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ]
+  ],
+  "releases": 3,
+  "styles": [
+   "Baroque",
+   "Baroque",
+   "Baroque"
+  ],
+  "years": [
+   1979,
+   1976
+  ]
  },
  "herbie hancock": {
   "countries": [
@@ -62949,6 +64366,751 @@
    1965
   ]
  },
+ "piero umiliani": {
+  "countries": [
+   "Italy",
+   "Japan",
+   "Japan",
+   "Italy",
+   "Worldwide",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Japan",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Worldwide",
+   "Australia",
+   "Italy",
+   "Japan",
+   "Italy",
+   "Italy",
+   "US",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Unknown"
+  ],
+  "genres": [
+   "Jazz",
+   "Latin",
+   "Blues",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Electronic",
+   "Classical",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Classical",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Stage & Screen",
+   "Latin",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Electronic",
+   "Classical",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Soul-Jazz",
+    "Blues"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Latin"
+   ],
+   [
+    "Swing",
+    "Blues"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Canzone Napoletana",
+    "Electronic"
+   ],
+   [
+    "Canzone Napoletana",
+    "Classical"
+   ],
+   [
+    "Canzone Napoletana",
+    "Folk, World, & Country"
+   ],
+   [
+    "Canzone Napoletana",
+    "Stage & Screen"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Classical"
+   ],
+   [
+    "Experimental",
+    "Folk, World, & Country"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Electronic"
+   ],
+   [
+    "Score",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Folk, World, & Country"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Rock"
+   ],
+   [
+    "Easy Listening",
+    "Electronic"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Funk / Soul"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Electronic"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Jazz"
+   ],
+   [
+    "Electro",
+    "Funk / Soul"
+   ],
+   [
+    "Electro",
+    "Stage & Screen"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Jazz"
+   ],
+   [
+    "Leftfield",
+    "Funk / Soul"
+   ],
+   [
+    "Leftfield",
+    "Stage & Screen"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Funk / Soul"
+   ],
+   [
+    "Abstract",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Classical"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Folk, World, & Country"
+   ],
+   [
+    "Baroque",
+    "Stage & Screen"
+   ],
+   [
+    "Folk",
+    "Classical"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Pop"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Pop"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Novelty",
+    "Jazz"
+   ],
+   [
+    "Novelty",
+    "Pop"
+   ],
+   [
+    "Novelty",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Pop"
+   ],
+   [
+    "Bossanova",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Jazz"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Electronic"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Jazz"
+   ],
+   [
+    "Trip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Electronic"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Pop"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Electronic"
+   ],
+   [
+    "Score",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Classical"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soul-Jazz",
+   "Swing",
+   "Soundtrack",
+   "Soundtrack",
+   "Soundtrack",
+   "Soundtrack",
+   "Canzone Napoletana",
+   "Experimental",
+   "Score",
+   "Lounge",
+   "Easy Listening",
+   "Easy Listening",
+   "Psychedelic",
+   "Experimental",
+   "Electro",
+   "Leftfield",
+   "Abstract",
+   "Score",
+   "Soundtrack",
+   "Soundtrack",
+   "Score",
+   "Soundtrack",
+   "Soul-Jazz",
+   "Easy Listening",
+   "Soundtrack",
+   "Theme",
+   "Baroque",
+   "Folk",
+   "Soundtrack",
+   "Latin Jazz",
+   "Soul-Jazz",
+   "Novelty",
+   "Soundtrack",
+   "Bossanova",
+   "Soundtrack",
+   "Latin Jazz",
+   "Contemporary Jazz",
+   "Easy Listening",
+   "Downtempo",
+   "Psychedelic",
+   "Trip Hop",
+   "Soul-Jazz",
+   "Soundtrack",
+   "Bossa Nova",
+   "Easy Listening",
+   "Soundtrack",
+   "Space-Age",
+   "Easy Listening",
+   "Soundtrack",
+   "Score",
+   "Soul-Jazz",
+   "Easy Listening",
+   "Score",
+   "Experimental",
+   "Cool Jazz"
+  ],
+  "years": [
+   1967,
+   1963,
+   2020,
+   1965,
+   2022,
+   2020,
+   1997,
+   2016,
+   2017,
+   2017,
+   1997,
+   1968,
+   2021,
+   2022,
+   2022,
+   1969,
+   2000,
+   2008,
+   1998,
+   2015,
+   1969,
+   2013,
+   1972,
+   1961,
+   1967
+  ]
+ },
  "quarteto em cy": {
   "countries": [
    "Brazil",
@@ -65404,6 +67566,300 @@
    1999,
    2009,
    1999
+  ]
+ },
+ "richard clayderman": {
+  "countries": [
+   "China",
+   "China",
+   "China",
+   "China",
+   "Japan",
+   "China",
+   "Scandinavia",
+   "France",
+   "Portugal",
+   "Japan",
+   "Brazil",
+   "Greece",
+   "Singapore",
+   "France",
+   "France",
+   "Europe",
+   "Spain",
+   "Italy",
+   "US",
+   "Portugal",
+   "Argentina",
+   "Greece",
+   "Germany",
+   "France",
+   "Mexico"
+  ],
+  "genres": [
+   "Pop",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Pop",
+   "Classical",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Pop",
+   "Classical",
+   "Classical",
+   "Pop",
+   "Pop",
+   "Classical",
+   "Stage & Screen",
+   "Pop",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Folk, World, & Country",
+   "Pop",
+   "Funk / Soul",
+   "Classical",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Light Music",
+    "Pop"
+   ],
+   [
+    "Light Music",
+    "Classical"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Classical"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Classical"
+   ],
+   [
+    "Light Music",
+    "Pop"
+   ],
+   [
+    "Classical",
+    "Pop"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Classical"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Holiday",
+    "Pop"
+   ],
+   [
+    "Holiday",
+    "Classical"
+   ],
+   [
+    "Holiday",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Neo-Romantic",
+    "Classical"
+   ],
+   [
+    "Easy Listening",
+    "Classical"
+   ],
+   [
+    "Ballad",
+    "Classical"
+   ],
+   [
+    "Easy Listening",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Pop"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Classical"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Classical",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Light Music",
+   "Easy Listening",
+   "Ballad",
+   "Easy Listening",
+   "Chanson",
+   "Ballad",
+   "Ballad",
+   "Light Music",
+   "Classical",
+   "Easy Listening",
+   "Soundtrack",
+   "Ballad",
+   "Holiday",
+   "Ballad",
+   "Disco",
+   "Neo-Romantic",
+   "Easy Listening",
+   "Ballad",
+   "Easy Listening",
+   "Classical",
+   "Easy Listening",
+   "Easy Listening",
+   "Classical"
+  ],
+  "years": [
+   1991,
+   1986,
+   1992,
+   1984,
+   1987,
+   1982,
+   1988,
+   1980,
+   1980,
+   1984,
+   1983,
+   1980,
+   1983,
+   1985,
+   2005,
+   1979,
+   1991,
+   1985,
+   1979,
+   1979,
+   1986,
+   1979,
+   1993,
+   1984
   ]
  },
  "roberta flack": {
