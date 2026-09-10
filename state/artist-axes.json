@@ -18435,6 +18435,150 @@
    1969
   ]
  },
+ "common": {
+  "countries": [
+   "Japan",
+   "Canada",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "UK",
+   "US",
+   "Europe",
+   "US",
+   "US",
+   "US",
+   "Europe",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "UK"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Conscious",
+   "Conscious",
+   "Instrumental",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious"
+  ],
+  "years": [
+   2000,
+   2014,
+   2018,
+   2021,
+   2003,
+   2019,
+   2005,
+   2007,
+   2010,
+   2008,
+   2021,
+   1998,
+   2008,
+   2025,
+   2000,
+   2002,
+   2005,
+   1998,
+   2005,
+   2021,
+   2010
+  ]
+ },
  "cvartetul de jazz paul weiner": {
   "countries": [
    "Japan",
@@ -61757,6 +61901,14 @@
    1973
   ]
  },
+ "les frères mégri \"hassan et mahmoud\"": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
  "les mccann": {
   "countries": [
    "Netherlands",
@@ -97626,6 +97778,164 @@
    1973,
    2014,
    2018
+  ]
+ },
+ "swamp thug": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "USA & Canada",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "Unknown",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Reggae",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Reggae",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Thug Rap",
+    "Hip Hop"
+   ],
+   [
+    "Thug Rap",
+    "Funk / Soul"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Trap",
+    "Hip Hop"
+   ],
+   [
+    "Ragga HipHop",
+    "Hip Hop"
+   ],
+   [
+    "Ragga HipHop",
+    "Reggae"
+   ],
+   [
+    "Trap",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 23,
+  "styles": [
+   "Thug Rap",
+   "Boom Bap",
+   "Boom Bap",
+   "Boom Bap",
+   "Hardcore Hip-Hop",
+   "Boom Bap",
+   "Instrumental",
+   "Hardcore Hip-Hop",
+   "Boom Bap",
+   "Boom Bap",
+   "Trap",
+   "Ragga HipHop",
+   "Trap"
+  ],
+  "years": [
+   2022,
+   2025,
+   2023,
+   2023,
+   2023,
+   2025,
+   2023,
+   2023,
+   2026,
+   2026,
+   2025,
+   2021,
+   2023,
+   2023,
+   2025,
+   2011,
+   2023,
+   2024,
+   2023,
+   2011,
+   2022,
+   2023,
+   2023
   ]
  },
  "sérgio mendes": {
