@@ -16973,6 +16973,443 @@
    1982
   ]
  },
+ "chick corea": {
+  "countries": [
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "Japan",
+   "Japan",
+   "Israel",
+   "Unknown",
+   "Japan",
+   "Germany",
+   "Japan",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Flamenco",
+    "Jazz"
+   ],
+   [
+    "Flamenco",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Flamenco",
+    "Jazz"
+   ],
+   [
+    "Flamenco",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Flamenco",
+    "Jazz"
+   ],
+   [
+    "Flamenco",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Rock"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Fusion",
+   "Contemporary Jazz",
+   "Free Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Flamenco",
+   "Latin Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Latin Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Free Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Flamenco",
+   "Latin Jazz",
+   "Free Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Flamenco",
+   "Latin Jazz",
+   "Post Bop",
+   "Avant-garde Jazz",
+   "Jazz-Rock",
+   "Fusion",
+   "Latin Jazz",
+   "Post Bop",
+   "Fusion",
+   "Contemporary Jazz",
+   "Space-Age",
+   "Fusion",
+   "Latin Jazz",
+   "Fusion",
+   "Latin Jazz",
+   "Fusion",
+   "Jazz-Funk",
+   "Latin Jazz",
+   "Fusion",
+   "Jazz-Funk",
+   "Post Bop",
+   "Post Bop",
+   "Free Jazz",
+   "Instrumental"
+  ],
+  "years": [
+   1976,
+   2006,
+   2014,
+   1976,
+   2016,
+   2014,
+   2006,
+   2006,
+   2005,
+   2005,
+   2016,
+   2006,
+   1985,
+   1993,
+   1993,
+   2006,
+   1996,
+   1982,
+   1978,
+   2017,
+   2021,
+   2000
+  ]
+ },
  "chico hamilton": {
   "countries": [
    "US",
