@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2010,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 15,
+      "artists_found": 15,
+      "fresh_lookups": 0,
+      "styles_considered": 62
+    }
+  },
+  "results": [
+    {
+      "artist": "The Brass Choir",
+      "title": "Mas Que Nada",
+      "release_title": "The Brass Choir - Mas Que Nada / The Breeze And I",
+      "year": "1967",
+      "label": "Command",
+      "country": "US",
+      "discogs_id": 12720823,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bWZFOvw1FRMsp2u-PAqOLEVvgtS1oiJUwOaW_TYtjiQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/ODIzLTE1NDA2ODk4/MzgtODEwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chico Hamilton",
+      "title": "The Morning Side Of Love",
+      "release_title": "Chico Hamilton - Peregrinations",
+      "year": "1975",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 30544108,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/OpRgBMS0zjHUURcaEw76VmdEVq-ri7GnlemN0ABh89M/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ0/MTA4LTE3MTQ0NTA5/MTgtMjg2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "What Can A Miracle Do",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1978",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 6114243,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/b0F_uIaj9rqjykDAZKBWK3BdIoE6YX4esPH_12BZzeQ/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQy/NDMtMTYwNzM0MzEx/Ni00MDk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Instant Death (Stereo)",
+      "release_title": "Eddie Harris - Instant Death",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 35717620,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1Fhvz3trIDgxfKwZBagCt5ANf4Uz5Tnx_dze3WOR4lQ/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzE3/NjIwLTE3NjM2NzE1/MTEtMjE5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carl Filipiak",
+      "title": "Just My Wish",
+      "release_title": "Carl Filipiak - Blue Entrance",
+      "year": "1990",
+      "label": "Geometric Records",
+      "country": "US",
+      "discogs_id": 12002131,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/G2QP9x_9WqImzlpWYngmXIyFD7-N7TL5erjwfK3CSFo/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAy/MTMxLTE2ODA1MjI5/NzQtMTE0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Grease Piece",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1978",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 6114243,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/b0F_uIaj9rqjykDAZKBWK3BdIoE6YX4esPH_12BZzeQ/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQy/NDMtMTYwNzM0MzEx/Ni00MDk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rex Richardson",
+      "title": "Päsiphae's Spawn",
+      "release_title": "Rex Richardson - Pandora's Pocket",
+      "year": "1997",
+      "label": "Igmod",
+      "country": "US",
+      "discogs_id": 2099317,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/08DlsIEBmE-xm01H3KTDD6qvECw6AeLsW3EdJLDB3v0/rs:fit/g:sm/q:90/h:300/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTkz/MTctMTQyNTEwNzQ1/Ny0zMTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Floyd Cramer",
+      "title": "Crazy",
+      "release_title": "Floyd Cramer - The Piano Magic Of Floyd Cramer",
+      "year": "1991",
+      "label": "Heartland Music",
+      "country": "US",
+      "discogs_id": 7495800,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/TwmGv6ncPr5XrczoFpCvl7xwHXfv0XwNlL-Gt_mwvck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTU4/MDAtMTc0MTM2Mjkz/Ny01MTg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "I Dream Of You",
+      "release_title": "Various - Music For Romancing",
+      "year": "1965",
+      "label": "White Front",
+      "country": "US",
+      "discogs_id": 10669957,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bAF450J1nTITlDnr7iBwNBx9J1kvuFGNwKtx42M2-BY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY5/OTU3LTE1MDIwNzY1/MTEtNDY0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Love Walked In",
+      "release_title": "Various - Music For Romancing",
+      "year": "1965",
+      "label": "White Front",
+      "country": "US",
+      "discogs_id": 10669957,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bAF450J1nTITlDnr7iBwNBx9J1kvuFGNwKtx42M2-BY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY5/OTU3LTE1MDIwNzY1/MTEtNDY0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rex Richardson",
+      "title": "Murray's Mead",
+      "release_title": "Rex Richardson - Pandora's Pocket",
+      "year": "1997",
+      "label": "Igmod",
+      "country": "US",
+      "discogs_id": 2099317,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/08DlsIEBmE-xm01H3KTDD6qvECw6AeLsW3EdJLDB3v0/rs:fit/g:sm/q:90/h:300/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTkz/MTctMTQyNTEwNzQ1/Ny0zMTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Keep It Steady (Brecker Bump)",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1978",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 6114243,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/b0F_uIaj9rqjykDAZKBWK3BdIoE6YX4esPH_12BZzeQ/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQy/NDMtMTYwNzM0MzEx/Ni00MDk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rex Richardson",
+      "title": "Pandora's Pocket",
+      "release_title": "Rex Richardson - Pandora's Pocket",
+      "year": "1997",
+      "label": "Igmod",
+      "country": "US",
+      "discogs_id": 2099317,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/08DlsIEBmE-xm01H3KTDD6qvECw6AeLsW3EdJLDB3v0/rs:fit/g:sm/q:90/h:300/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTkz/MTctMTQyNTEwNzQ1/Ny0zMTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Williams",
+      "title": "Someone You've Loved",
+      "release_title": "Joe Williams - Here's To Life",
+      "year": "1994",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 13748113,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YdYYRKMqgcgaZuUAw880zHn6MXyAq7WlGpAyJukR4TQ/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ4/MTEzLTE1NjAyNzI1/NjctMjIyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carl Filipiak",
+      "title": "Anachia",
+      "release_title": "Carl Filipiak - Blue Entrance",
+      "year": "1990",
+      "label": "Geometric Records",
+      "country": "US",
+      "discogs_id": 12002131,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/G2QP9x_9WqImzlpWYngmXIyFD7-N7TL5erjwfK3CSFo/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAy/MTMxLTE2ODA1MjI5/NzQtMTE0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chico Hamilton",
+      "title": "Little Lisa",
+      "release_title": "Chico Hamilton - Peregrinations",
+      "year": "1975",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 30544108,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/OpRgBMS0zjHUURcaEw76VmdEVq-ri7GnlemN0ABh89M/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ0/MTA4LTE3MTQ0NTA5/MTgtMjg2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brass Choir",
+      "title": "The Breeze And I",
+      "release_title": "The Brass Choir - Mas Que Nada / The Breeze And I",
+      "year": "1967",
+      "label": "Command",
+      "country": "US",
+      "discogs_id": 12720823,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bWZFOvw1FRMsp2u-PAqOLEVvgtS1oiJUwOaW_TYtjiQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/ODIzLTE1NDA2ODk4/MzgtODEwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Lovely Lady",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1978",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 6114243,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/b0F_uIaj9rqjykDAZKBWK3BdIoE6YX4esPH_12BZzeQ/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQy/NDMtMTYwNzM0MzEx/Ni00MDk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "Tower Of Strength",
+      "release_title": "Unknown Artist - Stimulus Progression",
+      "year": "1975",
+      "label": "MUZAK",
+      "country": "US",
+      "discogs_id": 3746599,
+      "rating_avg": 3.84,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/QRrfYH6j4sb7Ct1Rl1Z6MxDec5OQgpm8NxrolNJU3dw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDY1/OTktMTYzNTc4MjMw/Ny0zNTI5LnBuZw.jpeg"
+    },
+    {
+      "artist": "Floyd Cramer",
+      "title": "Hymne",
+      "release_title": "Floyd Cramer - The Piano Magic Of Floyd Cramer",
+      "year": "1991",
+      "label": "Heartland Music",
+      "country": "US",
+      "discogs_id": 7495800,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/TwmGv6ncPr5XrczoFpCvl7xwHXfv0XwNlL-Gt_mwvck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTU4/MDAtMTc0MTM2Mjkz/Ny01MTg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Just Us Two",
+      "release_title": "Lonnie Liston Smith - Silhouettes",
+      "year": "1989",
+      "label": "CBS Special Products",
+      "country": "US",
+      "discogs_id": 9253577,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4UU_QuuBTJt1xATUJrvsmUTq-eAgNmJyNbAL3J2De2M/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTM1/NzctMTQ3NzQyMTM4/MS0xMDM0LnBuZw.jpeg"
+    },
+    {
+      "artist": "Joe Williams",
+      "title": "Little Sir Echo",
+      "release_title": "Joe Williams - Here's To Life",
+      "year": "1994",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 13748113,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YdYYRKMqgcgaZuUAw880zHn6MXyAq7WlGpAyJukR4TQ/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ4/MTEzLTE1NjAyNzI1/NjctMjIyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "This Is My Country",
+      "release_title": "Unknown Artist - Stimulus Progression",
+      "year": "1975",
+      "label": "MUZAK",
+      "country": "US",
+      "discogs_id": 3746599,
+      "rating_avg": 3.84,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/QRrfYH6j4sb7Ct1Rl1Z6MxDec5OQgpm8NxrolNJU3dw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDY1/OTktMTYzNTc4MjMw/Ny0zNTI5LnBuZw.jpeg"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "Teach Me Tonight",
+      "release_title": "Unknown Artist - Stimulus Progression",
+      "year": "1975",
+      "label": "MUZAK",
+      "country": "US",
+      "discogs_id": 3746599,
+      "rating_avg": 3.84,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/QRrfYH6j4sb7Ct1Rl1Z6MxDec5OQgpm8NxrolNJU3dw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDY1/OTktMTYzNTc4MjMw/Ny0zNTI5LnBuZw.jpeg"
+    },
+    {
+      "artist": "Joe Williams",
+      "title": "Maybe September",
+      "release_title": "Joe Williams - Here's To Life",
+      "year": "1994",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 13748113,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YdYYRKMqgcgaZuUAw880zHn6MXyAq7WlGpAyJukR4TQ/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ4/MTEzLTE1NjAyNzI1/NjctMjIyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chico Hamilton",
+      "title": "Abdullah And Abraham",
+      "release_title": "Chico Hamilton - Peregrinations",
+      "year": "1975",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 30544108,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/OpRgBMS0zjHUURcaEw76VmdEVq-ri7GnlemN0ABh89M/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ0/MTA4LTE3MTQ0NTA5/MTgtMjg2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joel Kaye & New York Neophonic Orchestra",
+      "title": "Ofo",
+      "release_title": "Joel Kaye And His New York Neophonic Orchestra - Joel Kaye And His New York Neophonic Orchestra",
+      "year": "1973",
+      "label": "Paramount Records",
+      "country": "US",
+      "discogs_id": 19306468,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/SLoVMBdrqiw-M8aos0c-UIWqipOwrNIkuZuja0P3miw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzA2/NDY4LTE2MjQ4OTI4/NjYtNzU1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Summer Afternoon",
+      "release_title": "Lonnie Liston Smith - Silhouettes",
+      "year": "1989",
+      "label": "CBS Special Products",
+      "country": "US",
+      "discogs_id": 9253577,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4UU_QuuBTJt1xATUJrvsmUTq-eAgNmJyNbAL3J2De2M/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTM1/NzctMTQ3NzQyMTM4/MS0xMDM0LnBuZw.jpeg"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "Cease The Bombing",
+      "release_title": "Grant Green - Carryin' On",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 14951042,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/VNocB038L52riHWLCj-tzp4t4G_yMNrhOEMHu-ggx0c/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTUx/MDQyLTE1ODQ5ODgx/MDMtMTU5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "When Things Were Rotten",
+      "release_title": "Unknown Artist - Stimulus Progression",
+      "year": "1975",
+      "label": "MUZAK",
+      "country": "US",
+      "discogs_id": 3746599,
+      "rating_avg": 3.84,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/QRrfYH6j4sb7Ct1Rl1Z6MxDec5OQgpm8NxrolNJU3dw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDY1/OTktMTYzNTc4MjMw/Ny0zNTI5LnBuZw.jpeg"
+    }
+  ]
+}
