@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 1,
+      "styles_considered": 104
+    }
+  },
+  "results": [
+    {
+      "artist": "The Mike Valeras Group",
+      "title": "Angry Lil' Greek Boy",
+      "release_title": "The Mike Valeras Group - Kigen",
+      "year": "2000",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 29693629,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6NafV5E9OUwht8lezCZ1kAPcBzr3T87L4Z-fahEU7hs/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njkz/NjI5LTE3MDcwNTE2/MzItODEwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Kostelanetz",
+      "title": "Toyland",
+      "release_title": "Various - Christmas Greetings",
+      "year": "1970",
+      "label": "Columbia Special Products",
+      "country": "US",
+      "discogs_id": 15978473,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ns37bxsd6la-yip4j93tt8wxzyqfPyuL_-G6s_CIK6E/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc4/NDczLTE2MDE5Mzc0/NDAtMTc3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Keith Jarrett",
+      "title": "Country",
+      "release_title": "Keith Jarrett - My Song",
+      "year": "1978",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 8693784,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EU7hpS2QAjieI-B8UkSCC_vlAzNSYx0j_k-gJWGNG8k/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTM3/ODQtMTQ2Njc1OTcy/NS0xNDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Mike Valeras Group",
+      "title": "Lo Phat",
+      "release_title": "The Mike Valeras Group - Kigen",
+      "year": "2000",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 29693629,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6NafV5E9OUwht8lezCZ1kAPcBzr3T87L4Z-fahEU7hs/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njkz/NjI5LTE3MDcwNTE2/MzItODEwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Focus Quintet",
+      "title": "Dedicated",
+      "release_title": "The Focus Quintet - 1-8 In 1",
+      "year": "2002",
+      "label": "Sachimay Records",
+      "country": "US",
+      "discogs_id": 34046302,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jYozkYPjRrbQU9aWYk2Fk_u9egSX8wHLeFtWoYMe0_w/rs:fit/g:sm/q:90/h:469/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDQ2/MzAyLTE3ODQyMDYw/MTAtMTE2MC5wbmc.jpeg"
+    },
+    {
+      "artist": "Keith Jarrett",
+      "title": "The Journey Home",
+      "release_title": "Keith Jarrett - My Song",
+      "year": "1978",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 8693784,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EU7hpS2QAjieI-B8UkSCC_vlAzNSYx0j_k-gJWGNG8k/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTM3/ODQtMTQ2Njc1OTcy/NS0xNDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Norah Jones",
+      "title": "Painter Song",
+      "release_title": "Norah Jones - Come Away With Me",
+      "year": "2013",
+      "label": "Analogue Productions",
+      "country": "US",
+      "discogs_id": 23182418,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/E6JjmAlPv5tCw5ozH9zKjS6E-ZbcsnrVDeXkUxZnUtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTgy/NDE4LTE2NTIyMTQ5/NTItODMyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert Goulet",
+      "title": "O Come All Ye Faithful",
+      "release_title": "Various - Christmas Greetings",
+      "year": "1970",
+      "label": "Columbia Special Products",
+      "country": "US",
+      "discogs_id": 15978473,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ns37bxsd6la-yip4j93tt8wxzyqfPyuL_-G6s_CIK6E/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc4/NDczLTE2MDE5Mzc0/NDAtMTc3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Unity Group",
+      "title": "KQU",
+      "release_title": "Pat Metheny Unity Group - Kin  (<-->)",
+      "year": "2014",
+      "label": "Nonesuch",
+      "country": "US",
+      "discogs_id": 8119850,
+      "rating_avg": 4.0,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/CU3k8ZNym6HtqWLJJG0yTByRzoZPji9yDrlhoqNUgIU/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTk4/NTAtMTUyMTU4MzY3/Ny03ODY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jake Kot",
+      "title": "At A Glance",
+      "release_title": "Jake Kot - At A Glance",
+      "year": "2005",
+      "label": "Miles And Me Publishing",
+      "country": "US",
+      "discogs_id": 18794758,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YKP_mDPy_0YqPamH1naNcPEFiSZzDrnF0843Z2KHzpY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk0/NzU4LTE2MjE0NDM5/MDAtNDUyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jake Kot",
+      "title": "The Forbidden Zone",
+      "release_title": "Jake Kot - At A Glance",
+      "year": "2005",
+      "label": "Miles And Me Publishing",
+      "country": "US",
+      "discogs_id": 18794758,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YKP_mDPy_0YqPamH1naNcPEFiSZzDrnF0843Z2KHzpY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk0/NzU4LTE2MjE0NDM5/MDAtNDUyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lisa Hilton",
+      "title": "Can You See?",
+      "release_title": "Lisa Hilton - Cocktails At Eight",
+      "year": "2001",
+      "label": "Ruby Slippers Productions",
+      "country": "US",
+      "discogs_id": 10660007,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/D8tsiFpuFHAUPFY5VlaMCA5Psg3n72RV127-G3E_w4w/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/MDA3LTE1MDE4NzU0/NTMtNDI5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ken Griffin",
+      "title": "Away In A Manger (Luther's Carol)",
+      "release_title": "Various - Christmas Greetings",
+      "year": "1970",
+      "label": "Columbia Special Products",
+      "country": "US",
+      "discogs_id": 15978473,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ns37bxsd6la-yip4j93tt8wxzyqfPyuL_-G6s_CIK6E/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc4/NDczLTE2MDE5Mzc0/NDAtMTc3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Louis Armstrong",
+      "title": "Blueberry Hill",
+      "release_title": "Louis Armstrong - Hello, Dolly! / Blueberry Hill",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 32459613,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3PfZSL7btIL5VwyoxiCn-Em7E3LLM9zoSYbWtOUQCmU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDU5/NjEzLTE3MzMxNzQ2/ODctMjA0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Norman Brown",
+      "title": "Let's Wait Awhile",
+      "release_title": "Norman Brown - Just Chillin'",
+      "year": "2002",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 814796,
+      "rating_avg": 4.13,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/deZfJVCkqST7BfohPtL7ln5YlA891E_z8PDZepCDJDQ/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDc5/Ni0xMTYxNTgwMzkz/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Unity Group",
+      "title": "On Day One",
+      "release_title": "Pat Metheny Unity Group - Kin  (<-->)",
+      "year": "2014",
+      "label": "Nonesuch",
+      "country": "US",
+      "discogs_id": 8119850,
+      "rating_avg": 4.0,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/CU3k8ZNym6HtqWLJJG0yTByRzoZPji9yDrlhoqNUgIU/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTk4/NTAtMTUyMTU4MzY3/Ny03ODY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Mike Valeras Group",
+      "title": "On The Dogs",
+      "release_title": "The Mike Valeras Group - Kigen",
+      "year": "2000",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 29693629,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6NafV5E9OUwht8lezCZ1kAPcBzr3T87L4Z-fahEU7hs/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njkz/NjI5LTE3MDcwNTE2/MzItODEwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Favicchia",
+      "title": "April Fools",
+      "release_title": "John Favicchia - World Time ",
+      "year": "1997",
+      "label": "Fav Music",
+      "country": "US",
+      "discogs_id": 30736315,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/msgQHvhaZ-6PnFFXxYhBN1tMs2RjBR3zhOEkScvC83A/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzM2/MzE1LTE3MTYyNDQ1/MDgtMjUwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Norah Jones",
+      "title": "Nightingale",
+      "release_title": "Norah Jones - Come Away With Me",
+      "year": "2013",
+      "label": "Analogue Productions",
+      "country": "US",
+      "discogs_id": 23182418,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/E6JjmAlPv5tCw5ozH9zKjS6E-ZbcsnrVDeXkUxZnUtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTgy/NDE4LTE2NTIyMTQ5/NTItODMyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jake Kot",
+      "title": "On The Run",
+      "release_title": "Jake Kot - At A Glance",
+      "year": "2005",
+      "label": "Miles And Me Publishing",
+      "country": "US",
+      "discogs_id": 18794758,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YKP_mDPy_0YqPamH1naNcPEFiSZzDrnF0843Z2KHzpY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk0/NzU4LTE2MjE0NDM5/MDAtNDUyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lisa Hilton",
+      "title": "Seduction",
+      "release_title": "Lisa Hilton - Cocktails At Eight",
+      "year": "2001",
+      "label": "Ruby Slippers Productions",
+      "country": "US",
+      "discogs_id": 10660007,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/D8tsiFpuFHAUPFY5VlaMCA5Psg3n72RV127-G3E_w4w/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/MDA3LTE1MDE4NzU0/NTMtNDI5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jake Kot",
+      "title": "More Proof",
+      "release_title": "Jake Kot - At A Glance",
+      "year": "2005",
+      "label": "Miles And Me Publishing",
+      "country": "US",
+      "discogs_id": 18794758,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YKP_mDPy_0YqPamH1naNcPEFiSZzDrnF0843Z2KHzpY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk0/NzU4LTE2MjE0NDM5/MDAtNDUyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Kostelanetz",
+      "title": "Medley",
+      "release_title": "Various - Christmas Greetings",
+      "year": "1970",
+      "label": "Columbia Special Products",
+      "country": "US",
+      "discogs_id": 15978473,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ns37bxsd6la-yip4j93tt8wxzyqfPyuL_-G6s_CIK6E/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc4/NDczLTE2MDE5Mzc0/NDAtMTc3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Louis Armstrong",
+      "title": "Hello, Dolly!",
+      "release_title": "Louis Armstrong - Hello, Dolly! / Blueberry Hill",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 32459613,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3PfZSL7btIL5VwyoxiCn-Em7E3LLM9zoSYbWtOUQCmU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDU5/NjEzLTE3MzMxNzQ2/ODctMjA0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Eckstine",
+      "title": "I Apologize",
+      "release_title": "Billy Eckstine - No Cover, No Minimum",
+      "year": "1993",
+      "label": "Roulette Jazz",
+      "country": "US",
+      "discogs_id": 5850810,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/Osh-q32J8Gx1-sH7ZBz61i91B6g2DD8eNNNj36vBd9o/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTA4/MTAtMTQwNDQzNTgw/NC0xODMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Focus Quintet",
+      "title": "Contents",
+      "release_title": "The Focus Quintet - 1-8 In 1",
+      "year": "2002",
+      "label": "Sachimay Records",
+      "country": "US",
+      "discogs_id": 34046302,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jYozkYPjRrbQU9aWYk2Fk_u9egSX8wHLeFtWoYMe0_w/rs:fit/g:sm/q:90/h:469/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDQ2/MzAyLTE3ODQyMDYw/MTAtMTE2MC5wbmc.jpeg"
+    },
+    {
+      "artist": "Fred Simon",
+      "title": "I've Dreamed Of You So Much",
+      "release_title": "Fred Simon (3) - Open Book",
+      "year": "1991",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 26004325,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6dLDjBz3xija_ILramSK4tW1CLu4TosiAOvaSfrZYsc/rs:fit/g:sm/q:90/h:600/w:390/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDA0/MzI1LTE2NzU2MjQ5/MTAtMTE1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Norah Jones",
+      "title": "Lonestar",
+      "release_title": "Norah Jones - Come Away With Me",
+      "year": "2013",
+      "label": "Analogue Productions",
+      "country": "US",
+      "discogs_id": 23182418,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/E6JjmAlPv5tCw5ozH9zKjS6E-ZbcsnrVDeXkUxZnUtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTgy/NDE4LTE2NTIyMTQ5/NTItODMyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Vic Hammett",
+      "title": "Someone To Watch Over Me",
+      "release_title": "Vic Hammett - Pipin' Hot!",
+      "year": "1971",
+      "label": "Doric Recording",
+      "country": "US",
+      "discogs_id": 14468889,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pe-5ISJEUJGrr2kPWZwftvQRhfRImTU3Zad6erLN4JU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY4/ODg5LTE1NzUxNTM1/ODgtNjA0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Rumba Mama",
+      "release_title": "Weather Report - Heavy Weather",
+      "year": "1992",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 6555740,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qHC9A6EPPnlMEW5daYcKX5qu7kTUiBB9YHUJtkKX8uw/rs:fit/g:sm/q:90/h:600/w:379/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTU3/NDAtMTU1MjExMjkz/NC02NjkyLmpwZWc.jpeg"
+    }
+  ]
+}
