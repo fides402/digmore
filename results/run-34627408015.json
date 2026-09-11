@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2019,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 23,
+      "artists_found": 23,
+      "fresh_lookups": 0,
+      "styles_considered": 95
+    }
+  },
+  "results": [
+    {
+      "artist": "The Ramsey Lewis Trio",
+      "title": "Movin' Easy",
+      "release_title": "The Ramsey Lewis Trio - Hang On Sloopy / Movin' Easy",
+      "year": "1965",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 3418038,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/yatG1qs9brzhW9f34OUeDQL8GYmKCjMNhbartjr9ZKY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgw/MzgtMTMzNzk3OTky/OC0xNDg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Solar  ( Explarations)",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 10870975,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/G1dhVFUxSxtQ5VWWAygoZleCBPEX1oHX5ho4xMpisZg/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcw/OTc1LTE1MTM4NjY1/MTktNTE5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Spirit Of The Moment",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 10870975,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/G1dhVFUxSxtQ5VWWAygoZleCBPEX1oHX5ho4xMpisZg/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcw/OTc1LTE1MTM4NjY1/MTktNTE5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader Quintet",
+      "title": "Cuban Fantasy",
+      "release_title": "Cal Tjader Quintet - Concert On The Campus",
+      "year": "1987",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 10693761,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/-k7vyw_eFB-yfUqPWNmIOHEApNEsWd9NvfuUMHxFCgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/NzYxLTE1MDI1NDEz/NjYtMzY4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lawrence Welk",
+      "title": "The Starlit Hour",
+      "release_title": "Lawrence Welk - The Starlit Hour",
+      "year": "1970",
+      "label": "Harmony",
+      "country": "US",
+      "discogs_id": 28064685,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8OYqP7ob5F_Ili-5m7dgTQjZlGn1bTgxSxI9CbcjZ7o/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDY0/Njg1LTE2OTI4OTQ3/NzQtNDk3Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "It's Not For Me To Say",
+      "release_title": "Tania Maria - Viva Maria",
+      "year": "2001",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 1201203,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/IsQwh9R4lF-lOHK8nDe-UrQ_LZudeuh_jDS9x62l6Co/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDEy/MDMtMTcwNzc1MDkx/OS0yMTMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "Vem P'ra Roda",
+      "release_title": "Tania Maria - Viva Maria",
+      "year": "2001",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 1201203,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/IsQwh9R4lF-lOHK8nDe-UrQ_LZudeuh_jDS9x62l6Co/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDEy/MDMtMTcwNzc1MDkx/OS0yMTMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lawrence Welk",
+      "title": "The Girl Behind The Venetian Blind",
+      "release_title": "Lawrence Welk - The Starlit Hour",
+      "year": "1970",
+      "label": "Harmony",
+      "country": "US",
+      "discogs_id": 28064685,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8OYqP7ob5F_Ili-5m7dgTQjZlGn1bTgxSxI9CbcjZ7o/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDY0/Njg1LTE2OTI4OTQ3/NzQtNDk3Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader Quintet",
+      "title": "Love For Sale",
+      "release_title": "Cal Tjader Quintet - Concert On The Campus",
+      "year": "1987",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 10693761,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/-k7vyw_eFB-yfUqPWNmIOHEApNEsWd9NvfuUMHxFCgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/NzYxLTE1MDI1NDEz/NjYtMzY4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Les McCann & Eddie Harris",
+      "title": "The Generation Gap",
+      "release_title": "Les McCann & Eddie Harris - Swiss Movement",
+      "year": "1989",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 15096931,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/oPq1DWZzlEjnjpUfZ1eyqxa3ZPfUUtkOE7DgZnqSQR4/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDk2/OTMxLTE2MTM3Njg1/MzAtNTQ4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "Stop And Listen",
+      "release_title": "Baby Face Willette* - Stop And Listen",
+      "year": "1966",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 17695366,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/A46WWQH6gqNyj0CpAqJEbGkp9N2j_S-De24dsFK6VV8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njk1/MzY2LTE2MTQ5MTUy/NTgtOTM2Ni5tcG8.jpeg"
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "Yatra - Tá",
+      "release_title": "Tania Maria - Viva Maria",
+      "year": "2001",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 1201203,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/IsQwh9R4lF-lOHK8nDe-UrQ_LZudeuh_jDS9x62l6Co/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDEy/MDMtMTcwNzc1MDkx/OS0yMTMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Erroll Garner",
+      "title": "Cheek To Cheek",
+      "release_title": "Erroll Garner - It's The Talk Of The Town / Cheek To Cheek",
+      "year": "1969",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 9087194,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Will Bronson & The In Crowd Singers",
+      "title": "Sleepy Time Gal",
+      "release_title": "Will Bronson Presents The In Crowd Singers - Will Bronson Presents The In Crowd Singers",
+      "year": "1966",
+      "label": "Solid State Records",
+      "country": "US",
+      "discogs_id": 34793936,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KwEAC7WqzLVZ-v5N2g7fqPhtE13fani2D4H-bmr4Kio/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzkz/OTM2LTE3NTU2NzQw/MTMtNTg5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Ramsey Lewis Trio",
+      "title": "Hang On Sloopy",
+      "release_title": "The Ramsey Lewis, Trio* - Hang On Sloopy / Movin' Easy",
+      "year": "1965",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 6355938,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XwNegEcqPZEdGqcUOOnkydSA_a7EZRu8n_lVsurOmVo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTU5/MzgtMTUyMzQzMDYz/NS02MzIwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Nothing Ever Changes My Love For You",
+      "release_title": "Stanley Turrentine - Dearly Beloved",
+      "year": "2008",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 16708713,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/c8BFFPmUcfCutnaL2e6voaArZ3hWzw38gNCXnfF5e8Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzA4/NzEzLTE2MDkzNjU5/MDMtODc5NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "Freckles",
+      "release_title": "Herb Alpert & The Tijuana Brass - What Now My Love",
+      "year": "1966",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8306357,
+      "rating_avg": 4.18,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/OSg_nbYk5PwGYAxzuIXNWNejXtyulHZZKD-R2iN19HA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDYz/NTctMTQ1OTAyNjcw/My0yNjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Will Bronson & The In Crowd Singers",
+      "title": "My Darling Nellie Gray",
+      "release_title": "Will Bronson Presents The In Crowd Singers - Will Bronson Presents The In Crowd Singers",
+      "year": "1966",
+      "label": "Solid State Records",
+      "country": "US",
+      "discogs_id": 34793936,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KwEAC7WqzLVZ-v5N2g7fqPhtE13fani2D4H-bmr4Kio/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzkz/OTM2LTE3NTU2NzQw/MTMtNTg5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jackie Gleason",
+      "title": "Love Is Here To Stay",
+      "release_title": "Jackie Gleason - Lush Moods",
+      "year": "1984",
+      "label": "Pair Records",
+      "country": "US",
+      "discogs_id": 9877675,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OK0MWWlB2Se0jh8LDEMUDG6Cf1mH3vyH53LGKzorZ1w/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzc2/NzUtMTQ4NzgxNTIx/Ni00MjA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Les McCann & Eddie Harris",
+      "title": "You Got It In Your Soulness",
+      "release_title": "Les McCann & Eddie Harris - Swiss Movement",
+      "year": "1989",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 15096931,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/oPq1DWZzlEjnjpUfZ1eyqxa3ZPfUUtkOE7DgZnqSQR4/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDk2/OTMxLTE2MTM3Njg1/MzAtNTQ4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Baja Marimba Band",
+      "title": "Born Free",
+      "release_title": "Baja Marimba Band - Heads Up!",
+      "year": "1967",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 13817403,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/U9Yxo_ILFzcKcdGFxAeS9bKj9pVu4cYwIsS6cUvWZFc/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE3/NDAzLTE2MTE2MTMx/MzItNjU2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Baja Marimba Band",
+      "title": "Winchester Cathedral",
+      "release_title": "Baja Marimba Band - Heads Up!",
+      "year": "1967",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 13817403,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/U9Yxo_ILFzcKcdGFxAeS9bKj9pVu4cYwIsS6cUvWZFc/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE3/NDAzLTE2MTE2MTMx/MzItNjU2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "Cantina Blue",
+      "release_title": "Herb Alpert & The Tijuana Brass - What Now My Love",
+      "year": "1966",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8306357,
+      "rating_avg": 4.18,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/OSg_nbYk5PwGYAxzuIXNWNejXtyulHZZKD-R2iN19HA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDYz/NTctMTQ1OTAyNjcw/My0yNjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "Chances Are",
+      "release_title": "Baby Face Willette* - Stop And Listen",
+      "year": "1966",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 17695366,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/A46WWQH6gqNyj0CpAqJEbGkp9N2j_S-De24dsFK6VV8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njk1/MzY2LTE2MTQ5MTUy/NTgtOTM2Ni5tcG8.jpeg"
+    },
+    {
+      "artist": "Erroll Garner",
+      "title": "It's The Talk Of The Town",
+      "release_title": "Erroll Garner - It's The Talk Of The Town / Cheek To Cheek",
+      "year": "1969",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 9087194,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Trilogy",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 10870975,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/G1dhVFUxSxtQ5VWWAygoZleCBPEX1oHX5ho4xMpisZg/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcw/OTc1LTE1MTM4NjY1/MTktNTE5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jackie Gleason",
+      "title": "I've Got You Under My Skin",
+      "release_title": "Jackie Gleason - Lush Moods",
+      "year": "1984",
+      "label": "Pair Records",
+      "country": "US",
+      "discogs_id": 9877675,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OK0MWWlB2Se0jh8LDEMUDG6Cf1mH3vyH53LGKzorZ1w/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzc2/NzUtMTQ4NzgxNTIx/Ni00MjA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "Jumpin' Jupiter",
+      "release_title": "Baby Face Willette* - Stop And Listen",
+      "year": "1966",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 17695366,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/A46WWQH6gqNyj0CpAqJEbGkp9N2j_S-De24dsFK6VV8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njk1/MzY2LTE2MTQ5MTUy/NTgtOTM2Ni5tcG8.jpeg"
+    },
+    {
+      "artist": "Tom Prin & Quintet",
+      "title": "\"Shortnin' Bread\"",
+      "release_title": "Tom Prin & Quintet - Café Olé",
+      "year": "1998",
+      "label": "Even Par Records",
+      "country": "US",
+      "discogs_id": 7952068,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/f_QciyHODQhheJ6Kyao4cLEXaRtnh6-tD3Q-yR0aUk0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTIw/NjgtMTQ1MjMwNDg0/MS05OTAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kami Lyle",
+      "title": "Love Me",
+      "release_title": "Kami Lyle - Blue Cinderella",
+      "year": "1997",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 2295030,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VqEkf6bcmzvACgfHXgjFhsN6p9Sbfc9i3W4R1wXAQ70/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTUw/MzAtMTYyNTk4ODY1/Mi0xMTIyLmpwZWc.jpeg"
+    }
+  ]
+}
