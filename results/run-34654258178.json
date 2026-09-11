@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2010,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 15,
+      "artists_found": 15,
+      "fresh_lookups": 0,
+      "styles_considered": 62
+    }
+  },
+  "results": [
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Lovely Lady",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 9269293,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/okrQ_04UrhnUd8xqKrYCVEqKys_rnI6yasB1ZXSmFh8/rs:fit/g:sm/q:90/h:600/w:438/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjky/OTMtMTYyMjgyNzYy/MS0xNDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Leticia",
+      "release_title": "Spyro Gyra - Spyro Gyra",
+      "year": "1978",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 8998076,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/JAFupOvTmr93lgJmXXGpNbzCaB6hCgG9-ytVnxvZ6Bs/rs:fit/g:sm/q:90/h:600/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTgw/NzYtMTQ3MzAwMTQ2/MC01NTA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ron Carter",
+      "title": "NY Slick",
+      "release_title": "Ron Carter - New York Slick",
+      "year": "1980",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 30864624,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OWrsvrKjbVRXj3wExWZJ30_noK71AWmf7FazUydhC5k/rs:fit/g:sm/q:90/h:600/w:374/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY0/NjI0LTE3MTc0NTM4/NzItMjU2Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Mean Greens",
+      "release_title": "Eddie Harris - Listen Here",
+      "year": "1966",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12849350,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PfQreX_dvyQryWS8GhlqGoAmGD8e5L0TJr_Whrpbroc/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ5/MzUwLTE1NDMxNDkw/MDctMzE3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "George Benson",
+      "title": "What's New",
+      "release_title": "George Benson - George Benson",
+      "year": "1987",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 2956369,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/chCHmJRqwjNKV1LlKm8BjohH9RcaUyKrHAG65H_lD14/rs:fit/g:sm/q:90/h:224/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTYz/NjktMTMwOTAzNDU0/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "A. The Foundation (\"Isisekelo Zulu\")",
+      "release_title": "Billy Cobham - Powerplay",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 10137604,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/m9RV-NZxdCPTAO_iy1apiChqm-cXisgwen7ccgVGkro/rs:fit/g:sm/q:90/h:362/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM3/NjA0LTE0OTIyODA1/MDUtOTYzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Airegin",
+      "release_title": "Maynard Ferguson - The Best Of Maynard Ferguson",
+      "year": "1980",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 15273825,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/lQ-6_ElUDc9D2aqACkU_NkvCSSzf7MyEiMAsq6JCnpM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjcz/ODI1LTE1ODkwMjc5/ODAtMjE5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ron Carter",
+      "title": "Aromatic",
+      "release_title": "Ron Carter - New York Slick",
+      "year": "1980",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 30864624,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OWrsvrKjbVRXj3wExWZJ30_noK71AWmf7FazUydhC5k/rs:fit/g:sm/q:90/h:600/w:374/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY0/NjI0LTE3MTc0NTM4/NzItMjU2Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Valentin",
+      "title": "Grandslam",
+      "release_title": "Dave Valentin - Light Struck",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 12892239,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gE5YQxZNVu7OVRVFIcLSNp5OrCO7_RJB7MJ9zS2sYlU/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODky/MjM5LTE2MDI1OTkz/NjItOTk1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Winter",
+      "title": "Icarus",
+      "release_title": "Paul Winter (2) - Common Ground",
+      "year": "1978",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20176864,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jt5VeL9lj57VAoC39ngIBXFYk_oBLQEHE3BPhNFxNHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc2/ODY0LTE2MzEyMzE4/NjQtNzA1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Pat O'Donnell Group & Bob Mintzer",
+      "title": "Storm",
+      "release_title": "The Pat O'Donnell Group With Special Guest Bob Mintzer - For My Friends",
+      "year": "1998",
+      "label": "Cats Paw Records",
+      "country": "US",
+      "discogs_id": 31816475,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7_NfSsPY6sJr5i0IDZOSn5gqgI_ULmZxgMhQhxfLdoI/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODE2/NDc1LTE3MjcxOTEw/NTktNjg5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Stella By Starlight",
+      "release_title": "Maynard Ferguson - The Best Of Maynard Ferguson",
+      "year": "1980",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 15273825,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/lQ-6_ElUDc9D2aqACkU_NkvCSSzf7MyEiMAsq6JCnpM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjcz/ODI1LTE1ODkwMjc5/ODAtMjE5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gerry Gibbs And The Thrasher Band",
+      "title": "Mistakes, Misunderstandings, Moving On, Never Looking Back, (G.T.J.)",
+      "release_title": "Gerry Gibbs And The Thrasher Band - Moving On",
+      "year": "2008",
+      "label": "RKM Music",
+      "country": "US",
+      "discogs_id": 30374177,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lOAl0t1Dz8vJ8A2HFSSLZZJ1hYL9oG8ebyx8qSz3Yng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc0/MTc3LTE3MTI5MDQ1/NzMtNTEzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Valentin",
+      "title": "Prince Of Wands",
+      "release_title": "Dave Valentin - Light Struck",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 12892239,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gE5YQxZNVu7OVRVFIcLSNp5OrCO7_RJB7MJ9zS2sYlU/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODky/MjM5LTE2MDI1OTkz/NjItOTk1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Paula/Paw Prints",
+      "release_title": "Spyro Gyra - Spyro Gyra",
+      "year": "1978",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 8998076,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/JAFupOvTmr93lgJmXXGpNbzCaB6hCgG9-ytVnxvZ6Bs/rs:fit/g:sm/q:90/h:600/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTgw/NzYtMTQ3MzAwMTQ2/MC01NTA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paul Winter",
+      "title": "Duet",
+      "release_title": "Paul Winter (2) - Common Ground",
+      "year": "1978",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20176864,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jt5VeL9lj57VAoC39ngIBXFYk_oBLQEHE3BPhNFxNHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc2/ODY0LTE2MzEyMzE4/NjQtNzA1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Macarthur Park",
+      "release_title": "Maynard Ferguson - The Best Of Maynard Ferguson",
+      "year": "1980",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 15273825,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/lQ-6_ElUDc9D2aqACkU_NkvCSSzf7MyEiMAsq6JCnpM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjcz/ODI1LTE1ODkwMjc5/ODAtMjE5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gerry Gibbs And The Thrasher Band",
+      "title": "Purple Fingers",
+      "release_title": "Gerry Gibbs And The Thrasher Band - Moving On",
+      "year": "2008",
+      "label": "RKM Music",
+      "country": "US",
+      "discogs_id": 30374177,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lOAl0t1Dz8vJ8A2HFSSLZZJ1hYL9oG8ebyx8qSz3Yng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc0/MTc3LTE3MTI5MDQ1/NzMtNTEzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Monty Alexander",
+      "title": "Love And Happiness",
+      "release_title": "Monty Alexander - My America",
+      "year": "2002",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 31465847,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B_Anf2sBSJ6agWBhcTff2mPWY67ESF4dIyIdfBds1gk/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDY1/ODQ3LTE3MjQ2MDc5/MDYtNTI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Valentin",
+      "title": "AM-FM",
+      "release_title": "Dave Valentin - Light Struck",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 12892239,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gE5YQxZNVu7OVRVFIcLSNp5OrCO7_RJB7MJ9zS2sYlU/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODky/MjM5LTE2MDI1OTkz/NjItOTk1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "George Benson",
+      "title": "Doobie Doobie Blues",
+      "release_title": "George Benson - George Benson",
+      "year": "1987",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 2956369,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/chCHmJRqwjNKV1LlKm8BjohH9RcaUyKrHAG65H_lD14/rs:fit/g:sm/q:90/h:224/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTYz/NjktMTMwOTAzNDU0/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Monty Alexander",
+      "title": "Sexual Healing",
+      "release_title": "Monty Alexander - My America",
+      "year": "2002",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 31465847,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B_Anf2sBSJ6agWBhcTff2mPWY67ESF4dIyIdfBds1gk/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDY1/ODQ3LTE3MjQ2MDc5/MDYtNTI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Zawinul",
+      "title": "Double Image",
+      "release_title": "Zawinul* - Zawinul",
+      "year": "1971",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 609970,
+      "rating_avg": 4.32,
+      "rating_count": 219,
+      "cover_image": "https://i.discogs.com/T_ivg9-9NyB7HIlIWpWocamig7khNgbpXmpRFJjy-lY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTk3/MC0xNDY2NjgzOTA0/LTUxNDMuanBlZw.jpeg"
+    },
+    {
+      "artist": "Gil Evans And His Orchestra",
+      "title": "Copenhagen Sights",
+      "release_title": "Gil Evans And His Orchestra - Gil Evans And His Orchestra",
+      "year": "1987",
+      "label": "V.I.E.W. Video",
+      "country": "US",
+      "discogs_id": 11862408,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1RixZ74yT87RVqxTq2P6QzMXJFMb5trSUHNlX3DNtVc/rs:fit/g:sm/q:90/h:600/w:327/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYy/NDA4LTE1MjM2Nzg0/MjgtMzY2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Monty Alexander",
+      "title": "Mack The Knife",
+      "release_title": "Monty Alexander - My America",
+      "year": "2002",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 31465847,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B_Anf2sBSJ6agWBhcTff2mPWY67ESF4dIyIdfBds1gk/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDY1/ODQ3LTE3MjQ2MDc5/MDYtNTI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "C. The Debate (\"Indaba\")",
+      "release_title": "Billy Cobham - Powerplay",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 10137604,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/m9RV-NZxdCPTAO_iy1apiChqm-cXisgwen7ccgVGkro/rs:fit/g:sm/q:90/h:362/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM3/NjA0LTE0OTIyODA1/MDUtOTYzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Keep It Steady (Brecker Bump)",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 9269293,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/okrQ_04UrhnUd8xqKrYCVEqKys_rnI6yasB1ZXSmFh8/rs:fit/g:sm/q:90/h:600/w:438/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjky/OTMtMTYyMjgyNzYy/MS0xNDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Zawinul",
+      "title": "In A Silent Way",
+      "release_title": "Zawinul* - Zawinul",
+      "year": "1971",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 609970,
+      "rating_avg": 4.32,
+      "rating_count": 219,
+      "cover_image": "https://i.discogs.com/T_ivg9-9NyB7HIlIWpWocamig7khNgbpXmpRFJjy-lY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTk3/MC0xNDY2NjgzOTA0/LTUxNDMuanBlZw.jpeg"
+    },
+    {
+      "artist": "Gerry Gibbs And The Thrasher Band",
+      "title": "Don't You Worry 'Bout A Thing",
+      "release_title": "Gerry Gibbs And The Thrasher Band - Moving On",
+      "year": "2008",
+      "label": "RKM Music",
+      "country": "US",
+      "discogs_id": 30374177,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lOAl0t1Dz8vJ8A2HFSSLZZJ1hYL9oG8ebyx8qSz3Yng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc0/MTc3LTE3MTI5MDQ1/NzMtNTEzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Theme From Star Trek",
+      "release_title": "Maynard Ferguson - The Best Of Maynard Ferguson",
+      "year": "1980",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 15273825,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/lQ-6_ElUDc9D2aqACkU_NkvCSSzf7MyEiMAsq6JCnpM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjcz/ODI1LTE1ODkwMjc5/ODAtMjE5MC5qcGVn.jpeg"
+    }
+  ]
+}
