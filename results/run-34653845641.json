@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 1,
+      "styles_considered": 104
+    }
+  },
+  "results": [
+    {
+      "artist": "Ian Dogole",
+      "title": "Totemo",
+      "release_title": "Ian Dogole - The Roastmaster General (Demo Version)",
+      "year": "1994",
+      "label": "Not On Label (Ian Dogole Self-released)",
+      "country": "US",
+      "discogs_id": 20058466,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/UmGZPN2V0Dk4K2io8WtflwFXbnsWVUj96W0hcx1uZ3c/rs:fit/g:sm/q:90/h:600/w:384/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDU4/NDY2LTE2MzAzNzc3/MjktNzA2Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Sinatra",
+      "title": "Over The Rainbow",
+      "release_title": "Frank Sinatra - The Voice",
+      "year": "1999",
+      "label": "Classic Records",
+      "country": "US",
+      "discogs_id": 9369567,
+      "rating_avg": 4.16,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/paH0SYXdYnwy7wk8W8UitlfvugHnGu-esKUPMoqufCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjk1/NjctMTYyNTI0OTQw/Mi0xOTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Common Ground",
+      "title": "Half Tone Poem",
+      "release_title": "Common Ground (8) - High Voltage",
+      "year": "2005",
+      "label": "Delmark Records",
+      "country": "US",
+      "discogs_id": 5728651,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/QCMotdRGftrWnGoiGG_sfd1rvQZuE8FENVb7bsV62g8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjg2/NTEtMTUxODQ1NzYy/MC0yMDk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The David Joel Quartet",
+      "title": "The Star-Spangled Gospel",
+      "release_title": "The David Joel Quartet - Spiral Sky",
+      "year": "2007",
+      "label": "Turning Point",
+      "country": "US",
+      "discogs_id": 12139919,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QgU1CgEqQGo_NJeJamjTSuuUdS8IdTTv_4u_82nGVLo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM5/OTE5LTE1MjkwOTM3/MTktMjAxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Henry Mancini And His Orchestra",
+      "title": "Rhapsody In Blue",
+      "release_title": "Various - Candlelight Magic (50 Romantic Piano Favorites)",
+      "year": "1990",
+      "label": "Reader's Digest",
+      "country": "US",
+      "discogs_id": 20452975,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LsWK1KfzY8Rs3lFOs3qoyn9t7Y5_6ROSS3LsjI59L94/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDUy/OTc1LTE2MzMyMjg3/MDEtODIyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Sinatra",
+      "title": "That Old Black Magic",
+      "release_title": "Frank Sinatra - The Voice",
+      "year": "1999",
+      "label": "Classic Records",
+      "country": "US",
+      "discogs_id": 9369567,
+      "rating_avg": 4.16,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/paH0SYXdYnwy7wk8W8UitlfvugHnGu-esKUPMoqufCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjk1/NjctMTYyNTI0OTQw/Mi0xOTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Diana Panton",
+      "title": "The Heather On The Hill",
+      "release_title": "Diana Panton - Solstice / Equinox",
+      "year": "2017",
+      "label": "Diana Panton",
+      "country": "US",
+      "discogs_id": 12336315,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VWPajcpuAjPsdCUeokvzQSCWMvgsyRrplC9YQ_h0b8s/rs:fit/g:sm/q:90/h:355/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM2/MzE1LTE1MzMxODc5/NTYtNzI5NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ian Dogole",
+      "title": "The Roastmaster General",
+      "release_title": "Ian Dogole - The Roastmaster General (Demo Version)",
+      "year": "1994",
+      "label": "Not On Label (Ian Dogole Self-released)",
+      "country": "US",
+      "discogs_id": 20058466,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/UmGZPN2V0Dk4K2io8WtflwFXbnsWVUj96W0hcx1uZ3c/rs:fit/g:sm/q:90/h:600/w:384/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDU4/NDY2LTE2MzAzNzc3/MjktNzA2Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "Our Day Will Come",
+      "release_title": "Herb Alpert & The Tijuana Brass - S.R.O",
+      "year": "2005",
+      "label": "RAJON",
+      "country": "US",
+      "discogs_id": 16277651,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jd6NDnGYg-1iqBHOgB92sB-H_Q_87FqcXXsT6mCWDhc/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc3/NjUxLTE2NDg3MzY1/NTMtNDU0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pete Magadini & Don Menza & Dave Young & George Duke",
+      "title": "Doin' Time And A Half",
+      "release_title": "Peter Magadini*, Don Menza, Dave Young (3), George Duke - Polyrhythm",
+      "year": "2002",
+      "label": "IBis",
+      "country": "US",
+      "discogs_id": 13130927,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/q3IKKhFGRuD5so6eBdCqQhmDpVYP0ZRYo4NrUf14r5c/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMw/OTI3LTE1NTE4Mjc5/NTktNjAyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Common Ground",
+      "title": "Too Late",
+      "release_title": "Common Ground (8) - High Voltage",
+      "year": "2005",
+      "label": "Delmark Records",
+      "country": "US",
+      "discogs_id": 5728651,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/QCMotdRGftrWnGoiGG_sfd1rvQZuE8FENVb7bsV62g8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjg2/NTEtMTUxODQ1NzYy/MC0yMDk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Brötzmann & Bill Laswell",
+      "title": "Disengage",
+      "release_title": "Peter Brötzmann / Bill Laswell - Low Life",
+      "year": "2017",
+      "label": "Not On Label (Bill Laswell Self-Released)",
+      "country": "US",
+      "discogs_id": 11330139,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wgs8c0IhU2cBaNwQlwOi4Lx8WxTxmV_GASotoEFZovA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMw/MTM5LTE1MTQzNjYw/MzAtNjM0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Praful",
+      "title": "Chill Mix (Album Version)",
+      "release_title": "Praful - Sigh",
+      "year": "2003",
+      "label": "N-Coded Music",
+      "country": "US",
+      "discogs_id": 11366709,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "I Will Wait For You",
+      "release_title": "Herb Alpert & The Tijuana Brass - S.R.O",
+      "year": "2005",
+      "label": "RAJON",
+      "country": "US",
+      "discogs_id": 16277651,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jd6NDnGYg-1iqBHOgB92sB-H_Q_87FqcXXsT6mCWDhc/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc3/NjUxLTE2NDg3MzY1/NTMtNDU0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carl Lockett",
+      "title": "Carlena",
+      "release_title": "Carl Lockett - All About Music",
+      "year": "1993",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25443727,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5jb2kCljl9uBEV44Mvdm4NGg3hsjHpfRauovcO8nQGw/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQz/NzI3LTE2NzA4NTk2/ODAtMTM4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carmen Cavallaro",
+      "title": "Dancing In The Dark",
+      "release_title": "Carmen Cavallaro - Dancing In The Dark",
+      "year": "1977",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 13583085,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9PsS6UwkoegpCTJzkaru_SKOn2FI3kUgXYsdd-JV4NQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgz/MDg1LTE1NTY5Mzc3/MDMtMTAxMC5tcG8.jpeg"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "Blue Skies",
+      "release_title": "Unknown Artist - Happy Music Moments",
+      "year": "2015",
+      "label": "Seeburg",
+      "country": "US",
+      "discogs_id": 14208256,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/RyJ9tYfVgLS6cvk_KK-Vpv1PgWHDFu3FLdGKgAuWWAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA4/MjU2LTE1Njk4NzM5/NzEtMjI4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Sinatra",
+      "title": "Paradise",
+      "release_title": "Frank Sinatra - The Voice",
+      "year": "1999",
+      "label": "Classic Records",
+      "country": "US",
+      "discogs_id": 9369567,
+      "rating_avg": 4.16,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/paH0SYXdYnwy7wk8W8UitlfvugHnGu-esKUPMoqufCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjk1/NjctMTYyNTI0OTQw/Mi0xOTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carl Lockett",
+      "title": "The Gift",
+      "release_title": "Carl Lockett - All About Music",
+      "year": "1993",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25443727,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5jb2kCljl9uBEV44Mvdm4NGg3hsjHpfRauovcO8nQGw/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQz/NzI3LTE2NzA4NTk2/ODAtMTM4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carmen Cavallaro",
+      "title": "Always In My Heart",
+      "release_title": "Carmen Cavallaro - Dancing In The Dark",
+      "year": "1977",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 13583085,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9PsS6UwkoegpCTJzkaru_SKOn2FI3kUgXYsdd-JV4NQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgz/MDg1LTE1NTY5Mzc3/MDMtMTAxMC5tcG8.jpeg"
+    },
+    {
+      "artist": "The David Joel Quartet",
+      "title": "As It May End",
+      "release_title": "The David Joel Quartet - Spiral Sky",
+      "year": "2007",
+      "label": "Turning Point",
+      "country": "US",
+      "discogs_id": 12139919,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QgU1CgEqQGo_NJeJamjTSuuUdS8IdTTv_4u_82nGVLo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM5/OTE5LTE1MjkwOTM3/MTktMjAxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lew Williams",
+      "title": "Toccata",
+      "release_title": "Lew Williams (2) - Fanfare",
+      "year": "2001",
+      "label": "ERB Enterprises, Inc.",
+      "country": "US",
+      "discogs_id": 16998516,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pEeIOdLlmsIJdndSR5Kay79Nmm_xpy3DKndY7X5czzo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk4/NTE2LTE2MTEwNDgw/ODUtNTUxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lew Williams",
+      "title": "Bugler's Holiday",
+      "release_title": "Lew Williams (2) - Fanfare",
+      "year": "2001",
+      "label": "ERB Enterprises, Inc.",
+      "country": "US",
+      "discogs_id": 16998516,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pEeIOdLlmsIJdndSR5Kay79Nmm_xpy3DKndY7X5czzo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk4/NTE2LTE2MTEwNDgw/ODUtNTUxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Douglas Gamley And His Orchestra",
+      "title": "Lullaby Of Broadway",
+      "release_title": "Various - Candlelight Magic (50 Romantic Piano Favorites)",
+      "year": "1990",
+      "label": "Reader's Digest",
+      "country": "US",
+      "discogs_id": 20452975,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LsWK1KfzY8Rs3lFOs3qoyn9t7Y5_6ROSS3LsjI59L94/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDUy/OTc1LTE2MzMyMjg3/MDEtODIyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "The Wall Street Rag",
+      "release_title": "Herb Alpert & The Tijuana Brass - S.R.O",
+      "year": "2005",
+      "label": "RAJON",
+      "country": "US",
+      "discogs_id": 16277651,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jd6NDnGYg-1iqBHOgB92sB-H_Q_87FqcXXsT6mCWDhc/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc3/NjUxLTE2NDg3MzY1/NTMtNDU0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carl Lockett",
+      "title": "The Way Things Used To Be",
+      "release_title": "Carl Lockett - All About Music",
+      "year": "1993",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25443727,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5jb2kCljl9uBEV44Mvdm4NGg3hsjHpfRauovcO8nQGw/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQz/NzI3LTE2NzA4NTk2/ODAtMTM4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard Alden",
+      "title": "Tea For Two",
+      "release_title": "Various - Candlelight Magic (50 Romantic Piano Favorites)",
+      "year": "1990",
+      "label": "Reader's Digest",
+      "country": "US",
+      "discogs_id": 20452975,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LsWK1KfzY8Rs3lFOs3qoyn9t7Y5_6ROSS3LsjI59L94/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDUy/OTc1LTE2MzMyMjg3/MDEtODIyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Common Ground",
+      "title": "Freedom Jazz Dance",
+      "release_title": "Common Ground (8) - High Voltage",
+      "year": "2005",
+      "label": "Delmark Records",
+      "country": "US",
+      "discogs_id": 5728651,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/QCMotdRGftrWnGoiGG_sfd1rvQZuE8FENVb7bsV62g8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjg2/NTEtMTUxODQ1NzYy/MC0yMDk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Matthews",
+      "title": "Seditty",
+      "release_title": "David Matthews* - Super Funky Sax",
+      "year": "1984",
+      "label": "GNP Crescendo",
+      "country": "US",
+      "discogs_id": 10937308,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Dave Matthews",
+      "title": "Super Groove",
+      "release_title": "David Matthews* - Super Funky Sax",
+      "year": "1984",
+      "label": "GNP Crescendo",
+      "country": "US",
+      "discogs_id": 10937308,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    }
+  ]
+}
