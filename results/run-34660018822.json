@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Conscious"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Theme"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2021,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 19,
+      "artists_found": 18,
+      "fresh_lookups": 0,
+      "styles_considered": 61
+    }
+  },
+  "results": [
+    {
+      "artist": "Astrud Gilberto & Stanley Turrentine",
+      "title": "To A Flame",
+      "release_title": "Gilberto* With Turrentine* - Gilberto With Turrentine",
+      "year": "1971",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 15103116,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LBuF1oQ_BDHON-O1kXWMKrN6xYQDxPGfS1QtPmmj_YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAz/MTE2LTE1ODY3MTE4/MjAtNDMzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Astrud Gilberto & Stanley Turrentine",
+      "title": "Zazueira",
+      "release_title": "Gilberto* With Turrentine* - Gilberto With Turrentine",
+      "year": "1971",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 15103116,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LBuF1oQ_BDHON-O1kXWMKrN6xYQDxPGfS1QtPmmj_YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAz/MTE2LTE1ODY3MTE4/MjAtNDMzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Disciples Of Prophecy",
+      "title": "Who We Serve",
+      "release_title": "D.O.P.* - D.O.P. 2K3",
+      "year": "2003",
+      "label": "Nu Camp Entertainment",
+      "country": "US",
+      "discogs_id": 11211673,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/h7jkzos2nfFWrOMa57ojcwrYTI2I278jqQZDBD2mt7o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEx/NjczLTE1MTE5NTg3/MzgtODM1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Moonshine",
+      "title": "Big Boy (Operation Repatriation)",
+      "release_title": "Moonshine (10) - Vitamins & Minerals EP",
+      "year": "1997",
+      "label": "Moonshine",
+      "country": "US",
+      "discogs_id": 24567530,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wOBA7F3YR6qDDHC7ylDai2lHGME5S12xorcXVoHJWt8/rs:fit/g:sm/q:90/h:425/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY3/NTMwLTE2NjM2MTU5/NzAtMzkxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Easy To Be Hard",
+      "release_title": "Sérgio Mendes & Brasil '66 - Ye-Me-Le",
+      "year": "1969",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 4502928,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ClGqCddGE1j56u_Nu4G5eeDMwBL8Kj95qJGl54QS-Do/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MjgtMTM2NjcxODIx/NC02OTg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Disciples Of Prophecy",
+      "title": "Father",
+      "release_title": "D.O.P.* - D.O.P. 2K3",
+      "year": "2003",
+      "label": "Nu Camp Entertainment",
+      "country": "US",
+      "discogs_id": 11211673,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/h7jkzos2nfFWrOMa57ojcwrYTI2I278jqQZDBD2mt7o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEx/NjczLTE1MTE5NTg3/MzgtODM1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joyce",
+      "title": "À Voar, À Voar, À Voar (You Can Fly! You Can Fly! You Can Fly!)",
+      "release_title": "Various - Disney Bossa Nova",
+      "year": "2005",
+      "label": "Walt Disney Records",
+      "country": "US",
+      "discogs_id": 6338155,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/s-2SmMrlyRnlyHyvdiBGCUerWem5shkwgx-D568wm2Y/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzgx/NTUtMTQxNjc5NzE4/MC0yNzA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nuclear Family",
+      "title": "Work Sucks",
+      "release_title": "DJ Ese* - Side: Two",
+      "year": "2005",
+      "label": "Embedded",
+      "country": "US",
+      "discogs_id": 1281903,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/zVtYajm5lCwVer_dR9tqFRJKtf9-_VqQE3Iwey2jedw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODE5/MDMtMTQxNjQ3NTI5/MC0xMDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stephen Bishop",
+      "title": "Send A Little Love My Way (Like Always) (Mono)",
+      "release_title": "Stephen Bishop - Send A Little Love My Way (Like Always)",
+      "year": "1981",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 3000716,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/dPKaDiy_zT6FvrHdj9yQAvPV1Bq2mtLN-dZHtnI-DdU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDA3/MTYtMTQ1MjY2MjE5/OS01OTUzLm1wbw.jpeg"
+    },
+    {
+      "artist": "Boogie Down Productions",
+      "title": "Stop The Violence (Single Edit)",
+      "release_title": "Boogie Down Productions - Stop The Violence",
+      "year": "1988",
+      "label": "Jive",
+      "country": "US",
+      "discogs_id": 2317185,
+      "rating_avg": 4.0,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/my7glkZ4yiB_v204yATTfI3knaBt2RvvD5cvSN3IVJE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTcx/ODUtMTQyNjI4NjA2/NC02MTQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Akira Tana & Branford Marsalis & Arturo Sandoval & Jackie Ryan & Claudia Villelia",
+      "title": "Diride",
+      "release_title": "Akira Tana, Branford Marsalis, Arturo Sandoval, Jackie Ryan, Claudia Villelia - JAZZaNOVA",
+      "year": "2017",
+      "label": "Vegamusic",
+      "country": "US",
+      "discogs_id": 13689350,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/liKpKhjCnaAbYAiqsorhaZo6PHIu_JHaMwZXq4PVNaA/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/MzUwLTE1NTkwNjk3/MzctNjI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Moonshine",
+      "title": "Manifest Destiny",
+      "release_title": "Moonshine (10) - Vitamins & Minerals EP",
+      "year": "1997",
+      "label": "Moonshine",
+      "country": "US",
+      "discogs_id": 24567530,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wOBA7F3YR6qDDHC7ylDai2lHGME5S12xorcXVoHJWt8/rs:fit/g:sm/q:90/h:425/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY3/NTMwLTE2NjM2MTU5/NzAtMzkxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Karniege",
+      "title": "KARNI",
+      "release_title": "DJ Ese* - Side: Two",
+      "year": "2005",
+      "label": "Embedded",
+      "country": "US",
+      "discogs_id": 1281903,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/zVtYajm5lCwVer_dR9tqFRJKtf9-_VqQE3Iwey2jedw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODE5/MDMtMTQxNjQ3NTI5/MC0xMDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Moonshine",
+      "title": "Rise And Shine",
+      "release_title": "Moonshine (10) - Vitamins & Minerals EP",
+      "year": "1997",
+      "label": "Moonshine",
+      "country": "US",
+      "discogs_id": 24567530,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wOBA7F3YR6qDDHC7ylDai2lHGME5S12xorcXVoHJWt8/rs:fit/g:sm/q:90/h:425/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTY3/NTMwLTE2NjM2MTU5/NzAtMzkxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joyce",
+      "title": "Bibbidi-Bobbidi-Boo",
+      "release_title": "Various - Disney Bossa Nova",
+      "year": "2005",
+      "label": "Walt Disney Records",
+      "country": "US",
+      "discogs_id": 6338155,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/s-2SmMrlyRnlyHyvdiBGCUerWem5shkwgx-D568wm2Y/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzgx/NTUtMTQxNjc5NzE4/MC0yNzA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Akira Tana & Branford Marsalis & Arturo Sandoval & Jackie Ryan & Claudia Villelia",
+      "title": "Por Causa De Voce",
+      "release_title": "Akira Tana, Branford Marsalis, Arturo Sandoval, Jackie Ryan, Claudia Villelia - JAZZaNOVA",
+      "year": "2017",
+      "label": "Vegamusic",
+      "country": "US",
+      "discogs_id": 13689350,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/liKpKhjCnaAbYAiqsorhaZo6PHIu_JHaMwZXq4PVNaA/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/MzUwLTE1NTkwNjk3/MzctNjI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Where Are You Coming From?",
+      "release_title": "Sérgio Mendes & Brasil '66 - Ye-Me-Le",
+      "year": "1969",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 4502928,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ClGqCddGE1j56u_Nu4G5eeDMwBL8Kj95qJGl54QS-Do/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MjgtMTM2NjcxODIx/NC02OTg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Astrud Gilberto & Stanley Turrentine",
+      "title": "Where There's A Heartache",
+      "release_title": "Gilberto* With Turrentine* - Gilberto With Turrentine",
+      "year": "1971",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 15103116,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LBuF1oQ_BDHON-O1kXWMKrN6xYQDxPGfS1QtPmmj_YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAz/MTE2LTE1ODY3MTE4/MjAtNDMzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Moanin'",
+      "release_title": "Sérgio Mendes & Brasil '66 - Ye-Me-Le",
+      "year": "1969",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 4502928,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ClGqCddGE1j56u_Nu4G5eeDMwBL8Kj95qJGl54QS-Do/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MjgtMTM2NjcxODIx/NC02OTg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Norwegian Wood",
+      "release_title": "Sérgio Mendes & Brasil '66 - Ye-Me-Le",
+      "year": "1969",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 4502928,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ClGqCddGE1j56u_Nu4G5eeDMwBL8Kj95qJGl54QS-Do/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MjgtMTM2NjcxODIx/NC02OTg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Edu Lobo",
+      "title": "Ciclo Sem Fim (Circle Of Life)",
+      "release_title": "Various - Disney Bossa Nova",
+      "year": "2005",
+      "label": "Walt Disney Records",
+      "country": "US",
+      "discogs_id": 6338155,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/s-2SmMrlyRnlyHyvdiBGCUerWem5shkwgx-D568wm2Y/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzgx/NTUtMTQxNjc5NzE4/MC0yNzA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Disciples Of Prophecy",
+      "title": "Ya Boy",
+      "release_title": "D.O.P.* - D.O.P. 2K3",
+      "year": "2003",
+      "label": "Nu Camp Entertainment",
+      "country": "US",
+      "discogs_id": 11211673,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/h7jkzos2nfFWrOMa57ojcwrYTI2I278jqQZDBD2mt7o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEx/NjczLTE1MTE5NTg3/MzgtODM1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cool Calm Pete",
+      "title": "Fighting Song",
+      "release_title": "DJ Ese* - Side: Two",
+      "year": "2005",
+      "label": "Embedded",
+      "country": "US",
+      "discogs_id": 1281903,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/zVtYajm5lCwVer_dR9tqFRJKtf9-_VqQE3Iwey2jedw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODE5/MDMtMTQxNjQ3NTI5/MC0xMDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stephen Bishop",
+      "title": "Send A Little Love My Way (Like Always) (Stereo)",
+      "release_title": "Stephen Bishop - Send A Little Love My Way (Like Always)",
+      "year": "1981",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 3000716,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/dPKaDiy_zT6FvrHdj9yQAvPV1Bq2mtLN-dZHtnI-DdU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDA3/MTYtMTQ1MjY2MjE5/OS01OTUzLm1wbw.jpeg"
+    },
+    {
+      "artist": "Rob Sonic",
+      "title": "Warning",
+      "release_title": "DJ Ese* - Side: Two",
+      "year": "2005",
+      "label": "Embedded",
+      "country": "US",
+      "discogs_id": 1281903,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/zVtYajm5lCwVer_dR9tqFRJKtf9-_VqQE3Iwey2jedw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODE5/MDMtMTQxNjQ3NTI5/MC0xMDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Akira Tana & Branford Marsalis & Arturo Sandoval & Jackie Ryan & Claudia Villelia",
+      "title": "La Gloria Eres Tu",
+      "release_title": "Akira Tana, Branford Marsalis, Arturo Sandoval, Jackie Ryan, Claudia Villelia - JAZZaNOVA",
+      "year": "2017",
+      "label": "Vegamusic",
+      "country": "US",
+      "discogs_id": 13689350,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/liKpKhjCnaAbYAiqsorhaZo6PHIu_JHaMwZXq4PVNaA/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/MzUwLTE1NTkwNjk3/MzctNjI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boogie Down Productions",
+      "title": "Stop The Violence (Instrumental)",
+      "release_title": "Boogie Down Productions - Stop The Violence",
+      "year": "1988",
+      "label": "Jive",
+      "country": "US",
+      "discogs_id": 2317185,
+      "rating_avg": 4.0,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/my7glkZ4yiB_v204yATTfI3knaBt2RvvD5cvSN3IVJE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTcx/ODUtMTQyNjI4NjA2/NC02MTQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Astrud Gilberto & Stanley Turrentine",
+      "title": "Wanting Things",
+      "release_title": "Gilberto* With Turrentine* - Gilberto With Turrentine",
+      "year": "1971",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 15103116,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LBuF1oQ_BDHON-O1kXWMKrN6xYQDxPGfS1QtPmmj_YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAz/MTE2LTE1ODY3MTE4/MjAtNDMzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Akira Tana & Branford Marsalis & Arturo Sandoval & Jackie Ryan & Claudia Villelia",
+      "title": "Jangada",
+      "release_title": "Akira Tana, Branford Marsalis, Arturo Sandoval, Jackie Ryan, Claudia Villelia - JAZZaNOVA",
+      "year": "2017",
+      "label": "Vegamusic",
+      "country": "US",
+      "discogs_id": 13689350,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/liKpKhjCnaAbYAiqsorhaZo6PHIu_JHaMwZXq4PVNaA/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg5/MzUwLTE1NTkwNjk3/MzctNjI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Disciples Of Prophecy",
+      "title": "Worthy",
+      "release_title": "D.O.P.* - D.O.P. 2K3",
+      "year": "2003",
+      "label": "Nu Camp Entertainment",
+      "country": "US",
+      "discogs_id": 11211673,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/h7jkzos2nfFWrOMa57ojcwrYTI2I278jqQZDBD2mt7o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEx/NjczLTE1MTE5NTg3/MzgtODM1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Serengeti",
+      "title": "Tele-fon",
+      "release_title": "Serengeti - Race Trading",
+      "year": "2018",
+      "label": "Audio Recon",
+      "country": "US",
+      "discogs_id": 32820582,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/de7vZ6xJ7YRPccc3QDYbrOsTX7ZrWDDqyyi6GL6N94Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODIw/NTgyLTE3MzY2NDk1/MzQtNzAyMy5wbmc.jpeg"
+    },
+    {
+      "artist": "Third Person",
+      "title": "A Breath Of Fresh Snare (Outstrumental)",
+      "release_title": "Third Person (4) - Third Person: EP",
+      "year": "2004",
+      "label": "Not On Label (Third Person (4) Self-released)",
+      "country": "US",
+      "discogs_id": 3707767,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "David Chesky",
+      "title": "Heat",
+      "release_title": "David Chesky - The Olympian",
+      "year": "1984",
+      "label": "Manhattan Production Music",
+      "country": "US",
+      "discogs_id": 34214416,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qY4OCE2wIsvohmtq-Q91IHfRQXPDwdTbbbeAO3nTDgs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE0/NDE2LTE3NDk0MTU5/ODgtNjU1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sev Statik",
+      "title": "Stop Frontin",
+      "release_title": "Sev Statik - The Sliver LP",
+      "year": "2006",
+      "label": "Not On Label (Sev Statik Self-released)",
+      "country": "US",
+      "discogs_id": 3910379,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/y34niCr_I6giFYoE0szKZgN6E238FnEfzCc_05cz474/rs:fit/g:sm/q:90/h:343/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTAz/NzktMTM0ODkzMjY4/OC0zMDU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Serengeti",
+      "title": "Race Trading",
+      "release_title": "Serengeti - Race Trading",
+      "year": "2018",
+      "label": "Audio Recon",
+      "country": "US",
+      "discogs_id": 32820582,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/de7vZ6xJ7YRPccc3QDYbrOsTX7ZrWDDqyyi6GL6N94Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODIw/NTgyLTE3MzY2NDk1/MzQtNzAyMy5wbmc.jpeg"
+    },
+    {
+      "artist": "ADaD",
+      "title": "Bitch",
+      "release_title": "ADaD - Intro To ADaD",
+      "year": "2009",
+      "label": "All Natural Inc.",
+      "country": "US",
+      "discogs_id": 2006008,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/c6X_6R1zJ2rLU0v3m8JvacBoO4yLpsHDPF1RsTmY6r4/rs:fit/g:sm/q:90/h:360/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDYw/MDgtMTI1ODA5Njg4/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Serengeti",
+      "title": "Brad And Jen",
+      "release_title": "Serengeti - Race Trading",
+      "year": "2018",
+      "label": "Audio Recon",
+      "country": "US",
+      "discogs_id": 32820582,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/de7vZ6xJ7YRPccc3QDYbrOsTX7ZrWDDqyyi6GL6N94Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODIw/NTgyLTE3MzY2NDk1/MzQtNzAyMy5wbmc.jpeg"
+    },
+    {
+      "artist": "Enoch Light And The Light Brigade",
+      "title": "Song From \"The Wild Bunch\"",
+      "release_title": "Enoch Light & The Light Brigade* - The Best Of The Movie Themes 1970",
+      "year": "1970",
+      "label": "Project 3",
+      "country": "US",
+      "discogs_id": 4534698,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/CKOEcSTRkio-REQ-KR37ZyiTLbI6OGKR_5T3tlQvYE4/rs:fit/g:sm/q:90/h:442/w:441/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzQ2/OTgtMTM2NzY0OTk5/NC00NjA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Film Festival Orchestra",
+      "title": "Soundoff (From \"Battleground\")",
+      "release_title": "The Film Festival Orchestra - Great Film Themes Inspired By World War II",
+      "year": "1977",
+      "label": "Springboard",
+      "country": "US",
+      "discogs_id": 4041912,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AEedKvSOH8kIs2LPApnfHnI3PYJqbTi2232_OVx-IEc/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDE5/MTItMTM1MzI4ODg2/Ny0xOTE0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Unknown Artist & Various",
+      "title": "Fox Files",
+      "release_title": "Unknown Artist, Various - Show Themes 1998 1999",
+      "year": "1999",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 14576400,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/-x960mmcAWfIwXucaQ-DTieUBifWWd_tmNiCdUqn1bc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc2/NDAwLTE1Nzc0NjU4/NzYtNDU2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Film Festival Orchestra",
+      "title": "Tora, Tora, Tora",
+      "release_title": "The Film Festival Orchestra - Great Film Themes Inspired By World War II",
+      "year": "1977",
+      "label": "Springboard",
+      "country": "US",
+      "discogs_id": 4041912,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AEedKvSOH8kIs2LPApnfHnI3PYJqbTi2232_OVx-IEc/rs:fit/g:sm/q:90/h:600/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDE5/MTItMTM1MzI4ODg2/Ny0xOTE0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Serengeti",
+      "title": "Girlfriend",
+      "release_title": "Serengeti - Race Trading",
+      "year": "2018",
+      "label": "Audio Recon",
+      "country": "US",
+      "discogs_id": 32820582,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/de7vZ6xJ7YRPccc3QDYbrOsTX7ZrWDDqyyi6GL6N94Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODIw/NTgyLTE3MzY2NDk1/MzQtNzAyMy5wbmc.jpeg"
+    },
+    {
+      "artist": "Third Person",
+      "title": "Attention Please",
+      "release_title": "Third Person (4) - Third Person: EP",
+      "year": "2004",
+      "label": "Not On Label (Third Person (4) Self-released)",
+      "country": "US",
+      "discogs_id": 3707767,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Third Person",
+      "title": "Five Minutes Famous",
+      "release_title": "Third Person (4) - Third Person: EP",
+      "year": "2004",
+      "label": "Not On Label (Third Person (4) Self-released)",
+      "country": "US",
+      "discogs_id": 3707767,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Unknown Artist & Various",
+      "title": "King Of The Hill",
+      "release_title": "Unknown Artist, Various - Show Themes 1998 1999",
+      "year": "1999",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 14576400,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/-x960mmcAWfIwXucaQ-DTieUBifWWd_tmNiCdUqn1bc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc2/NDAwLTE1Nzc0NjU4/NzYtNDU2MS5qcGVn.jpeg"
+    }
+  ]
+}
