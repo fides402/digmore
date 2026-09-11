@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Conscious"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Hardcore Hip-Hop"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2023,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 22,
+      "artists_found": 20,
+      "fresh_lookups": 0,
+      "styles_considered": 64
+    }
+  },
+  "results": [
+    {
+      "artist": "The Memphis Horns",
+      "title": "Share Your Love With Me",
+      "release_title": "The Memphis Horns - Soul Bowl",
+      "year": "1970",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 4406579,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/c0FSDS113KOfhdts8BYur6sx3HNpbhmRdHRFhbcQG2Y/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDY1/NzktMTYwMzI0MTA1/NS0yNDc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Buddy Miles",
+      "title": "The Way I Feel Tonight",
+      "release_title": "Buddy Miles - Them Changes / The Way I Feel Tonight",
+      "year": "1971",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 3542111,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ZWfopZuyIZ4zO085fzYBtaMyGr_mhAMeXLpGHvOgrKA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDIx/MTEtMTM3ODI1NjYw/OC05MTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Swifty McVay",
+      "title": "Set 2 Aim",
+      "release_title": "Swifty McVay - Hell To Tell The Captin LP",
+      "year": "2015",
+      "label": "ArsonalVision Entertainment",
+      "country": "US",
+      "discogs_id": 8554349,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2IgqwAbZ2I6-qpcT9R1QIc9MCQtIsDjZ7jlCBMzpO9k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTQz/NDktMTQ2MzkzNjY5/MC0xNTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnson And D",
+      "title": "Get Ready To Jump (Vocal)",
+      "release_title": "Johnson And D - Get Ready To Jump",
+      "year": "1983",
+      "label": "T.T.E.D. Records",
+      "country": "US",
+      "discogs_id": 1181175,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/PCmTiD_DNiRGGuymgOGUdo0D9_2fk-KQaOr3qdnnETk/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEx/NzUtMTE5ODg2NTIw/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lettuce",
+      "title": "Ransome",
+      "release_title": "Lettuce (3) - Mt. Crushmore",
+      "year": "2016",
+      "label": "Lettuce Records",
+      "country": "US",
+      "discogs_id": 11828373,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wflx5NPW9pnt_sF4i4tbSOKOFnhcUmpbJPFtXiYuWsc/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/MzczLTE1MjMwNzg1/NjktNDUzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lettuce",
+      "title": "Lude 5",
+      "release_title": "Lettuce (3) - Mt. Crushmore",
+      "year": "2016",
+      "label": "Lettuce Records",
+      "country": "US",
+      "discogs_id": 11828373,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wflx5NPW9pnt_sF4i4tbSOKOFnhcUmpbJPFtXiYuWsc/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/MzczLTE1MjMwNzg1/NjktNDUzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bedlam Brethren & UDI The Erratic Assassin",
+      "title": "Moonlight Catastrophe",
+      "release_title": "Bedlam Brethren Presents UDI The Erratic Assassin - The Assassins Touch",
+      "year": "2011",
+      "label": "116 Productions",
+      "country": "US",
+      "discogs_id": 5123090,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ag-zFcTukS1pBVt403ZErq5QKfiU1wBSeblPz7nIo7o/rs:fit/g:sm/q:90/h:459/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjMw/OTAtMTM4NTEzMDM0/Mi05OTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bedlam Brethren & UDI The Erratic Assassin",
+      "title": "Assassin's Touch",
+      "release_title": "Bedlam Brethren Presents UDI The Erratic Assassin - The Assassins Touch",
+      "year": "2011",
+      "label": "116 Productions",
+      "country": "US",
+      "discogs_id": 5123090,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ag-zFcTukS1pBVt403ZErq5QKfiU1wBSeblPz7nIo7o/rs:fit/g:sm/q:90/h:459/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjMw/OTAtMTM4NTEzMDM0/Mi05OTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Blacc Heart",
+      "title": "End",
+      "release_title": "B.L.A.C.C. Heart* - The Best Of B.L.A.C.C. Heart (World Tour 2017)",
+      "year": "2017",
+      "label": "360 Sound And Vision",
+      "country": "US",
+      "discogs_id": 11352402,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/FGq0oI4OkrsVYjl7tC-ZNq1I412G3yfL60kcyUn-Pek/rs:fit/g:sm/q:90/h:600/w:471/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUy/NDAyLTE1NTkyMDQy/NTgtNTYwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Buddy Miles",
+      "title": "Them Changes",
+      "release_title": "Buddy Miles - Them Changes / The Way I Feel Tonight",
+      "year": "1971",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 3542111,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ZWfopZuyIZ4zO085fzYBtaMyGr_mhAMeXLpGHvOgrKA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDIx/MTEtMTM3ODI1NjYw/OC05MTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nation Def Grooves & Jonathan Brown",
+      "title": "The Groover (Dub)",
+      "release_title": "Nation Def Grooves, Jonathan Brown - Balance Of Power",
+      "year": "1988",
+      "label": "Jubwa Nation Recordings",
+      "country": "US",
+      "discogs_id": 25448155,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/dsHA-9Ad_lEgznvsaWEzpq8JNQO2zJp5ZQ3U3usLUOY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ4/MTU1LTE2NzA4OTEz/MzEtNTkwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bedlam Brethren & UDI The Erratic Assassin",
+      "title": "Termination",
+      "release_title": "Bedlam Brethren Presents UDI The Erratic Assassin - The Assassins Touch",
+      "year": "2011",
+      "label": "116 Productions",
+      "country": "US",
+      "discogs_id": 5123090,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ag-zFcTukS1pBVt403ZErq5QKfiU1wBSeblPz7nIo7o/rs:fit/g:sm/q:90/h:459/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjMw/OTAtMTM4NTEzMDM0/Mi05OTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "DJ Muggs & Crimeapple",
+      "title": "Crazy Eddie's",
+      "release_title": "DJ Muggs & Crimeapple - Medallo",
+      "year": "2019",
+      "label": "Soul Assassins Records",
+      "country": "US",
+      "discogs_id": 14050737,
+      "rating_avg": 4.62,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/hfGtv2hO4tixc7WoTiK3KzGtyCwCJSCfzMkDSVMdtWE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDUw/NzM3LTE1NzAxMDU4/ODQtMjEwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Broadway",
+      "title": "Love Bandit",
+      "release_title": "Broadway (5) - This Funk Is Made For Dancing",
+      "year": "1979",
+      "label": "Hilltak Records",
+      "country": "US",
+      "discogs_id": 1795414,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/eQ-EKQGMT6qb7nl4KW3WoJgdXJ_mBEfwWPaOvGxI2Ow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTU0/MTQtMTMxNzU2NDQ5/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nation Def Grooves & Jonathan Brown",
+      "title": "Balance Of Power (Dub)",
+      "release_title": "Nation Def Grooves, Jonathan Brown - Balance Of Power",
+      "year": "1988",
+      "label": "Jubwa Nation Recordings",
+      "country": "US",
+      "discogs_id": 25448155,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/dsHA-9Ad_lEgznvsaWEzpq8JNQO2zJp5ZQ3U3usLUOY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ4/MTU1LTE2NzA4OTEz/MzEtNTkwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nation Def Grooves & Jonathan Brown",
+      "title": "Balance Of Power (Vocal)",
+      "release_title": "Nation Def Grooves, Jonathan Brown - Balance Of Power",
+      "year": "1988",
+      "label": "Jubwa Nation Recordings",
+      "country": "US",
+      "discogs_id": 25448155,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/dsHA-9Ad_lEgznvsaWEzpq8JNQO2zJp5ZQ3U3usLUOY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ4/MTU1LTE2NzA4OTEz/MzEtNTkwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Johnson And D",
+      "title": "Get Ready To Jump (Instrumental)",
+      "release_title": "Johnson And D - Get Ready To Jump",
+      "year": "1983",
+      "label": "T.T.E.D. Records",
+      "country": "US",
+      "discogs_id": 1181175,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/PCmTiD_DNiRGGuymgOGUdo0D9_2fk-KQaOr3qdnnETk/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEx/NzUtMTE5ODg2NTIw/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Broadway",
+      "title": "This Funk Is Made For Dancing",
+      "release_title": "Broadway (5) - This Funk Is Made For Dancing",
+      "year": "1979",
+      "label": "Hilltak Records",
+      "country": "US",
+      "discogs_id": 1795414,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/eQ-EKQGMT6qb7nl4KW3WoJgdXJ_mBEfwWPaOvGxI2Ow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTU0/MTQtMTMxNzU2NDQ5/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lettuce",
+      "title": "Lude 6",
+      "release_title": "Lettuce (3) - Mt. Crushmore",
+      "year": "2016",
+      "label": "Lettuce Records",
+      "country": "US",
+      "discogs_id": 11828373,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wflx5NPW9pnt_sF4i4tbSOKOFnhcUmpbJPFtXiYuWsc/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/MzczLTE1MjMwNzg1/NjktNDUzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lettuce",
+      "title": "The Love You Left Behind",
+      "release_title": "Lettuce (3) - Mt. Crushmore",
+      "year": "2016",
+      "label": "Lettuce Records",
+      "country": "US",
+      "discogs_id": 11828373,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wflx5NPW9pnt_sF4i4tbSOKOFnhcUmpbJPFtXiYuWsc/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/MzczLTE1MjMwNzg1/NjktNDUzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ashford & Simpson",
+      "title": "It Seems To Hang On",
+      "release_title": "Ashford & Simpson - Is It Still Good To Ya",
+      "year": "2010",
+      "label": "Wounded Bird Records",
+      "country": "US",
+      "discogs_id": 4244266,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/lpw1DTzSuNML2FfGDOq1cCDfPUOijnAh0W5uJyB-oOA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDQy/NjYtMTQ2MzQwOTgy/NC0zMDcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "DJ Muggs & Crimeapple",
+      "title": "No More 2 For 5",
+      "release_title": "DJ Muggs & Crimeapple - Medallo",
+      "year": "2019",
+      "label": "Soul Assassins Records",
+      "country": "US",
+      "discogs_id": 14050737,
+      "rating_avg": 4.62,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/hfGtv2hO4tixc7WoTiK3KzGtyCwCJSCfzMkDSVMdtWE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDUw/NzM3LTE1NzAxMDU4/ODQtMjEwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Hheds",
+      "title": "Track 8",
+      "release_title": "The Hheds - The Hheds LP",
+      "year": "2002",
+      "label": "King Lenario Productions",
+      "country": "US",
+      "discogs_id": 28698292,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ygZOoDlGz2gbDKG9iTa4m5mLcLxDGtu8bMbukazLxj4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njk4/MjkyLTE2OTkyNzEw/NzMtMTY5OS5wbmc.jpeg"
+    },
+    {
+      "artist": "Swifty McVay",
+      "title": "Change It Up",
+      "release_title": "Swifty McVay - Hell To Tell The Captin LP",
+      "year": "2015",
+      "label": "ArsonalVision Entertainment",
+      "country": "US",
+      "discogs_id": 8554349,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2IgqwAbZ2I6-qpcT9R1QIc9MCQtIsDjZ7jlCBMzpO9k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTQz/NDktMTQ2MzkzNjY5/MC0xNTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shawn Elliott",
+      "title": "Nice And Slow (Disco)",
+      "release_title": "Shawn Elliott Santiago* - Nice And Slow",
+      "year": "1976",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 6705283,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/AxF25oiHWazmc51trdpm0g1Z6pWaiarhMKOEgIVrrno/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDUy/ODMtMTQ3NjYwOTMw/MS00NjMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Barry White",
+      "title": "You're The First, The Last, My Everything",
+      "release_title": "Barry White - You're The First, The Last, My Everything",
+      "year": "1974",
+      "label": "20th Century Records",
+      "country": "US",
+      "discogs_id": 5322057,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/BUy3usI1l7_J8PhZZvOb3moC3ahwO_B1aJ2mm8UWiHs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjIw/NTctMTM5MDUyNzEx/OS0xNzU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Hheds",
+      "title": "Track 6",
+      "release_title": "The Hheds - The Hheds LP",
+      "year": "2002",
+      "label": "King Lenario Productions",
+      "country": "US",
+      "discogs_id": 28698292,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ygZOoDlGz2gbDKG9iTa4m5mLcLxDGtu8bMbukazLxj4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njk4/MjkyLTE2OTkyNzEw/NzMtMTY5OS5wbmc.jpeg"
+    },
+    {
+      "artist": "The Hheds",
+      "title": "Track 14",
+      "release_title": "The Hheds - The Hheds LP",
+      "year": "2002",
+      "label": "King Lenario Productions",
+      "country": "US",
+      "discogs_id": 28698292,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ygZOoDlGz2gbDKG9iTa4m5mLcLxDGtu8bMbukazLxj4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njk4/MjkyLTE2OTkyNzEw/NzMtMTY5OS5wbmc.jpeg"
+    },
+    {
+      "artist": "The Memphis Horns",
+      "title": "Soul Bowl",
+      "release_title": "The Memphis Horns - Soul Bowl",
+      "year": "1970",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 4406579,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/c0FSDS113KOfhdts8BYur6sx3HNpbhmRdHRFhbcQG2Y/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDY1/NzktMTYwMzI0MTA1/NS0yNDc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ashford & Simpson",
+      "title": "Get Up And Do Something",
+      "release_title": "Ashford & Simpson - Is It Still Good To Ya",
+      "year": "2010",
+      "label": "Wounded Bird Records",
+      "country": "US",
+      "discogs_id": 4244266,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/lpw1DTzSuNML2FfGDOq1cCDfPUOijnAh0W5uJyB-oOA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDQy/NjYtMTQ2MzQwOTgy/NC0zMDcwLmpwZWc.jpeg"
+    }
+  ]
+}
