@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Cool Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 36,
+      "artists_found": 34,
+      "fresh_lookups": 1,
+      "styles_considered": 110
+    }
+  },
+  "results": [
+    {
+      "artist": "Fattburger",
+      "title": "One More Time",
+      "release_title": "Fattburger - Living In Paradise",
+      "year": "1988",
+      "label": "Enigma",
+      "country": "US",
+      "discogs_id": 31154225,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xWLdF8VWBo-KPJQnTwZ4SIpbfeMh6SzPBZUFH86bcSk/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTU0/MjI1LTE3MjExNDU2/NDctNTU1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeff Lorber",
+      "title": "No Regrets",
+      "release_title": "Jeff Lorber - West Side Stories",
+      "year": "1994",
+      "label": "Verve Forecast",
+      "country": "US",
+      "discogs_id": 26726618,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-oBxquaLJVWpyMTxMKUeoLRSvsAp1l5Yd_4z6KjN9Bo/rs:fit/g:sm/q:90/h:388/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzI2/NjE4LTE2ODIxOTUz/NzItODM1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richie Kamuca & Bill Holman",
+      "title": "I Hadn't Anyone Till You",
+      "release_title": "Richie Kamuca • Bill Holman - West Coast Jazz In Hifi",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 22600448,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YfyfNCR8s-n-eK3u9H7bFCm-fWzSA62Hcqy1UEhm0PI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjAw/NDQ4LTE2NDc5Mzk3/MzAtMjQyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bill Evans",
+      "title": "Lullaby For Helene",
+      "release_title": "Bill Evans - From Left To Right",
+      "year": "1970",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 30522037,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nu8CBS7pWz3QcV87H_qjMcwIzB5mcS16WSb3VmwuTtM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTIy/MDM3LTE3MTQyMzg5/MzEtMTY4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Azymuth",
+      "title": "Make Mine Guaraná (Só Bebo Guaraná, Mas)",
+      "release_title": "Azymuth - Rapid Transit",
+      "year": "1983",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 435696,
+      "rating_avg": 4.28,
+      "rating_count": 90,
+      "cover_image": "https://i.discogs.com/dEZ_bYU15BO1wqIxVE4iT6_or9lhaJ0DpySGYA9K1DU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTY5/Ni0xMjM0Mzc3MTY4/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bill Evans",
+      "title": "Like Someone In Love",
+      "release_title": "Bill Evans - From Left To Right",
+      "year": "1970",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 30522037,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nu8CBS7pWz3QcV87H_qjMcwIzB5mcS16WSb3VmwuTtM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTIy/MDM3LTE3MTQyMzg5/MzEtMTY4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Take The A Train",
+      "release_title": "The Dave Brubeck Quartet - Double Live From The USA & UK",
+      "year": "2001",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 16116662,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rGXfds3wl-TsonwXUe5hbAP0IjjEYvCXtYciTidodsU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE2/NjYyLTE2MDM3NTA4/ODgtMTA0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Don't Worry About Me",
+      "release_title": "The Dave Brubeck Quartet - Double Live From The USA & UK",
+      "year": "2001",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 16116662,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rGXfds3wl-TsonwXUe5hbAP0IjjEYvCXtYciTidodsU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE2/NjYyLTE2MDM3NTA4/ODgtMTA0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chet Baker Quartet",
+      "title": "Isn't It Romantic",
+      "release_title": "Chet Baker Quartet - This Time The Dream's On Me (Chet Baker Quartet Live - Volume 1) ",
+      "year": "2000",
+      "label": "Pacific Jazz",
+      "country": "US",
+      "discogs_id": 3099538,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/_UuB4vQR8dOLgOBnPzaeoYSoGYU-ZH65BOaIKoZHNKM/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk1/MzgtMTMxNTcxNjc4/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Brubeck",
+      "title": "Together",
+      "release_title": "Dave Brubeck - Young Lions & Old Tigers",
+      "year": "1995",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 17026440,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1GefsWC5yXAKy9aBgCrelNOTPJs_slyrDWh1jCFmoFs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI2/NDQwLTE2MTEyMTAy/OTEtNTExMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Pike",
+      "title": "Breakin' It In",
+      "release_title": "Dave Pike - Peligroso",
+      "year": "2000",
+      "label": "CuBop",
+      "country": "US",
+      "discogs_id": 4787124,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/babU4gaLk9Bm1OVswIZPqKsU799pn6h0BLQUVSpDIvI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODcx/MjQtMTM3NTUyOTIz/Ni05Mzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Alberto Favero",
+      "title": "Por Que Cantamos - (Why Do We Sing?)",
+      "release_title": "Alberto Favero - Classical Tropico",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 3258865,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sRhmWGGd2Kc0GoA-hn_BIvNrFUjeOkOa7Aj-yxFKSiE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTg4/NjUtMTMzMDUyMjY2/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chet Baker Quartet",
+      "title": "My Funny Valentine",
+      "release_title": "Chet Baker Quartet - This Time The Dream's On Me (Chet Baker Quartet Live - Volume 1) ",
+      "year": "2000",
+      "label": "Pacific Jazz",
+      "country": "US",
+      "discogs_id": 3099538,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/_UuB4vQR8dOLgOBnPzaeoYSoGYU-ZH65BOaIKoZHNKM/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk1/MzgtMTMxNTcxNjc4/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Courtney Pine",
+      "title": "God Bless The Child",
+      "release_title": "Courtney Pine - The Vision's Tale",
+      "year": "1989",
+      "label": "Antilles",
+      "country": "US",
+      "discogs_id": 12774941,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hffJ0t5pTgkQyBfLCIvB1tVz01jF_IisSskywEEmSZw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc0/OTQxLTE1NzYyMDY2/MTAtNTUyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fattburger",
+      "title": "Don't Think About It",
+      "release_title": "Fattburger - Living In Paradise",
+      "year": "1988",
+      "label": "Enigma",
+      "country": "US",
+      "discogs_id": 31154225,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xWLdF8VWBo-KPJQnTwZ4SIpbfeMh6SzPBZUFH86bcSk/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTU0/MjI1LTE3MjExNDU2/NDctNTU1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Alberto Favero",
+      "title": "El Piano Esta Solo - (The Lonely Piano)",
+      "release_title": "Alberto Favero - Classical Tropico",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 3258865,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sRhmWGGd2Kc0GoA-hn_BIvNrFUjeOkOa7Aj-yxFKSiE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTg4/NjUtMTMzMDUyMjY2/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Brubeck",
+      "title": "Deep In A Dream",
+      "release_title": "Dave Brubeck - Young Lions & Old Tigers",
+      "year": "1995",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 17026440,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1GefsWC5yXAKy9aBgCrelNOTPJs_slyrDWh1jCFmoFs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI2/NDQwLTE2MTEyMTAy/OTEtNTExMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Melani L. Skybell",
+      "title": "It Might As Well Be Spring",
+      "release_title": "Melani L. Skybell - My Heart Sings",
+      "year": "2001",
+      "label": "Not On Label (Melani L. Skybell Self-released)",
+      "country": "US",
+      "discogs_id": 15689083,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/sCLYgfqENjRGXlVqfVQ1lrzODD5PQXkepH78MP14stY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg5/MDgzLTE1OTU5NTIy/MzItMTQ3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Walter Bell",
+      "title": "Once I Loved",
+      "release_title": "Walter Bell Latin Jazz Unit* - Ever So Gently. . .",
+      "year": "1996",
+      "label": "Reika Records Inc.",
+      "country": "US",
+      "discogs_id": 31794149,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/N3ZbHgVweFCHU3IqUKYvNVEyAsaar1LiWF37u1tur2k/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzk0/MTQ5LTE3MjY5Njcz/NDItMTQ1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richie Kamuca & Bill Holman",
+      "title": "Indiana",
+      "release_title": "Richie Kamuca • Bill Holman - West Coast Jazz In Hifi",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 22600448,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YfyfNCR8s-n-eK3u9H7bFCm-fWzSA62Hcqy1UEhm0PI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjAw/NDQ4LTE2NDc5Mzk3/MzAtMjQyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kenny G",
+      "title": "Esther",
+      "release_title": "Kenny G (2) - Live",
+      "year": "1989",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 6927010,
+      "rating_avg": 3.92,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/BuzRGxclZJQRFi-wtzxl8NWsACA9H3D3YzvDVOLWbH8/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjcw/MTAtMTYxNTg1NDE5/MC0yMzM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chico Hamilton",
+      "title": "Chic Chic Chico",
+      "release_title": "Chico Hamilton - The Best Of Chico Hamilton",
+      "year": "1971",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 1743445,
+      "rating_avg": 4.28,
+      "rating_count": 58,
+      "cover_image": "https://i.discogs.com/iaYZKR7cS2qJU4PQ83IVo2b6m2C_daUmajTHi9skcGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDM0/NDUtMTI3ODQ1NDYx/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nelson Rangell",
+      "title": "Free As The Wind",
+      "release_title": "Nelson Rangell -  Soul To Souls",
+      "year": "2006",
+      "label": "Koch Records",
+      "country": "US",
+      "discogs_id": 14409277,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TN7sRjDAh5pz1s8aGzJ7qbMTDpZF5qnYMNxwkg3lGUU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDA5/Mjc3LTE1NzM5MzYx/ODgtOTQ3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nestor Torres",
+      "title": "Tiger Tales",
+      "release_title": "Nestor Torres - Dance Of The Phoenix",
+      "year": "1991",
+      "label": "Verve Forecast",
+      "country": "US",
+      "discogs_id": 24362831,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Chico Hamilton",
+      "title": "People",
+      "release_title": "Chico Hamilton - The Best Of Chico Hamilton",
+      "year": "1971",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 1743445,
+      "rating_avg": 4.28,
+      "rating_count": 58,
+      "cover_image": "https://i.discogs.com/iaYZKR7cS2qJU4PQ83IVo2b6m2C_daUmajTHi9skcGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDM0/NDUtMTI3ODQ1NDYx/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kenny G",
+      "title": "Silhouette",
+      "release_title": "Kenny G (2) - Live",
+      "year": "1989",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 6927010,
+      "rating_avg": 3.92,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/BuzRGxclZJQRFi-wtzxl8NWsACA9H3D3YzvDVOLWbH8/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjcw/MTAtMTYxNTg1NDE5/MC0yMzM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Pike",
+      "title": "Tumbao Pa' Mi Timbal",
+      "release_title": "Dave Pike - Peligroso",
+      "year": "2000",
+      "label": "CuBop",
+      "country": "US",
+      "discogs_id": 4787124,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/babU4gaLk9Bm1OVswIZPqKsU799pn6h0BLQUVSpDIvI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODcx/MjQtMTM3NTUyOTIz/Ni05Mzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Alberto Favero",
+      "title": "Laurinha",
+      "release_title": "Alberto Favero - Classical Tropico",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 3258865,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sRhmWGGd2Kc0GoA-hn_BIvNrFUjeOkOa7Aj-yxFKSiE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTg4/NjUtMTMzMDUyMjY2/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chet Baker Quartet",
+      "title": "Russ Job",
+      "release_title": "Chet Baker Quartet - This Time The Dream's On Me (Chet Baker Quartet Live - Volume 1) ",
+      "year": "2000",
+      "label": "Pacific Jazz",
+      "country": "US",
+      "discogs_id": 3099538,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/_UuB4vQR8dOLgOBnPzaeoYSoGYU-ZH65BOaIKoZHNKM/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk1/MzgtMTMxNTcxNjc4/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Azymuth",
+      "title": "Afternoon (Tarde)",
+      "release_title": "Azymuth - Rapid Transit",
+      "year": "1983",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 435696,
+      "rating_avg": 4.28,
+      "rating_count": 90,
+      "cover_image": "https://i.discogs.com/dEZ_bYU15BO1wqIxVE4iT6_or9lhaJ0DpySGYA9K1DU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTY5/Ni0xMjM0Mzc3MTY4/LmpwZWc.jpeg"
+    }
+  ]
+}
