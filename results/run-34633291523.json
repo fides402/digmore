@@ -1,0 +1,418 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Conscious"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Theme"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 19,
+      "artists_found": 18,
+      "fresh_lookups": 0,
+      "styles_considered": 61
+    }
+  },
+  "results": [
+    {
+      "artist": "Kiwi",
+      "title": "On My Way",
+      "release_title": "Kiwi (12) - The Summer Exposure Mixtape",
+      "year": "2007",
+      "label": "Rusty Bolo Music",
+      "country": "US",
+      "discogs_id": 3883179,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/DebQyl2q3mWeIMjtzijt8biX8B4onafQn_QobjTR0_4/rs:fit/g:sm/q:90/h:344/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODMx/NzktMTM0Nzk5MDIy/NC05NjM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Persuasions",
+      "title": "One Thing On My Mind",
+      "release_title": "Persuasions* - One Thing On My Mind / Darlin'",
+      "year": "1975",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 3856606,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/QsJXQ6SW8bCxs5MsHMviVIeP7fTfnAusLYRw3qKc8-A/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTY2/MDYtMTQ2NzI5Njg1/MC05NjE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Grouch",
+      "title": "The Enchanted",
+      "release_title": "The Grouch - Nothing Changes",
+      "year": "2000",
+      "label": "Outhouse",
+      "country": "US",
+      "discogs_id": 17762101,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/dQCTSQmIyFeVksSZ7yo_sJAOG39ei7HmJuLHadKh1Ck/rs:fit/g:sm/q:90/h:600/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzYy/MTAxLTE2MTUyOTMx/NTEtMjk1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Terry Collins",
+      "title": "I L.O.V.E. Y.O.U.",
+      "release_title": "Terry Collins - I L.O.V.E. Y.O.U.",
+      "year": "1973",
+      "label": "Kwanza Records",
+      "country": "US",
+      "discogs_id": 4347742,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/idrQ1QL1qcB4yTEIPAdmB_OuK1v3MigkwXpiB-fOmok/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDc3/NDItMTM2ODk4MjAx/MS00Nzg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Prosōnus Sound Library",
+      "title": "Trombone Forte-Piano Straight Mute",
+      "release_title": "Prosōnus Sound Library - Brass (Volume One)",
+      "year": "1987",
+      "label": "Prosōnus",
+      "country": "US",
+      "discogs_id": 13809261,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pHBctFzMjp_9njuX4FQJYkLQj1RGS5VUgLGlqxNDzwo/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA5/MjYxLTE1NjE1OTk5/MDQtODYwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "All Elite Wrestling",
+      "title": "The Journey (Marko Stunt AEW Theme)",
+      "release_title": "All Elite Wrestling - The Journey (Marko Stunt AEW Theme)",
+      "year": "2020",
+      "label": "Not On Label (All Elite Wrestling Self-released)",
+      "country": "US",
+      "discogs_id": 16314192,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/p8nfns8M8CwLoK5Uhrb7TqJB_8y1FFmg2N2Iro9QMJM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTkyLTE2MDcwMTAy/NTAtNTI0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Grouch",
+      "title": "Rap Is Senseless",
+      "release_title": "The Grouch - Nothing Changes",
+      "year": "2000",
+      "label": "Outhouse",
+      "country": "US",
+      "discogs_id": 17762101,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/dQCTSQmIyFeVksSZ7yo_sJAOG39ei7HmJuLHadKh1Ck/rs:fit/g:sm/q:90/h:600/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzYy/MTAxLTE2MTUyOTMx/NTEtMjk1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kiwi",
+      "title": "Sunshine",
+      "release_title": "Kiwi (12) - The Summer Exposure Mixtape",
+      "year": "2007",
+      "label": "Rusty Bolo Music",
+      "country": "US",
+      "discogs_id": 3883179,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/DebQyl2q3mWeIMjtzijt8biX8B4onafQn_QobjTR0_4/rs:fit/g:sm/q:90/h:344/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODMx/NzktMTM0Nzk5MDIy/NC05NjM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bernard Herrmann & London Philharmonic Orchestra & National Philharmonic Orchestra",
+      "title": "A Portrait Of Hitch (From \"The Trouble With Harry\")",
+      "release_title": "Bernard Herrmann, The London Philharmonic* ・ The National Philharmonic* - Bernard Herrmann Conducts",
+      "year": "1977",
+      "label": "London Records",
+      "country": "US",
+      "discogs_id": 6207237,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/QDUZnd6p3TFZjH5Ca5S6K1-iTBvCBpzB1IHBOnP7yk0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDcy/MzctMTUyOTQ2OTIx/NS0yODE2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Connell Moss",
+      "title": "Ring-Around-Go-Lovers (Instrumental Version)",
+      "release_title": "Connell* - Ring-Around-Go-Lovers",
+      "year": "1989",
+      "label": "Scorpio",
+      "country": "US",
+      "discogs_id": 1091456,
+      "rating_avg": 4.0,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/4RmdZ4k-Sg4JLgIyxfs1eGFJFaLL-j7v8_lQB3aCgqQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE0/NTYtMTY0MDY1NjYw/My05OTk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Les Chansonettes",
+      "title": "I Almost Left You (Part 1)",
+      "release_title": "Les' Chansonettes* - I Almost Left You",
+      "year": "1970",
+      "label": "Mon'ca Records, Inc.",
+      "country": "US",
+      "discogs_id": 4756607,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/59uxL59sIcQd5LYBrYyOjBfkXd8SaG819S1KNAK7abg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTY2/MDctMTM3NDUzMDQ1/My05MTg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh & Erik Anders Lundmark",
+      "title": "Christmas Jam 2)",
+      "release_title": "Robert J. Walsh, Erik Anders Lundmark - Winter Holidays",
+      "year": "1995",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26860370,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GgSr321hIryqJoRL2qK1D8lRWToIzOPeCyR7iCFCeSY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/MzcwLTE3MzAzNDQ2/ODktNTIzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Prosōnus Sound Library",
+      "title": "Bass Trombone Short Swells Open",
+      "release_title": "Prosōnus Sound Library - Brass (Volume One)",
+      "year": "1987",
+      "label": "Prosōnus",
+      "country": "US",
+      "discogs_id": 13809261,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pHBctFzMjp_9njuX4FQJYkLQj1RGS5VUgLGlqxNDzwo/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA5/MjYxLTE1NjE1OTk5/MDQtODYwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Booker T. Jones",
+      "title": "Life Is Funky (Stereo)",
+      "release_title": "Booker T* - Life Is Funky",
+      "year": "1975",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 2919176,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/NCk7y_EaF710QhMPIvCky_IusTi-oi841Ju6LyOy-7E/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTkx/NzYtMTQwNjgyMjIy/MS03MTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Red Black & Green",
+      "title": "Serious As Cancer (Vocal)",
+      "release_title": "Red Black & Green - Serious As Cancer B/W Feel The Groove",
+      "year": "1989",
+      "label": "Rapid Fire Recordings",
+      "country": "US",
+      "discogs_id": 2125670,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/U--JJ5_akmR6ffomq_zKL4vQ2QeZ3oYqTMWowgG8M9Q/rs:fit/g:sm/q:90/h:600/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU2/NzAtMTQ2MDMyMTQy/Ny00ODk2LnBuZw.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh & Eric Lundmark & Wayne Scott Joness",
+      "title": "Midnight Subway",
+      "release_title": "Robert J. Walsh, Eric Lundmark, Wayne Scott Joness - Wild City",
+      "year": "1995",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26860349,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/V5bN1oVl5a1XA9sZtFNWgECCw6bIbjjkA7ZnxfN-seM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/MzQ5LTE3MzAzNDUw/ODUtMTk3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Grouch",
+      "title": "Car Troubles Pt. 2",
+      "release_title": "The Grouch - Nothing Changes",
+      "year": "2000",
+      "label": "Outhouse",
+      "country": "US",
+      "discogs_id": 17762101,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/dQCTSQmIyFeVksSZ7yo_sJAOG39ei7HmJuLHadKh1Ck/rs:fit/g:sm/q:90/h:600/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzYy/MTAxLTE2MTUyOTMx/NTEtMjk1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh & Erik Anders Lundmark",
+      "title": "Forward March 1)",
+      "release_title": "Robert J. Walsh, Erik Anders Lundmark - Winter Holidays",
+      "year": "1995",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26860370,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GgSr321hIryqJoRL2qK1D8lRWToIzOPeCyR7iCFCeSY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/MzcwLTE3MzAzNDQ2/ODktNTIzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "2Pac",
+      "title": "Changes (Album Version)",
+      "release_title": "2Pac - Changes",
+      "year": "1998",
+      "label": "Interscope Records",
+      "country": "US",
+      "discogs_id": 3836882,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ek3pqinO6VGgmHmL_ZYxaMdIM9YPdypip-jOCWigdLE/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzY4/ODItMTU5ODE2MzI2/Mi01MzE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kiwi",
+      "title": "Walking In Circles",
+      "release_title": "Kiwi (12) - The Summer Exposure Mixtape",
+      "year": "2007",
+      "label": "Rusty Bolo Music",
+      "country": "US",
+      "discogs_id": 3883179,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/DebQyl2q3mWeIMjtzijt8biX8B4onafQn_QobjTR0_4/rs:fit/g:sm/q:90/h:344/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODMx/NzktMTM0Nzk5MDIy/NC05NjM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Connell Moss",
+      "title": "Ring-Around-Go-Lovers",
+      "release_title": "Connell* - Ring-Around-Go-Lovers",
+      "year": "1989",
+      "label": "Scorpio",
+      "country": "US",
+      "discogs_id": 1091456,
+      "rating_avg": 4.0,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/4RmdZ4k-Sg4JLgIyxfs1eGFJFaLL-j7v8_lQB3aCgqQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE0/NTYtMTY0MDY1NjYw/My05OTk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bernard Herrmann & London Philharmonic Orchestra & National Philharmonic Orchestra",
+      "title": "The Duel With The Skeleton (From \"The 7th Voyage Of Sinbad\")",
+      "release_title": "Bernard Herrmann, The London Philharmonic* ・ The National Philharmonic* - Bernard Herrmann Conducts",
+      "year": "1977",
+      "label": "London Records",
+      "country": "US",
+      "discogs_id": 6207237,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/QDUZnd6p3TFZjH5Ca5S6K1-iTBvCBpzB1IHBOnP7yk0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDcy/MzctMTUyOTQ2OTIx/NS0yODE2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Persuasions",
+      "title": "Darlin'",
+      "release_title": "Persuasions* - One Thing On My Mind / Darlin'",
+      "year": "1975",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 3856606,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/QsJXQ6SW8bCxs5MsHMviVIeP7fTfnAusLYRw3qKc8-A/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTY2/MDYtMTQ2NzI5Njg1/MC05NjE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "2Pac",
+      "title": "Changes (Radio Edit)",
+      "release_title": "2Pac - Changes",
+      "year": "1998",
+      "label": "Interscope Records",
+      "country": "US",
+      "discogs_id": 3836882,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ek3pqinO6VGgmHmL_ZYxaMdIM9YPdypip-jOCWigdLE/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzY4/ODItMTU5ODE2MzI2/Mi01MzE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Booker T. Jones",
+      "title": "Life Is Funky (Mono)",
+      "release_title": "Booker T* - Life Is Funky",
+      "year": "1975",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 2919176,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/NCk7y_EaF710QhMPIvCky_IusTi-oi841Ju6LyOy-7E/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTkx/NzYtMTQwNjgyMjIy/MS03MTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh & Eric Lundmark & Wayne Scott Joness",
+      "title": "Android Freeway",
+      "release_title": "Robert J. Walsh, Eric Lundmark, Wayne Scott Joness - Wild City",
+      "year": "1995",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26860349,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/V5bN1oVl5a1XA9sZtFNWgECCw6bIbjjkA7ZnxfN-seM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/MzQ5LTE3MzAzNDUw/ODUtMTk3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Red Black & Green",
+      "title": "Feel The Groove (Instrumental)",
+      "release_title": "Red Black & Green - Serious As Cancer B/W Feel The Groove",
+      "year": "1989",
+      "label": "Rapid Fire Recordings",
+      "country": "US",
+      "discogs_id": 2125670,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/U--JJ5_akmR6ffomq_zKL4vQ2QeZ3oYqTMWowgG8M9Q/rs:fit/g:sm/q:90/h:600/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU2/NzAtMTQ2MDMyMTQy/Ny00ODk2LnBuZw.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh & Erik Anders Lundmark",
+      "title": "First Christmas Tree",
+      "release_title": "Robert J. Walsh, Erik Anders Lundmark - Winter Holidays",
+      "year": "1995",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26860370,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GgSr321hIryqJoRL2qK1D8lRWToIzOPeCyR7iCFCeSY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/MzcwLTE3MzAzNDQ2/ODktNTIzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Iomos Marad",
+      "title": "Chess",
+      "release_title": "Iomos Marad - The Meaning Of Marad",
+      "year": "2006",
+      "label": "All Natural Inc.",
+      "country": "US",
+      "discogs_id": 7577044,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/lFAchZ2rpXgFVvGONauKUc1Q4239E7apgKaLbRbXCzQ/rs:fit/g:sm/q:90/h:454/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzcw/NDQtMTQ0NDQxMTgw/Ni03NDM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Red Black & Green",
+      "title": "Serious As Cancer (Serious Message)",
+      "release_title": "Red Black & Green - Serious As Cancer B/W Feel The Groove",
+      "year": "1989",
+      "label": "Rapid Fire Recordings",
+      "country": "US",
+      "discogs_id": 2125670,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/U--JJ5_akmR6ffomq_zKL4vQ2QeZ3oYqTMWowgG8M9Q/rs:fit/g:sm/q:90/h:600/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU2/NzAtMTQ2MDMyMTQy/Ny00ODk2LnBuZw.jpeg"
+    }
+  ]
+}
