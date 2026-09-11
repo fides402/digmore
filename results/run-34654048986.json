@@ -1,0 +1,418 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Conscious"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Theme"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 19,
+      "artists_found": 18,
+      "fresh_lookups": 0,
+      "styles_considered": 61
+    }
+  },
+  "results": [
+    {
+      "artist": "Cedar Walton",
+      "title": "The Electric Boogaloo Song",
+      "release_title": "Cedar Walton - The Electric Boogaloo Song",
+      "year": "1969",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 4777420,
+      "rating_avg": 4.47,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/snJ7T4Fmyue60bXlWWm2hgGz84E8gZOlsX0nnX8wxQ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Nzc0/MjAtMTU0MTA5OTc2/Ny05MjE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Golden Bond",
+      "title": "I Know ( It's All Over )",
+      "release_title": "The Golden Bond - I Know ( It's All Over )",
+      "year": "1969",
+      "label": "DeLuxe",
+      "country": "US",
+      "discogs_id": 10619695,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/gYlnWUjq2277m0OIzqR0XAaLInEhJd0slaA6jbWg-0g/rs:fit/g:sm/q:90/h:188/w:188/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE5/Njk1LTE1MDcyMjAy/NDYtOTAwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shirley Scott",
+      "title": "Like Young",
+      "release_title": "Shirley Scott - Soul Sister",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 36679990,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ZrM4HaAmNjLBQTwNEATyj7nmV94EKXT1_5HVyeF_iao/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njc5/OTkwLTE3NzI2NTc4/NDMtNDMwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kenny Carter",
+      "title": "It's Sad When Love Is Gone",
+      "release_title": "Kenny Carter - I Ain't Got Love / It's Sad When Love Is Gone",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1905631,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/JKvJAztC6fk2ol6tzM8Vx91ntXaUYJixnxlTEl-Tjr8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU2/MzEtMTM0NTY0NDM5/OC04ODgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shirley Scott",
+      "title": "The More I See You",
+      "release_title": "Shirley Scott - Soul Sister",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 36679990,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ZrM4HaAmNjLBQTwNEATyj7nmV94EKXT1_5HVyeF_iao/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njc5/OTkwLTE3NzI2NTc4/NDMtNDMwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bola Sete",
+      "title": "The Girl From Lodi",
+      "release_title": "Bola Sete - Voodoo Village",
+      "year": "2004",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 6953368,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/3TrXCEmlexSI-hEXs7p-DsQQPVF2WtV3CrT1yKjAGPs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTMz/NjgtMTQ0ODYxMTMy/OC0xMjIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy Smith",
+      "title": "Opening: Prologue",
+      "release_title": "Jimmy Smith - Portuguese Soul",
+      "year": "1973",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 10286465,
+      "rating_avg": 4.54,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/0vk8d_UrPXxoYPaZNHJIbA6vS7qpYpx2m4MAgTG-GrM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg2/NDY1LTE0OTQ2OTgz/NDctMTM3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ensemble Novo",
+      "title": "E Preciso Perdoar",
+      "release_title": "Ensemble Novo - Carinhoso",
+      "year": "2021",
+      "label": "Frosty Cordial Records",
+      "country": "US",
+      "discogs_id": 31146977,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/s3qkALXtaF-aMqM4uQx6DSxR0IxPiNH3VlLbqD3aYcU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQ2/OTc3LTE3MjAyMzkw/MDUtODM1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clay Hammond",
+      "title": "Whip That Lovin'",
+      "release_title": "Clay Hammond - I Kissed Her Gone",
+      "year": "2004",
+      "label": "Desert Sounds Records",
+      "country": "US",
+      "discogs_id": 10525570,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/NZyH7mma0rGqtfggKkmEZ9RMWwSIfsBQsY8Pu-Qrig8/rs:fit/g:sm/q:90/h:428/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI1/NTcwLTE0OTkyNDAx/NjYtNjA4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Carlos Jobim",
+      "title": "Once Again (Outra Vez)",
+      "release_title": "Antonio Carlos Jobim - A Certain Mr. Jobim",
+      "year": "1981",
+      "label": "Discovery Records",
+      "country": "US",
+      "discogs_id": 6334014,
+      "rating_avg": 4.0,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/w9_LLiYORDVf0ay6u5AN1rhxFOg-RaAnSi6MoKdNxq4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzQw/MTQtMTQyNzc2Njgy/MC0yMTM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stan Getz & João Gilberto",
+      "title": "É Preciso Perdoar",
+      "release_title": "Stan Getz, João Gilberto - Getz/Gilberto '76",
+      "year": "2016",
+      "label": "2xHD",
+      "country": "US",
+      "discogs_id": 12438859,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/pGg4P-46VHqZu-GbDurn07LqHToY3bta3VYpZyMA3Xk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDM4/ODU5LTE1MzUzMDI3/NDUtNDk5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Holland & Dozier & Brian Holland",
+      "title": "Don't Leave Me Starvin' For Your Love (Part 1)",
+      "release_title": "Holland-Dozier* Featuring Brian Holland - Don't Leave Me Starvin' For Your Love",
+      "year": "1972",
+      "label": "Invictus",
+      "country": "US",
+      "discogs_id": 12637798,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3amO8ul7g7xPsz7QXk7J3Cq3UQy7TIgSPQkEcfA56f4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/Nzk4LTE1MzkwOTg2/MDQtNTA5Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clay Hammond",
+      "title": "Viagra",
+      "release_title": "Clay Hammond - I Kissed Her Gone",
+      "year": "2004",
+      "label": "Desert Sounds Records",
+      "country": "US",
+      "discogs_id": 10525570,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/NZyH7mma0rGqtfggKkmEZ9RMWwSIfsBQsY8Pu-Qrig8/rs:fit/g:sm/q:90/h:428/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI1/NTcwLTE0OTkyNDAx/NjYtNjA4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe McDuphrey Experience",
+      "title": "Solar Waves",
+      "release_title": "Joe McDuphrey Experience - Experience EP",
+      "year": "2002",
+      "label": "Stones Throw Records",
+      "country": "US",
+      "discogs_id": 90505,
+      "rating_avg": 4.38,
+      "rating_count": 81,
+      "cover_image": "https://i.discogs.com/hEj3wkzXN606dE_zQsuiOfxh-vh8NtshkwsiZOJp70I/rs:fit/g:sm/q:90/h:455/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTA1/LTEyMjc5ODcyNzUu/anBlZw.jpeg"
+    },
+    {
+      "artist": "Nilson Matta",
+      "title": "Angela",
+      "release_title": "Nilson Matta - East Side Rio Drive",
+      "year": "2015",
+      "label": "Krian Music Group",
+      "country": "US",
+      "discogs_id": 13083002,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/W2DXtn7zhDnmZULZOny5SkmAC8bxfatam9wQHhF43ts/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/MDAyLTE1NDc3NDY4/NzAtNjUyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Smith",
+      "title": "2nd Movement: Ritual",
+      "release_title": "Jimmy Smith - Portuguese Soul",
+      "year": "1973",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 10286465,
+      "rating_avg": 4.54,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/0vk8d_UrPXxoYPaZNHJIbA6vS7qpYpx2m4MAgTG-GrM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg2/NDY1LTE0OTQ2OTgz/NDctMTM3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ensemble Novo",
+      "title": "Eu Vim de Bahia",
+      "release_title": "Ensemble Novo - Carinhoso",
+      "year": "2021",
+      "label": "Frosty Cordial Records",
+      "country": "US",
+      "discogs_id": 31146977,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/s3qkALXtaF-aMqM4uQx6DSxR0IxPiNH3VlLbqD3aYcU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQ2/OTc3LTE3MjAyMzkw/MDUtODM1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Burns",
+      "title": "Did It Ever Cross Your Mind",
+      "release_title": "Jimmy Burns - I Tried / Did It Ever Cross Your Mind",
+      "year": "1970",
+      "label": "Minit",
+      "country": "US",
+      "discogs_id": 2732401,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/fras72YtP2hkJ8hLGxuaHNHenh9YXq-qGoLx_EDMkwo/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI0/MDEtMTMwMzk5MTkw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ensemble Novo",
+      "title": "Zanzibar",
+      "release_title": "Ensemble Novo - Carinhoso",
+      "year": "2021",
+      "label": "Frosty Cordial Records",
+      "country": "US",
+      "discogs_id": 31146977,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/s3qkALXtaF-aMqM4uQx6DSxR0IxPiNH3VlLbqD3aYcU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQ2/OTc3LTE3MjAyMzkw/MDUtODM1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "Lover Man",
+      "release_title": "Gene Ammons - Swinging The Jugg",
+      "year": "1976",
+      "label": "Roots",
+      "country": "US",
+      "discogs_id": 3172247,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/mnUtKmgEi_yGoERshz7Ux63DL8ldk4775WWEmhvUn4k/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzIy/NDctMTM1MTc5NjAx/NC03MDc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Antonio Carlos Jobim",
+      "title": "She's A Carioca",
+      "release_title": "Antonio Carlos Jobim - The Wonderful World of Antonio Carlos Jobim",
+      "year": "1973",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 33710265,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kEIyP8H-JnXCaneXZ6FPB5OauDq3c17tLdYkuLYgMt8/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEw/MjY1LTE3NDQ3NTE5/MjctMjcwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Carlos Jobim",
+      "title": "Favela",
+      "release_title": "Antonio Carlos Jobim - The Wonderful World of Antonio Carlos Jobim",
+      "year": "1973",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 33710265,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kEIyP8H-JnXCaneXZ6FPB5OauDq3c17tLdYkuLYgMt8/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEw/MjY1LTE3NDQ3NTE5/MjctMjcwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "Swinging The Jugg",
+      "release_title": "Gene Ammons - Swinging The Jugg",
+      "year": "1976",
+      "label": "Roots",
+      "country": "US",
+      "discogs_id": 3172247,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/mnUtKmgEi_yGoERshz7Ux63DL8ldk4775WWEmhvUn4k/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzIy/NDctMTM1MTc5NjAx/NC03MDc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Smith",
+      "title": "Freedom Jazz Dance",
+      "release_title": "Dr. Lonnie Smith* - Jungle Soul",
+      "year": "2006",
+      "label": "Palmetto Records",
+      "country": "US",
+      "discogs_id": 4259620,
+      "rating_avg": 4.36,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/6hirurzCQSBTvk7-MNIPWa7FUYyE7FPobqQz_prTllk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTk2/MjAtMTU5NjQ1MjQy/OS01ODE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ensemble Novo",
+      "title": "Vagamente",
+      "release_title": "Ensemble Novo - Carinhoso",
+      "year": "2021",
+      "label": "Frosty Cordial Records",
+      "country": "US",
+      "discogs_id": 31146977,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/s3qkALXtaF-aMqM4uQx6DSxR0IxPiNH3VlLbqD3aYcU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQ2/OTc3LTE3MjAyMzkw/MDUtODM1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Carlos Jobim",
+      "title": "Dindi",
+      "release_title": "Antonio Carlos Jobim - The Wonderful World of Antonio Carlos Jobim",
+      "year": "1973",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 33710265,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kEIyP8H-JnXCaneXZ6FPB5OauDq3c17tLdYkuLYgMt8/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEw/MjY1LTE3NDQ3NTE5/MjctMjcwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frederick Knight",
+      "title": "Friend",
+      "release_title": "Frederick Knight - Trouble / Friend",
+      "year": "1972",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 11047078,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tDjf0EG1_5EnIUr6VuHL9PwjfI7KhuA60vQFHfX3woI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ3/MDc4LTE1MDg4NjQz/NjgtNTI5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Golden Bond",
+      "title": "Mean, Mean World",
+      "release_title": "The Golden Bond - I Know ( It's All Over )",
+      "year": "1969",
+      "label": "DeLuxe",
+      "country": "US",
+      "discogs_id": 10619695,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/gYlnWUjq2277m0OIzqR0XAaLInEhJd0slaA6jbWg-0g/rs:fit/g:sm/q:90/h:188/w:188/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE5/Njk1LTE1MDcyMjAy/NDYtOTAwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clay Hammond",
+      "title": "Bad Boy",
+      "release_title": "Clay Hammond - I Kissed Her Gone",
+      "year": "2004",
+      "label": "Desert Sounds Records",
+      "country": "US",
+      "discogs_id": 10525570,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/NZyH7mma0rGqtfggKkmEZ9RMWwSIfsBQsY8Pu-Qrig8/rs:fit/g:sm/q:90/h:428/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI1/NTcwLTE0OTkyNDAx/NjYtNjA4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nilson Matta",
+      "title": "Verde",
+      "release_title": "Nilson Matta - East Side Rio Drive",
+      "year": "2015",
+      "label": "Krian Music Group",
+      "country": "US",
+      "discogs_id": 13083002,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/W2DXtn7zhDnmZULZOny5SkmAC8bxfatam9wQHhF43ts/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/MDAyLTE1NDc3NDY4/NzAtNjUyNi5qcGVn.jpeg"
+    }
+  ]
+}
