@@ -13514,6 +13514,434 @@
    2025
   ]
  },
+ "boney james": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "Europe",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Pop"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Holiday",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Holiday",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "RnB/Swing",
+    "Electronic"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Holiday",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Holiday",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Smooth Jazz",
+   "Jazz-Rock",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Soul-Jazz",
+   "Easy Listening",
+   "Contemporary Jazz",
+   "Smooth Jazz",
+   "Holiday",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Jazz-Funk",
+   "Contemporary Jazz",
+   "Soul-Jazz",
+   "Easy Listening",
+   "Contemporary Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Easy Listening",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Easy Listening",
+   "Smooth Jazz",
+   "Holiday",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Easy Listening",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Easy Listening",
+   "Contemporary Jazz",
+   "RnB/Swing",
+   "Downtempo",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Easy Listening",
+   "Smooth Jazz",
+   "Holiday",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Easy Listening",
+   "Smooth Jazz",
+   "Holiday",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz"
+  ],
+  "years": [
+   1992,
+   2017,
+   1999,
+   1997,
+   1999,
+   1992,
+   1994,
+   1997,
+   2020,
+   2001,
+   1999,
+   2001,
+   2006,
+   1999,
+   1995,
+   2006,
+   1999,
+   1994,
+   1995,
+   2006,
+   1996,
+   1995,
+   1994
+  ]
+ },
  "bong penera": {
   "countries": [
    "Philippines",
@@ -16878,6 +17306,82 @@
    1975,
    1976,
    1965
+  ]
+ },
+ "chris camozzi": {
+  "countries": [
+   "US",
+   "New Zealand",
+   "US",
+   "US",
+   "Europe",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 10,
+  "styles": [
+   "Smooth Jazz",
+   "Smooth Jazz",
+   "Contemporary Jazz",
+   "Smooth Jazz",
+   "Smooth Jazz",
+   "Smooth Jazz",
+   "Smooth Jazz"
+  ],
+  "years": [
+   1996,
+   2001,
+   1996,
+   1998,
+   1996,
+   2001,
+   1997,
+   2001
   ]
  },
  "chuck mangione": {
