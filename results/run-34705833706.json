@@ -1,0 +1,22 @@
+{
+  "status": "empty",
+  "spec_used": {
+    "id": "fides-1789231082311",
+    "searches": [
+      {
+        "genre": "Stage & Screen",
+        "style": "Film Score"
+      }
+    ],
+    "countries": [],
+    "year_from": 1964,
+    "year_to": 1985,
+    "target": 8,
+    "derived": false,
+    "widened": true,
+    "rounds": 4,
+    "obscure": true,
+    "coverage": {}
+  },
+  "results": []
+}
