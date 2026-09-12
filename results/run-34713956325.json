@@ -1,0 +1,418 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Conscious"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Theme"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2022,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 20,
+      "artists_found": 19,
+      "fresh_lookups": 2,
+      "styles_considered": 67
+    }
+  },
+  "results": [
+    {
+      "artist": "David Chesky",
+      "title": "Olympic Fever",
+      "release_title": "David Chesky - The Olympian",
+      "year": "1984",
+      "label": "Manhattan Production Music",
+      "country": "US",
+      "discogs_id": 34214416,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qY4OCE2wIsvohmtq-Q91IHfRQXPDwdTbbbeAO3nTDgs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE0/NDE2LTE3NDk0MTU5/ODgtNjU1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roger Suen",
+      "title": "F$#& You Guys",
+      "release_title": "Roger Suen - Gook",
+      "year": "2017",
+      "label": "Notefornote Music",
+      "country": "US",
+      "discogs_id": 21766069,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IwGpPrCTT3A_f44VDzXuvIjtA0fdAaV2k06D6LzzP6w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY2/MDY5LTE2NDIzNjM4/NjQtMTg0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nicholas Palmer",
+      "title": "The Letter",
+      "release_title": "Nicholas Palmer - Gettysburg: The Boys in Blue & Gray ",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 19975546,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZqPve1_F_-FPb3mHC8Ln-6SiYA01b6JzNydTRLpQz88/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc1/NTQ2LTE3MTQ0MDc1/NTUtOTgwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carmen McRae",
+      "title": "Let There Be Love",
+      "release_title": "Carmen McRae - In Person",
+      "year": "1972",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 3606726,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/0Ukn2bhdexZ2MHe_DYwFgnMw1ry8-5qYnIPl6-Hj6uA/rs:fit/g:sm/q:90/h:139/w:153/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDY3/MjYtMTMzNzEzNTc1/Ny00MDI5LnBuZw.jpeg"
+    },
+    {
+      "artist": "Bing Crosby",
+      "title": "Galaway Bay",
+      "release_title": "Bing Crosby - My Favorite Irish Songs",
+      "year": "1997",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6800718,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/zpRBLI7_BJsl_kUsJDDbqhNwF5ub2V9_KZCBJz12XUU/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDA3/MTgtMTQyNjkwMTE0/MC04NjYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh",
+      "title": "Southfield Blues",
+      "release_title": "Robert J. Walsh - Songs",
+      "year": "1995",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 11856217,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NAed5U0z5PJkaItvOf85BanTEqeHkD1yPAIH6c_AvLg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU2/MjE3LTE3MzAzNDU2/OTQtNzI4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roger Suen",
+      "title": "Kamilla’s Lullaby",
+      "release_title": "Roger Suen - Gook",
+      "year": "2017",
+      "label": "Notefornote Music",
+      "country": "US",
+      "discogs_id": 21766069,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IwGpPrCTT3A_f44VDzXuvIjtA0fdAaV2k06D6LzzP6w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY2/MDY5LTE2NDIzNjM4/NjQtMTg0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nina Simone",
+      "title": "Ne Me Quitte Pas",
+      "release_title": "Nina Simone - Right On!",
+      "year": "1972",
+      "label": "Roker Records",
+      "country": "US",
+      "discogs_id": 1156746,
+      "rating_avg": 4.41,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/Xs1k5ZXtoOCzu1bnDATFYJVJvogPOsOvBRQyJg91bSQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY3/NDYtMTc3NTY1NDM0/Ni0yNDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Arthur Prysock",
+      "title": "Green Grass Of Home",
+      "release_title": "Arthur Prysock - Untitled",
+      "year": "1969",
+      "label": "Starday Sound Studios, Inc.",
+      "country": "US",
+      "discogs_id": 2296343,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KsIe3Dre5OOLps6xpXbF9ENqprmQsfUbfUqi_l1A6to/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/NDMtMTI3NTE2MDY0/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Arthur Prysock",
+      "title": "Jesus Don't Give Up On Me",
+      "release_title": "Arthur Prysock - Untitled",
+      "year": "1969",
+      "label": "Starday Sound Studios, Inc.",
+      "country": "US",
+      "discogs_id": 2296343,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KsIe3Dre5OOLps6xpXbF9ENqprmQsfUbfUqi_l1A6to/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/NDMtMTI3NTE2MDY0/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nina Simone",
+      "title": "When I Was A Young Girl",
+      "release_title": "Nina Simone - Right On!",
+      "year": "1972",
+      "label": "Roker Records",
+      "country": "US",
+      "discogs_id": 1156746,
+      "rating_avg": 4.41,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/Xs1k5ZXtoOCzu1bnDATFYJVJvogPOsOvBRQyJg91bSQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY3/NDYtMTc3NTY1NDM0/Ni0yNDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Arthur Prysock",
+      "title": "Today I Started Loving You Again",
+      "release_title": "Arthur Prysock - Untitled",
+      "year": "1969",
+      "label": "Starday Sound Studios, Inc.",
+      "country": "US",
+      "discogs_id": 2296343,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KsIe3Dre5OOLps6xpXbF9ENqprmQsfUbfUqi_l1A6to/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/NDMtMTI3NTE2MDY0/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Association",
+      "title": "I'm Going To Be A Racin' Star",
+      "release_title": "Various - Once Upon A Wheel",
+      "year": "1971",
+      "label": "Coca-Cola",
+      "country": "US",
+      "discogs_id": 12896797,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cFQ9PN9IJYxarrbw36tIzXhaedgA2sCgFKkfk55Chi0/rs:fit/g:sm/q:90/h:407/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk2/Nzk3LTE1NDQwNjE1/MTktMjQwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nicholas Palmer",
+      "title": "Lorena",
+      "release_title": "Nicholas Palmer - Gettysburg: The Boys in Blue & Gray ",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 19975546,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZqPve1_F_-FPb3mHC8Ln-6SiYA01b6JzNydTRLpQz88/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc1/NTQ2LTE3MTQ0MDc1/NTUtOTgwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Arthur Prysock",
+      "title": "Precious Memories",
+      "release_title": "Arthur Prysock - Untitled",
+      "year": "1969",
+      "label": "Starday Sound Studios, Inc.",
+      "country": "US",
+      "discogs_id": 2296343,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KsIe3Dre5OOLps6xpXbF9ENqprmQsfUbfUqi_l1A6to/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/NDMtMTI3NTE2MDY0/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carmen McRae",
+      "title": "Sunday",
+      "release_title": "Carmen McRae - In Person",
+      "year": "1972",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 3606726,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/0Ukn2bhdexZ2MHe_DYwFgnMw1ry8-5qYnIPl6-Hj6uA/rs:fit/g:sm/q:90/h:139/w:153/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDY3/MjYtMTMzNzEzNTc1/Ny00MDI5LnBuZw.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh",
+      "title": "Wild Heart",
+      "release_title": "Robert J. Walsh - Songs",
+      "year": "1995",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 11856217,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NAed5U0z5PJkaItvOf85BanTEqeHkD1yPAIH6c_AvLg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU2/MjE3LTE3MzAzNDU2/OTQtNzI4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Casanova",
+      "title": "All The Loving Couples (End Theme)",
+      "release_title": "Casanova (24) - All The Loving Couples",
+      "year": "1969",
+      "label": "GNP Crescendo",
+      "country": "US",
+      "discogs_id": 10985089,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/2sL4dyGkc4PigtAS9hrmxg_Ki-X1u5kLcgvfLfq7iTI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg1/MDg5LTE1MDc4MTMz/OTItNzgyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh",
+      "title": "Invasion 2)",
+      "release_title": "Robert J. Walsh - Songs",
+      "year": "1995",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 11856217,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NAed5U0z5PJkaItvOf85BanTEqeHkD1yPAIH6c_AvLg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU2/MjE3LTE3MzAzNDU2/OTQtNzI4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bing Crosby",
+      "title": "St. Patrick's Day Parade",
+      "release_title": "Bing Crosby - My Favorite Irish Songs",
+      "year": "1997",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6800718,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/zpRBLI7_BJsl_kUsJDDbqhNwF5ub2V9_KZCBJz12XUU/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDA3/MTgtMTQyNjkwMTE0/MC04NjYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles McPherson",
+      "title": "Another Kind Of Blues",
+      "release_title": "Charles McPherson - Charles McPherson",
+      "year": "1971",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 36060292,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mNwvLawZZkY3PNUwIceGShgNy8HHYKbE2blAm3EN0vI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDYw/MjkyLTE3NjcxMzg4/ODctMTgwNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Vaughn",
+      "title": "Come Saturday Morning",
+      "release_title": "Billy Vaughn - Come Saturday Morning / True Grit",
+      "year": "1970",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 33438473,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/RE1eJXfGGLJ5cCrm8ooZxjCiW3lfxBRreI3Ra4qTHpQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDM4/NDczLTE3NDIyNDIy/NDEtNTIyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tom Holkenborg",
+      "title": "That Would Work",
+      "release_title": "Tom Holkenborg - Sonic the Hedgehog (Music From The Motion Picture)",
+      "year": "2020",
+      "label": "Enjoy The Ride Records",
+      "country": "US",
+      "discogs_id": 15488982,
+      "rating_avg": 3.88,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/wsqY5HRas2sSVUyLT3opwvKEiYUjD5BsXdhTJ9h7-yc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg4/OTgyLTE2MTI4NTUz/NjMtODQ3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tom Holkenborg",
+      "title": "He Is My Friend",
+      "release_title": "Tom Holkenborg - Sonic the Hedgehog (Music From The Motion Picture)",
+      "year": "2020",
+      "label": "Enjoy The Ride Records",
+      "country": "US",
+      "discogs_id": 15488982,
+      "rating_avg": 3.88,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/wsqY5HRas2sSVUyLT3opwvKEiYUjD5BsXdhTJ9h7-yc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg4/OTgyLTE2MTI4NTUz/NjMtODQ3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles McPherson",
+      "title": "While We're Young",
+      "release_title": "Charles McPherson - Charles McPherson",
+      "year": "1971",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 36060292,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mNwvLawZZkY3PNUwIceGShgNy8HHYKbE2blAm3EN0vI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDYw/MjkyLTE3NjcxMzg4/ODctMTgwNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "LAPD",
+      "title": "Compared To What",
+      "release_title": "Willie Bobo / LAPD (2) / Jimmy Witherspoon / Gene Ammons - Live At The Watts Jazz Festival - Volume 1",
+      "year": "1977",
+      "label": "LAX Records",
+      "country": "US",
+      "discogs_id": 33153534,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/maW6iuVjj6qSRzIVPsTvR17zJAkgltyC69XdqRS4YN8/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTUz/NTM0LTE3Mzk3MjUy/NDQtMTcyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The London Pops Orchestra & The London Studio Orchestra & Berlin Pops Orchestra",
+      "title": "Arthur's Theme (Best That You Can Do)",
+      "release_title": "London Pops Orchestra*, London Studio Orchestra* And The Berlin Pops Orchestra - Academy Award Winners - The First 50 Years, Volume 4 1972-1983",
+      "year": "1995",
+      "label": "BCI Music",
+      "country": "US",
+      "discogs_id": 12522039,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/c1X9V1DoX3WOgD2-vJfHt1LwRYknNvytbZ7zYxUbFv4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIy/MDM5LTE1MzcxNDU5/MDYtMjc3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Heaven",
+      "release_title": "Charles Earland - Third Degree Burn",
+      "year": "1989",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 13151013,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kj1G9MnRlqwFZ8VjD6qSxhFJ5SrIk_l85VyNhUi1ZaY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUx/MDEzLTE1NDg5NDg1/NTctNjI5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "That's A Good Question",
+      "release_title": "Charles Earland - Third Degree Burn",
+      "year": "1989",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 13151013,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kj1G9MnRlqwFZ8VjD6qSxhFJ5SrIk_l85VyNhUi1ZaY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUx/MDEzLTE1NDg5NDg1/NTctNjI5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Casanova",
+      "title": "All The Loving Couples",
+      "release_title": "Casanova (24) - All The Loving Couples",
+      "year": "1969",
+      "label": "GNP Crescendo",
+      "country": "US",
+      "discogs_id": 10985089,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/2sL4dyGkc4PigtAS9hrmxg_Ki-X1u5kLcgvfLfq7iTI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg1/MDg5LTE1MDc4MTMz/OTItNzgyMC5qcGVn.jpeg"
+    }
+  ]
+}

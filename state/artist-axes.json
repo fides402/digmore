@@ -4612,6 +4612,299 @@
    1988
   ]
  },
+ "anita o'day": {
+  "countries": [
+   "Japan",
+   "Europe",
+   "US",
+   "Japan",
+   "US",
+   "Japan",
+   "Spain",
+   "US",
+   "US",
+   "France",
+   "Japan",
+   "Europe",
+   "US",
+   "Japan",
+   "US",
+   "Sweden",
+   "UK",
+   "US",
+   "Greece",
+   "Japan",
+   "Japan",
+   "Europe",
+   "UK",
+   "Netherlands",
+   "Czech Republic"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Pop"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Pop"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Vocal",
+   "Swing",
+   "Vocal",
+   "Vocal",
+   "Swing",
+   "Big Band",
+   "Vocal",
+   "Vocal",
+   "Bop",
+   "Swing",
+   "Vocal",
+   "Swing",
+   "Big Band",
+   "Contemporary Jazz",
+   "Vocal",
+   "Swing",
+   "Big Band",
+   "Vocal",
+   "Vocal",
+   "Vocal",
+   "Swing",
+   "Easy Listening",
+   "Vocal",
+   "Easy Listening",
+   "Swing",
+   "Easy Listening",
+   "Vocal",
+   "Vocal",
+   "Swing",
+   "Big Band",
+   "Cool Jazz",
+   "Swing",
+   "Cool Jazz",
+   "Soul-Jazz"
+  ],
+  "years": [
+   1986,
+   2000,
+   1978,
+   1982,
+   1998,
+   2010,
+   2001,
+   1959,
+   1999,
+   1994,
+   2014,
+   1991,
+   2022,
+   2010,
+   2020,
+   1980,
+   2012,
+   1984,
+   2007
+  ]
+ },
  "ankhlejohn": {
   "countries": [
    "US",
@@ -9705,6 +9998,510 @@
    1988,
    1991,
    1991
+  ]
+ },
+ "banks": {
+  "countries": [
+   "Unknown",
+   "US",
+   "Russia",
+   "US",
+   "US",
+   "Worldwide",
+   "France",
+   "Unknown",
+   "France",
+   "Finland",
+   "US",
+   "France",
+   "US",
+   "Europe",
+   "UK",
+   "Worldwide",
+   "US",
+   "France",
+   "Sweden",
+   "Brazil",
+   "US",
+   "Europe",
+   "Australasia",
+   "Europe",
+   "UK"
+  ],
+  "genres": [
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Funk / Soul",
+   "Electronic",
+   "Pop",
+   "Rock",
+   "Electronic",
+   "Funk / Soul",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Acoustic",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Alt-Pop",
+    "Electronic"
+   ],
+   [
+    "Alt-Pop",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Funk / Soul"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Alt-Pop",
+    "Electronic"
+   ],
+   [
+    "Alt-Pop",
+    "Pop"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Breaks",
+    "Electronic"
+   ],
+   [
+    "Breaks",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Acoustic",
+   "Downtempo",
+   "Synth-pop",
+   "Ambient",
+   "Downtempo",
+   "Synth-pop",
+   "Downtempo",
+   "Synth-pop",
+   "Ambient",
+   "Downtempo",
+   "Synth-pop",
+   "Alt-Pop",
+   "Synth-pop",
+   "Synth-pop",
+   "Synth-pop",
+   "Indie Pop",
+   "Synth-pop",
+   "Ambient",
+   "Downtempo",
+   "Synth-pop",
+   "Indie Pop",
+   "Synth-pop",
+   "Downtempo",
+   "Synth-pop",
+   "Contemporary R&B",
+   "Synth-pop",
+   "Alt-Pop",
+   "Dubstep",
+   "Synth-pop",
+   "Contemporary R&B",
+   "Downtempo",
+   "Downtempo",
+   "Pop Rock",
+   "Contemporary R&B",
+   "Downtempo",
+   "Indie Pop",
+   "Synth-pop",
+   "Downtempo",
+   "Breaks",
+   "Contemporary R&B",
+   "Ambient",
+   "Downtempo",
+   "Synth-pop",
+   "Indie Pop",
+   "Synth-pop"
+  ],
+  "years": [
+   2020,
+   2016,
+   2014,
+   2016,
+   2014,
+   2025,
+   2016,
+   2017,
+   2014,
+   2019,
+   2014,
+   2014,
+   2019,
+   2014,
+   2025,
+   2017,
+   2013,
+   2014,
+   2012,
+   2013,
+   2014,
+   2014,
+   2014,
+   2014
   ]
  },
  "barbra streisand": {
