@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2015,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 19,
+      "artists_found": 18,
+      "fresh_lookups": 0,
+      "styles_considered": 85
+    }
+  },
+  "results": [
+    {
+      "artist": "Peter Delano",
+      "title": "Every Time We Say Goodbye",
+      "release_title": "Peter Delano - For Dewey",
+      "year": "2008",
+      "label": "Sunnyside Communications",
+      "country": "US",
+      "discogs_id": 19414615,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bk7Qp34c9wjdfMfxdvsq1q3-7SqnpxPoUWnsT9GSYZ0/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE0/NjE1LTE2MjU2OTcz/OTEtMjUxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Bromberg",
+      "title": "Bass Face",
+      "release_title": "Brian Bromberg - Choices",
+      "year": "2004",
+      "label": "A440 Music Group",
+      "country": "US",
+      "discogs_id": 1760493,
+      "rating_avg": 4.47,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/vpSRKljQGRq7vsiIsmmRZ72QdVWJHI1P2qvHZFb-Xpg/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA0/OTMtMTI0MTYxNjEy/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Braxton Brothers",
+      "title": "It's You (Album Version)",
+      "release_title": "Braxton Brothers - It's You",
+      "year": "2004",
+      "label": "Peak Records",
+      "country": "US",
+      "discogs_id": 26399492,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xfWwQavkury0O2Nb55FdR61Xhu0RLtjvMWl-NFT9Rh4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzk5/NDkyLTE2Nzg2NTQw/MTgtODIxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Bromberg",
+      "title": "Hear Our Cry Intro",
+      "release_title": "Brian Bromberg - Choices",
+      "year": "2004",
+      "label": "A440 Music Group",
+      "country": "US",
+      "discogs_id": 1760493,
+      "rating_avg": 4.47,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/vpSRKljQGRq7vsiIsmmRZ72QdVWJHI1P2qvHZFb-Xpg/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA0/OTMtMTI0MTYxNjEy/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Bromberg",
+      "title": "Hear Our Cry",
+      "release_title": "Brian Bromberg - Choices",
+      "year": "2004",
+      "label": "A440 Music Group",
+      "country": "US",
+      "discogs_id": 1760493,
+      "rating_avg": 4.47,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/vpSRKljQGRq7vsiIsmmRZ72QdVWJHI1P2qvHZFb-Xpg/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA0/OTMtMTI0MTYxNjEy/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Checkfield",
+      "title": "Hitchhiker",
+      "release_title": "Checkfield - A View From The Edge",
+      "year": "1990",
+      "label": "American Gramaphone Records",
+      "country": "US",
+      "discogs_id": 645244,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/5KtMdp7Wr470bqJy21YR28vS1h9h62xjvgotpqDthMc/rs:fit/g:sm/q:90/h:505/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTI0/NC0xMzY4NzI4MjMy/LTE2ODMuanBlZw.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "DJ Voice Over",
+      "release_title": "Various - Smooth Jazz 96.9",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 16352640,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5XGgvaYz6zQGYbHoTTfps0ZS9g6coZywHDaLIyq48Jk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzUy/NjQwLTE2MDcyMjk1/NjMtNjY5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jan Garbarek",
+      "title": "Nefertite",
+      "release_title": "Jan Garbarek - Esoteric Circle",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 2468408,
+      "rating_avg": 4.06,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/XwRidAMe50_Rw1i5V8CTc_malN--gJHkaOYNN5vrISk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg0/MDgtMTY1ODM4NTk4/Ny0yODQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Noble Spirit",
+      "title": "The Edge of Osa",
+      "release_title": "Noble Spirit - Monster Island",
+      "year": "1995",
+      "label": "Noble Spirit Music",
+      "country": "US",
+      "discogs_id": 15332198,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mw8sMZ55JLYvs_Enoc7FPvfg4j0WbQuGQTKR8JWyGrI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMy/MTk4LTE1ODk4NjQ4/NjAtODEyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Braxton Brothers",
+      "title": "It's You (G-Dub Remix)",
+      "release_title": "Braxton Brothers - It's You",
+      "year": "2004",
+      "label": "Peak Records",
+      "country": "US",
+      "discogs_id": 26399492,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xfWwQavkury0O2Nb55FdR61Xhu0RLtjvMWl-NFT9Rh4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzk5/NDkyLTE2Nzg2NTQw/MTgtODIxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Checkfield",
+      "title": "Wait For Me",
+      "release_title": "Checkfield - A View From The Edge",
+      "year": "1990",
+      "label": "American Gramaphone Records",
+      "country": "US",
+      "discogs_id": 645244,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/5KtMdp7Wr470bqJy21YR28vS1h9h62xjvgotpqDthMc/rs:fit/g:sm/q:90/h:505/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTI0/NC0xMzY4NzI4MjMy/LTE2ODMuanBlZw.jpeg"
+    },
+    {
+      "artist": "Frank Sinatra",
+      "title": "The Man In The Looking Glass",
+      "release_title": "Frank Sinatra - September Of My Years",
+      "year": "2004",
+      "label": "Reprise Records",
+      "country": "US",
+      "discogs_id": 2791218,
+      "rating_avg": 4.32,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/EGOQiZ_Ofg7Bp3TbdnBPZVdGCT-F9Yvz27v5OJjeAzw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEy/MTgtMTYwNzE2NTM4/Ny05MTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kirk Whalum",
+      "title": "Daddy Loves You",
+      "release_title": "Kirk Whalum - Sampler",
+      "year": "1997",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 18295498,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eKSZdaiblzzqk1kjnJVCnUrNpc_ca90sI0ZGpJhWXjw/rs:fit/g:sm/q:90/h:505/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk1/NDk4LTE2MTg0MTg3/MTUtMjMzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Make Me A Memory (Sad Samba)",
+      "release_title": "Grover Washington, Jr. - Winelight",
+      "year": "1980",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 36313405,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OUf6xaW6Y66deIWxgppUo6MInQvQiLD4v3uf6BuAoSE/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzEz/NDA1LTE3NjkzNTMy/NTktODU1MC5wbmc.jpeg"
+    },
+    {
+      "artist": "The Hi-Lo's & The Marty Paich Dek-tette",
+      "title": "Mayforth",
+      "release_title": "The Hi-Lo's, The Marty Paich Dek-tette - And All That Jazz",
+      "year": "1991",
+      "label": "Sony Music Special Products",
+      "country": "US",
+      "discogs_id": 11730152,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/03XCAgfimKFMOitYmHfL2UaONC_nk8vakydEsVrQmRY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzMw/MTUyLTE1MjEzOTY4/NjUtMjc0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chris Gillespie & Bucky Pizzarelli",
+      "title": "Every Time We Say Goodbye",
+      "release_title": "Chris Gillespie (3) With Bucky Pizzarelli - Portraits Of Porter",
+      "year": "2013",
+      "label": "Ole Records",
+      "country": "US",
+      "discogs_id": 37077090,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1KebmVgLcGIOmuyxNqM4TzXUae-VbKvylnd6XxE9-do/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDc3/MDkwLTE3NzYzMTg2/NTgtNTQ5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kirk Whalum",
+      "title": "All I Need",
+      "release_title": "Kirk Whalum - Sampler",
+      "year": "1997",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 18295498,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eKSZdaiblzzqk1kjnJVCnUrNpc_ca90sI0ZGpJhWXjw/rs:fit/g:sm/q:90/h:505/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk1/NDk4LTE2MTg0MTg3/MTUtMjMzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Liberace",
+      "title": "Yesterday",
+      "release_title": "Liberace - Liberace Now!",
+      "year": "1978",
+      "label": "Pickwick",
+      "country": "US",
+      "discogs_id": 18829705,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/j5UQNacr-xpwx3-EVG7lmjl_DpMrhXuB-jGX0M5n13Q/rs:fit/g:sm/q:90/h:600/w:493/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODI5/NzA1LTE2MjE2NjYx/NTctNzQ3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Various Artists",
+      "release_title": "Various - Smooth Jazz 96.9",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 16352640,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5XGgvaYz6zQGYbHoTTfps0ZS9g6coZywHDaLIyq48Jk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzUy/NjQwLTE2MDcyMjk1/NjMtNjY5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peter Delano",
+      "title": "Summer Song",
+      "release_title": "Peter Delano - For Dewey",
+      "year": "2008",
+      "label": "Sunnyside Communications",
+      "country": "US",
+      "discogs_id": 19414615,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bk7Qp34c9wjdfMfxdvsq1q3-7SqnpxPoUWnsT9GSYZ0/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE0/NjE1LTE2MjU2OTcz/OTEtMjUxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Checkfield",
+      "title": "The Common Bond",
+      "release_title": "Checkfield - A View From The Edge",
+      "year": "1990",
+      "label": "American Gramaphone Records",
+      "country": "US",
+      "discogs_id": 645244,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/5KtMdp7Wr470bqJy21YR28vS1h9h62xjvgotpqDthMc/rs:fit/g:sm/q:90/h:505/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTI0/NC0xMzY4NzI4MjMy/LTE2ODMuanBlZw.jpeg"
+    },
+    {
+      "artist": "Frank Sinatra",
+      "title": "Once Upon A Time",
+      "release_title": "Frank Sinatra - September Of My Years",
+      "year": "2004",
+      "label": "Reprise Records",
+      "country": "US",
+      "discogs_id": 2791218,
+      "rating_avg": 4.32,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/EGOQiZ_Ofg7Bp3TbdnBPZVdGCT-F9Yvz27v5OJjeAzw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEy/MTgtMTYwNzE2NTM4/Ny05MTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brian Culbertson",
+      "title": "Sensuality",
+      "release_title": "Brian Culbertson - It's On Tonight",
+      "year": "2005",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 10045190,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SAstkeCM6WbXRy2zatUVWrAR8Zg2NhjLMrwWmJffsKg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ1/MTkwLTE0OTA2NTE1/ODItNDc1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peter Delano",
+      "title": "Too Long To Wait",
+      "release_title": "Peter Delano - For Dewey",
+      "year": "2008",
+      "label": "Sunnyside Communications",
+      "country": "US",
+      "discogs_id": 19414615,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bk7Qp34c9wjdfMfxdvsq1q3-7SqnpxPoUWnsT9GSYZ0/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE0/NjE1LTE2MjU2OTcz/OTEtMjUxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobo Stenson Trio",
+      "title": "12 Tones Old",
+      "release_title": "Bobo Stenson Trio - Reflections",
+      "year": "1996",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 802125,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/JQf3JwVtgs6ZCclbLwEXsPQzIvlyuQ4MUvfHPQNC4eM/rs:fit/g:sm/q:90/h:300/w:297/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjEy/NS0xMTYwNzAyOTEx/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kirk Whalum",
+      "title": "Open My Eyes",
+      "release_title": "Kirk Whalum - Sampler",
+      "year": "1997",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 18295498,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eKSZdaiblzzqk1kjnJVCnUrNpc_ca90sI0ZGpJhWXjw/rs:fit/g:sm/q:90/h:505/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk1/NDk4LTE2MTg0MTg3/MTUtMjMzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Hi-Lo's & The Marty Paich Dek-tette",
+      "title": "Of Thee I Sing",
+      "release_title": "The Hi-Lo's, The Marty Paich Dek-tette - And All That Jazz",
+      "year": "1991",
+      "label": "Sony Music Special Products",
+      "country": "US",
+      "discogs_id": 11730152,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/03XCAgfimKFMOitYmHfL2UaONC_nk8vakydEsVrQmRY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzMw/MTUyLTE1MjEzOTY4/NjUtMjc0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Culbertson",
+      "title": "Forbidden Love",
+      "release_title": "Brian Culbertson - It's On Tonight",
+      "year": "2005",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 10045190,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SAstkeCM6WbXRy2zatUVWrAR8Zg2NhjLMrwWmJffsKg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ1/MTkwLTE0OTA2NTE1/ODItNDc1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Let It Flow (For \"Dr. J.\")",
+      "release_title": "Grover Washington, Jr. - Winelight",
+      "year": "1980",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 36313405,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OUf6xaW6Y66deIWxgppUo6MInQvQiLD4v3uf6BuAoSE/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzEz/NDA1LTE3NjkzNTMy/NTktODU1MC5wbmc.jpeg"
+    },
+    {
+      "artist": "Chris Gillespie & Bucky Pizzarelli",
+      "title": "Begin The Beguine",
+      "release_title": "Chris Gillespie (3) With Bucky Pizzarelli - Portraits Of Porter",
+      "year": "2013",
+      "label": "Ole Records",
+      "country": "US",
+      "discogs_id": 37077090,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1KebmVgLcGIOmuyxNqM4TzXUae-VbKvylnd6XxE9-do/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDc3/MDkwLTE3NzYzMTg2/NTgtNTQ5MC5qcGVn.jpeg"
+    }
+  ]
+}
