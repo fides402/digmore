@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2015,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 38,
+      "artists_found": 36,
+      "fresh_lookups": 1,
+      "styles_considered": 127
+    }
+  },
+  "results": [
+    {
+      "artist": "Eric Dolphy",
+      "title": "Woody'n You",
+      "release_title": "Eric Dolphy - Copenhagen Concert",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 4369898,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/6o0YXmIxFJnAy7byQrsEK_-pVHJ3qRVdCh9Icwo9j3A/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjk4/OTgtMTM2MzA2MDU4/OC03MDY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sarah Vaughan",
+      "title": "Lover Man (Jazzelicious Remix)",
+      "release_title": "Various - Global Jazz Remix: Teavana",
+      "year": "2007",
+      "label": "Pasero Music Group",
+      "country": "US",
+      "discogs_id": 18893371,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OgqWue5Myb7wymFxC6wIo2OUlEzGmLYGuextebSntM4/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODkz/MzcxLTE2MjIwNDgw/OTctMzg5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eric Dolphy",
+      "title": "When Lights Are Low",
+      "release_title": "Eric Dolphy - Copenhagen Concert",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 4369898,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/6o0YXmIxFJnAy7byQrsEK_-pVHJ3qRVdCh9Icwo9j3A/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjk4/OTgtMTM2MzA2MDU4/OC03MDY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Antonio Adolfo",
+      "title": "Crystal Silence",
+      "release_title": "Antonio Adolfo - Finas Misturas",
+      "year": "2013",
+      "label": "AAM Music",
+      "country": "US",
+      "discogs_id": 10466086,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/23JKkyM5JTxQHNgi5FkolOcgTTd-KMBNSlo3yBfx7BE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY2/MDg2LTE0OTc5OTcw/MDgtMzk1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eric Dolphy",
+      "title": "God Bless The Child",
+      "release_title": "Eric Dolphy - Copenhagen Concert",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 972301,
+      "rating_avg": 4.1,
+      "rating_count": 40,
+      "cover_image": "https://i.discogs.com/WfyLgK2G7J_irez361gQL8DZymbfdm1_VjufG75D65A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjMw/MS0xMzA0MDIxMzQ4/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tim Seelig",
+      "title": "The Greatest Love Of All",
+      "release_title": "Tim Seelig - Everything's Possible [Sings Songs Of Love And Empowerment)",
+      "year": "2001",
+      "label": "TCC Records",
+      "country": "US",
+      "discogs_id": 3417450,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CVMc1gEsOUSrk_smlLkeNfcFw9D23IwfuNaAZbeS3bA/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTc0/NTAtMTMyOTYwOTQ3/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Teddy Wilson & Bill Nelson & Bill Reichenbach",
+      "title": "Lush Life / Take The A Train",
+      "release_title": "Teddy Wilson, Bill Nelson (2), Bill Reichenbach - Live At The King Of France Tavern ",
+      "year": "2013",
+      "label": "Li-Sem Enterprises, Inc.",
+      "country": "US",
+      "discogs_id": 26475185,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/LOsvFfsNPiUZPawBJI67qNlmR75HxhNdoGGOjv1aONE/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc1/MTg1LTE2NzkyNTEz/MjQtMzY0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Percy Faith And His Orchestra And Chorus",
+      "title": "Little Green Apples",
+      "release_title": "Percy Faith His Orchestra And Chorus* - Those Were The Days",
+      "year": "1970",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 35396089,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '77",
+      "title": "Asa Branca",
+      "release_title": "Sergio Mendes & Brasil '77* - País Tropical",
+      "year": "1971",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 17100345,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OoK8qoBgcuRLxL6zU1dV_O6ZU0qtivo1_xVcNGXmUyM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAw/MzQ1LTE2MTE2MTI4/MjEtNTY5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Barretto & New World Spirit",
+      "title": "Brother Ray",
+      "release_title": "Ray Barretto & New World Spirit - My Summertime",
+      "year": "1995",
+      "label": "Owl Records",
+      "country": "US",
+      "discogs_id": 14442637,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/-QP_Tqj_mKUiIqURirw-2c0lsLV8C_WNmp2d-o0x240/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQy/NjM3LTE1NzQ2MTIy/NTAtNDc2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Adolfo",
+      "title": "Balada",
+      "release_title": "Antonio Adolfo - Finas Misturas",
+      "year": "2013",
+      "label": "AAM Music",
+      "country": "US",
+      "discogs_id": 10466086,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/23JKkyM5JTxQHNgi5FkolOcgTTd-KMBNSlo3yBfx7BE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY2/MDg2LTE0OTc5OTcw/MDgtMzk1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "Ratatouille (Rata Too Ee) (Coisa No. 1)",
+      "release_title": "Herb Alpert & The T.J.B.* - Coney Island",
+      "year": "1975",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 4147420,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Hf23jlYnKtvp7yc2Q3wIMaQidAVti6BfDALIN9sNL-4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDc0/MjAtMTM1Njg3MDE3/OS03MzgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Percy Faith And His Orchestra And Chorus",
+      "title": "Fool On The Hill",
+      "release_title": "Percy Faith His Orchestra And Chorus* - Those Were The Days",
+      "year": "1970",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 35396089,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Ray Barretto & New World Spirit",
+      "title": "No Hay Problema (No Problem)",
+      "release_title": "Ray Barretto & New World Spirit - My Summertime",
+      "year": "1995",
+      "label": "Owl Records",
+      "country": "US",
+      "discogs_id": 14442637,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/-QP_Tqj_mKUiIqURirw-2c0lsLV8C_WNmp2d-o0x240/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQy/NjM3LTE1NzQ2MTIy/NTAtNDc2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Quartet & Jim Ridl & Tony Marino & Joe Locke & Bill Goodwin",
+      "title": "Tanya",
+      "release_title": "Quartet (10) - Jim Ridl • Tony Marino • Joe Locke • Bill Goodwin - Live At The Deer Head Inn",
+      "year": "2014",
+      "label": "Deer Head Records",
+      "country": "US",
+      "discogs_id": 19953910,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/GowEZyvaQWIWQNwu8rYEor1jQHEke4jISvmD7ZrhDsQ/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTUz/OTEwLTE2Mjk2NDEy/MzEtNTQyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Paul Williams",
+      "title": "Night And Day",
+      "release_title": "Various - Global Jazz Remix: Teavana",
+      "year": "2007",
+      "label": "Pasero Music Group",
+      "country": "US",
+      "discogs_id": 18893371,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OgqWue5Myb7wymFxC6wIo2OUlEzGmLYGuextebSntM4/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODkz/MzcxLTE2MjIwNDgw/OTctMzg5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Teddy Wilson & Bill Nelson & Bill Reichenbach",
+      "title": "Moonglow",
+      "release_title": "Teddy Wilson, Bill Nelson (2), Bill Reichenbach - Live At The King Of France Tavern ",
+      "year": "2013",
+      "label": "Li-Sem Enterprises, Inc.",
+      "country": "US",
+      "discogs_id": 26475185,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/LOsvFfsNPiUZPawBJI67qNlmR75HxhNdoGGOjv1aONE/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc1/MTg1LTE2NzkyNTEz/MjQtMzY0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Kostelanetz",
+      "title": "That's Entertainment",
+      "release_title": "André Kostelanetz - Where Did The Good Times Go?",
+      "year": "1974",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 22830026,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-gCZyaVwf-MQKRsTHNJWxkImpSAKdqfT_l-htqXEGbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMw/MDI2LTE2NDk1ODY5/NzktODUxMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Quartet & Jim Ridl & Tony Marino & Joe Locke & Bill Goodwin",
+      "title": "Midnight Sun",
+      "release_title": "Quartet (10) - Jim Ridl • Tony Marino • Joe Locke • Bill Goodwin - Live At The Deer Head Inn",
+      "year": "2014",
+      "label": "Deer Head Records",
+      "country": "US",
+      "discogs_id": 19953910,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/GowEZyvaQWIWQNwu8rYEor1jQHEke4jISvmD7ZrhDsQ/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTUz/OTEwLTE2Mjk2NDEy/MzEtNTQyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Teddy Wilson & Bill Nelson & Bill Reichenbach",
+      "title": "In A Sentimental Mood / Perdido",
+      "release_title": "Teddy Wilson, Bill Nelson (2), Bill Reichenbach - Live At The King Of France Tavern ",
+      "year": "2013",
+      "label": "Li-Sem Enterprises, Inc.",
+      "country": "US",
+      "discogs_id": 26475185,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/LOsvFfsNPiUZPawBJI67qNlmR75HxhNdoGGOjv1aONE/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc1/MTg1LTE2NzkyNTEz/MjQtMzY0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Percy Faith And His Orchestra And Chorus",
+      "title": "My Special Angel",
+      "release_title": "Percy Faith His Orchestra And Chorus* - Those Were The Days",
+      "year": "1970",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 35396089,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "Coney Island",
+      "release_title": "Herb Alpert & The T.J.B.* - Coney Island",
+      "year": "1975",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 4147420,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Hf23jlYnKtvp7yc2Q3wIMaQidAVti6BfDALIN9sNL-4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDc0/MjAtMTM1Njg3MDE3/OS03MzgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Teddy Wilson & Bill Nelson & Bill Reichenbach",
+      "title": "The Man I Love / Our Love Is Here To Stay",
+      "release_title": "Teddy Wilson, Bill Nelson (2), Bill Reichenbach - Live At The King Of France Tavern ",
+      "year": "2013",
+      "label": "Li-Sem Enterprises, Inc.",
+      "country": "US",
+      "discogs_id": 26475185,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/LOsvFfsNPiUZPawBJI67qNlmR75HxhNdoGGOjv1aONE/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc1/MTg1LTE2NzkyNTEz/MjQtMzY0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Kostelanetz",
+      "title": "Where Did The Good Times Go?",
+      "release_title": "André Kostelanetz - Where Did The Good Times Go?",
+      "year": "1974",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 22830026,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-gCZyaVwf-MQKRsTHNJWxkImpSAKdqfT_l-htqXEGbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMw/MDI2LTE2NDk1ODY5/NzktODUxMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marcus Printup",
+      "title": "Body & Soul",
+      "release_title": "Marcus Printup - Nocturnal Traces",
+      "year": "1998",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 14639638,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4T8_Lmq59lIZKQCWDffxvj00JFwHTdl6Hy07xacWU3Q/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM5/NjM4LTE1Nzg3MDU4/MDYtNDE3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Juju Orchestra",
+      "title": "Do It Again",
+      "release_title": "Various - Global Jazz Remix: Teavana",
+      "year": "2007",
+      "label": "Pasero Music Group",
+      "country": "US",
+      "discogs_id": 18893371,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OgqWue5Myb7wymFxC6wIo2OUlEzGmLYGuextebSntM4/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODkz/MzcxLTE2MjIwNDgw/OTctMzg5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tim Seelig",
+      "title": "Anyone Can Whistle",
+      "release_title": "Tim Seelig - Everything's Possible [Sings Songs Of Love And Empowerment)",
+      "year": "2001",
+      "label": "TCC Records",
+      "country": "US",
+      "discogs_id": 3417450,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CVMc1gEsOUSrk_smlLkeNfcFw9D23IwfuNaAZbeS3bA/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTc0/NTAtMTMyOTYwOTQ3/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tim Seelig",
+      "title": "Not While I'm Around",
+      "release_title": "Tim Seelig - Everything's Possible [Sings Songs Of Love And Empowerment)",
+      "year": "2001",
+      "label": "TCC Records",
+      "country": "US",
+      "discogs_id": 3417450,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CVMc1gEsOUSrk_smlLkeNfcFw9D23IwfuNaAZbeS3bA/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTc0/NTAtMTMyOTYwOTQ3/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marcus Printup",
+      "title": "Ain't Misbehavin'",
+      "release_title": "Marcus Printup - Nocturnal Traces",
+      "year": "1998",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 14639638,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4T8_Lmq59lIZKQCWDffxvj00JFwHTdl6Hy07xacWU3Q/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM5/NjM4LTE1Nzg3MDU4/MDYtNDE3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '77",
+      "title": "So Many People",
+      "release_title": "Sergio Mendes & Brasil '77* - País Tropical",
+      "year": "1971",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 17100345,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OoK8qoBgcuRLxL6zU1dV_O6ZU0qtivo1_xVcNGXmUyM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAw/MzQ1LTE2MTE2MTI4/MjEtNTY5NS5qcGVn.jpeg"
+    }
+  ]
+}
