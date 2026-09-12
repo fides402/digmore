@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2020,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 31,
+      "artists_found": 30,
+      "fresh_lookups": 0,
+      "styles_considered": 96
+    }
+  },
+  "results": [
+    {
+      "artist": "Gene Ammons & Sonny Stitt",
+      "title": "New Blues Up And Down",
+      "release_title": "Gene Ammons & Sonny Stitt - We'll Be Together Again",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 7571120,
+      "rating_avg": 3.88,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/lg8QZFK6EPvBprMZyt1JRcpl2-fv8A-XssDmF-degGE/rs:fit/g:sm/q:90/h:389/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzEx/MjAtMTQ0NDI2MDMx/My05NzI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Charles",
+      "title": "Strike Up The Band",
+      "release_title": "Ray Charles - Genius + Soul = Jazz",
+      "year": "1988",
+      "label": "Dunhill Compact Classics",
+      "country": "US",
+      "discogs_id": 35350189,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_jhM4DRYS9gBBQm17cgYTBPuE35Y1t75WeffY9-b1eA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUw/MTg5LTE3ODA4Njgy/MzMtMjEzMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Degreg & Brasilia",
+      "title": "On Lia's Island, In Rosa's Boat",
+      "release_title": "Phil DeGreg* & Brasilia (9) - Brazilian People",
+      "year": "2014",
+      "label": "Prevenient Music",
+      "country": "US",
+      "discogs_id": 15854359,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CFRpmk4MzdF74piSNv2PNcDueE_U1rpXHU3azysS2BI/rs:fit/g:sm/q:90/h:504/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU0/MzU5LTE1OTkwMjI1/NTQtMTU1Ni5wbmc.jpeg"
+    },
+    {
+      "artist": "Louis Bellson",
+      "title": "Salsa En Cinco",
+      "release_title": "Various - Latin Jazz Dance Classics Volume Two",
+      "year": "1997",
+      "label": "CuBop",
+      "country": "US",
+      "discogs_id": 8397979,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cPKp147Nvj6Df2RabvzmswvUtwRLXWn8HJALC29YDwo/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTc5/NzktMTQ2MDgzMjY1/OS04NTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hiromi Uehara",
+      "title": "Another Mind",
+      "release_title": "Hiromi* - Another Mind",
+      "year": "2003",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 19437658,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/aho5Y87TyJW4Ol4Cg8c3i3Q2-9TqrH0ZnfWIcnN7cRo/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDM3/NjU4LTE2MjU4NzQx/ODktNDEzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Sunset Boulevard",
+      "release_title": "Cal Tjader - Jazz 'Round Midnight",
+      "year": "1996",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 6832819,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/YJwPqwkq0-6-YQrOu2raUpw-4fXxRYpsI_a_1EA4QqQ/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzI4/MTktMTc1NzM3NDg3/My0zMDAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Arturo Sandoval",
+      "title": "A La P.P.",
+      "release_title": "Arturo Sandoval - Arturo Sandoval & The Latin Train",
+      "year": "1995",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 4695271,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7lqp2Cf_Z-uvAgMfn477ZtEWIRgoIOZAeJMB4HYGl8g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTUy/NzEtMTM3MjUwOTAx/MC05Nzk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gene Ammons & Sonny Stitt",
+      "title": "Red Sails In The Sunset",
+      "release_title": "Gene Ammons & Sonny Stitt - We'll Be Together Again",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 7571120,
+      "rating_avg": 3.88,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/lg8QZFK6EPvBprMZyt1JRcpl2-fv8A-XssDmF-degGE/rs:fit/g:sm/q:90/h:389/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzEx/MjAtMTQ0NDI2MDMx/My05NzI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sven Hammond Soul & Corrina Greyson",
+      "title": "Lookin' Up, Turnin' 'Round",
+      "release_title": "Sven Hammond Soul Featuring Corrina Greyson - Lookin' Up, Turnin' 'Round/Moet Jij Wete",
+      "year": "2009",
+      "label": "Hammondbeat",
+      "country": "US",
+      "discogs_id": 5037527,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/aOxRcubm2qYVnKiCHzoMZd4EIklg9PSS_HoXqWp8gdM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzc1/MjctMTM4MjgwMDY3/MC01NzIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "title": "Au Lait",
+      "release_title": "Pat Metheny Group - Offramp",
+      "year": "1982",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 7654911,
+      "rating_avg": 4.39,
+      "rating_count": 96,
+      "cover_image": "https://i.discogs.com/GWlEXWQQ523SPDaHApKEfO7sf4C2ICo4CSdoN07MWy4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ5/MTEtMTQ0NjA3NjQz/MC02NTYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "School Of The Arts",
+      "title": "Fairweather Green",
+      "release_title": "School Of The Arts - School Of The Arts",
+      "year": "2007",
+      "label": "Magnatude Records",
+      "country": "US",
+      "discogs_id": 5033188,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/7KWfoKvVCugUTHIrvplZQygQ1EfAlIuYltreX_1jre8/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzMx/ODgtMTM4MjY3NTYy/MC02MjA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "JoAnne Tardy",
+      "title": "A Taste Of Sorcery",
+      "release_title": "JoAnne Tardy - Sorceress",
+      "year": "1981",
+      "label": "T.M. International Records",
+      "country": "US",
+      "discogs_id": 7570306,
+      "rating_avg": 4.67,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/iIUxoQROiXkZKx0Zxgje7TaF_KV52I4Ry4hDbIigA8s/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzAz/MDYtMTQ0NDI0NzEy/Mi00OTI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Larry Vuckovich",
+      "title": "Serbo-Afro",
+      "release_title": "Larry Vuckovich - Tres Palabras",
+      "year": "1990",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 13171819,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/LbUuSmSA5WgB89nZFaUMJZ-vSqPFgPc8w8lZLpbp6M0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcx/ODE5LTE1NDkzMTE4/NzgtMTcxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Earl Klugh",
+      "title": "Kiko",
+      "release_title": "Earl Klugh - Living Inside Your Love / Kiko",
+      "year": "1976",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 2641917,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/BLopn5UwOReSvHOMlHdtypcjQbE1FCQ4PeBJOHHl3uY/rs:fit/g:sm/q:90/h:362/w:359/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE5/MTctMTQwOTkxMzE1/OC0zNDk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mitch Watkins",
+      "title": "May Your Sorrows Pass",
+      "release_title": "Mitch Watkins - Strings With Wings",
+      "year": "1992",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 14709032,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ma1p_2LyvPuBrefYRgBuyxtFosB4vdP5w0nB_WDDZY0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA5/MDMyLTE1ODAwNjg4/MzctMzY5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Degreg & Brasilia",
+      "title": "Brazilian People",
+      "release_title": "Phil DeGreg* & Brasilia (9) - Brazilian People",
+      "year": "2014",
+      "label": "Prevenient Music",
+      "country": "US",
+      "discogs_id": 15854359,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CFRpmk4MzdF74piSNv2PNcDueE_U1rpXHU3azysS2BI/rs:fit/g:sm/q:90/h:504/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU0/MzU5LTE1OTkwMjI1/NTQtMTU1Ni5wbmc.jpeg"
+    },
+    {
+      "artist": "John Damberg Latin Jazz Quintet & Herb Kloss & Dan Balmer",
+      "title": "South Of Haiti",
+      "release_title": "John Damberg Latin Jazz Quintet, Herb Kloss, Dan Balmer - Angie's Samba",
+      "year": "1998",
+      "label": "Cravin' Records",
+      "country": "US",
+      "discogs_id": 28237858,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Sven Hammond Soul & Corrina Greyson",
+      "title": "Moet Jij Wete",
+      "release_title": "Sven Hammond Soul Featuring Corrina Greyson - Lookin' Up, Turnin' 'Round/Moet Jij Wete",
+      "year": "2009",
+      "label": "Hammondbeat",
+      "country": "US",
+      "discogs_id": 5037527,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/aOxRcubm2qYVnKiCHzoMZd4EIklg9PSS_HoXqWp8gdM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzc1/MjctMTM4MjgwMDY3/MC01NzIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Francisco Aguabella Orchestra",
+      "title": "Shirley's Guaguancho",
+      "release_title": "Various - Latin Jazz Dance Classics Volume Two",
+      "year": "1997",
+      "label": "CuBop",
+      "country": "US",
+      "discogs_id": 8397979,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cPKp147Nvj6Df2RabvzmswvUtwRLXWn8HJALC29YDwo/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTc5/NzktMTQ2MDgzMjY1/OS04NTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Charles",
+      "title": "Basin Street Blues",
+      "release_title": "Ray Charles - Genius + Soul = Jazz",
+      "year": "1988",
+      "label": "Dunhill Compact Classics",
+      "country": "US",
+      "discogs_id": 35350189,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_jhM4DRYS9gBBQm17cgYTBPuE35Y1t75WeffY9-b1eA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzUw/MTg5LTE3ODA4Njgy/MzMtMjEzMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Damberg Latin Jazz Quintet & Herb Kloss & Dan Balmer",
+      "title": "New Year 95 Blues",
+      "release_title": "John Damberg Latin Jazz Quintet, Herb Kloss, Dan Balmer - Angie's Samba",
+      "year": "1998",
+      "label": "Cravin' Records",
+      "country": "US",
+      "discogs_id": 28237858,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Surrender",
+      "release_title": "Spyro Gyra - Heart Of The Night",
+      "year": "1996",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 638358,
+      "rating_avg": 4.25,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/ooZtHy91COMOb7VtRDC3I8v9TIDiaqMxc1ZYTXIITig/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODM1/OC0xMzI3MDMzNzM1/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gene Ammons & Sonny Stitt",
+      "title": "Autumn Leaves",
+      "release_title": "Gene Ammons & Sonny Stitt - We'll Be Together Again",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 7571120,
+      "rating_avg": 3.88,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/lg8QZFK6EPvBprMZyt1JRcpl2-fv8A-XssDmF-degGE/rs:fit/g:sm/q:90/h:389/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzEx/MjAtMTQ0NDI2MDMx/My05NzI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "title": "Barcarole",
+      "release_title": "Pat Metheny Group - Offramp",
+      "year": "1982",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 7654911,
+      "rating_avg": 4.39,
+      "rating_count": 96,
+      "cover_image": "https://i.discogs.com/GWlEXWQQ523SPDaHApKEfO7sf4C2ICo4CSdoN07MWy4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ5/MTEtMTQ0NjA3NjQz/MC02NTYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Larry Vuckovich",
+      "title": "Rio",
+      "release_title": "Larry Vuckovich - Tres Palabras",
+      "year": "1990",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 13171819,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/LbUuSmSA5WgB89nZFaUMJZ-vSqPFgPc8w8lZLpbp6M0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcx/ODE5LTE1NDkzMTE4/NzgtMTcxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "The Party's Over",
+      "release_title": "Cal Tjader - Jazz 'Round Midnight",
+      "year": "1996",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 6832819,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/YJwPqwkq0-6-YQrOu2raUpw-4fXxRYpsI_a_1EA4QqQ/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzI4/MTktMTc1NzM3NDg3/My0zMDAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "title": "James",
+      "release_title": "Pat Metheny Group - Offramp",
+      "year": "1982",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 7654911,
+      "rating_avg": 4.39,
+      "rating_count": 96,
+      "cover_image": "https://i.discogs.com/GWlEXWQQ523SPDaHApKEfO7sf4C2ICo4CSdoN07MWy4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTQ5/MTEtMTQ0NjA3NjQz/MC02NTYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Heart Of The Night",
+      "release_title": "Spyro Gyra - Heart Of The Night",
+      "year": "1996",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 638358,
+      "rating_avg": 4.25,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/ooZtHy91COMOb7VtRDC3I8v9TIDiaqMxc1ZYTXIITig/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODM1/OC0xMzI3MDMzNzM1/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shirley Scott & Kenny Burrell",
+      "title": "They Call It Stormy Monday",
+      "release_title": "Shirley Scott & Kenny Burrell - Travelin' Light",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 4136372,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/BiqFEIs6ivgBDxzsaMCQvih0Ovs9Sr6GAFcauGoj1NE/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzYz/NzItMTM1NjUyNjU4/OS04Njg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Larry Vuckovich",
+      "title": "You Go To My Head",
+      "release_title": "Larry Vuckovich - Tres Palabras",
+      "year": "1990",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 13171819,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/LbUuSmSA5WgB89nZFaUMJZ-vSqPFgPc8w8lZLpbp6M0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcx/ODE5LTE1NDkzMTE4/NzgtMTcxNC5qcGVn.jpeg"
+    }
+  ]
+}
