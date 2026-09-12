@@ -11234,6 +11234,182 @@
    1974
   ]
  },
+ "bernard cribbins": {
+  "countries": [
+   "UK",
+   "UK",
+   "US",
+   "Canada",
+   "Europe",
+   "UK",
+   "US",
+   "Australia",
+   "Australia",
+   "Canada",
+   "UK",
+   "India",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "New Zealand",
+   "Australia",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "US"
+  ],
+  "genres": [
+   "Pop",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Reggae",
+   "Pop",
+   "Stage & Screen",
+   "Pop",
+   "Pop",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Pop",
+   "Pop",
+   "Funk / Soul",
+   "Classical",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Stage & Screen",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Novelty",
+    "Pop"
+   ],
+   [
+    "Novelty",
+    "Pop"
+   ],
+   [
+    "Novelty",
+    "Pop"
+   ],
+   [
+    "Calypso",
+    "Reggae"
+   ],
+   [
+    "Novelty",
+    "Pop"
+   ],
+   [
+    "Novelty",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Novelty",
+    "Pop"
+   ],
+   [
+    "Novelty",
+    "Stage & Screen"
+   ],
+   [
+    "Musical",
+    "Pop"
+   ],
+   [
+    "Musical",
+    "Stage & Screen"
+   ],
+   [
+    "Vaudeville",
+    "Stage & Screen"
+   ],
+   [
+    "Novelty",
+    "Pop"
+   ],
+   [
+    "Novelty",
+    "Pop"
+   ],
+   [
+    "Novelty",
+    "Folk, World, & Country"
+   ],
+   [
+    "Parody",
+    "Pop"
+   ],
+   [
+    "Parody",
+    "Folk, World, & Country"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Novelty",
+   "Novelty",
+   "Novelty",
+   "Calypso",
+   "Novelty",
+   "Novelty",
+   "Soundtrack",
+   "Novelty",
+   "Musical",
+   "Vaudeville",
+   "Novelty",
+   "Novelty",
+   "Parody"
+  ],
+  "years": [
+   1963,
+   1967,
+   1962,
+   1967,
+   1962,
+   1980,
+   1980,
+   1967,
+   1962,
+   1967,
+   1967,
+   1962,
+   1962,
+   1976,
+   1980,
+   2022,
+   2017,
+   1962,
+   1962,
+   2004,
+   1962,
+   1960,
+   2013,
+   1962
+  ]
+ },
  "bill evans": {
   "countries": [
    "Japan",
