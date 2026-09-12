@@ -1009,6 +1009,33 @@ async def embed_raw_audio(audio: UploadFile = File(...), offset_sec: float = For
                 pass
 
 
+@app.post("/api/embed_text")
+async def embed_text(request: Request):
+    """Text-side CLAP embedding for FIDES DAYS (diggaplayer): CLAP is a joint
+    text/audio space by design, so a mood/genre description can be embedded
+    directly here instead of the caller having to invent proxy reference
+    tracks, fetch their audio and embed THAT. Several short English
+    descriptive phrases (not full sentences) are mean-pooled and
+    re-normalized into one vector — the same multi-prompt-averaging trick
+    `clap_model.guess_genre` already uses internally for its own genre
+    prompt sets, just returned to the caller instead of used for a lookup.
+    """
+    body = await request.json()
+    prompts = [p.strip() for p in (body.get("prompts") or []) if isinstance(p, str) and p.strip()]
+    if not prompts:
+        raise HTTPException(400, "prompts vuoti")
+
+    import numpy as np
+    import clap_model
+
+    embs = clap_model.embed_texts(prompts)
+    mean = embs.mean(axis=0)
+    norm = float(np.linalg.norm(mean))
+    if norm > 1e-9:
+        mean = mean / norm
+    return {"embedding": mean.tolist(), "dim": len(mean)}
+
+
 # ── Static UI (local dev / single-host deploy) ───────────────────────────────
 _WEB = (Path(__file__).resolve().parents[1] / "web")
 if _WEB.is_dir():
