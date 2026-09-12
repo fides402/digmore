@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1964,
+    "year_to": 2011,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 38,
+      "artists_found": 36,
+      "fresh_lookups": 0,
+      "styles_considered": 121
+    }
+  },
+  "results": [
+    {
+      "artist": "Jane Jarvis",
+      "title": "Medley: 2 sleepy people/small fry/ lazy river",
+      "release_title": "Jane Jarvis - To Hoagy with Love",
+      "year": "1987",
+      "label": "The Good Music Record Co.",
+      "country": "US",
+      "discogs_id": 10603330,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/t8PI8yIjpQu-RzOLViU7ZyHxTt8mzFNCfkpg2WMUs9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAz/MzMwLTE1MzAwMjY1/NDAtMjg0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shadowfax",
+      "title": "The Firewalker",
+      "release_title": "Shadowfax - Folksongs For A Nuclear Village",
+      "year": "1988",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 14542004,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/4wRA2y19917-vxR9E2faFHurO6GeK0ZrbDm9MIKiHYU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQy/MDA0LTE1NzY2ODg0/MDQtNzY5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boots Randolph",
+      "title": "The Nearness Of You",
+      "release_title": "Boots Randolph - The World Of Boots Randolph",
+      "year": "1972",
+      "label": "Monument",
+      "country": "US",
+      "discogs_id": 22219777,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KC_l_yW1KHiqEj57xSCeg5-wVpTjFhwNC-WEe0mCCMI/rs:fit/g:sm/q:90/h:600/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE5/Nzc3LTE2NDUyNzUz/NTQtMTgwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Sandy Suskind Quartet",
+      "title": "Some Other Blues",
+      "release_title": "Various - J. Curve Cincinnati Jazz Collection Volume III",
+      "year": "2000",
+      "label": "J-Curve Records",
+      "country": "US",
+      "discogs_id": 24395516,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/J56xR7CAInrhbKqCj3qPCWi1ouF7jpSxkaMAxP54B2M/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk1/NTE2LTE2NjIxNTQz/OTktOTA4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Walter Strony",
+      "title": "People",
+      "release_title": "Walter Strony - Live",
+      "year": "2004",
+      "label": "Walter Strony Organ Concerts",
+      "country": "US",
+      "discogs_id": 37829331,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zumARwVtckz6Nxu_9No7g9n0cchG0hSg2e9-jGnQewo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODI5/MzMxLTE3ODM1MTgy/MDEtNjY5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Scotty Anderson Quartet",
+      "title": "Big Dipper",
+      "release_title": "Various - J. Curve Cincinnati Jazz Collection Volume III",
+      "year": "2000",
+      "label": "J-Curve Records",
+      "country": "US",
+      "discogs_id": 24395516,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/J56xR7CAInrhbKqCj3qPCWi1ouF7jpSxkaMAxP54B2M/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk1/NTE2LTE2NjIxNTQz/OTktOTA4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Henderson",
+      "title": "Inside You",
+      "release_title": "Eddie Henderson - Heritage",
+      "year": "2008",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 28273291,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B6hKQN2GKttwSMBYOHluNEh00ClmU6cmH6XkWVisJYs/rs:fit/g:sm/q:90/h:500/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjcz/MjkxLTE2OTQ4MTIw/MjAtNTA3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Boone",
+      "title": "Holy Diver",
+      "release_title": "Pat Boone - In A Metal Mood: No More Mr. Nice Guy",
+      "year": "1997",
+      "label": "Hip-O Records",
+      "country": "US",
+      "discogs_id": 28784581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SOb0y3QfyB-3X9emyRssTf6mwFgNZ-IcW0-BdhSGsxg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg0/NTgxLTE2OTkwMDY4/MDYtOTA0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Pritchard",
+      "title": "As Day And Night",
+      "release_title": "David Pritchard (2) - City Dreams",
+      "year": "1979",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 8646018,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/ZSVBUS677wQ60q7m8eXbCp0NQZ7rcrDkBEPXPwXnWQc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDYw/MTgtMTQ2NTgzMjQ4/OC02ODE0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "101 Strings & The Alshire Singers",
+      "title": "Early Summer",
+      "release_title": "101 Strings Orchestra* Featuring The Alshire Singers - Play And Sing Hits Of Today",
+      "year": "1976",
+      "label": "Alshire International",
+      "country": "US",
+      "discogs_id": 3058567,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Shadowfax",
+      "title": "New Electric India",
+      "release_title": "Shadowfax - Brown Rice / Karmapa Chenno",
+      "year": "1983",
+      "label": "Windham Hill Records",
+      "country": "US",
+      "discogs_id": 9215483,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/8Hi-Ald0XFC-bPyxaAtH5fVQmqZLU0f9nm9VpDFP9aA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTU0/ODMtMTU3NDU1NDAw/Mi0zODI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jane Jarvis",
+      "title": "I get along without you very well",
+      "release_title": "Jane Jarvis - To Hoagy with Love",
+      "year": "1987",
+      "label": "The Good Music Record Co.",
+      "country": "US",
+      "discogs_id": 10603330,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/t8PI8yIjpQu-RzOLViU7ZyHxTt8mzFNCfkpg2WMUs9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAz/MzMwLTE1MzAwMjY1/NDAtMjg0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Wishful Thinking",
+      "title": "Michael's Song",
+      "release_title": "Wishful Thinking (4) - Way Down West",
+      "year": "1988",
+      "label": "Soundwings",
+      "country": "US",
+      "discogs_id": 4527425,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/vLhahLBTEprBT_fRTaJJgJ7It09m3kb1p5gep6DVbi4/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc0/MjUtMTM2OTc0MDIw/OS05ODA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Boone",
+      "title": "Love Hurts",
+      "release_title": "Pat Boone - In A Metal Mood: No More Mr. Nice Guy",
+      "year": "1997",
+      "label": "Hip-O Records",
+      "country": "US",
+      "discogs_id": 28784581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SOb0y3QfyB-3X9emyRssTf6mwFgNZ-IcW0-BdhSGsxg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg0/NTgxLTE2OTkwMDY4/MDYtOTA0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boots Randolph",
+      "title": "More",
+      "release_title": "Boots Randolph - The World Of Boots Randolph",
+      "year": "1972",
+      "label": "Monument",
+      "country": "US",
+      "discogs_id": 22219777,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KC_l_yW1KHiqEj57xSCeg5-wVpTjFhwNC-WEe0mCCMI/rs:fit/g:sm/q:90/h:600/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE5/Nzc3LTE2NDUyNzUz/NTQtMTgwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Matt Ray",
+      "title": "Satellite",
+      "release_title": "Matt Ray - Lost In New York",
+      "year": "2006",
+      "label": "Consolidated Artists Productions",
+      "country": "US",
+      "discogs_id": 9173650,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_cgLGAEQ8d0CO7Ts9K6LUcjm87cjo06TVtQxGk1ko9A/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM2/NTAtMTQ3NjA1NjYx/OC04ODk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "101 Strings & The Alshire Singers",
+      "title": "Malibu Sun",
+      "release_title": "101 Strings Orchestra* Featuring The Alshire Singers - Play And Sing Hits Of Today",
+      "year": "1976",
+      "label": "Alshire International",
+      "country": "US",
+      "discogs_id": 3058567,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Wishful Thinking",
+      "title": "The Gentle Soul",
+      "release_title": "Wishful Thinking (4) - Way Down West",
+      "year": "1988",
+      "label": "Soundwings",
+      "country": "US",
+      "discogs_id": 4527425,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/vLhahLBTEprBT_fRTaJJgJ7It09m3kb1p5gep6DVbi4/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc0/MjUtMTM2OTc0MDIw/OS05ODA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Walter Strony",
+      "title": "Carmen Fantasy",
+      "release_title": "Walter Strony - Live",
+      "year": "2004",
+      "label": "Walter Strony Organ Concerts",
+      "country": "US",
+      "discogs_id": 37829331,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zumARwVtckz6Nxu_9No7g9n0cchG0hSg2e9-jGnQewo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODI5/MzMxLTE3ODM1MTgy/MDEtNjY5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Matt Ray",
+      "title": "Pent-Up House",
+      "release_title": "Matt Ray - Lost In New York",
+      "year": "2006",
+      "label": "Consolidated Artists Productions",
+      "country": "US",
+      "discogs_id": 9173650,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_cgLGAEQ8d0CO7Ts9K6LUcjm87cjo06TVtQxGk1ko9A/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM2/NTAtMTQ3NjA1NjYx/OC04ODk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Boone",
+      "title": "The Wind Cries Mary",
+      "release_title": "Pat Boone - In A Metal Mood: No More Mr. Nice Guy",
+      "year": "1997",
+      "label": "Hip-O Records",
+      "country": "US",
+      "discogs_id": 28784581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SOb0y3QfyB-3X9emyRssTf6mwFgNZ-IcW0-BdhSGsxg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg0/NTgxLTE2OTkwMDY4/MDYtOTA0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Walter Strony",
+      "title": "Love For Sale (From The New Yorkers)",
+      "release_title": "Walter Strony - Live",
+      "year": "2004",
+      "label": "Walter Strony Organ Concerts",
+      "country": "US",
+      "discogs_id": 37829331,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zumARwVtckz6Nxu_9No7g9n0cchG0hSg2e9-jGnQewo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODI5/MzMxLTE3ODM1MTgy/MDEtNjY5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jane Jarvis",
+      "title": "Georgia On My Mind",
+      "release_title": "Jane Jarvis - To Hoagy with Love",
+      "year": "1987",
+      "label": "The Good Music Record Co.",
+      "country": "US",
+      "discogs_id": 10603330,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/t8PI8yIjpQu-RzOLViU7ZyHxTt8mzFNCfkpg2WMUs9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAz/MzMwLTE1MzAwMjY1/NDAtMjg0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jay Hoggard",
+      "title": "Ring Shout",
+      "release_title": "Jay Hoggard - Love Is The Answer",
+      "year": "1994",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 7374550,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2sYkxDL3cUv-VaCKKF8Mm0V6BbyaxEbvOiyXON5rv2s/rs:fit/g:sm/q:90/h:353/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzQ1/NTAtMTQ0MDEwNTA3/NC01MDMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Far From Home",
+      "title": "When You Were Mine",
+      "release_title": "Far From Home - New Kind Of Love",
+      "year": "2002",
+      "label": "Not On Label (Far From Home Self-released)",
+      "country": "US",
+      "discogs_id": 3625911,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0ESCx2Fo34m6mbsJ0500vGsY2toaLXx5fCPwA1W68yo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjU5/MTEtMTMzNzg4MjA2/Mi05MzkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Far From Home",
+      "title": "Someday",
+      "release_title": "Far From Home - New Kind Of Love",
+      "year": "2002",
+      "label": "Not On Label (Far From Home Self-released)",
+      "country": "US",
+      "discogs_id": 3625911,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0ESCx2Fo34m6mbsJ0500vGsY2toaLXx5fCPwA1W68yo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjU5/MTEtMTMzNzg4MjA2/Mi05MzkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "101 Strings & The Alshire Singers",
+      "title": "Theme From \"Mahogany\" (Do You Know Where You're Going To)",
+      "release_title": "101 Strings Orchestra* Featuring The Alshire Singers - Play And Sing Hits Of Today",
+      "year": "1976",
+      "label": "Alshire International",
+      "country": "US",
+      "discogs_id": 3058567,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Jane Jarvis",
+      "title": "How Little We Know",
+      "release_title": "Jane Jarvis - To Hoagy with Love",
+      "year": "1987",
+      "label": "The Good Music Record Co.",
+      "country": "US",
+      "discogs_id": 10603330,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/t8PI8yIjpQu-RzOLViU7ZyHxTt8mzFNCfkpg2WMUs9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAz/MzMwLTE1MzAwMjY1/NDAtMjg0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jay Hoggard",
+      "title": "The Nearness Of You",
+      "release_title": "Jay Hoggard - Love Is The Answer",
+      "year": "1994",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 7374550,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2sYkxDL3cUv-VaCKKF8Mm0V6BbyaxEbvOiyXON5rv2s/rs:fit/g:sm/q:90/h:353/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzQ1/NTAtMTQ0MDEwNTA3/NC01MDMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Douglas & Ravi Coltrane & Vijay Iyer & Linda Oh & Marcus Gilmore",
+      "title": "Solato",
+      "release_title": "Dave Douglas, Ravi Coltrane, Vijay Iyer, Linda Oh, Marcus Gilmore - GPS Vol 2: Orange Afternoons",
+      "year": "2011",
+      "label": "Greenleaf Music",
+      "country": "US",
+      "discogs_id": 3248758,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/uHyIxBtaZ7jDFqs23zsVpG25eboXq6R3G0rKQoGq5_g/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDg3/NTgtMTMyMjMwMjc5/Mi5qcGVn.jpeg"
+    }
+  ]
+}
