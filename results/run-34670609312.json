@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Conscious"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Hardcore Hip-Hop"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Boom Bap"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Jazzy Hip-Hop"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Instrumental"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1977,
+    "year_to": 2025,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 9,
+      "artists_found": 9,
+      "fresh_lookups": 0,
+      "styles_considered": 28
+    }
+  },
+  "results": [
+    {
+      "artist": "Phys Edison",
+      "title": "Scarface",
+      "release_title": "Phys Edison - IDIOT BOX",
+      "year": "2018",
+      "label": "Noside",
+      "country": "US",
+      "discogs_id": 13088274,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IWoyFy8Y_OJ1I5CdY_AL3KBUh79q0JSerZ90nHmUoN4/rs:fit/g:sm/q:90/h:542/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg4/Mjc0LTE1NDc4NDMy/OTItNjE2MC5wbmc.jpeg"
+    },
+    {
+      "artist": "Millie Jackson",
+      "title": "Are You That Someone",
+      "release_title": "Millie Jackson - The Very Best Of Millie Jackson",
+      "year": "1994",
+      "label": "Jive",
+      "country": "US",
+      "discogs_id": 19551487,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5Ryyvjd_-tjLz1gbX3VbVIp9syokXU9RkU_1NbKJlVU/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUx/NDg3LTE2NzM3NDUy/ODYtMzU1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Blue Notes",
+      "title": "All I Need - (Stereo)",
+      "release_title": "The Blue Notes - All I Need ",
+      "year": "1978",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 5597906,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/k3Xr5hfoZrzztTpZXPil9AbYlUR8AU4sLl2tE_lvQRc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTc5/MDYtMTQ1NzU1MzUy/NS0zMDQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Risk One",
+      "title": "L.P.L.S. (Remix)",
+      "release_title": "Risk One - Set It To Music",
+      "year": "2000",
+      "label": "Unknown Soldier",
+      "country": "US",
+      "discogs_id": 4385092,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NgIEztvcWkNFoOA3SeG9MmtyUO76dL9V6nz5EMARY6w/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODUw/OTItMTUzNzc4MDA1/OC0yNzU4LnBuZw.jpeg"
+    },
+    {
+      "artist": "Risk One",
+      "title": "Waterlogged",
+      "release_title": "Risk One - Set It To Music",
+      "year": "2000",
+      "label": "Unknown Soldier",
+      "country": "US",
+      "discogs_id": 4385092,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NgIEztvcWkNFoOA3SeG9MmtyUO76dL9V6nz5EMARY6w/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODUw/OTItMTUzNzc4MDA1/OC0yNzU4LnBuZw.jpeg"
+    },
+    {
+      "artist": "DJ Skizz",
+      "title": "Heavy Metal Is Bakk",
+      "release_title": "DJ Skizz - BQE The Brooklyn-Queens Experience Instrumentals",
+      "year": "2015",
+      "label": "Slice-of-Spice",
+      "country": "US",
+      "discogs_id": 6608680,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/2dIc-1zCyDLje5Z3QiW5tqOrvcbUmEQg-U_tQZIviow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDg2/ODAtMTQyODA3NjY0/My01OTE2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Millie Jackson",
+      "title": "Young Man, Older Woman",
+      "release_title": "Millie Jackson - The Very Best Of Millie Jackson",
+      "year": "1994",
+      "label": "Jive",
+      "country": "US",
+      "discogs_id": 19551487,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5Ryyvjd_-tjLz1gbX3VbVIp9syokXU9RkU_1NbKJlVU/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUx/NDg3LTE2NzM3NDUy/ODYtMzU1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eugene Wilde",
+      "title": "Special Feelings (Instrumental)",
+      "release_title": "Eugene Wilde - Special Feelings",
+      "year": "1992",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6104507,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/n4cLoQVSJZnPs6floBT8dSYj-3AtCDdikJJXI-4y2TQ/rs:fit/g:sm/q:90/h:505/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDQ1/MDctMTcyMzMwMDUz/My0zODYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "DJ Skizz",
+      "title": "Day In The Life",
+      "release_title": "DJ Skizz - BQE The Brooklyn-Queens Experience Instrumentals",
+      "year": "2015",
+      "label": "Slice-of-Spice",
+      "country": "US",
+      "discogs_id": 6608680,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/2dIc-1zCyDLje5Z3QiW5tqOrvcbUmEQg-U_tQZIviow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDg2/ODAtMTQyODA3NjY0/My01OTE2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Millie Jackson",
+      "title": "You Knocked The Love (Right Outta My Heart)",
+      "release_title": "Millie Jackson - The Very Best Of Millie Jackson",
+      "year": "1994",
+      "label": "Jive",
+      "country": "US",
+      "discogs_id": 19551487,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5Ryyvjd_-tjLz1gbX3VbVIp9syokXU9RkU_1NbKJlVU/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUx/NDg3LTE2NzM3NDUy/ODYtMzU1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Coolhandtrew",
+      "title": "Smog",
+      "release_title": "Coolhandtrew - Bottomless Bellinis ",
+      "year": "2023",
+      "label": "Clocked Out Records",
+      "country": "US",
+      "discogs_id": 28423699,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qPwZK6AdLiX9mr_-oLCSh__PPSUoVZx2jqm-OIMP-J0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIz/Njk5LTE2OTU5MDY2/NzQtMTYwNS5wbmc.jpeg"
+    },
+    {
+      "artist": "Dennis Edwards",
+      "title": "I Thought I Could Handle It",
+      "release_title": "Dennis Edwards - Coolin' Out / I Thought I Could Handle It",
+      "year": "1985",
+      "label": "Gordy",
+      "country": "US",
+      "discogs_id": 3626352,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/kzBTfCQRDw5ZN2ungnCC-DRfh-N3pSYFsWn0Ob7WIcA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjYz/NTItMTYzNjU1Mzgz/My01MjMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Coolhandtrew",
+      "title": "Before You Pt II",
+      "release_title": "Coolhandtrew - Bottomless Bellinis ",
+      "year": "2023",
+      "label": "Clocked Out Records",
+      "country": "US",
+      "discogs_id": 28423699,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qPwZK6AdLiX9mr_-oLCSh__PPSUoVZx2jqm-OIMP-J0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIz/Njk5LTE2OTU5MDY2/NzQtMTYwNS5wbmc.jpeg"
+    },
+    {
+      "artist": "DJ Skizz",
+      "title": "Vio-lence",
+      "release_title": "DJ Skizz - BQE The Brooklyn-Queens Experience Instrumentals",
+      "year": "2015",
+      "label": "Slice-of-Spice",
+      "country": "US",
+      "discogs_id": 6608680,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/2dIc-1zCyDLje5Z3QiW5tqOrvcbUmEQg-U_tQZIviow/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDg2/ODAtMTQyODA3NjY0/My01OTE2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fatgums & Bambu",
+      "title": "Words From Joma / Words From Tino",
+      "release_title": "Fatgums X Bambu (6) - ...A Peaceful Riot...",
+      "year": "2009",
+      "label": "Beatrock Music",
+      "country": "US",
+      "discogs_id": 3878548,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KOLay9y9tFoPsgtPLg6JdxN-Yr5GH_RLFMFIPXyrB-E/rs:fit/g:sm/q:90/h:345/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzg1/NDgtMTM0NzgyNDc1/My0zNzY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tiger Speak",
+      "title": "Fly Out",
+      "release_title": "Tiger Speak - Tiger Speak",
+      "year": "2012",
+      "label": "Tiger Speak",
+      "country": "US",
+      "discogs_id": 13436491,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bTt4E7zg-16BcLsVNPQsVp_R8TWXXUpaR4Lb1JOtTjQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM2/NDkxLTE1NTQxNzcw/NzUtNzYyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "DJ Clue",
+      "title": "DJ Clue Intro",
+      "release_title": "Chops | Kanye* - Changing Lanes",
+      "year": "2004",
+      "label": "Not On Label (Chops Self-released)",
+      "country": "US",
+      "discogs_id": 8080962,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/gjDykn1zv1QXf-qpaJ-U94F_F3WIpr2gdzHhf8hQrrQ/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODA5/NjItMTQ1NDg4MDU0/MC0zOTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Risk One",
+      "title": "Glitch In Programming",
+      "release_title": "Risk One - Set It To Music",
+      "year": "2000",
+      "label": "Unknown Soldier",
+      "country": "US",
+      "discogs_id": 4385092,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NgIEztvcWkNFoOA3SeG9MmtyUO76dL9V6nz5EMARY6w/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODUw/OTItMTUzNzc4MDA1/OC0yNzU4LnBuZw.jpeg"
+    },
+    {
+      "artist": "Coolhandtrew",
+      "title": "Karma",
+      "release_title": "Coolhandtrew - Bottomless Bellinis ",
+      "year": "2023",
+      "label": "Clocked Out Records",
+      "country": "US",
+      "discogs_id": 28423699,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qPwZK6AdLiX9mr_-oLCSh__PPSUoVZx2jqm-OIMP-J0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIz/Njk5LTE2OTU5MDY2/NzQtMTYwNS5wbmc.jpeg"
+    },
+    {
+      "artist": "DJ Coutz",
+      "title": "Need a New One",
+      "release_title": "DJ Coutz - Code:01",
+      "year": "2012",
+      "label": "Not On Label (DJ Coutz Self-Released)",
+      "country": "US",
+      "discogs_id": 12132840,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/so5qed1nOE0JSjZw2FQImzJ6aXSbxtLfBEPAUUvcfRU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMy/ODQwLTE1Mjg5NTc5/NjUtNTQxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eugene Wilde",
+      "title": "Special Feelings (Single Edit)",
+      "release_title": "Eugene Wilde - Special Feelings",
+      "year": "1992",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6104507,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/n4cLoQVSJZnPs6floBT8dSYj-3AtCDdikJJXI-4y2TQ/rs:fit/g:sm/q:90/h:505/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDQ1/MDctMTcyMzMwMDUz/My0zODYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Freeway",
+      "title": "Alright (Remix)",
+      "release_title": "Chops | Kanye* - Changing Lanes",
+      "year": "2004",
+      "label": "Not On Label (Chops Self-released)",
+      "country": "US",
+      "discogs_id": 8080962,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/gjDykn1zv1QXf-qpaJ-U94F_F3WIpr2gdzHhf8hQrrQ/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODA5/NjItMTQ1NDg4MDU0/MC0zOTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tiger Speak",
+      "title": "The Proclamation",
+      "release_title": "Tiger Speak - Tiger Speak",
+      "year": "2012",
+      "label": "Tiger Speak",
+      "country": "US",
+      "discogs_id": 13436491,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bTt4E7zg-16BcLsVNPQsVp_R8TWXXUpaR4Lb1JOtTjQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM2/NDkxLTE1NTQxNzcw/NzUtNzYyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Millie Jackson",
+      "title": "An Imitation Of Love",
+      "release_title": "Millie Jackson - The Very Best Of Millie Jackson",
+      "year": "1994",
+      "label": "Jive",
+      "country": "US",
+      "discogs_id": 19551487,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5Ryyvjd_-tjLz1gbX3VbVIp9syokXU9RkU_1NbKJlVU/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUx/NDg3LTE2NzM3NDUy/ODYtMzU1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "YL & Zoomo",
+      "title": "Christ Man",
+      "release_title": "YL (3) & Zoomo - Sunday Holiday",
+      "year": "2022",
+      "label": "Novelty",
+      "country": "US",
+      "discogs_id": 23977409,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/b-uJKjPtjzDMtWfTYwTJbdxnjNnIspVQKZNSFcPQ-mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTc3/NDA5LTE2NTg3MjE5/NzgtMzU5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fatgums & Bambu",
+      "title": "Strapped",
+      "release_title": "Fatgums X Bambu (6) - ...A Peaceful Riot...",
+      "year": "2009",
+      "label": "Beatrock Music",
+      "country": "US",
+      "discogs_id": 3878548,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KOLay9y9tFoPsgtPLg6JdxN-Yr5GH_RLFMFIPXyrB-E/rs:fit/g:sm/q:90/h:345/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzg1/NDgtMTM0NzgyNDc1/My0zNzY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phys Edison",
+      "title": "Low-Karate",
+      "release_title": "Phys Edison - IDIOT BOX",
+      "year": "2018",
+      "label": "Noside",
+      "country": "US",
+      "discogs_id": 13088274,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IWoyFy8Y_OJ1I5CdY_AL3KBUh79q0JSerZ90nHmUoN4/rs:fit/g:sm/q:90/h:542/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg4/Mjc0LTE1NDc4NDMy/OTItNjE2MC5wbmc.jpeg"
+    },
+    {
+      "artist": "Phys Edison",
+      "title": "Cosmic",
+      "release_title": "Phys Edison - IDIOT BOX",
+      "year": "2018",
+      "label": "Noside",
+      "country": "US",
+      "discogs_id": 13088274,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IWoyFy8Y_OJ1I5CdY_AL3KBUh79q0JSerZ90nHmUoN4/rs:fit/g:sm/q:90/h:542/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg4/Mjc0LTE1NDc4NDMy/OTItNjE2MC5wbmc.jpeg"
+    },
+    {
+      "artist": "Count Bass D",
+      "title": "Bye (With A Size 11)",
+      "release_title": "Count Bass-D* - Some Music: Producer's Cut (Part 1)",
+      "year": "2004",
+      "label": "Domination Recordings",
+      "country": "US",
+      "discogs_id": 1218407,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/IJXZWPED_Xf0rQVtSpQfORKWhaaGBiemtoQWsai2nYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg0/MDctMTc2NzQ5NjI5/MC00NjkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "YL & Zoomo",
+      "title": "Confessions",
+      "release_title": "YL (3) & Zoomo - Sunday Holiday",
+      "year": "2022",
+      "label": "Novelty",
+      "country": "US",
+      "discogs_id": 23977409,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/b-uJKjPtjzDMtWfTYwTJbdxnjNnIspVQKZNSFcPQ-mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTc3/NDA5LTE2NTg3MjE5/NzgtMzU5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Count Bass D",
+      "title": "Remix One",
+      "release_title": "Count Bass-D* - Some Music: Producer's Cut (Part 1)",
+      "year": "2004",
+      "label": "Domination Recordings",
+      "country": "US",
+      "discogs_id": 1218407,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/IJXZWPED_Xf0rQVtSpQfORKWhaaGBiemtoQWsai2nYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg0/MDctMTc2NzQ5NjI5/MC00NjkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Blue Notes",
+      "title": "All I Need - (Mono)",
+      "release_title": "The Blue Notes - All I Need ",
+      "year": "1978",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 5597906,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/k3Xr5hfoZrzztTpZXPil9AbYlUR8AU4sLl2tE_lvQRc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTc5/MDYtMTQ1NzU1MzUy/NS0zMDQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "YL & Zoomo",
+      "title": "Past, Present, Future",
+      "release_title": "YL (3) & Zoomo - Sunday Holiday",
+      "year": "2022",
+      "label": "Novelty",
+      "country": "US",
+      "discogs_id": 23977409,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/b-uJKjPtjzDMtWfTYwTJbdxnjNnIspVQKZNSFcPQ-mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTc3/NDA5LTE2NTg3MjE5/NzgtMzU5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Guru & Chaka Khan",
+      "title": "Respect The Architect (Buckwild Remix)",
+      "release_title": "Guru Featuring Chaka Khan - Watch What You Say",
+      "year": "1995",
+      "label": "Chrysalis",
+      "country": "US",
+      "discogs_id": 1855860,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/FoXFdTUqVQEQQSWcittdOs5GjTMxPgBCjHoe69KRtRA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU4/NjAtMTM1OTA0NTc5/NC0zOTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eugene Wilde",
+      "title": "Special Feelings (LP Version)",
+      "release_title": "Eugene Wilde - Special Feelings",
+      "year": "1992",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6104507,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/n4cLoQVSJZnPs6floBT8dSYj-3AtCDdikJJXI-4y2TQ/rs:fit/g:sm/q:90/h:505/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDQ1/MDctMTcyMzMwMDUz/My0zODYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "YL & Zoomo",
+      "title": "Whens The Last Time I Prayed?",
+      "release_title": "YL (3) & Zoomo - Sunday Holiday",
+      "year": "2022",
+      "label": "Novelty",
+      "country": "US",
+      "discogs_id": 23977409,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/b-uJKjPtjzDMtWfTYwTJbdxnjNnIspVQKZNSFcPQ-mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTc3/NDA5LTE2NTg3MjE5/NzgtMzU5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fatgums & Bambu",
+      "title": "Black Smile",
+      "release_title": "Fatgums X Bambu (6) - ...A Peaceful Riot...",
+      "year": "2009",
+      "label": "Beatrock Music",
+      "country": "US",
+      "discogs_id": 3878548,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KOLay9y9tFoPsgtPLg6JdxN-Yr5GH_RLFMFIPXyrB-E/rs:fit/g:sm/q:90/h:345/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzg1/NDgtMTM0NzgyNDc1/My0zNzY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tiger Speak",
+      "title": "R.D.C (A Love Story)",
+      "release_title": "Tiger Speak - Tiger Speak",
+      "year": "2012",
+      "label": "Tiger Speak",
+      "country": "US",
+      "discogs_id": 13436491,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bTt4E7zg-16BcLsVNPQsVp_R8TWXXUpaR4Lb1JOtTjQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM2/NDkxLTE1NTQxNzcw/NzUtNzYyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phys Edison",
+      "title": "Rainbow Dip",
+      "release_title": "Phys Edison - IDIOT BOX",
+      "year": "2018",
+      "label": "Noside",
+      "country": "US",
+      "discogs_id": 13088274,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IWoyFy8Y_OJ1I5CdY_AL3KBUh79q0JSerZ90nHmUoN4/rs:fit/g:sm/q:90/h:542/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg4/Mjc0LTE1NDc4NDMy/OTItNjE2MC5wbmc.jpeg"
+    },
+    {
+      "artist": "DJ Coutz",
+      "title": "And Water",
+      "release_title": "DJ Coutz - Code:01",
+      "year": "2012",
+      "label": "Not On Label (DJ Coutz Self-Released)",
+      "country": "US",
+      "discogs_id": 12132840,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/so5qed1nOE0JSjZw2FQImzJ6aXSbxtLfBEPAUUvcfRU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMy/ODQwLTE1Mjg5NTc5/NjUtNTQxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Guru & Chaka Khan",
+      "title": "Respect The Architect (Album Mix)",
+      "release_title": "Guru Featuring Chaka Khan - Watch What You Say",
+      "year": "1995",
+      "label": "Chrysalis",
+      "country": "US",
+      "discogs_id": 1855860,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/FoXFdTUqVQEQQSWcittdOs5GjTMxPgBCjHoe69KRtRA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU4/NjAtMTM1OTA0NTc5/NC0zOTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fatgums & Bambu",
+      "title": "Listen",
+      "release_title": "Fatgums X Bambu (6) - ...A Peaceful Riot...",
+      "year": "2009",
+      "label": "Beatrock Music",
+      "country": "US",
+      "discogs_id": 3878548,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KOLay9y9tFoPsgtPLg6JdxN-Yr5GH_RLFMFIPXyrB-E/rs:fit/g:sm/q:90/h:345/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzg1/NDgtMTM0NzgyNDc1/My0zNzY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eugene Wilde",
+      "title": "Special Feelings (Suite)",
+      "release_title": "Eugene Wilde - Special Feelings",
+      "year": "1992",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6104507,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/n4cLoQVSJZnPs6floBT8dSYj-3AtCDdikJJXI-4y2TQ/rs:fit/g:sm/q:90/h:505/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDQ1/MDctMTcyMzMwMDUz/My0zODYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "DJ Coutz",
+      "title": "Holiness",
+      "release_title": "DJ Coutz - Code:01",
+      "year": "2012",
+      "label": "Not On Label (DJ Coutz Self-Released)",
+      "country": "US",
+      "discogs_id": 12132840,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/so5qed1nOE0JSjZw2FQImzJ6aXSbxtLfBEPAUUvcfRU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMy/ODQwLTE1Mjg5NTc5/NjUtNTQxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Count Bass D",
+      "title": "Nutcracker Sweet",
+      "release_title": "Count Bass-D* - Some Music: Producer's Cut (Part 1)",
+      "year": "2004",
+      "label": "Domination Recordings",
+      "country": "US",
+      "discogs_id": 1218407,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/IJXZWPED_Xf0rQVtSpQfORKWhaaGBiemtoQWsai2nYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg0/MDctMTc2NzQ5NjI5/MC00NjkxLmpwZWc.jpeg"
+    }
+  ]
+}
