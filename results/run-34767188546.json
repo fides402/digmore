@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2022,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 30,
+      "artists_found": 29,
+      "fresh_lookups": 3,
+      "styles_considered": 94
+    }
+  },
+  "results": [
+    {
+      "artist": "Bigg Ben",
+      "title": "It's Gonna Be Alright",
+      "release_title": "Bigg Ben - Yeah, Yeah, Yeah",
+      "year": "1993",
+      "label": "MAE Records",
+      "country": "US",
+      "discogs_id": 1778512,
+      "rating_avg": 4.71,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/OrGOsnO0EOo5OihnUPXmgeyU0cOkXT8NQjjo3YSyuAg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg1/MTItMTQ2NzAyMTgw/MS03NTI2LnBuZw.jpeg"
+    },
+    {
+      "artist": "Joe Tex",
+      "title": "Hate Yourself In The Morning",
+      "release_title": "Joe Tex - From The Roots Came The Rapper",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 11668053,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/jfP8t-flTAduUD8aEv2G_DGoEsvhXC-TSOLiCNUyWWA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY4/MDUzLTE1NzM2ODgy/NDktMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gloria Reuben",
+      "title": "Walk Away",
+      "release_title": "Gloria Reuben - Just For You ",
+      "year": "2004",
+      "label": "Glo Productions",
+      "country": "US",
+      "discogs_id": 22964417,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aBEz-BKmWgu106NdUwlKcdjK1PXvO-0_wrwX0ZzRaJg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY0/NDE3LTE2NTA1OTIy/MDgtNjM1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Touch Me In The Morning",
+      "release_title": "Diana Ross - Touch Me In The Morning ",
+      "year": "1973",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 4911647,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/K5Hn57FfIrdi_xqCaYl6S4UOLV5YTsUyGxggMPm7VQQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTE2/NDctMTQ5MzA2OTgw/OC0yNDEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Al Jarreau",
+      "title": "Lean On Me",
+      "release_title": "Al Jarreau - Does Withers",
+      "year": "1984",
+      "label": "Allegiance",
+      "country": "US",
+      "discogs_id": 3787612,
+      "rating_avg": 4.25,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/bh-5-MCbdhGTUyexwj7zeg89nW_g0QnSTsGDApzESqo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODc2/MTItMTQwMzg4MTk5/Ny02NTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chic",
+      "title": "Chic Cheer",
+      "release_title": "Chic - C'est Chic",
+      "year": "1978",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 11105244,
+      "rating_avg": 4.08,
+      "rating_count": 48,
+      "cover_image": "https://i.discogs.com/Hi0c2oi5roYRtsoxxPaNjQVlJuuIYohVUxnNr9Syzmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA1/MjQ0LTE1MDk5MjU3/MzgtNDYxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "It's Hard For Me To Say Good-Bye",
+      "release_title": "Eddie Kendricks - At His Best",
+      "year": "1990",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 11463377,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/v_NRwOCKKjEazhEvAKlW-iMmHkIsHJu-OMYwKVFHt3g/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYz/Mzc3LTE1MzE1NDgw/ODktNTQ2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bigg Ben",
+      "title": "Oh !",
+      "release_title": "Bigg Ben - Yeah, Yeah, Yeah",
+      "year": "1993",
+      "label": "MAE Records",
+      "country": "US",
+      "discogs_id": 1778512,
+      "rating_avg": 4.71,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/OrGOsnO0EOo5OihnUPXmgeyU0cOkXT8NQjjo3YSyuAg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg1/MTItMTQ2NzAyMTgw/MS03NTI2LnBuZw.jpeg"
+    },
+    {
+      "artist": "Chic",
+      "title": "I Want Your Love",
+      "release_title": "Chic - C'est Chic",
+      "year": "1978",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 11105244,
+      "rating_avg": 4.08,
+      "rating_count": 48,
+      "cover_image": "https://i.discogs.com/Hi0c2oi5roYRtsoxxPaNjQVlJuuIYohVUxnNr9Syzmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA1/MjQ0LTE1MDk5MjU3/MzgtNDYxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Tex",
+      "title": "Something's In Life Are Worth Dying For",
+      "release_title": "Joe Tex - From The Roots Came The Rapper",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 11668053,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/jfP8t-flTAduUD8aEv2G_DGoEsvhXC-TSOLiCNUyWWA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY4/MDUzLTE1NzM2ODgy/NDktMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "T.S. Monk",
+      "title": "Fantasy (Vocal)",
+      "release_title": "T.S. Monk - Fantasy",
+      "year": "1982",
+      "label": "Mirage",
+      "country": "US",
+      "discogs_id": 1756058,
+      "rating_avg": 4.92,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/L9Wrw2k5jCKO0mePkDTpYm8uaGc3NCu79KjO0-FnCZI/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTYw/NTgtMTUxNzQyNTE1/Mi01NzAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "B.T. Express",
+      "title": "Funky Music (Don't Laugh At My Funk)",
+      "release_title": "B.T. Express - Funky Music (Don't Laugh At My Funk)",
+      "year": "1977",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3184964,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ZY0O9FXyAgb-izDH17D7eBzmFwyysin92bHjqmitZbg/rs:fit/g:sm/q:90/h:503/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQ5/NjQtMTc3MzQ0Njc3/MS0yNjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Just My Imagination (Running Away With Me)",
+      "release_title": "Eddie Kendricks - At His Best",
+      "year": "1990",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 11463377,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/v_NRwOCKKjEazhEvAKlW-iMmHkIsHJu-OMYwKVFHt3g/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYz/Mzc3LTE1MzE1NDgw/ODktNTQ2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "El Coco",
+      "title": "Let's Get It Together",
+      "release_title": "El Coco - Greatest Disco Hits",
+      "year": "1998",
+      "label": "MCA Special Products",
+      "country": "US",
+      "discogs_id": 120006,
+      "rating_avg": 3.82,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/2sel7nUX6FukD8Q_OXKlafZZ2GSOsksNs14hpoLsAhQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAw/Ni0xMjYyNzIyMzU1/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gloria Reuben",
+      "title": "Difficult Kind",
+      "release_title": "Gloria Reuben - Just For You ",
+      "year": "2004",
+      "label": "Glo Productions",
+      "country": "US",
+      "discogs_id": 22964417,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aBEz-BKmWgu106NdUwlKcdjK1PXvO-0_wrwX0ZzRaJg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY0/NDE3LTE2NTA1OTIy/MDgtNjM1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Spyder Turner",
+      "title": "I Can't Make It Anymore",
+      "release_title": "Spyder Turner - I Can't Make It Anymore",
+      "year": "2019",
+      "label": "DETROIT A-GO-GO",
+      "country": "US",
+      "discogs_id": 14398159,
+      "rating_avg": 5.0,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/SRFkIagtAXDQQRw6_djyWVu4yKYCOfo1DzVV_e0Gy5Q/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk4/MTU5LTE1NzUzNzIx/NDMtNzc2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "B.T. Express",
+      "title": "We Got It Together",
+      "release_title": "B.T. Express - Funky Music (Don't Laugh At My Funk)",
+      "year": "1977",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3184964,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ZY0O9FXyAgb-izDH17D7eBzmFwyysin92bHjqmitZbg/rs:fit/g:sm/q:90/h:503/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQ5/NjQtMTc3MzQ0Njc3/MS0yNjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "El Coco",
+      "title": "Mondo Disco",
+      "release_title": "El Coco - Greatest Disco Hits",
+      "year": "1998",
+      "label": "MCA Special Products",
+      "country": "US",
+      "discogs_id": 120006,
+      "rating_avg": 3.82,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/2sel7nUX6FukD8Q_OXKlafZZ2GSOsksNs14hpoLsAhQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAw/Ni0xMjYyNzIyMzU1/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Tex",
+      "title": "Chained In The Mind",
+      "release_title": "Joe Tex - From The Roots Came The Rapper",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 11668053,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/jfP8t-flTAduUD8aEv2G_DGoEsvhXC-TSOLiCNUyWWA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY4/MDUzLTE1NzM2ODgy/NDktMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gloria Reuben",
+      "title": "I Can't Make You Love Me",
+      "release_title": "Gloria Reuben - Just For You ",
+      "year": "2004",
+      "label": "Glo Productions",
+      "country": "US",
+      "discogs_id": 22964417,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aBEz-BKmWgu106NdUwlKcdjK1PXvO-0_wrwX0ZzRaJg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY0/NDE3LTE2NTA1OTIy/MDgtNjM1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bigg Ben",
+      "title": "Waiting For Your Love",
+      "release_title": "Bigg Ben - Yeah, Yeah, Yeah",
+      "year": "1993",
+      "label": "MAE Records",
+      "country": "US",
+      "discogs_id": 1778512,
+      "rating_avg": 4.71,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/OrGOsnO0EOo5OihnUPXmgeyU0cOkXT8NQjjo3YSyuAg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg1/MTItMTQ2NzAyMTgw/MS03NTI2LnBuZw.jpeg"
+    },
+    {
+      "artist": "Bigg Ben",
+      "title": "Is There Something",
+      "release_title": "Bigg Ben - Yeah, Yeah, Yeah",
+      "year": "1993",
+      "label": "MAE Records",
+      "country": "US",
+      "discogs_id": 1778512,
+      "rating_avg": 4.71,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/OrGOsnO0EOo5OihnUPXmgeyU0cOkXT8NQjjo3YSyuAg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg1/MTItMTQ2NzAyMTgw/MS03NTI2LnBuZw.jpeg"
+    },
+    {
+      "artist": "Al Jarreau",
+      "title": "The Same Love That Made Me Laugh",
+      "release_title": "Al Jarreau - Does Withers",
+      "year": "1984",
+      "label": "Allegiance",
+      "country": "US",
+      "discogs_id": 3787612,
+      "rating_avg": 4.25,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/bh-5-MCbdhGTUyexwj7zeg89nW_g0QnSTsGDApzESqo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODc2/MTItMTQwMzg4MTk5/Ny02NTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tavares",
+      "title": "In The Eyes Of Love",
+      "release_title": "Tavares - Free Ride",
+      "year": "1975",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 13749218,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/qYovevp8jZYHWWuz57eGmsNJMzkhrKl6seLIpek6p-8/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ5/MjE4LTE1NjAyOTA5/NDctMjAzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Tex",
+      "title": "Lovin' Man",
+      "release_title": "Joe Tex - From The Roots Came The Rapper",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 11668053,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/jfP8t-flTAduUD8aEv2G_DGoEsvhXC-TSOLiCNUyWWA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY4/MDUzLTE1NzM2ODgy/NDktMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Can I",
+      "release_title": "Eddie Kendricks - At His Best",
+      "year": "1990",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 11463377,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/v_NRwOCKKjEazhEvAKlW-iMmHkIsHJu-OMYwKVFHt3g/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYz/Mzc3LTE1MzE1NDgw/ODktNTQ2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chic",
+      "title": "At Last I Am Free",
+      "release_title": "Chic - C'est Chic",
+      "year": "1978",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 11105244,
+      "rating_avg": 4.08,
+      "rating_count": 48,
+      "cover_image": "https://i.discogs.com/Hi0c2oi5roYRtsoxxPaNjQVlJuuIYohVUxnNr9Syzmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA1/MjQ0LTE1MDk5MjU3/MzgtNDYxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Philip-Michael Thomas",
+      "title": "Cosmic Free",
+      "release_title": "Philip Michael Thomas* - Don't Make Promises",
+      "year": "1988",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 24953218,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gHVRgAjAOun1S9Jb0rj9RN_BWsFX6EnpeE0e4BmM6c0/rs:fit/g:sm/q:90/h:600/w:354/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTUz/MjE4LTE2NjY3OTg5/MTAtNjg3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Jarreau",
+      "title": "Grandma's Hands",
+      "release_title": "Al Jarreau - Does Withers",
+      "year": "1984",
+      "label": "Allegiance",
+      "country": "US",
+      "discogs_id": 3787612,
+      "rating_avg": 4.25,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/bh-5-MCbdhGTUyexwj7zeg89nW_g0QnSTsGDApzESqo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODc2/MTItMTQwMzg4MTk5/Ny02NTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Shoeshine Boy",
+      "release_title": "Eddie Kendricks - At His Best",
+      "year": "1990",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 11463377,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/v_NRwOCKKjEazhEvAKlW-iMmHkIsHJu-OMYwKVFHt3g/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYz/Mzc3LTE1MzE1NDgw/ODktNTQ2My5qcGVn.jpeg"
+    }
+  ]
+}

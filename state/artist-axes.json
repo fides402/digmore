@@ -3916,6 +3916,447 @@
    1985
   ]
  },
+ "america": {
+  "countries": [
+   "South Korea",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Taiwan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Canada",
+   "France",
+   "UK",
+   "US",
+   "Canada",
+   "US",
+   "Netherlands"
+  ],
+  "genres": [
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Folk, World, & Country",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Pop"
+   ],
+   [
+    "Folk Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Pop"
+   ],
+   [
+    "Folk Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Pop"
+   ],
+   [
+    "Folk Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Folk, World, & Country"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Rock"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Pop Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Folk Rock",
+   "Soft Rock",
+   "Classic Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Folk Rock",
+   "Soft Rock",
+   "Folk Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Folk Rock",
+   "Soft Rock",
+   "Folk Rock",
+   "Soft Rock",
+   "Classic Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Folk Rock",
+   "Classic Rock",
+   "Folk Rock",
+   "Soft Rock",
+   "Classic Rock",
+   "Folk Rock",
+   "Acoustic",
+   "Pop Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Vocal",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Classic Rock",
+   "Soft Rock",
+   "Classic Rock"
+  ],
+  "years": [
+   1978,
+   1982,
+   1991,
+   1991,
+   1996,
+   1972,
+   2007,
+   2001,
+   2020,
+   2015,
+   1972,
+   2020,
+   1996,
+   1991,
+   2017,
+   1998,
+   2021,
+   1991,
+   1974,
+   1997,
+   1972,
+   1975,
+   1973,
+   1974,
+   1974
+  ]
+ },
  "andy williams": {
   "countries": [
    "Japan",
@@ -6298,6 +6739,422 @@
    1997,
    1981,
    1978
+  ]
+ },
+ "aretha franklin": {
+  "countries": [
+   "Japan",
+   "South Korea",
+   "Japan",
+   "Taiwan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "South Korea",
+   "Japan",
+   "Japan",
+   "South Korea",
+   "Japan",
+   "Japan",
+   "Italy",
+   "Belgium",
+   "Spain",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Italy",
+   "Spain",
+   "UK"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Blues",
+   "Electronic",
+   "Reggae",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Blues",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Blues"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Reggae"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Electronic"
+   ],
+   [
+    "Ballad",
+    "Reggae"
+   ],
+   [
+    "Ballad",
+    "Funk / Soul"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Electronic"
+   ],
+   [
+    "Vocal",
+    "Reggae"
+   ],
+   [
+    "Vocal",
+    "Funk / Soul"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Reggae"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Reggae-Pop",
+    "Electronic"
+   ],
+   [
+    "Reggae-Pop",
+    "Reggae"
+   ],
+   [
+    "Reggae-Pop",
+    "Funk / Soul"
+   ],
+   [
+    "Reggae-Pop",
+    "Pop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Reggae"
+   ],
+   [
+    "House",
+    "Funk / Soul"
+   ],
+   [
+    "House",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "New Jack Swing",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Blues"
+   ],
+   [
+    "Swingbeat",
+    "Funk / Soul"
+   ],
+   [
+    "Swingbeat",
+    "Blues"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Blues"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Blues"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Blues"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Rhythm & Blues",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Ballad",
+   "Vocal",
+   "Contemporary R&B",
+   "Reggae-Pop",
+   "House",
+   "Soul",
+   "Rhythm & Blues",
+   "Soul",
+   "Soul",
+   "Contemporary R&B",
+   "Soul",
+   "Soul",
+   "New Jack Swing",
+   "Rhythm & Blues",
+   "Rhythm & Blues",
+   "Soul",
+   "Rhythm & Blues",
+   "Soul",
+   "Soul",
+   "Disco",
+   "Soul",
+   "Contemporary R&B",
+   "Rhythm & Blues",
+   "Soul",
+   "Gospel",
+   "Swingbeat",
+   "Soul",
+   "Rhythm & Blues",
+   "Funk",
+   "Rhythm & Blues",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Rhythm & Blues",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul"
+  ],
+  "years": [
+   1989,
+   1969,
+   1967,
+   2014,
+   1971,
+   2006,
+   1998,
+   1989,
+   2009,
+   1975,
+   1987,
+   1998,
+   2013,
+   1992,
+   2023,
+   1990,
+   2008,
+   1967,
+   2001,
+   1993,
+   1969,
+   1971,
+   1986
   ]
  },
  "arif mardin": {
@@ -16185,6 +17042,361 @@
    2021,
    2005,
    1976
+  ]
+ },
+ "brian protheroe": {
+  "countries": [
+   "Netherlands",
+   "Europe",
+   "New Zealand",
+   "US",
+   "Germany",
+   "Unknown",
+   "Brazil",
+   "US",
+   "Germany",
+   "UK",
+   "Spain",
+   "Netherlands",
+   "Spain",
+   "Australia",
+   "UK",
+   "UK",
+   "Canada",
+   "France",
+   "Europe",
+   "UK",
+   "Italy",
+   "Canada",
+   "Netherlands",
+   "US",
+   "UK"
+  ],
+  "genres": [
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Stage & Screen",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Stage & Screen",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Stage & Screen",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Rock"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Music Hall",
+    "Rock"
+   ],
+   [
+    "Music Hall",
+    "Pop"
+   ],
+   [
+    "Music Hall",
+    "Stage & Screen"
+   ],
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Stage & Screen"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Pop"
+   ],
+   [
+    "AOR",
+    "Stage & Screen"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Pop"
+   ],
+   [
+    "Acoustic",
+    "Stage & Screen"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Pop"
+   ],
+   [
+    "Art Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Musical",
+    "Rock"
+   ],
+   [
+    "Musical",
+    "Pop"
+   ],
+   [
+    "Musical",
+    "Stage & Screen"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Rock"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Stage & Screen"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Stage & Screen"
+   ],
+   [
+    "Hard Rock",
+    "Rock"
+   ],
+   [
+    "Hard Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Pop Rock",
+   "Pop Rock",
+   "Vocal",
+   "Folk Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Music Hall",
+   "Chanson",
+   "Pop Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "AOR",
+   "Acoustic",
+   "Art Rock",
+   "Musical",
+   "Soft Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Pop Rock",
+   "Vocal",
+   "Pop Rock",
+   "AOR",
+   "Hard Rock",
+   "Pop Rock"
+  ],
+  "years": [
+   1974,
+   2006,
+   1975,
+   1974,
+   2018,
+   1974,
+   1974,
+   1974,
+   1975,
+   1996,
+   1974,
+   1975,
+   2020,
+   1974,
+   1976,
+   1974,
+   2005,
+   1975,
+   1975,
+   1975,
+   1975,
+   1975,
+   1974
   ]
  },
  "bruno martino": {
