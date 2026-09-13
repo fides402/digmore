@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Conscious"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Hardcore Hip-Hop"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Boom Bap"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Jazzy Hip-Hop"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1974,
+    "year_to": 2025,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 8,
+      "artists_found": 8,
+      "fresh_lookups": 0,
+      "styles_considered": 33
+    }
+  },
+  "results": [
+    {
+      "artist": "Smash",
+      "title": "Blue Jeans (Instrumental)",
+      "release_title": "Smash (7) - Blue Jeans",
+      "year": "1981",
+      "label": "D.T.D. Records",
+      "country": "US",
+      "discogs_id": 9458122,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7CNhWbKkbmANZ2h6N9esI625CYQB0ut-ReBlZCeb98c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTgx/MjItMTQ4MDkyODY0/Ni0xMDU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Fatback Band",
+      "title": "Love In Perfect Harmony",
+      "release_title": "Fatback* - Love In Perfect Harmony",
+      "year": "1979",
+      "label": "Spring Records",
+      "country": "US",
+      "discogs_id": 7254507,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/S_QlykpfUEHlXiLp9XUVscD-hUxTEEfg9s1pWO_bNnY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTQ1/MDctMTQ3MjQ2OTQz/My0xMzkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "J. Sands",
+      "title": "Place To Be (Saturday Night)",
+      "release_title": "J. Sands - The Breaks 2 - The Interlude Violator",
+      "year": "2006",
+      "label": "B.U.K.A. Entertainment",
+      "country": "US",
+      "discogs_id": 3579978,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/29jgX8NxTkaV-q9alcOKVp4ZHFcM2I3l-grQ7VDU3d8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzk5/NzgtMTYyODYxMDc0/NC03MjQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Deryll Inman",
+      "title": "All The Love (Mono)",
+      "release_title": "Deryll Inman - All The Love",
+      "year": "1977",
+      "label": "LA Records",
+      "country": "US",
+      "discogs_id": 9934645,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XHRQi-4a13ylqH2GidohmYJoDPri2H6J_ygyJMI5M1E/rs:fit/g:sm/q:90/h:500/w:509/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzQ2/NDUtMTQ4ODgxMzU0/OC00MjE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Windjammer",
+      "title": "Rockin' (Instrumental Version)",
+      "release_title": "Windjammer - Rockin'",
+      "year": "1983",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 1462225,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/sHDrPdPBAMYa6EzSbMe9ujZjLapAz7xCA0PuIOLzQr8/rs:fit/g:sm/q:90/h:503/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjIy/MjUtMTI3MTk2MDMw/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Matt & The Grooves",
+      "title": "Coming Again",
+      "release_title": "Matt & The Grooves - Coming Again / You Touch My Heart",
+      "year": "1982",
+      "label": "Soul Heart & Mind Records",
+      "country": "US",
+      "discogs_id": 5102941,
+      "rating_avg": 5.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/LAd8iLwkk6AWkuOdt3RkOkP3XyWTvn4TM6WM9TAwRx4/rs:fit/g:sm/q:90/h:400/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDI5/NDEtMTM4NTAyODk4/NS03MDEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "K II S",
+      "title": "Christian Party",
+      "release_title": "K.II.S (Key To Salvation)* - II Da X-Treme",
+      "year": "1994",
+      "label": "New Era Recordz",
+      "country": "US",
+      "discogs_id": 23408924,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XJZ99kGyJGOn64o8paMzdSXtGgIrL1J3YBQT8loB8ig/rs:fit/g:sm/q:90/h:400/w:264/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/OTI0LTE2NTM5MjIx/NzAtNzc5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Ruffin",
+      "title": "Everything's Coming Up Love (Stereo)",
+      "release_title": "David Ruffin - Everything's Coming Up Love",
+      "year": "1976",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 6936974,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/PdshvRzf4xyHwW__Mfuu0pEH0LUuCghuwoVzCXA_rgs/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzY5/NzQtMTQyOTkxMzI0/Mi03MjkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Substance Abuse",
+      "title": "West Los (Original)",
+      "release_title": "Substance Abuse - Don't Get Us Wrong / West Los",
+      "year": "2011",
+      "label": "Substance Abuse",
+      "country": "US",
+      "discogs_id": 3036470,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/gwYhFH6VCv-zT5NzNtgm0sJovAIgQikAsA6TWjW_F1I/rs:fit/g:sm/q:90/h:551/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzY0/NzAtMTMxMjc1MDg3/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Colonel Abrams",
+      "title": "Leave The Message Behind The Door",
+      "release_title": "Colonel Abrams - Leave The Message Behind The Door",
+      "year": "1984",
+      "label": "Streetwise",
+      "country": "US",
+      "discogs_id": 2686860,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/kiLnbcGDkHPtrVi0JRMYmLYqgs64jBwiRHJ4yMmp2Vc/rs:fit/g:sm/q:90/h:230/w:219/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY4/NjAtMTQxNzIwOTEz/MS02NzQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Atmosphere & Grieves",
+      "title": "Fireflies",
+      "release_title": "Atmosphere (2) Feat. Grieves - Fireflies",
+      "year": "2016",
+      "label": "Rhymesayers Entertainment",
+      "country": "US",
+      "discogs_id": 8827209,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/DYlr0aIpc7uLziy_30WDeh62_WVTKznRa3CCvd8zN8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjcy/MDktMTQ2OTYxMjQ1/OS03OTI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Windjammer",
+      "title": "Rockin'",
+      "release_title": "Windjammer - Rockin'",
+      "year": "1983",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 1462225,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/sHDrPdPBAMYa6EzSbMe9ujZjLapAz7xCA0PuIOLzQr8/rs:fit/g:sm/q:90/h:503/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjIy/MjUtMTI3MTk2MDMw/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carl Sims",
+      "title": "House Of Love",
+      "release_title": "Carl Sims - House Of Love / You Keep Me Dreaming",
+      "year": "1993",
+      "label": "Paula Records",
+      "country": "US",
+      "discogs_id": 14257071,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/4k2K6BLv_Kvhml-FMO2nwV1JsgrZEFUOz_3hXZOCzMo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU3/MDcxLTE1NzA4Nzgx/NzEtOTQwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "K II S",
+      "title": "Don't Ever Stop",
+      "release_title": "K.II.S (Key To Salvation)* - II Da X-Treme",
+      "year": "1994",
+      "label": "New Era Recordz",
+      "country": "US",
+      "discogs_id": 23408924,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XJZ99kGyJGOn64o8paMzdSXtGgIrL1J3YBQT8loB8ig/rs:fit/g:sm/q:90/h:400/w:264/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/OTI0LTE2NTM5MjIx/NzAtNzc5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Lewis",
+      "title": "Things Got To Get Better",
+      "release_title": "Jimmy Lewis - Golden Classics",
+      "year": "1993",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 7273346,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Diq76MpbAj6thu2nLDzNwnZCszNDlStTd7pIo4aXd-o/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzMz/NDYtMTQzNzc0NjM2/NS0zMTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Colonel Abrams",
+      "title": "Leave The Message Behind The Door (Instrumental)",
+      "release_title": "Colonel Abrams - Leave The Message Behind The Door",
+      "year": "1984",
+      "label": "Streetwise",
+      "country": "US",
+      "discogs_id": 2686860,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/kiLnbcGDkHPtrVi0JRMYmLYqgs64jBwiRHJ4yMmp2Vc/rs:fit/g:sm/q:90/h:230/w:219/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY4/NjAtMTQxNzIwOTEz/MS02NzQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Ruffin",
+      "title": "Everything's Coming Up Love (Mono)",
+      "release_title": "David Ruffin - Everything's Coming Up Love",
+      "year": "1976",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 6936974,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/PdshvRzf4xyHwW__Mfuu0pEH0LUuCghuwoVzCXA_rgs/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzY5/NzQtMTQyOTkxMzI0/Mi03MjkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "K II S",
+      "title": "Bad Boyz Of Christ",
+      "release_title": "K.II.S (Key To Salvation)* - II Da X-Treme",
+      "year": "1994",
+      "label": "New Era Recordz",
+      "country": "US",
+      "discogs_id": 23408924,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XJZ99kGyJGOn64o8paMzdSXtGgIrL1J3YBQT8loB8ig/rs:fit/g:sm/q:90/h:400/w:264/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/OTI0LTE2NTM5MjIx/NzAtNzc5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Deryll Inman",
+      "title": "All The Love (Stereo)",
+      "release_title": "Deryll Inman - All The Love",
+      "year": "1977",
+      "label": "LA Records",
+      "country": "US",
+      "discogs_id": 9934645,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XHRQi-4a13ylqH2GidohmYJoDPri2H6J_ygyJMI5M1E/rs:fit/g:sm/q:90/h:500/w:509/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzQ2/NDUtMTQ4ODgxMzU0/OC00MjE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Substance Abuse",
+      "title": "Don't Get Us Wrong (Original)",
+      "release_title": "Substance Abuse - Don't Get Us Wrong / West Los",
+      "year": "2011",
+      "label": "Substance Abuse",
+      "country": "US",
+      "discogs_id": 3036470,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/gwYhFH6VCv-zT5NzNtgm0sJovAIgQikAsA6TWjW_F1I/rs:fit/g:sm/q:90/h:551/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzY0/NzAtMTMxMjc1MDg3/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Smash",
+      "title": "Blue Jeans (Vocal)",
+      "release_title": "Smash (7) - Blue Jeans",
+      "year": "1981",
+      "label": "D.T.D. Records",
+      "country": "US",
+      "discogs_id": 9458122,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7CNhWbKkbmANZ2h6N9esI625CYQB0ut-ReBlZCeb98c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTgx/MjItMTQ4MDkyODY0/Ni0xMDU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "J. Sands",
+      "title": "Blue Balls",
+      "release_title": "J. Sands - The Breaks 2 - The Interlude Violator",
+      "year": "2006",
+      "label": "B.U.K.A. Entertainment",
+      "country": "US",
+      "discogs_id": 3579978,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/29jgX8NxTkaV-q9alcOKVp4ZHFcM2I3l-grQ7VDU3d8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzk5/NzgtMTYyODYxMDc0/NC03MjQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carl Sims",
+      "title": "You Keep Me Dreaming",
+      "release_title": "Carl Sims - House Of Love / You Keep Me Dreaming",
+      "year": "1993",
+      "label": "Paula Records",
+      "country": "US",
+      "discogs_id": 14257071,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/4k2K6BLv_Kvhml-FMO2nwV1JsgrZEFUOz_3hXZOCzMo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU3/MDcxLTE1NzA4Nzgx/NzEtOTQwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Lewis",
+      "title": "It Ain't What's On A Woman",
+      "release_title": "Jimmy Lewis - Golden Classics",
+      "year": "1993",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 7273346,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Diq76MpbAj6thu2nLDzNwnZCszNDlStTd7pIo4aXd-o/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzMz/NDYtMTQzNzc0NjM2/NS0zMTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy Lewis",
+      "title": "Hot Southern Love",
+      "release_title": "Jimmy Lewis - Golden Classics",
+      "year": "1993",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 7273346,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Diq76MpbAj6thu2nLDzNwnZCszNDlStTd7pIo4aXd-o/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzMz/NDYtMTQzNzc0NjM2/NS0zMTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "J. Sands",
+      "title": "A Likkle Story",
+      "release_title": "J. Sands - The Breaks 2 - The Interlude Violator",
+      "year": "2006",
+      "label": "B.U.K.A. Entertainment",
+      "country": "US",
+      "discogs_id": 3579978,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/29jgX8NxTkaV-q9alcOKVp4ZHFcM2I3l-grQ7VDU3d8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzk5/NzgtMTYyODYxMDc0/NC03MjQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Substance Abuse",
+      "title": "West Los (Acappella)",
+      "release_title": "Substance Abuse - Don't Get Us Wrong / West Los",
+      "year": "2011",
+      "label": "Substance Abuse",
+      "country": "US",
+      "discogs_id": 3036470,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/gwYhFH6VCv-zT5NzNtgm0sJovAIgQikAsA6TWjW_F1I/rs:fit/g:sm/q:90/h:551/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzY0/NzAtMTMxMjc1MDg3/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Lewis",
+      "title": "That Won't Stop Me",
+      "release_title": "Jimmy Lewis - Golden Classics",
+      "year": "1993",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 7273346,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Diq76MpbAj6thu2nLDzNwnZCszNDlStTd7pIo4aXd-o/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzMz/NDYtMTQzNzc0NjM2/NS0zMTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Matt & The Grooves",
+      "title": "You Touch My Heart",
+      "release_title": "Matt & The Grooves - Coming Again / You Touch My Heart",
+      "year": "1982",
+      "label": "Soul Heart & Mind Records",
+      "country": "US",
+      "discogs_id": 5102941,
+      "rating_avg": 5.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/LAd8iLwkk6AWkuOdt3RkOkP3XyWTvn4TM6WM9TAwRx4/rs:fit/g:sm/q:90/h:400/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDI5/NDEtMTM4NTAyODk4/NS03MDEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "J. Sands",
+      "title": "The Moment I Feared Pt. II",
+      "release_title": "J. Sands - The Breaks 2 - The Interlude Violator",
+      "year": "2006",
+      "label": "B.U.K.A. Entertainment",
+      "country": "US",
+      "discogs_id": 3579978,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/29jgX8NxTkaV-q9alcOKVp4ZHFcM2I3l-grQ7VDU3d8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzk5/NzgtMTYyODYxMDc0/NC03MjQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Substance Abuse",
+      "title": "West Los (Instrumental)",
+      "release_title": "Substance Abuse - Don't Get Us Wrong / West Los",
+      "year": "2011",
+      "label": "Substance Abuse",
+      "country": "US",
+      "discogs_id": 3036470,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/gwYhFH6VCv-zT5NzNtgm0sJovAIgQikAsA6TWjW_F1I/rs:fit/g:sm/q:90/h:551/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzY0/NzAtMTMxMjc1MDg3/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "K II S",
+      "title": "Free From Sin",
+      "release_title": "K.II.S (Key To Salvation)* - II Da X-Treme",
+      "year": "1994",
+      "label": "New Era Recordz",
+      "country": "US",
+      "discogs_id": 23408924,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XJZ99kGyJGOn64o8paMzdSXtGgIrL1J3YBQT8loB8ig/rs:fit/g:sm/q:90/h:400/w:264/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/OTI0LTE2NTM5MjIx/NzAtNzc5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pastense & Willie Green",
+      "title": "Want Not",
+      "release_title": "Pastense and Willie Green (4) - An Astronaut's Dream",
+      "year": "2017",
+      "label": "The GreenHouse Recording Co.",
+      "country": "US",
+      "discogs_id": 19857448,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/W00ZfAVO6Q7ZieQy37rvXLf5MzVa0pAtZCzPpKAybhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU3/NDQ4LTE2Mjg5Mzk5/MTEtMjQxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Klive Kraven",
+      "title": "Rawhide Roughnecks",
+      "release_title": "Klive Kraven - The Last Days Of Mountain Man",
+      "year": "2012",
+      "label": "Goldminded Records",
+      "country": "US",
+      "discogs_id": 5235380,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aGZditPWwrfe7LoTtGwpkLv1EJOrZ9IZZXRuwBfN2pU/rs:fit/g:sm/q:90/h:454/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzUz/ODAtMTM4ODMzOTU0/My01NTYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "LaVern Baker",
+      "title": "Backwater Blues",
+      "release_title": "La Vern Baker* - La Vern Baker Sings Bessie Smith",
+      "year": "1988",
+      "label": "Atlantic Jazz",
+      "country": "US",
+      "discogs_id": 2531114,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/A85Y2-QWDUyvnQFqu_QLqKPghCB8weBDWThgl3iIcUs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzEx/MTQtMTQ4NjU3NDkz/OC0xMTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Foxy",
+      "title": "Hot Number",
+      "release_title": "Foxy - Get Off",
+      "year": "1994",
+      "label": "T.K. Records",
+      "country": "US",
+      "discogs_id": 3042303,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/PFYUNIklsP6B5im_8mAVW9It0lnUVM3fTN0V-e8FoNI/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/MDMtMTQ1MjI0OTUx/Ni01NDY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Ritchie Family",
+      "title": "Bad Reputation",
+      "release_title": "The Ritchie Family - Bad Reputation",
+      "year": "2012",
+      "label": "Gold Legion",
+      "country": "US",
+      "discogs_id": 4139169,
+      "rating_avg": 4.55,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/TCxUcGS9mt9L88zPCsbozeBmrlwRT6kNgzw_lHMBQYM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzkx/NjktMTc3OTk5MzMw/OS0xMTA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Remont Anthony",
+      "title": "Where Do Broken Hearts Go",
+      "release_title": "Remont Anthony - Where Do Broken Hearts Go",
+      "year": "1994",
+      "label": "From Rags To Riches Productions & Records",
+      "country": "US",
+      "discogs_id": 10687555,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/m2DNck2iDWEER5qj_ABI4BWvBaGkEXFsSfqjgvbAa6k/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg3/NTU1LTE1MDI0MDk4/NzMtNzIzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Foxy",
+      "title": "Tena's Song",
+      "release_title": "Foxy - Get Off",
+      "year": "1994",
+      "label": "T.K. Records",
+      "country": "US",
+      "discogs_id": 3042303,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/PFYUNIklsP6B5im_8mAVW9It0lnUVM3fTN0V-e8FoNI/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/MDMtMTQ1MjI0OTUx/Ni01NDY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Graffiti Orchestra",
+      "title": "Star Wars Theme (Long Version)",
+      "release_title": "Graffiti Orchestra - Star Wars Theme",
+      "year": "1977",
+      "label": "Prodigal",
+      "country": "US",
+      "discogs_id": 8159820,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aQJ2hWGg-pOjK2kyz68qRS9BJCEqya2FLD6xwi4ijWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTk4/MjAtMTQ1NjI1MjE5/OC03NDYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pastense & Willie Green",
+      "title": "Shuttle",
+      "release_title": "Pastense and Willie Green (4) - An Astronaut's Dream",
+      "year": "2017",
+      "label": "The GreenHouse Recording Co.",
+      "country": "US",
+      "discogs_id": 19857448,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/W00ZfAVO6Q7ZieQy37rvXLf5MzVa0pAtZCzPpKAybhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU3/NDQ4LTE2Mjg5Mzk5/MTEtMjQxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Melba Moore",
+      "title": "I Can't Believe It (It's Over)",
+      "release_title": "Melba Moore - Read My Lips",
+      "year": "1985",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 1408076,
+      "rating_avg": 4.35,
+      "rating_count": 34,
+      "cover_image": "https://i.discogs.com/7mVIJgtu15yq-u2zgNZoZfgVuMTX4L5QRT4_D31XwNw/rs:fit/g:sm/q:90/h:395/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDgw/NzYtMTI4MjA5NDI3/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Two Another",
+      "title": "World Ends Tonight",
+      "release_title": "Two Another - Back To Us",
+      "year": "2022",
+      "label": "Virgin",
+      "country": "US",
+      "discogs_id": 24362840,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "LaVern Baker",
+      "title": "Money Blues",
+      "release_title": "La Vern Baker* - La Vern Baker Sings Bessie Smith",
+      "year": "1988",
+      "label": "Atlantic Jazz",
+      "country": "US",
+      "discogs_id": 2531114,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/A85Y2-QWDUyvnQFqu_QLqKPghCB8weBDWThgl3iIcUs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzEx/MTQtMTQ4NjU3NDkz/OC0xMTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joyce Cobb",
+      "title": "Lonesome Time In Memphis Town Tonight",
+      "release_title": "Joyce Cobb - He Just Loved You Out Of Me",
+      "year": "1975",
+      "label": "Truth Records",
+      "country": "US",
+      "discogs_id": 26224748,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kzvQRkvnNkrUinlkxxFA_oG91CNytAkx4BT9MCaI3F4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjI0/NzQ4LTE2NzczNTA2/MTktNjExNi5qcGVn.jpeg"
+    }
+  ]
+}
