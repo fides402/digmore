@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 27,
+      "artists_found": 25,
+      "fresh_lookups": 1,
+      "styles_considered": 89
+    }
+  },
+  "results": [
+    {
+      "artist": "Pieces Of A Dream",
+      "title": "It's Time For Love",
+      "release_title": "Pieces Of A Dream - It's Time For Love",
+      "year": "1983",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 3598393,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kHpYT8QEpy9887fb8QjefRvEK1KxBjAelOKHJ3XlnYg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTgz/OTMtMTMzNjgzMDI4/Mi02MDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Linda Carr & The Love Squad",
+      "title": "Highwire",
+      "release_title": "Linda Carr & The Love Squad - Highwire",
+      "year": "1975",
+      "label": "Roxbury Records",
+      "country": "US",
+      "discogs_id": 4727673,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QICHLdYbJiaVP_xecnxcJj4vBQAjl_0O3LsCjbqtPzU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjc2/NzMtMTQxMzU2ODg0/Ny00NDQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kenny Moore",
+      "title": "It Only Takes A Minute (Vocal)",
+      "release_title": "Kenny Moore - It Only Takes A Minute",
+      "year": "1982",
+      "label": "Love Records",
+      "country": "US",
+      "discogs_id": 1873053,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/9lBvgAJqaE7btdAXSXeVT3Q0YdGaMYE_aUPPUvkeRb0/rs:fit/g:sm/q:90/h:475/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzMw/NTMtMTI0OTU5MDE2/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "De-Vo-Te",
+      "title": "Given Me Love (Radio Edit)",
+      "release_title": "De-Vo-Te - In Harmony We Grow",
+      "year": "1993",
+      "label": "Onexus Network Productions",
+      "country": "US",
+      "discogs_id": 10440791,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4udFnW3h_UfEf8NY2vAvYp2YNL5tZGURwauu3kPKOFU/rs:fit/g:sm/q:90/h:247/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQw/NzkxLTE0OTc0ODYx/NTAtMTUxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kenny Moore",
+      "title": "It Only Takes A Minute (Instrumental)",
+      "release_title": "Kenny Moore - It Only Takes A Minute",
+      "year": "1982",
+      "label": "Love Records",
+      "country": "US",
+      "discogs_id": 1873053,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/9lBvgAJqaE7btdAXSXeVT3Q0YdGaMYE_aUPPUvkeRb0/rs:fit/g:sm/q:90/h:475/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzMw/NTMtMTI0OTU5MDE2/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Little Anthony & The Imperials",
+      "title": "Don't Get Close",
+      "release_title": "Little Anthony & The Imperials -  Don't Get Close / It'll Never Be The Same Again",
+      "year": "1970",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 14280296,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tITt7LJGfS2WyneR5_jtkL-e1p7nInEqjzT1spgu2W4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/Mjk2LTE3NDI5MTk2/NjctNjk4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rags & Riches",
+      "title": "La Bamba",
+      "release_title": "Rags & Riches - EL Watusi / La Bamba",
+      "year": "1983",
+      "label": "Casablanca",
+      "country": "US",
+      "discogs_id": 5771755,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/awl5BMmKLDZh4faMiGNjmpfXdvZ_7kGBd8kY8pfSv3s/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzE3/NTUtMTQ0MDUwMjk4/NC0xMzg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maze Featuring Frankie Beverly",
+      "title": "Can't Get Over You (Fade)",
+      "release_title": "Maze Featuring Frankie Beverly - Can't Get Over You",
+      "year": "1989",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 5855752,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/4_JlJupuvM5IbUYcJr_d_lEmCe6tuarqEt1LZy0ahSU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTU3/NTItMTY5NjEyNTQw/MS05MDU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Frank McComb",
+      "title": "24/365/10",
+      "release_title": "Frank McComb - The 1995 Bootleg",
+      "year": "2006",
+      "label": "Boobeescoot Music",
+      "country": "US",
+      "discogs_id": 3674585,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Hwnk1BHXhb--NXy-66vLDsqstQk8tLcxBzMNgCvoojc/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzQ1/ODUtMTQwOTkwNzQz/MC0yNDQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jonathan Butler",
+      "title": "Sarah, Sarah",
+      "release_title": "Jonathan Butler - Sarah, Sarah",
+      "year": "1988",
+      "label": "Jive",
+      "country": "US",
+      "discogs_id": 7661028,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hEyHnGp14q7OPqpMxGBrJfWzci3Yc8Jh6_0FrbG5jps/rs:fit/g:sm/q:90/h:600/w:387/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjEw/MjgtMTY2Nzc4NTQ0/Mi0xMTMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sandy Mercer",
+      "title": "Play With Me",
+      "release_title": "Sandy Mercer - Play With Me / You Are My Love",
+      "year": "1978",
+      "label": "H & L Records",
+      "country": "US",
+      "discogs_id": 749137,
+      "rating_avg": 4.46,
+      "rating_count": 39,
+      "cover_image": "https://i.discogs.com/bFzXeB8MDM9oRwiLxe7mE2EiRWcXzzSawoM_AjWy46k/rs:fit/g:sm/q:90/h:578/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTEz/Ny0xMzQxNzIxMTg0/LTkyOTIuanBlZw.jpeg"
+    },
+    {
+      "artist": "Ashford & Simpson",
+      "title": "What Becomes Of Love",
+      "release_title": "Ashford & Simpson - What Becomes Of Love",
+      "year": "1986",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 8769036,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FL2VX8yZrX1fva0wfDZW79bfxvZsnflY5kOFEYzfS6Y/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Njkw/MzYtMTQ2ODM3NTg4/OC00OTQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "De-Vo-Te",
+      "title": "Given Me Love (Instrumental)",
+      "release_title": "De-Vo-Te - In Harmony We Grow",
+      "year": "1993",
+      "label": "Onexus Network Productions",
+      "country": "US",
+      "discogs_id": 10440791,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4udFnW3h_UfEf8NY2vAvYp2YNL5tZGURwauu3kPKOFU/rs:fit/g:sm/q:90/h:247/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQw/NzkxLTE0OTc0ODYx/NTAtMTUxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Presidents",
+      "title": "Sweet Magic",
+      "release_title": "The Presidents* - Triangle Of Love (Hey Diddle Diddle)",
+      "year": "1970",
+      "label": "Sussex",
+      "country": "US",
+      "discogs_id": 10726213,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/9Lfyo02fbWnSnhxc6VaxyhkB-lGQs5Nj_CeZj7sHqoQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI2/MjEzLTE3NjM0ODE4/OTEtNjI3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Green",
+      "title": "Let's Stay Together",
+      "release_title": "Al Green - Let's Stay Together",
+      "year": "1971",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 8279841,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/oYlzfkkduoCy1wdRn8g8cH857nJ0_3_AW-n7CwKOxeU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzk4/NDEtMTU0NjgxOTEx/Mi02NDM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert \"Snake\" Sims",
+      "title": "West Coast Lover",
+      "release_title": "Various - Highlights From The Mercury Blues 'N' Rhythm Story",
+      "year": "1996",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 14789491,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BPRbRFCKW_8xE0qiN20eaZno1mDQYLCiTJ691VS-hFs/rs:fit/g:sm/q:90/h:300/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg5/NDkxLTE1ODE2MzE0/MTYtNzMwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Little Anthony & The Imperials",
+      "title": "It'll Never Be The Same Again",
+      "release_title": "Little Anthony & The Imperials -  Don't Get Close / It'll Never Be The Same Again",
+      "year": "1970",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 14280296,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tITt7LJGfS2WyneR5_jtkL-e1p7nInEqjzT1spgu2W4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/Mjk2LTE3NDI5MTk2/NjctNjk4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank McComb",
+      "title": "Tomorrows Not Promised",
+      "release_title": "Frank McComb - The 1995 Bootleg",
+      "year": "2006",
+      "label": "Boobeescoot Music",
+      "country": "US",
+      "discogs_id": 3674585,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Hwnk1BHXhb--NXy-66vLDsqstQk8tLcxBzMNgCvoojc/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzQ1/ODUtMTQwOTkwNzQz/MC0yNDQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Titus Turner",
+      "title": "All Around The World",
+      "release_title": "Various - Highlights From The Mercury Blues 'N' Rhythm Story",
+      "year": "1996",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 14789491,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BPRbRFCKW_8xE0qiN20eaZno1mDQYLCiTJ691VS-hFs/rs:fit/g:sm/q:90/h:300/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg5/NDkxLTE1ODE2MzE0/MTYtNzMwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Johnny Bristol",
+      "title": "You And I (Mono)",
+      "release_title": "Johnny Bristol - You And I",
+      "year": "1974",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 6532163,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ePsI1BZCU6e54SIpLHSRDojeyps4TLra8-5qlm8BkWk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzIx/NjMtMTQyMTM5OTM0/OC00Mjc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "De-Vo-Te",
+      "title": "Given Me Love (Acappella)",
+      "release_title": "De-Vo-Te - In Harmony We Grow",
+      "year": "1993",
+      "label": "Onexus Network Productions",
+      "country": "US",
+      "discogs_id": 10440791,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4udFnW3h_UfEf8NY2vAvYp2YNL5tZGURwauu3kPKOFU/rs:fit/g:sm/q:90/h:247/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQw/NzkxLTE0OTc0ODYx/NTAtMTUxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pieces Of A Dream",
+      "title": "Imagine This",
+      "release_title": "Pieces Of A Dream - It's Time For Love",
+      "year": "1983",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 3598393,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kHpYT8QEpy9887fb8QjefRvEK1KxBjAelOKHJ3XlnYg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTgz/OTMtMTMzNjgzMDI4/Mi02MDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sandy Mercer",
+      "title": "You Are My Love",
+      "release_title": "Sandy Mercer - Play With Me / You Are My Love",
+      "year": "1978",
+      "label": "H & L Records",
+      "country": "US",
+      "discogs_id": 749137,
+      "rating_avg": 4.46,
+      "rating_count": 39,
+      "cover_image": "https://i.discogs.com/bFzXeB8MDM9oRwiLxe7mE2EiRWcXzzSawoM_AjWy46k/rs:fit/g:sm/q:90/h:578/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTEz/Ny0xMzQxNzIxMTg0/LTkyOTIuanBlZw.jpeg"
+    },
+    {
+      "artist": "Ashford & Simpson",
+      "title": "It's A Rush",
+      "release_title": "Ashford & Simpson - What Becomes Of Love",
+      "year": "1986",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 8769036,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FL2VX8yZrX1fva0wfDZW79bfxvZsnflY5kOFEYzfS6Y/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Njkw/MzYtMTQ2ODM3NTg4/OC00OTQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jonathan Butler",
+      "title": "Sekona",
+      "release_title": "Jonathan Butler - Sarah, Sarah",
+      "year": "1988",
+      "label": "Jive",
+      "country": "US",
+      "discogs_id": 7661028,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hEyHnGp14q7OPqpMxGBrJfWzci3Yc8Jh6_0FrbG5jps/rs:fit/g:sm/q:90/h:600/w:387/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjEw/MjgtMTY2Nzc4NTQ0/Mi0xMTMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnny Bristol",
+      "title": "You And I (Stereo)",
+      "release_title": "Johnny Bristol - You And I",
+      "year": "1974",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 6532163,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ePsI1BZCU6e54SIpLHSRDojeyps4TLra8-5qlm8BkWk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzIx/NjMtMTQyMTM5OTM0/OC00Mjc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Buddy Johnson",
+      "title": "Hittin' On Me",
+      "release_title": "Various - Highlights From The Mercury Blues 'N' Rhythm Story",
+      "year": "1996",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 14789491,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BPRbRFCKW_8xE0qiN20eaZno1mDQYLCiTJ691VS-hFs/rs:fit/g:sm/q:90/h:300/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg5/NDkxLTE1ODE2MzE0/MTYtNzMwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Dynamic Beltones",
+      "title": "I Need Your Love",
+      "release_title": "The Dynamic Beltones - I Need Your Love",
+      "year": "1976",
+      "label": "Solar Records",
+      "country": "US",
+      "discogs_id": 2244101,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/oFMGGFR14Prpf57Dg9iRCOE7sSI7au_ES6Iqp3j7KPU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQx/MDEtMTM3OTc1NDQ1/MS03NjM0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "High Inergy",
+      "title": "Make Me Yours",
+      "release_title": "High Inergy - Make Me Yours",
+      "year": "1980",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 12501542,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MuE1IbXv_I3wDE3rbFIqI2_5kDLZMzZOZqTVLwaYKqU/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAx/NTQyLTE1MzY1MjMy/NTktMjAwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Presidents",
+      "title": "Triangle Of Love (Hey Diddle Diddle)",
+      "release_title": "The Presidents* - Triangle Of Love (Hey Diddle Diddle)",
+      "year": "1970",
+      "label": "Sussex",
+      "country": "US",
+      "discogs_id": 10726213,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/9Lfyo02fbWnSnhxc6VaxyhkB-lGQs5Nj_CeZj7sHqoQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI2/MjEzLTE3NjM0ODE4/OTEtNjI3Ni5qcGVn.jpeg"
+    }
+  ]
+}

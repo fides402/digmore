@@ -5902,6 +5902,282 @@
    1985
   ]
  },
+ "ambrosia": {
+  "countries": [
+   "Germany",
+   "US",
+   "Nicaragua",
+   "US",
+   "Japan",
+   "UK",
+   "Spain",
+   "Japan",
+   "Greece",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "Australia",
+   "US",
+   "Brazil",
+   "UK",
+   "Australia",
+   "France",
+   "Czech Republic",
+   "Canada",
+   "Canada",
+   "Japan",
+   "Australia",
+   "Peru"
+  ],
+  "genres": [
+   "Rock",
+   "Rock",
+   "Rock",
+   "Electronic",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Garage House",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Symphonic Rock",
+    "Rock"
+   ],
+   [
+    "Symphonic Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Prog Rock",
+   "Pop Rock",
+   "Classic Rock",
+   "Dance-pop",
+   "Pop Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Classic Rock",
+   "Prog Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Art Rock",
+   "House",
+   "Garage House",
+   "Pop Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Classic Rock",
+   "Prog Rock",
+   "Soft Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Art Rock",
+   "Pop Rock",
+   "Prog Rock",
+   "Symphonic Rock",
+   "Pop Rock"
+  ],
+  "years": [
+   2021,
+   1976,
+   1975,
+   2020,
+   1980,
+   1975,
+   1977,
+   1975,
+   1980,
+   2001,
+   1978,
+   1975,
+   1978,
+   1980,
+   1982,
+   1980,
+   1982,
+   1975,
+   1975,
+   1994,
+   1978,
+   2011,
+   1980
+  ]
+ },
  "america": {
   "countries": [
    "South Korea",
