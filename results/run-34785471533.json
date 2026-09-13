@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1964,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 0,
+      "styles_considered": 102
+    }
+  },
+  "results": [
+    {
+      "artist": "Table 4 5ive",
+      "title": "Blue Lounge",
+      "release_title": "Table 4 5ive - 2 Hip 2 B Smooth",
+      "year": "2006",
+      "label": "B-Jazz'n Recordings",
+      "country": "US",
+      "discogs_id": 1237535,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WsTJv2fMPTbZHgYF30Tk3sZWMmiEZoDMICddDpmAx7M/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzc1/MzUtMTIzNDM2NzQz/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Table 4 5ive",
+      "title": "Nice & Easy",
+      "release_title": "Table 4 5ive - 2 Hip 2 B Smooth",
+      "year": "2006",
+      "label": "B-Jazz'n Recordings",
+      "country": "US",
+      "discogs_id": 1237535,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WsTJv2fMPTbZHgYF30Tk3sZWMmiEZoDMICddDpmAx7M/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzc1/MzUtMTIzNDM2NzQz/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Matalex",
+      "title": "Mistery II",
+      "release_title": "Various - Kiss This - The Lipstick Sampler",
+      "year": "1994",
+      "label": "Lipstick Records",
+      "country": "US",
+      "discogs_id": 12743563,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0SdnAkByZIUUtv5eoSeNpsdrGOHSM27IWyJuOcdB7fY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQz/NTYzLTE1NDExMDkw/MDAtNDg5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Coryell & Philip Catherine",
+      "title": "No More Booze",
+      "release_title": "Coryell* / Catherine* - Splendid",
+      "year": "1978",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 11589220,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/27H2m9tmwPmxtip0aZ6sKvb903C6Oxm1Ed00PT5dWyo/rs:fit/g:sm/q:90/h:600/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTg5/MjIwLTE1MTk2OTQz/NDAtNDc3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Coryell & Philip Catherine",
+      "title": "One Plus Two Blues",
+      "release_title": "Coryell* / Catherine* - Splendid",
+      "year": "1978",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 11589220,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/27H2m9tmwPmxtip0aZ6sKvb903C6Oxm1Ed00PT5dWyo/rs:fit/g:sm/q:90/h:600/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTg5/MjIwLTE1MTk2OTQz/NDAtNDc3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carol Reinert",
+      "title": "Music, Music, Music",
+      "release_title": "Carol Reinert - Notes To Myself",
+      "year": "2007",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 26982929,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/u9NMH94p1F1W6wUV8zOocUn14oKS0fNJlKOUqbS9sXQ/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgy/OTI5LTE2ODMyOTQy/NTItODMyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "All The Way Live",
+      "release_title": "Ramsey Lewis - Legacy",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3155833,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/9I3uTMTNEM61MSKV_j1oieHDpCKzfoKQiBcChGdSLPI/rs:fit/g:sm/q:90/h:520/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU4/MzMtMTMzNjgwODAx/Ni03MTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The James Dejoie Quartet",
+      "title": "Only in Amerika",
+      "release_title": "The James Dejoie Quartet - The Best of All Possible Worlds",
+      "year": "2005",
+      "label": "HipSync Records",
+      "country": "US",
+      "discogs_id": 15961635,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1Y1KFMdfoQTb3ZI6cox9jOmHCUY6c6DhHIHbyzxe2tw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYx/NjM1LTE2MDA5Njcz/MTktNTMzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "Sand Castles",
+      "release_title": "Unknown Artist - Sax By The Sea",
+      "year": "2005",
+      "label": "Hunno Music",
+      "country": "US",
+      "discogs_id": 28488376,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3gFD2g0RH8q550nIyua_LMUAJRAuCm9zWSecZb3YbPE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDg4/Mzc2LTE2OTY0Mzc4/MzItNTM3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Petite Blonde",
+      "title": "Two Price Hit",
+      "release_title": "Various - Kiss This - The Lipstick Sampler",
+      "year": "1994",
+      "label": "Lipstick Records",
+      "country": "US",
+      "discogs_id": 12743563,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0SdnAkByZIUUtv5eoSeNpsdrGOHSM27IWyJuOcdB7fY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQz/NTYzLTE1NDExMDkw/MDAtNDg5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Di Stefano",
+      "title": "Al Di La",
+      "release_title": "Joe Di Stefano - All Roads Lead To Rome",
+      "year": "1964",
+      "label": "Sonora Records",
+      "country": "US",
+      "discogs_id": 8202876,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Fiqjys1nVh8pvKbFRT95M1GoCZAYTYM4-5Qr1vjoZsU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDI4/NzYtMTQ1NzA2NDQ4/NC05OTczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Douglas Quintet",
+      "title": "Ramshackle",
+      "release_title": "Dave Douglas Quintet - Live At The Bimhuis",
+      "year": "2005",
+      "label": "Greenleaf Music",
+      "country": "US",
+      "discogs_id": 1230742,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rtg7D5r2oUEzgFZ0ckyGfrwkpAb_ff4jdrPikJTmvYA/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA3/NDItMTIwMjMzODAx/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Don't Look Back",
+      "release_title": "Ramsey Lewis - Legacy",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3155833,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/9I3uTMTNEM61MSKV_j1oieHDpCKzfoKQiBcChGdSLPI/rs:fit/g:sm/q:90/h:520/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU4/MzMtMTMzNjgwODAx/Ni03MTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "Moonlight On The Water",
+      "release_title": "Unknown Artist - Sax By The Sea",
+      "year": "2005",
+      "label": "Hunno Music",
+      "country": "US",
+      "discogs_id": 28488376,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3gFD2g0RH8q550nIyua_LMUAJRAuCm9zWSecZb3YbPE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDg4/Mzc2LTE2OTY0Mzc4/MzItNTM3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lenore Von Stein",
+      "title": "Carpet Cluster Group / Money",
+      "release_title": "Lenore Von Stein - Art & Money",
+      "year": "2006",
+      "label": "Not On Label (Lenore Von Stein Self-released)",
+      "country": "US",
+      "discogs_id": 8743638,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0cfWLMOl_v-91YA2bhdCH6R7-iBd0_o1JI_HLoQ3p1s/rs:fit/g:sm/q:90/h:169/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDM2/MzgtMTQ2NzgxNjk0/NC04NjkwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Table 4 5ive",
+      "title": "5 Spot",
+      "release_title": "Table 4 5ive - 2 Hip 2 B Smooth",
+      "year": "2006",
+      "label": "B-Jazz'n Recordings",
+      "country": "US",
+      "discogs_id": 1237535,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WsTJv2fMPTbZHgYF30Tk3sZWMmiEZoDMICddDpmAx7M/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzc1/MzUtMTIzNDM2NzQz/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lenore Von Stein",
+      "title": "Dream Part 2 / Les Is More",
+      "release_title": "Lenore Von Stein - Art & Money",
+      "year": "2006",
+      "label": "Not On Label (Lenore Von Stein Self-released)",
+      "country": "US",
+      "discogs_id": 8743638,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0cfWLMOl_v-91YA2bhdCH6R7-iBd0_o1JI_HLoQ3p1s/rs:fit/g:sm/q:90/h:169/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDM2/MzgtMTQ2NzgxNjk0/NC04NjkwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hiroshi Fukumura & Sadao Watanabe",
+      "title": "That's Enough For Me",
+      "release_title": "Hiroshi Fukumura With Sadao Watanabe - Hunt Up Wind",
+      "year": "1981",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 24417164,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/jTe0HYyWjxA_NDK1DxDgaFvpuACF0OsRI9egJjzNnsk/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE3/MTY0LTE2NjIzMzY1/MDktNTc3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carol Reinert",
+      "title": "I'm Going To Sit Right Down And Write Myself A Letter",
+      "release_title": "Carol Reinert - Notes To Myself",
+      "year": "2007",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 26982929,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/u9NMH94p1F1W6wUV8zOocUn14oKS0fNJlKOUqbS9sXQ/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgy/OTI5LTE2ODMyOTQy/NTItODMyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carol Reinert",
+      "title": "A Day In The Life Of A Fool",
+      "release_title": "Carol Reinert - Notes To Myself",
+      "year": "2007",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 26982929,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/u9NMH94p1F1W6wUV8zOocUn14oKS0fNJlKOUqbS9sXQ/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgy/OTI5LTE2ODMyOTQy/NTItODMyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hiroshi Fukumura & Sadao Watanabe",
+      "title": "Mr. Blue",
+      "release_title": "Hiroshi Fukumura With Sadao Watanabe - Hunt Up Wind",
+      "year": "1981",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 24417164,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/jTe0HYyWjxA_NDK1DxDgaFvpuACF0OsRI9egJjzNnsk/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE3/MTY0LTE2NjIzMzY1/MDktNTc3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Douglas Quintet",
+      "title": "Waverly",
+      "release_title": "Dave Douglas Quintet - Live At The Bimhuis",
+      "year": "2005",
+      "label": "Greenleaf Music",
+      "country": "US",
+      "discogs_id": 1230742,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rtg7D5r2oUEzgFZ0ckyGfrwkpAb_ff4jdrPikJTmvYA/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA3/NDItMTIwMjMzODAx/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "I Love To Please You",
+      "release_title": "Ramsey Lewis - Legacy",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3155833,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/9I3uTMTNEM61MSKV_j1oieHDpCKzfoKQiBcChGdSLPI/rs:fit/g:sm/q:90/h:520/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU4/MzMtMTMzNjgwODAx/Ni03MTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The James Dejoie Quartet",
+      "title": "City",
+      "release_title": "The James Dejoie Quartet - The Best of All Possible Worlds",
+      "year": "2005",
+      "label": "HipSync Records",
+      "country": "US",
+      "discogs_id": 15961635,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1Y1KFMdfoQTb3ZI6cox9jOmHCUY6c6DhHIHbyzxe2tw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYx/NjM1LTE2MDA5Njcz/MTktNTMzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lenore Von Stein",
+      "title": "Rosa Parks / Civil / Walk For Pizza",
+      "release_title": "Lenore Von Stein - Art & Money",
+      "year": "2006",
+      "label": "Not On Label (Lenore Von Stein Self-released)",
+      "country": "US",
+      "discogs_id": 8743638,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0cfWLMOl_v-91YA2bhdCH6R7-iBd0_o1JI_HLoQ3p1s/rs:fit/g:sm/q:90/h:169/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDM2/MzgtMTQ2NzgxNjk0/NC04NjkwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "B. Baker Chocolate Co.",
+      "title": "Spirit Level",
+      "release_title": "B. Baker Chocolate Co. - B. Baker Chocolate Co.",
+      "year": "1979",
+      "label": "Lester Radio Corporation",
+      "country": "US",
+      "discogs_id": 1337135,
+      "rating_avg": 3.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/uyMT8UconhGGc6JSdL-j7Mg-G-3lMsKJlprOI-20TK4/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcx/MzUtMTQ1NTg2MDU3/OS01OTY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carol Reinert",
+      "title": "That's The Way I've Always Heard It Should Be",
+      "release_title": "Carol Reinert - Notes To Myself",
+      "year": "2007",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 26982929,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/u9NMH94p1F1W6wUV8zOocUn14oKS0fNJlKOUqbS9sXQ/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgy/OTI5LTE2ODMyOTQy/NTItODMyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The James Dejoie Quartet",
+      "title": "Jetlagged",
+      "release_title": "The James Dejoie Quartet - The Best of All Possible Worlds",
+      "year": "2005",
+      "label": "HipSync Records",
+      "country": "US",
+      "discogs_id": 15961635,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1Y1KFMdfoQTb3ZI6cox9jOmHCUY6c6DhHIHbyzxe2tw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYx/NjM1LTE2MDA5Njcz/MTktNTMzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eumir Deodato",
+      "title": "Super Strut",
+      "release_title": "Deodato* - Deodato 2",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 8561263,
+      "rating_avg": 4.4,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/7q-V6w7c0wQ4lwgVrMBB149aZBAbeU5MnShpriktg74/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjEy/NjMtMTQ2NDA3NTcy/Ny00NTQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Moogin' On",
+      "release_title": "Ramsey Lewis - Legacy",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3155833,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/9I3uTMTNEM61MSKV_j1oieHDpCKzfoKQiBcChGdSLPI/rs:fit/g:sm/q:90/h:520/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU4/MzMtMTMzNjgwODAx/Ni03MTQyLmpwZWc.jpeg"
+    }
+  ]
+}
