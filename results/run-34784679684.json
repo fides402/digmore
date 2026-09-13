@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2017,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 35,
+      "artists_found": 33,
+      "fresh_lookups": 1,
+      "styles_considered": 112
+    }
+  },
+  "results": [
+    {
+      "artist": "Don Cherry",
+      "title": "The Ending Movement-Liberation( From Welkin Of Infinity )",
+      "release_title": "Don Cherry - Hear & Now",
+      "year": "2007",
+      "label": "Wounded Bird Records",
+      "country": "US",
+      "discogs_id": 4674456,
+      "rating_avg": 4.0,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/rfaub8NrTs-sPE_TfLqTaqOWbzwYGsT9JIauAAIIaUo/rs:fit/g:sm/q:90/h:412/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzQ0/NTYtMTY3MTg5NTAy/MC05MTk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mosaic",
+      "title": "Mahad",
+      "release_title": "Mosaic (15) - Mosaic",
+      "year": "1978",
+      "label": "LMI Records",
+      "country": "US",
+      "discogs_id": 3815639,
+      "rating_avg": 4.67,
+      "rating_count": 33,
+      "cover_image": "https://i.discogs.com/guJzRSCjG6eUcLAJ5e0ZZnOUg_ZC_5LyMgxxickO78c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU2/MzktMTU1OTU3Mzcy/OC0zMzgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Laurindo Almeida & Bud Shank",
+      "title": "Amor Flamenco",
+      "release_title": "Laurindo Almeida Featuring Bud Shank - Brazilliance",
+      "year": "1965",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 33132651,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/T4EKcEWD1sYsNimKW8mjZ9LuzH1q-amjBPdi10Wr5MA/rs:fit/g:sm/q:90/h:424/w:433/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTMy/NjUxLTE3Mzk0OTA2/OTgtNjg3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Laurindo Almeida & Bud Shank",
+      "title": "Noctambulism",
+      "release_title": "Laurindo Almeida Featuring Bud Shank - Brazilliance",
+      "year": "1965",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 33132651,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/T4EKcEWD1sYsNimKW8mjZ9LuzH1q-amjBPdi10Wr5MA/rs:fit/g:sm/q:90/h:424/w:433/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTMy/NjUxLTE3Mzk0OTA2/OTgtNjg3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clifford Jordan",
+      "title": "H.N.I.C. (cont)",
+      "release_title": "Clifford Jordan - Soul Fountain",
+      "year": "1970",
+      "label": "Vortex Records",
+      "country": "US",
+      "discogs_id": 11882555,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WFZxJfzAaspUU7oYKCyNZRdhhZh-6IOT0FFPRjp3ZJk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgy/NTU1LTE1MjQwNTUw/MzAtNjE0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charlie Byrd",
+      "title": "Manha De Carnaval",
+      "release_title": "Charlie Byrd - Byrdland",
+      "year": "1967",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 12926707,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/YuqWHAIQgdLKOXK8EwUlofo5TMud3Dm6E5-rwAzj6Mk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI2/NzA3LTE1NDQ4NDYz/MDItOTYyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlos Barbosa-Lima",
+      "title": "Maria Bonita",
+      "release_title": "Carlos Barbosa-Lima - Frenesí",
+      "year": "2004",
+      "label": "ZOHO",
+      "country": "US",
+      "discogs_id": 14975034,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7xG06zvD1K89roWq_N1jorFUVRkKLH-a9hvzTJiIxYc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc1/MDM0LTE1ODQ5NzI2/MTEtNDE3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlos Barbosa-Lima",
+      "title": "Sigo Pensando En Ti",
+      "release_title": "Carlos Barbosa-Lima - Frenesí",
+      "year": "2004",
+      "label": "ZOHO",
+      "country": "US",
+      "discogs_id": 14975034,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7xG06zvD1K89roWq_N1jorFUVRkKLH-a9hvzTJiIxYc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc1/MDM0LTE1ODQ5NzI2/MTEtNDE3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo",
+      "title": "Sophisticated Wheels",
+      "release_title": "Gabor Szabo - The Best Of Gabor Szabo",
+      "year": "1968",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 2644073,
+      "rating_avg": 4.2,
+      "rating_count": 69,
+      "cover_image": "https://i.discogs.com/l8ig0q80eprnr7uCIhAfn0XYu2YhVxYH429jyTLXFrw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQw/NzMtMTU4ODQzMTgy/My0xODM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Les McCann",
+      "title": "Shabalala",
+      "release_title": "Les McCann - On The Soul Side",
+      "year": "1994",
+      "label": "MusicMasters Jazz",
+      "country": "US",
+      "discogs_id": 9737862,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yZv62MW_WNFp1cvP6JZ-3aFTaKCWNuyNoaXI_8yhjUY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mzc4/NjItMTQ4NTU5NDQz/OC01NTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Right Here",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 1359490,
+      "rating_avg": 4.09,
+      "rating_count": 118,
+      "cover_image": "https://i.discogs.com/YDpomuyGUJfvaHuWiaWUymkymMCWobf1TTuq7S9-ViQ/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk0/OTAtMTIxMjY4MTgw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Ramsey Lewis Trio",
+      "title": "He's A Real Gone Guy",
+      "release_title": "The Ramsey Lewis Trio - Hang On Ramsey!",
+      "year": "1966",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 5150481,
+      "rating_avg": 4.08,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/arq62p5kVDKst8HKsaCdBvKbk8lmBw5b8CL0x_Spf4Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTA0/ODEtMTM4ODU3NjE2/MS0zNjM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mosaic",
+      "title": "I'm Just A Primitive Bebop Caveman",
+      "release_title": "Mosaic (15) - Mosaic",
+      "year": "1978",
+      "label": "LMI Records",
+      "country": "US",
+      "discogs_id": 3815639,
+      "rating_avg": 4.67,
+      "rating_count": 33,
+      "cover_image": "https://i.discogs.com/guJzRSCjG6eUcLAJ5e0ZZnOUg_ZC_5LyMgxxickO78c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU2/MzktMTU1OTU3Mzcy/OC0zMzgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo",
+      "title": "Paint It Black",
+      "release_title": "Gabor Szabo - The Best Of Gabor Szabo",
+      "year": "1968",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 2644073,
+      "rating_avg": 4.2,
+      "rating_count": 69,
+      "cover_image": "https://i.discogs.com/l8ig0q80eprnr7uCIhAfn0XYu2YhVxYH429jyTLXFrw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQw/NzMtMTU4ODQzMTgy/My0xODM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carlos Barbosa-Lima",
+      "title": "Adios",
+      "release_title": "Carlos Barbosa-Lima - Frenesí",
+      "year": "2004",
+      "label": "ZOHO",
+      "country": "US",
+      "discogs_id": 14975034,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7xG06zvD1K89roWq_N1jorFUVRkKLH-a9hvzTJiIxYc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc1/MDM0LTE1ODQ5NzI2/MTEtNDE3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo",
+      "title": "Little Boat = O Barquinho",
+      "release_title": "Gabor Szabo - The Best Of Gabor Szabo",
+      "year": "1968",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 2644073,
+      "rating_avg": 4.2,
+      "rating_count": 69,
+      "cover_image": "https://i.discogs.com/l8ig0q80eprnr7uCIhAfn0XYu2YhVxYH429jyTLXFrw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQw/NzMtMTU4ODQzMTgy/My0xODM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Les McCann",
+      "title": "Lift Every Voice And Sing / God Bless America",
+      "release_title": "Les McCann - On The Soul Side",
+      "year": "1994",
+      "label": "MusicMasters Jazz",
+      "country": "US",
+      "discogs_id": 9737862,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yZv62MW_WNFp1cvP6JZ-3aFTaKCWNuyNoaXI_8yhjUY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mzc4/NjItMTQ4NTU5NDQz/OC01NTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rare Silk",
+      "title": "Lush Life",
+      "release_title": "Rare Silk - New Weave",
+      "year": "1983",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 13014550,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/rN0hkfxs4AOOrFzAqm7BbZry0n7bzZzZMXsTbGNuGyQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE0/NTUwLTE1NDY3MTc5/MTctOTIyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charlie Byrd",
+      "title": "Work Song",
+      "release_title": "Charlie Byrd - Byrdland",
+      "year": "1967",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 12926707,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/YuqWHAIQgdLKOXK8EwUlofo5TMud3Dm6E5-rwAzj6Mk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI2/NzA3LTE1NDQ4NDYz/MDItOTYyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Flip Phillips",
+      "title": "Don't Get Around Much Anymore",
+      "release_title": "Flip Phillips - Flip In Florida",
+      "year": "1973",
+      "label": "Onyx Records",
+      "country": "US",
+      "discogs_id": 8061065,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/iXT9EM-AZjeSVV-RsaeHP5kwRsseRvFUHFBJrtBYLR0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjEw/NjUtMTQ1NDM4MDk4/NC05MTg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Karl Ratzer",
+      "title": "Rock On The Bottom",
+      "release_title": "Karl Ratzer - Street Talk",
+      "year": "1979",
+      "label": "Vanguard",
+      "country": "US",
+      "discogs_id": 2506617,
+      "rating_avg": 4.33,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/EhDsMl5lpcIPd_7Tr0RFSRdBKVUXhEVZ613mT6Wh9WY/rs:fit/g:sm/q:90/h:351/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY2/MTctMTI4Nzc2NDk0/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Forrest",
+      "title": "Autumn Leaves",
+      "release_title": "Jimmy Forrest - Most Much!",
+      "year": "1989",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 26043244,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/H5OzbKBkw923MHjAtKbTzMbDK4M-JOqCISuYjziX-IE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/MjQ0LTE2NzU5NDcx/NzMtNTc0OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Les McCann",
+      "title": "New Blues",
+      "release_title": "Les McCann - On The Soul Side",
+      "year": "1994",
+      "label": "MusicMasters Jazz",
+      "country": "US",
+      "discogs_id": 9737862,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yZv62MW_WNFp1cvP6JZ-3aFTaKCWNuyNoaXI_8yhjUY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mzc4/NjItMTQ4NTU5NDQz/OC01NTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clifford Jordan",
+      "title": "Retribution",
+      "release_title": "Clifford Jordan - Soul Fountain",
+      "year": "1970",
+      "label": "Vortex Records",
+      "country": "US",
+      "discogs_id": 11882555,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WFZxJfzAaspUU7oYKCyNZRdhhZh-6IOT0FFPRjp3ZJk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgy/NTU1LTE1MjQwNTUw/MzAtNjE0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Forrest",
+      "title": "Matilda",
+      "release_title": "Jimmy Forrest - Most Much!",
+      "year": "1989",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 26043244,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/H5OzbKBkw923MHjAtKbTzMbDK4M-JOqCISuYjziX-IE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQz/MjQ0LTE2NzU5NDcx/NzMtNTc0OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sarah Vaughan & Milton Nascimento",
+      "title": "Photograph",
+      "release_title": "Sarah Vaughan With Milton Nascimento - Brazilian Romance",
+      "year": "1987",
+      "label": "CBS",
+      "country": "US",
+      "discogs_id": 10482363,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/0QR0qw6Eo_n-0yxXeukAO5g9JjxjLIjUKoa99dwB8JA/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgy/MzYzLTE0OTg0MTkz/ODktNTU5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sarah Vaughan & Milton Nascimento",
+      "title": "Your Smile",
+      "release_title": "Sarah Vaughan With Milton Nascimento - Brazilian Romance",
+      "year": "1987",
+      "label": "CBS",
+      "country": "US",
+      "discogs_id": 10482363,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/0QR0qw6Eo_n-0yxXeukAO5g9JjxjLIjUKoa99dwB8JA/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgy/MzYzLTE0OTg0MTkz/ODktNTU5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Water Sign",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 1359490,
+      "rating_avg": 4.09,
+      "rating_count": 118,
+      "cover_image": "https://i.discogs.com/YDpomuyGUJfvaHuWiaWUymkymMCWobf1TTuq7S9-ViQ/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk0/OTAtMTIxMjY4MTgw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "Somethin' Strange (Alt Tk)",
+      "release_title": "Baby Face Willette* - Face To Face",
+      "year": "1997",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3123429,
+      "rating_avg": 4.58,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/3yydgILlz-B9ZqwdZCwWeSxOlrsR9fjN-8S0K5_tGbk/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjM0/MjktMTU5ODA2MjI5/OC0xMDI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mosaic",
+      "title": "Present Tense",
+      "release_title": "Mosaic (15) - Mosaic",
+      "year": "1978",
+      "label": "LMI Records",
+      "country": "US",
+      "discogs_id": 3815639,
+      "rating_avg": 4.67,
+      "rating_count": 33,
+      "cover_image": "https://i.discogs.com/guJzRSCjG6eUcLAJ5e0ZZnOUg_ZC_5LyMgxxickO78c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU2/MzktMTU1OTU3Mzcy/OC0zMzgyLmpwZWc.jpeg"
+    }
+  ]
+}
