@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 34,
+      "artists_found": 32,
+      "fresh_lookups": 0,
+      "styles_considered": 101
+    }
+  },
+  "results": [
+    {
+      "artist": "Lee Austin",
+      "title": "Real Woman",
+      "release_title": "The Burner-Lee Austin* - Real Woman",
+      "year": "1972",
+      "label": "People",
+      "country": "US",
+      "discogs_id": 7510291,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6INJ6GpwADxBshOl8mnfUg-IR_AOuKxa_O_Bj79hM0E/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAy/OTEtMTQ0MzU4MTAz/Ni0xNjczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Desiree Coleman",
+      "title": "Romance (LP Version)",
+      "release_title": "Desiree Coleman - Romance (Extended Version)",
+      "year": "1988",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 14400212,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LEElz2NWlQ-mUq-k7HaTdTgjqW1S405AqUl_eScWgp0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/MjEyLTE3NzE0OTQx/NDEtMzIyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Earnest Farmer & Jordash Band",
+      "title": "Steal Away (Part 2)",
+      "release_title": "Earnest Farmer With Jordash Band - Steal Away",
+      "year": "1987",
+      "label": "Midtown Records",
+      "country": "US",
+      "discogs_id": 5245434,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/nLfbNuUXoouFIhnznMnS6mJxJDYzy8Tly86ha6bzIK4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDU0/MzQtMTM4ODY4MDMz/Ny0zMDY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sugar Pie DeSanto",
+      "title": "Straighten It Out With Yo Man",
+      "release_title": "Various - Bay Area Funk 2 (Funk And Soul From San Francisco, Oakland And The Bay Area)",
+      "year": "2006",
+      "label": "Luv N' Haight",
+      "country": "US",
+      "discogs_id": 741905,
+      "rating_avg": 4.19,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/Dcb5BAf9_dn8MvfQM9v58ynCs4RUIygZynSj3PEWMDU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTkw/NS0xNjkyNTMwMzQw/LTgyNDUuanBlZw.jpeg"
+    },
+    {
+      "artist": "Sly & The Family Stone",
+      "title": "Fun",
+      "release_title": "Sly & The Family Stone - Greatest Hits",
+      "year": "1970",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 1853489,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/mbwGs2nHD3-EAi1rD7Us1VVMKN2s-_TpRDgIiN3XDmM/rs:fit/g:sm/q:90/h:600/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM0/ODktMTY1OTIwNTM2/MC0yMjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Desiree Coleman",
+      "title": "Romance (7\" Edit)",
+      "release_title": "Desiree Coleman - Romance (Extended Version)",
+      "year": "1988",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 14400212,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LEElz2NWlQ-mUq-k7HaTdTgjqW1S405AqUl_eScWgp0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/MjEyLTE3NzE0OTQx/NDEtMzIyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Major And The Lieutenants",
+      "title": "Communicating",
+      "release_title": "Major And The Lieutenants - Love, Peace, And Soul / Communicating",
+      "year": "1970",
+      "label": "HHH",
+      "country": "US",
+      "discogs_id": 5443529,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/E3su5hxiuBige8TCTw6FIDTaAD0BpQtvFf7MyiL570I/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDM1/MjktMTM5MzUwMDU1/Ni0xMDQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ebony Rhythm Band",
+      "title": "Drugs Ain't Cool (Instrumental)",
+      "release_title": "Various - Cold Heat - Heavy Funk Rarities 1968-1974 Vol.1",
+      "year": "2004",
+      "label": "Now-Again Records",
+      "country": "US",
+      "discogs_id": 494281,
+      "rating_avg": 4.39,
+      "rating_count": 33,
+      "cover_image": "https://i.discogs.com/gNsqfhejoZXODYxUlUi1Ad1o2qg4QRw78wc7zIKDdzU/rs:fit/g:sm/q:90/h:490/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDI4/MS0xMTg3NDMyMDYw/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Any Way At All",
+      "release_title": "Donna Summer - Endless Summer",
+      "year": "1994",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 30884739,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/uEbbVbhJm5VBUtTeRF94Jpbw2Y8uY4FcCx_5y6cuqk8/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODg0/NzM5LTE3MTc2NTE4/OTUtNzIwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Marketts",
+      "title": "Song From M*A*S*H (Disco)",
+      "release_title": "The New Marketts* - Song From M*A*S*H",
+      "year": "1976",
+      "label": "Farr Records",
+      "country": "US",
+      "discogs_id": 2578465,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/uTeL2Ks-6DgMekZc1QB7ysWuNS2vJqToMVb08DvSamU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzg0/NjUtMTI5MTUzMDQy/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Marketts",
+      "title": "Song From M*A*S*H",
+      "release_title": "The New Marketts* - Song From M*A*S*H",
+      "year": "1976",
+      "label": "Farr Records",
+      "country": "US",
+      "discogs_id": 2578465,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/uTeL2Ks-6DgMekZc1QB7ysWuNS2vJqToMVb08DvSamU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzg0/NjUtMTI5MTUzMDQy/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Stubborn Kind Of Fellow",
+      "release_title": "Diana Ross - Diana's Duets",
+      "year": "1981",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 2304514,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/qmEaESpQrC0dradY6oKG4b94JkJoafHr4Q-OpjVmHa8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDQ1/MTQtMTI3NTY0NjE4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Little Joe Mixon",
+      "title": "What You See Is What You Get (Instrumental Version)",
+      "release_title": "Little Joe Mixon - What You See Is What You Get",
+      "year": "1970",
+      "label": "Duo Records",
+      "country": "US",
+      "discogs_id": 2841245,
+      "rating_avg": 4.46,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/XYEV3PI9Oqjl-JWghUhm5FOGk1FleeWPBsfEC3Ncpww/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/NDUtMTU3MjA3MjQ5/MC0zODA1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Major And The Lieutenants",
+      "title": "Love, Peace, And Soul",
+      "release_title": "Major And The Lieutenants - Love, Peace, And Soul / Communicating",
+      "year": "1970",
+      "label": "HHH",
+      "country": "US",
+      "discogs_id": 5443529,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/E3su5hxiuBige8TCTw6FIDTaAD0BpQtvFf7MyiL570I/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDM1/MjktMTM5MzUwMDU1/Ni0xMDQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sly & The Family Stone",
+      "title": "Sing A Simple Song",
+      "release_title": "Sly & The Family Stone - Greatest Hits",
+      "year": "1970",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 1853489,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/mbwGs2nHD3-EAi1rD7Us1VVMKN2s-_TpRDgIiN3XDmM/rs:fit/g:sm/q:90/h:600/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM0/ODktMTY1OTIwNTM2/MC0yMjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jesse Johnson",
+      "title": "100 Watts Of Funky",
+      "release_title": "Jesse Johnson - Verbal Penetration",
+      "year": "2009",
+      "label": "Elite Artist Services",
+      "country": "US",
+      "discogs_id": 2088290,
+      "rating_avg": 4.52,
+      "rating_count": 21,
+      "cover_image": "https://i.discogs.com/nNl31voZ33vFGZJ70Val6EVknDhvvzGlISLZeeFtHQE/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODgy/OTAtMTYxMjI4NzEw/Ny00NjgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Hot Stuff",
+      "release_title": "Donna Summer - Endless Summer",
+      "year": "1994",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 30884739,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/uEbbVbhJm5VBUtTeRF94Jpbw2Y8uY4FcCx_5y6cuqk8/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODg0/NzM5LTE3MTc2NTE4/OTUtNzIwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sly & The Family Stone",
+      "title": "Dance To The Music",
+      "release_title": "Sly & The Family Stone - Greatest Hits",
+      "year": "1970",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 1853489,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/mbwGs2nHD3-EAi1rD7Us1VVMKN2s-_TpRDgIiN3XDmM/rs:fit/g:sm/q:90/h:600/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM0/ODktMTY1OTIwNTM2/MC0yMjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "The Wanderer",
+      "release_title": "Donna Summer - Endless Summer",
+      "year": "1994",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 30884739,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/uEbbVbhJm5VBUtTeRF94Jpbw2Y8uY4FcCx_5y6cuqk8/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODg0/NzM5LTE3MTc2NTE4/OTUtNzIwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "San Francisco T.K.O.'s",
+      "title": "Acid Lady",
+      "release_title": "Various - Bay Area Funk 2 (Funk And Soul From San Francisco, Oakland And The Bay Area)",
+      "year": "2006",
+      "label": "Luv N' Haight",
+      "country": "US",
+      "discogs_id": 741905,
+      "rating_avg": 4.19,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/Dcb5BAf9_dn8MvfQM9v58ynCs4RUIygZynSj3PEWMDU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTkw/NS0xNjkyNTMwMzQw/LTgyNDUuanBlZw.jpeg"
+    },
+    {
+      "artist": "Sly & The Family Stone",
+      "title": "M'lady",
+      "release_title": "Sly & The Family Stone - Greatest Hits",
+      "year": "1970",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 1853489,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/mbwGs2nHD3-EAi1rD7Us1VVMKN2s-_TpRDgIiN3XDmM/rs:fit/g:sm/q:90/h:600/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM0/ODktMTY1OTIwNTM2/MC0yMjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eugene Record",
+      "title": "Help Yourself To Love",
+      "release_title": "Eugene Record - Fan The Fire (Edit)",
+      "year": "1979",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 5330431,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/lJEZiHekTDx6rspkgpJw1h1dOXcXevCy-1LIDur1XSQ/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA0/MzEtMTQ5ODYwNjk0/My01ODkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jesse Johnson",
+      "title": "Letters From A Soldier (Reprise)",
+      "release_title": "Jesse Johnson - Verbal Penetration",
+      "year": "2009",
+      "label": "Elite Artist Services",
+      "country": "US",
+      "discogs_id": 2088290,
+      "rating_avg": 4.52,
+      "rating_count": 21,
+      "cover_image": "https://i.discogs.com/nNl31voZ33vFGZJ70Val6EVknDhvvzGlISLZeeFtHQE/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODgy/OTAtMTYxMjI4NzEw/Ny00NjgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Levy Davis",
+      "title": "The Lady Loves A Winner",
+      "release_title": "Levy Davis - The Lady Loves A Winner / In Need Of Your Love",
+      "year": "1984",
+      "label": "Good To Go Records",
+      "country": "US",
+      "discogs_id": 3544106,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/3lMIR1AUeRzOMWHb7Vm8rqDHBy-NdScPPwuNNMp0l6o/rs:fit/g:sm/q:90/h:180/w:177/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQx/MDYtMTM4OTgwNDQ3/My02OTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Desiree Coleman",
+      "title": "Romance (12\" Version)",
+      "release_title": "Desiree Coleman - Romance (Extended Version)",
+      "year": "1988",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 14400212,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LEElz2NWlQ-mUq-k7HaTdTgjqW1S405AqUl_eScWgp0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/MjEyLTE3NzE0OTQx/NDEtMzIyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Little Joe Mixon",
+      "title": "What You See Is What You Get",
+      "release_title": "Little Joe Mixon - What You See Is What You Get",
+      "year": "1970",
+      "label": "Duo Records",
+      "country": "US",
+      "discogs_id": 2841245,
+      "rating_avg": 4.46,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/XYEV3PI9Oqjl-JWghUhm5FOGk1FleeWPBsfEC3Ncpww/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/NDUtMTU3MjA3MjQ5/MC0zODA1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lil Lavair",
+      "title": "Cold Heat",
+      "release_title": "Various - Cold Heat - Heavy Funk Rarities 1968-1974 Vol.1",
+      "year": "2004",
+      "label": "Now-Again Records",
+      "country": "US",
+      "discogs_id": 494281,
+      "rating_avg": 4.39,
+      "rating_count": 33,
+      "cover_image": "https://i.discogs.com/gNsqfhejoZXODYxUlUi1Ad1o2qg4QRw78wc7zIKDdzU/rs:fit/g:sm/q:90/h:490/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDI4/MS0xMTg3NDMyMDYw/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Earnest Farmer & Jordash Band",
+      "title": "Steal Away",
+      "release_title": "Earnest Farmer With Jordash Band - Steal Away",
+      "year": "1987",
+      "label": "Midtown Records",
+      "country": "US",
+      "discogs_id": 5245434,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/nLfbNuUXoouFIhnznMnS6mJxJDYzy8Tly86ha6bzIK4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDU0/MzQtMTM4ODY4MDMz/Ny0zMDY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Presidents",
+      "title": "Sweet Magic",
+      "release_title": "The Presidents* - Triangle Of Love (Hey Diddle Diddle)",
+      "year": "1970",
+      "label": "Sussex",
+      "country": "US",
+      "discogs_id": 10726213,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/9Lfyo02fbWnSnhxc6VaxyhkB-lGQs5Nj_CeZj7sHqoQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI2/MjEzLTE3NjM0ODE4/OTEtNjI3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jesse Johnson",
+      "title": "V.P. Introduction",
+      "release_title": "Jesse Johnson - Verbal Penetration",
+      "year": "2009",
+      "label": "Elite Artist Services",
+      "country": "US",
+      "discogs_id": 2088290,
+      "rating_avg": 4.52,
+      "rating_count": 21,
+      "cover_image": "https://i.discogs.com/nNl31voZ33vFGZJ70Val6EVknDhvvzGlISLZeeFtHQE/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODgy/OTAtMTYxMjI4NzEw/Ny00NjgwLmpwZWc.jpeg"
+    }
+  ]
+}
