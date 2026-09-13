@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 39,
+      "artists_found": 38,
+      "fresh_lookups": 1,
+      "styles_considered": 119
+    }
+  },
+  "results": [
+    {
+      "artist": "Jim Chappell",
+      "title": "Raindrops On My Heart",
+      "release_title": "Jim Chappell - Coming Through",
+      "year": "2005",
+      "label": "Unspeakable Freedom Music",
+      "country": "US",
+      "discogs_id": 7929499,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_y160olQc05j2dvhyNAzaCMbaVvz503_nz-AoxFLA_s/rs:fit/g:sm/q:90/h:485/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mjk0/OTktMTQ1MTg0Nzgx/NC0yMjczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Conniff",
+      "title": "Chattanooga Choo Choo",
+      "release_title": "Ray Conniff - The Happy Sound Of Ray Conniff",
+      "year": "1974",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 6211289,
+      "rating_avg": 4.22,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/zZMPIh07Mpyj97-3AsUcYI8eCnmBF8QEVOJLb7UCWBw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEy/ODktMTUzODM2OTU1/NC0zODI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Conniff",
+      "title": "It's A Sin To Tell A Lie",
+      "release_title": "Ray Conniff - The Happy Sound Of Ray Conniff",
+      "year": "1974",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 6211289,
+      "rating_avg": 4.22,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/zZMPIh07Mpyj97-3AsUcYI8eCnmBF8QEVOJLb7UCWBw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEy/ODktMTUzODM2OTU1/NC0zODI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jim Chappell",
+      "title": "Winter Years",
+      "release_title": "Jim Chappell - Coming Through",
+      "year": "2005",
+      "label": "Unspeakable Freedom Music",
+      "country": "US",
+      "discogs_id": 7929499,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_y160olQc05j2dvhyNAzaCMbaVvz503_nz-AoxFLA_s/rs:fit/g:sm/q:90/h:485/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mjk0/OTktMTQ1MTg0Nzgx/NC0yMjczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jelani Eddington",
+      "title": "Symphonic Suite From Porgy And Bess",
+      "release_title": "Jelani Eddington - Peter And The Wolf",
+      "year": "2005",
+      "label": "RJE Productions",
+      "country": "US",
+      "discogs_id": 37838898,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ebO9B7Od6hbByNRrXxvi_NhLuxThWrp37p3ZBrZH3zw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODM4/ODk4LTE3ODM2MTUz/NDYtMzU4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Cannonball Adderley Quintet",
+      "title": "Music, You All (Concl.)",
+      "release_title": "The Cannonball Adderley Quintet - Music, You All",
+      "year": "1976",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 2456021,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DWUIq-PZ2SLxqYd6gwJ2bLcGm1xWVtGhX9LaI0llCDU/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/MjEtMTI4NTQwNTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Cannonball Adderley Quintet",
+      "title": "Music, You All (Part 1)",
+      "release_title": "The Cannonball Adderley Quintet - Music, You All",
+      "year": "1976",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 2456021,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DWUIq-PZ2SLxqYd6gwJ2bLcGm1xWVtGhX9LaI0llCDU/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/MjEtMTI4NTQwNTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Goin' Down South",
+      "release_title": "The Crusaders - Pass The Plate",
+      "year": "1971",
+      "label": "Chisa",
+      "country": "US",
+      "discogs_id": 7254056,
+      "rating_avg": 4.67,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/8D-RA_Cv6QHM6o6hwubOiMxQqUox2aVoBYUpWoPgDWM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTQw/NTYtMTcyMTIyMDk5/MS05ODAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jim Chappell",
+      "title": "At Last",
+      "release_title": "Jim Chappell - Coming Through",
+      "year": "2005",
+      "label": "Unspeakable Freedom Music",
+      "country": "US",
+      "discogs_id": 7929499,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_y160olQc05j2dvhyNAzaCMbaVvz503_nz-AoxFLA_s/rs:fit/g:sm/q:90/h:485/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mjk0/OTktMTQ1MTg0Nzgx/NC0yMjczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joshua Redman",
+      "title": "Chill",
+      "release_title": "Joshua Redman - The Essence Of Joshua Redman",
+      "year": "1996",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 5798300,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/w_8Sn8ZgDTkUCz7jzeUviybzUJzTauNqAaGaW2CbXIQ/rs:fit/g:sm/q:90/h:483/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTgz/MDAtMTQxNzM0NzIw/OS00MDc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Checkfield",
+      "title": "Holiday",
+      "release_title": "Checkfield - A View From The Edge",
+      "year": "1990",
+      "label": "American Gramaphone Records",
+      "country": "US",
+      "discogs_id": 645244,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/5KtMdp7Wr470bqJy21YR28vS1h9h62xjvgotpqDthMc/rs:fit/g:sm/q:90/h:505/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTI0/NC0xMzY4NzI4MjMy/LTE2ODMuanBlZw.jpeg"
+    },
+    {
+      "artist": "The Andrews Sisters",
+      "title": "Here Comes The Navy (Beer Barrel Polka)",
+      "release_title": "The Andrews Sisters - Best Of Anthology",
+      "year": "2009",
+      "label": "Cleopatra",
+      "country": "US",
+      "discogs_id": 37303848,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Joshua Redman",
+      "title": "Soul Dance",
+      "release_title": "Joshua Redman - The Essence Of Joshua Redman",
+      "year": "1996",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 5798300,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/w_8Sn8ZgDTkUCz7jzeUviybzUJzTauNqAaGaW2CbXIQ/rs:fit/g:sm/q:90/h:483/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTgz/MDAtMTQxNzM0NzIw/OS00MDc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Yusef Lateef",
+      "title": "Raymond Winchester",
+      "release_title": "Yusef Lateef - Yusef Lateef's Detroit Latitude 42° 30' Longitude 83°",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12904804,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YJ-vSyRQ43Vhrh7aSP3t_RCa_9s6E1gnSNpI5hMgkP0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/ODA0LTE1NDQyMjEx/NTUtMjU1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Fifty Guitars & Tommy Tedesco",
+      "title": "Never Can Say Goodbye",
+      "release_title": "The 50 Guitars* With Tommy Tedesco - With Love From The 50 Guitars",
+      "year": "1977",
+      "label": "Musicor Records",
+      "country": "US",
+      "discogs_id": 27109326,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qUAZl5pyovpzofCEjUuNd1JrNrbalusaVodbU6kzXwU/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTA5/MzI2LTE2ODQzODg1/MDktNzA5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bradford Hayes",
+      "title": "Footprints",
+      "release_title": "Bradford Hayes - Our Fathers",
+      "year": "1994",
+      "label": "Intensity Records",
+      "country": "US",
+      "discogs_id": 1855175,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/zNneNCydbS6GZ10TvMS_CZiHNyre6XOA0JPUThZl-oo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUx/NzUtMTU3OTg5MTc2/Mi01NTE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gary Bartz NTU Troop",
+      "title": "Uhuru Sasa (Cont.)",
+      "release_title": "Gary Bartz NTU Troop - Harlem Bush Music - Uhuru",
+      "year": "1971",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 13123665,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PA_E5XrZZFvNU2BXwyZfGmJv2OQEhdv5kBqmj0KfO84/rs:fit/g:sm/q:90/h:600/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIz/NjY1LTE1NDg0Njc3/NTYtMzg2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Conniff",
+      "title": "The Entertainer",
+      "release_title": "Ray Conniff - The Happy Sound Of Ray Conniff",
+      "year": "1974",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 6211289,
+      "rating_avg": 4.22,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/zZMPIh07Mpyj97-3AsUcYI8eCnmBF8QEVOJLb7UCWBw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEy/ODktMTUzODM2OTU1/NC0zODI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Cannonball Adderley Quintet",
+      "title": "Cannon Raps",
+      "release_title": "The Cannonball Adderley Quintet - Music, You All",
+      "year": "1976",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 2456021,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DWUIq-PZ2SLxqYd6gwJ2bLcGm1xWVtGhX9LaI0llCDU/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/MjEtMTI4NTQwNTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jelani Eddington",
+      "title": "Peter And The Wolf",
+      "release_title": "Jelani Eddington - Peter And The Wolf",
+      "year": "2005",
+      "label": "RJE Productions",
+      "country": "US",
+      "discogs_id": 37838898,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ebO9B7Od6hbByNRrXxvi_NhLuxThWrp37p3ZBrZH3zw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODM4/ODk4LTE3ODM2MTUz/NDYtMzU4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Bartz NTU Troop",
+      "title": "Blue (A Folk Tale) (Cont.)",
+      "release_title": "Gary Bartz NTU Troop - Harlem Bush Music - Uhuru",
+      "year": "1971",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 13123665,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PA_E5XrZZFvNU2BXwyZfGmJv2OQEhdv5kBqmj0KfO84/rs:fit/g:sm/q:90/h:600/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIz/NjY1LTE1NDg0Njc3/NTYtMzg2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Yusef Lateef",
+      "title": "Woodward Avenue",
+      "release_title": "Yusef Lateef - Yusef Lateef's Detroit Latitude 42° 30' Longitude 83°",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12904804,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YJ-vSyRQ43Vhrh7aSP3t_RCa_9s6E1gnSNpI5hMgkP0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/ODA0LTE1NDQyMjEx/NTUtMjU1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joshua Redman",
+      "title": "Jig A Jug",
+      "release_title": "Joshua Redman - The Essence Of Joshua Redman",
+      "year": "1996",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 5798300,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/w_8Sn8ZgDTkUCz7jzeUviybzUJzTauNqAaGaW2CbXIQ/rs:fit/g:sm/q:90/h:483/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTgz/MDAtMTQxNzM0NzIw/OS00MDc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bradford Hayes",
+      "title": "Softly As In A Morning Sunrise",
+      "release_title": "Bradford Hayes - Our Fathers",
+      "year": "1994",
+      "label": "Intensity Records",
+      "country": "US",
+      "discogs_id": 1855175,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/zNneNCydbS6GZ10TvMS_CZiHNyre6XOA0JPUThZl-oo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUx/NzUtMTU3OTg5MTc2/Mi01NTE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Cannonball Adderley Quintet",
+      "title": "The Brakes",
+      "release_title": "The Cannonball Adderley Quintet - Music, You All",
+      "year": "1976",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 2456021,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DWUIq-PZ2SLxqYd6gwJ2bLcGm1xWVtGhX9LaI0llCDU/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/MjEtMTI4NTQwNTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Soulful Strings",
+      "title": "It's Cold Duck Time",
+      "release_title": "The Soulful Strings - String Fever",
+      "year": "1969",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 11025318,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/GjNGDHcxaGVpOzTiqJadDR7xHutWSavu9kUrcS0Y3g8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI1/MzE4LTE1MDg0Nzcz/MzMtMzAxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Fifty Guitars & Tommy Tedesco",
+      "title": "Laughter In The Rain",
+      "release_title": "The 50 Guitars* With Tommy Tedesco - With Love From The 50 Guitars",
+      "year": "1977",
+      "label": "Musicor Records",
+      "country": "US",
+      "discogs_id": 27109326,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qUAZl5pyovpzofCEjUuNd1JrNrbalusaVodbU6kzXwU/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTA5/MzI2LTE2ODQzODg1/MDktNzA5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Bartz NTU Troop",
+      "title": "Uhuru Sasa (Concl.)",
+      "release_title": "Gary Bartz NTU Troop - Harlem Bush Music - Uhuru",
+      "year": "1971",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 13123665,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PA_E5XrZZFvNU2BXwyZfGmJv2OQEhdv5kBqmj0KfO84/rs:fit/g:sm/q:90/h:600/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIz/NjY1LTE1NDg0Njc3/NTYtMzg2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Yusef Lateef",
+      "title": "Russell And Eliot",
+      "release_title": "Yusef Lateef - Yusef Lateef's Detroit Latitude 42° 30' Longitude 83°",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12904804,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YJ-vSyRQ43Vhrh7aSP3t_RCa_9s6E1gnSNpI5hMgkP0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/ODA0LTE1NDQyMjEx/NTUtMjU1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marc Rossi Group",
+      "title": "Voice Of 1000 Colors Intro",
+      "release_title": "Marc Rossi Group - Hidden Mandala",
+      "year": "2008",
+      "label": "Gravity Records",
+      "country": "US",
+      "discogs_id": 14871166,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rHPpn7mmye0nk6T-AiA8bofJRtxRtad9XE9Sz6xN938/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcx/MTY2LTE3MDYxMTEy/ODEtODM5Ni5qcGVn.jpeg"
+    }
+  ]
+}
