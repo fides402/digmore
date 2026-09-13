@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 6,
+      "artists_found": 6,
+      "fresh_lookups": 0,
+      "styles_considered": 40
+    }
+  },
+  "results": [
+    {
+      "artist": "Cal Tjader Quintet",
+      "title": "Moment In Madrid",
+      "release_title": "Cal Tjader Quintet - Concert On The Campus",
+      "year": "1987",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 10693761,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/-k7vyw_eFB-yfUqPWNmIOHEApNEsWd9NvfuUMHxFCgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/NzYxLTE1MDI1NDEz/NjYtMzY4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Kaizan Neptune & Mu'ryō",
+      "title": "Shibumi (String Play)",
+      "release_title": "John Kaizan Neptune And Mu'ryō - Shogun",
+      "year": "1981",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2823637,
+      "rating_avg": 4.0,
+      "rating_count": 41,
+      "cover_image": "https://i.discogs.com/wvnGd_290RycS48cCtLz6YyZ9LI9W0YtCmHXFqWfQYQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM2/MzctMTQwMDA1ODI4/Mi04ODg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jazz On The Latin Side Allstars",
+      "title": "Intro",
+      "release_title": "Jazz On The Latin Side Allstars - Jazz On The Latin Side Allstars Vol. 2",
+      "year": "2001",
+      "label": "CuBop",
+      "country": "US",
+      "discogs_id": 21138010,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/xjlMdb6mn_Xi67Tr7WxVhttbfxfICdeMZwydm_LdjIs/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM4/MDEwLTE2Mzc5OTk2/MTItNjk2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader Quintet",
+      "title": "Love For Sale",
+      "release_title": "Cal Tjader Quintet - Concert On The Campus",
+      "year": "1987",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 10693761,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/-k7vyw_eFB-yfUqPWNmIOHEApNEsWd9NvfuUMHxFCgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/NzYxLTE1MDI1NDEz/NjYtMzY4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "Ease Back",
+      "release_title": "Grant Green - Carryin' On",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 10542167,
+      "rating_avg": 4.67,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/nEJNN10WOJn_6XNp3C-FNYjq5xAOSrNvQ-0IE9ppHuM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQy/MTY3LTE0OTk1NDkw/NTUtNjYwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "The Mean Machine",
+      "release_title": "Jimmy McGriff - The Mean Machine",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3155713,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Siiz5wXZBP4XlUMo5c-peub_8yUIeFRtyX-MeVee2HA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/MTMtMTMyNTA3NTY4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Once Upon A Love Time",
+      "release_title": "Chuck Mangione - The Feeling's Back",
+      "year": "2004",
+      "label": "Chesky Records",
+      "country": "US",
+      "discogs_id": 6940909,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/RHCPrwxYpRRAeQq-fmxGFMPiDaCV1ZvvSb8ZnrvzozE/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDA5/MDktMTY2MDQ5Nzk0/OS04OTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Cold Duck Eddie",
+      "release_title": "The Crusaders - Hollywood",
+      "year": "1972",
+      "label": "MoWest",
+      "country": "US",
+      "discogs_id": 19097365,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5cVVRsVdNUATHEIHN4vQoOYpXR-FDN7WiTEBX-Dn10Y/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDk3/MzY1LTE2MjMzOTI1/NjItNTg2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Pogo's Stick",
+      "release_title": "Jimmy McGriff - The Mean Machine",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3155713,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Siiz5wXZBP4XlUMo5c-peub_8yUIeFRtyX-MeVee2HA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/MTMtMTMyNTA3NTY4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gil Piger",
+      "title": "Aranjuez",
+      "release_title": "Gil Piger - Spanish Classics With A Twist",
+      "year": "2007",
+      "label": "GJP Records",
+      "country": "US",
+      "discogs_id": 9626111,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3F4n6hfX8qdwet2l6X4FzQK-SaqxVOJRlWB_AK56gM4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjYx/MTEtMTQ4MzgzMjQ5/Ny05NjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Kaizan Neptune & Mu'ryō",
+      "title": "Sailing East",
+      "release_title": "John Kaizan Neptune And Mu'ryō - Shogun",
+      "year": "1981",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2823637,
+      "rating_avg": 4.0,
+      "rating_count": 41,
+      "cover_image": "https://i.discogs.com/wvnGd_290RycS48cCtLz6YyZ9LI9W0YtCmHXFqWfQYQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM2/MzctMTQwMDA1ODI4/Mi04ODg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gil Piger",
+      "title": "Andaluza",
+      "release_title": "Gil Piger - Spanish Classics With A Twist",
+      "year": "2007",
+      "label": "GJP Records",
+      "country": "US",
+      "discogs_id": 9626111,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3F4n6hfX8qdwet2l6X4FzQK-SaqxVOJRlWB_AK56gM4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjYx/MTEtMTQ4MzgzMjQ5/Ny05NjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gato Barbieri",
+      "title": "She Is Michelle",
+      "release_title": "Gato Barbieri - Passion And Fire",
+      "year": "1984",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 13831961,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PnFbigZNxIJxMnxVgcAro2AurJHYp3lzFgWfCyVwSr4/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODMx/OTYxLTE1NjIxMTE4/MzMtMTc3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader Quintet",
+      "title": "Rezo",
+      "release_title": "Cal Tjader Quintet - Concert On The Campus",
+      "year": "1987",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 10693761,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/-k7vyw_eFB-yfUqPWNmIOHEApNEsWd9NvfuUMHxFCgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/NzYxLTE1MDI1NDEz/NjYtMzY4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sadao Watanabe",
+      "title": "My Dear Life",
+      "release_title": "Sadao Watanabe - My Dear Life",
+      "year": "1990",
+      "label": "ProJazz Digital",
+      "country": "US",
+      "discogs_id": 31467362,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nrCUUDqw34vFSJl0DO7DCKvxUp9oQ9L88TMTag3712s/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDY3/MzYyLTE3MjM1MjEz/MDEtMTM1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Get Back",
+      "release_title": "Jimmy McGriff - The Mean Machine",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3155713,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Siiz5wXZBP4XlUMo5c-peub_8yUIeFRtyX-MeVee2HA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/MTMtMTMyNTA3NTY4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "Upshot",
+      "release_title": "Grant Green - Carryin' On",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 10542167,
+      "rating_avg": 4.67,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/nEJNN10WOJn_6XNp3C-FNYjq5xAOSrNvQ-0IE9ppHuM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQy/MTY3LTE0OTk1NDkw/NTUtNjYwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gil Piger",
+      "title": "Asturias",
+      "release_title": "Gil Piger - Spanish Classics With A Twist",
+      "year": "2007",
+      "label": "GJP Records",
+      "country": "US",
+      "discogs_id": 9626111,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3F4n6hfX8qdwet2l6X4FzQK-SaqxVOJRlWB_AK56gM4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjYx/MTEtMTQ4MzgzMjQ5/Ny05NjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Alligator Boogaloo",
+      "release_title": "Various - Blue Note 50th Anniversary Collection Volume 3 1956-1967 Funk And Blues",
+      "year": "1989",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 7767918,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/_vzQ5DhossZCAEzhyy7UzQEGV-mUM8N5XlVqF0Rf6ok/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njc5/MTgtMTQ4NTcyODc2/Ni0zOTE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Don't Let It Get You Down",
+      "release_title": "The Crusaders - Don't Let It Get You Down ",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 10765571,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/V57JlTUcgqOJ7gRoYd-2xiv58VXHzAKWeghuaNftiYA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY1/NTcxLTE1MDM5NDM1/MDQtNzIxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gato Barbieri",
+      "title": "Fiesta",
+      "release_title": "Gato Barbieri - Passion And Fire",
+      "year": "1984",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 13831961,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PnFbigZNxIJxMnxVgcAro2AurJHYp3lzFgWfCyVwSr4/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODMx/OTYxLTE1NjIxMTE4/MzMtMTc3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Karl Denson",
+      "title": "A.J. Bustah",
+      "release_title": "Karl Denson - Dance Lesson #2",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 20995600,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/iZDlaugkQpIbZsTkhW9cdVLDIb5dWYkVESKbE4LQlm4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTk1/NjAwLTE2MzcwMjE3/MTctOTk1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "The Sidewinder",
+      "release_title": "Various - Blue Note 50th Anniversary Collection Volume 3 1956-1967 Funk And Blues",
+      "year": "1989",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 7767918,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/_vzQ5DhossZCAEzhyy7UzQEGV-mUM8N5XlVqF0Rf6ok/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njc5/MTgtMTQ4NTcyODc2/Ni0zOTE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Kaizan Neptune & Mu'ryō",
+      "title": "Samurai",
+      "release_title": "John Kaizan Neptune And Mu'ryō - Shogun",
+      "year": "1981",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2823637,
+      "rating_avg": 4.0,
+      "rating_count": 41,
+      "cover_image": "https://i.discogs.com/wvnGd_290RycS48cCtLz6YyZ9LI9W0YtCmHXFqWfQYQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM2/MzctMTQwMDA1ODI4/Mi04ODg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Journey From Within",
+      "release_title": "The Crusaders - Don't Let It Get You Down ",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 10765571,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/V57JlTUcgqOJ7gRoYd-2xiv58VXHzAKWeghuaNftiYA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY1/NTcxLTE1MDM5NDM1/MDQtNzIxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "I Don't Want Nobody To Give Me Nothing (Open Up The Door I'll Get It Myself)",
+      "release_title": "Grant Green - Carryin' On",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 10542167,
+      "rating_avg": 4.67,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/nEJNN10WOJn_6XNp3C-FNYjq5xAOSrNvQ-0IE9ppHuM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQy/MTY3LTE0OTk1NDkw/NTUtNjYwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Karl Denson",
+      "title": "I Want The Funk",
+      "release_title": "Karl Denson - Dance Lesson #2",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 20995600,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/iZDlaugkQpIbZsTkhW9cdVLDIb5dWYkVESKbE4LQlm4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTk1/NjAwLTE2MzcwMjE3/MTctOTk1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Blue Bossa",
+      "release_title": "Various - Blue Note 50th Anniversary Collection Volume 3 1956-1967 Funk And Blues",
+      "year": "1989",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 7767918,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/_vzQ5DhossZCAEzhyy7UzQEGV-mUM8N5XlVqF0Rf6ok/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njc5/MTgtMTQ4NTcyODc2/Ni0zOTE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Karl Denson",
+      "title": "Flute Down",
+      "release_title": "Karl Denson - Dance Lesson #2",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 20995600,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/iZDlaugkQpIbZsTkhW9cdVLDIb5dWYkVESKbE4LQlm4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTk1/NjAwLTE2MzcwMjE3/MTctOTk1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clark Terry & Chico O'Farrill",
+      "title": "Que Sera",
+      "release_title": "Clark Terry & Chico O'Farrill - Spanish Rice",
+      "year": "2004",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 1681059,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/tdjawLn93RXD7U3hdrKCxhX1yYlwpTm-nA0qKwLgejM/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODEw/NTktMTM5NzI4MDEx/Ny04MjAzLmpwZWc.jpeg"
+    }
+  ]
+}
