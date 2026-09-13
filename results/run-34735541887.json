@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Latin",
+        "style": "MPB"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2016,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 24,
+      "artists_found": 22,
+      "fresh_lookups": 0,
+      "styles_considered": 81
+    }
+  },
+  "results": [
+    {
+      "artist": "Gene Ammons",
+      "title": "Makin' Whoopee",
+      "release_title": "Gene Ammons - Late Hour Special",
+      "year": "1997",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 3358716,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/WQ88j-5VbVob2Gf0-ZukPqVgHivq4Hl9V06wY_xhMak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg3/MTYtMTUyMDkxNDI4/NS02NjI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roger Williams",
+      "title": "Till",
+      "release_title": "Roger Williams (2) - The Best Of Roger Williams",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6066360,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FTPS9-MuUujtOyQ_clqDf5unpvtVRiQJlUsFOc3ruKU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjYz/NjAtMTQxMDE4OTA0/Mi0zNDk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Martin Briley",
+      "title": "The Man I Feel",
+      "release_title": "Martin Briley - Man I Feel ",
+      "year": "1981",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 4073232,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/H7__NUW8iHjXHajp1LLG7qJXQphEjSDQfRpPN2iU4gU/rs:fit/g:sm/q:90/h:488/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzMy/MzItMTM1NDY1NDk0/MC01ODQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "I Want To Be Loved (But By Only You)",
+      "release_title": "Gene Ammons - Late Hour Special",
+      "year": "1997",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 3358716,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/WQ88j-5VbVob2Gf0-ZukPqVgHivq4Hl9V06wY_xhMak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg3/MTYtMTUyMDkxNDI4/NS02NjI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Waitiki",
+      "title": "Uncle Luku's Panda Pad",
+      "release_title": "Waitiki - Rendezvous In Okonkuluku",
+      "year": "2007",
+      "label": "Pass Out Records",
+      "country": "US",
+      "discogs_id": 5591709,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qNDJhn8hPAi5tfggEZusb4lX1jFPGLm2fUAvJYIumrY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTE3/MDktMTM5OTcyNzY0/Ny05MDM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "Strangers In The Night",
+      "release_title": "Richard \"Groove\" Holmes - Misty",
+      "year": "1992",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 4910005,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/558moptyOdLD-vkDb_3lScQSF7WwfWQ-sJcble1wK9Y/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTAw/MDUtMTUyOTk5Mjc3/Mi00NjkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael McCabe & David Chu",
+      "title": "Post Age",
+      "release_title": "Michael McCabe / David Chu - Letters To A Friend",
+      "year": "1991",
+      "label": "Out Of The Blue Records",
+      "country": "US",
+      "discogs_id": 21250546,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OGUAsA55x06BKNSzXS8VlOliO3yTvXuSR7bAyh3OFhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjUw/NTQ2LTE2Mzg4MDUw/MjAtOTU0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "Everybody's Talkin'",
+      "release_title": "The Mystic Moods Orchestra - Country Lovin' Folk",
+      "year": "1971",
+      "label": "Bainbridge Records",
+      "country": "US",
+      "discogs_id": 8799360,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5D2HHVDmcQjZvp3wP0ve0GaQqGpQSmQvRjG1lX3iQaQ/rs:fit/g:sm/q:90/h:600/w:396/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTkz/NjAtMTQ2OTAxNTA0/OS00NzMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Béla Szakcsi Lakatos",
+      "title": "Almost Like Cannon",
+      "release_title": "Szakcsi* - Eve Of Chance",
+      "year": "1992",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 11022194,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/3u-o3NyYz8QhBEHI7geI-FIG2O-DvHjYXeRKcAOhl6I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIy/MTk0LTE1Mjg5MTA1/NDMtNDYzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Physical",
+      "release_title": "Ramsey Lewis - Les Fleurs ",
+      "year": "1983",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 10970443,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_EVROfkTtN8FmJP71O65oFw6o-vgEuNueCPJZpRl9-U/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcw/NDQzLTE1MDc0MjI0/NTQtNjY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael McCabe & David Chu",
+      "title": "Letter Perfect",
+      "release_title": "Michael McCabe / David Chu - Letters To A Friend",
+      "year": "1991",
+      "label": "Out Of The Blue Records",
+      "country": "US",
+      "discogs_id": 21250546,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OGUAsA55x06BKNSzXS8VlOliO3yTvXuSR7bAyh3OFhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjUw/NTQ2LTE2Mzg4MDUw/MjAtOTU0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "Groovin' Time",
+      "release_title": "Richard \"Groove\" Holmes - Welcome Home",
+      "year": "1968",
+      "label": "World Pacific Jazz",
+      "country": "US",
+      "discogs_id": 12196123,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/q--gfpwIJZb3cnbWgQ_cURvb5iVdj07V9c_5lNx7O7g/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk2/MTIzLTE1MzAyNDIy/NjItNzYyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rene Bloch & The Afro Blues Quintet",
+      "title": "Little Tangi",
+      "release_title": "Rene Bloch & The Afro Blues Quintet - There Is A Mountain",
+      "year": "1968",
+      "label": "Mira Records",
+      "country": "US",
+      "discogs_id": 11232978,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Pg4p9ZWMSVmUuxaXIMOOFjXXAcXB3YMZu5ZQvnhDLIU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMy/OTc4LTE1MTIzOTA4/MjItODYyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Les Fleurs",
+      "release_title": "Ramsey Lewis - Les Fleurs ",
+      "year": "1983",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 10970443,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_EVROfkTtN8FmJP71O65oFw6o-vgEuNueCPJZpRl9-U/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcw/NDQzLTE1MDc0MjI0/NTQtNjY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "Turn, Turn, Turn",
+      "release_title": "The Mystic Moods Orchestra - Country Lovin' Folk",
+      "year": "1971",
+      "label": "Bainbridge Records",
+      "country": "US",
+      "discogs_id": 8799360,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5D2HHVDmcQjZvp3wP0ve0GaQqGpQSmQvRjG1lX3iQaQ/rs:fit/g:sm/q:90/h:600/w:396/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTkz/NjAtMTQ2OTAxNTA0/OS00NzMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Waitiki",
+      "title": "China Clipper",
+      "release_title": "Waitiki - Rendezvous In Okonkuluku",
+      "year": "2007",
+      "label": "Pass Out Records",
+      "country": "US",
+      "discogs_id": 5591709,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qNDJhn8hPAi5tfggEZusb4lX1jFPGLm2fUAvJYIumrY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTE3/MDktMTM5OTcyNzY0/Ny05MDM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "Soft Winds",
+      "release_title": "Gene Ammons - Late Hour Special",
+      "year": "1997",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 3358716,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/WQ88j-5VbVob2Gf0-ZukPqVgHivq4Hl9V06wY_xhMak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg3/MTYtMTUyMDkxNDI4/NS02NjI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Southside Johnny & The Asbury Jukes",
+      "title": "On The Beach",
+      "release_title": "Southside Johnny & The Asbury Jukes - On The Beach / Goodbye Love",
+      "year": "1980",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 36259363,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OdjZvFMHyXUGhNl7piAi2hXKAQwr9GVfIMCUaU-mQ90/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjU5/MzYzLTE3Njg4Mzk0/OTctNTc4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roger Williams",
+      "title": "On A Clear Day You Can See Forever",
+      "release_title": "Roger Williams (2) - The Best Of Roger Williams",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6066360,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FTPS9-MuUujtOyQ_clqDf5unpvtVRiQJlUsFOc3ruKU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjYz/NjAtMTQxMDE4OTA0/Mi0zNDk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Frida",
+      "title": "I Know There's Something Going On",
+      "release_title": "Frida - Something's Going On",
+      "year": "1982",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 8483457,
+      "rating_avg": 3.91,
+      "rating_count": 54,
+      "cover_image": "https://i.discogs.com/pV95Zaf_wdpmQOsOnYpxf7gfthaMBGFMhPNxl69qIDQ/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODM0/NTctMTQ2MjQ5NjQ5/Ni02NjcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Al Hirt",
+      "title": "New York, New York",
+      "release_title": "Al Hirt - The Living Legend Of Al Hirt",
+      "year": "1983",
+      "label": "Candlelite Music",
+      "country": "US",
+      "discogs_id": 16676394,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wsaUDzu-Af0u0U2frvDhQZ1kLRp0tSoePMDDXqyXiEY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njc2/Mzk0LTE2MDkxOTYy/NjAtNDk4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "Elusive Butterlfy",
+      "release_title": "The Mystic Moods Orchestra - Country Lovin' Folk",
+      "year": "1971",
+      "label": "Bainbridge Records",
+      "country": "US",
+      "discogs_id": 8799360,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5D2HHVDmcQjZvp3wP0ve0GaQqGpQSmQvRjG1lX3iQaQ/rs:fit/g:sm/q:90/h:600/w:396/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTkz/NjAtMTQ2OTAxNTA0/OS00NzMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Prism",
+      "title": "Interview Side A",
+      "release_title": "Prism (7) - BBC Rock Hour #310",
+      "year": "1982",
+      "label": "London Wavelength",
+      "country": "US",
+      "discogs_id": 6982841,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gONueQDk_AtyP4HIfa6pHhk0j1MFBpg8EFXLuBLFPtw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODI4/NDEtMTQzMDk1ODU5/Ny01MzA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "There Will Never Be Another You",
+      "release_title": "Richard \"Groove\" Holmes - Misty",
+      "year": "1992",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 4910005,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/558moptyOdLD-vkDb_3lScQSF7WwfWQ-sJcble1wK9Y/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTAw/MDUtMTUyOTk5Mjc3/Mi00NjkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Martin Briley",
+      "title": "Medley",
+      "release_title": "Martin Briley - Man I Feel ",
+      "year": "1981",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 4073232,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/H7__NUW8iHjXHajp1LLG7qJXQphEjSDQfRpPN2iU4gU/rs:fit/g:sm/q:90/h:488/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzMy/MzItMTM1NDY1NDk0/MC01ODQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Essence Of Love",
+      "release_title": "Ramsey Lewis - Les Fleurs ",
+      "year": "1983",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 10970443,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_EVROfkTtN8FmJP71O65oFw6o-vgEuNueCPJZpRl9-U/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcw/NDQzLTE1MDc0MjI0/NTQtNjY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frida",
+      "title": "Baby Don't You Cry No More",
+      "release_title": "Frida - Something's Going On",
+      "year": "1982",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 8483457,
+      "rating_avg": 3.91,
+      "rating_count": 54,
+      "cover_image": "https://i.discogs.com/pV95Zaf_wdpmQOsOnYpxf7gfthaMBGFMhPNxl69qIDQ/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODM0/NTctMTQ2MjQ5NjQ5/Ni02NjcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael McCabe & David Chu",
+      "title": "Lullaby For Jacqueline",
+      "release_title": "Michael McCabe / David Chu - Letters To A Friend",
+      "year": "1991",
+      "label": "Out Of The Blue Records",
+      "country": "US",
+      "discogs_id": 21250546,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OGUAsA55x06BKNSzXS8VlOliO3yTvXuSR7bAyh3OFhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjUw/NTQ2LTE2Mzg4MDUw/MjAtOTU0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Béla Szakcsi Lakatos",
+      "title": "Honey Spot",
+      "release_title": "Szakcsi* - Eve Of Chance",
+      "year": "1992",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 11022194,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/3u-o3NyYz8QhBEHI7geI-FIG2O-DvHjYXeRKcAOhl6I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIy/MTk0LTE1Mjg5MTA1/NDMtNDYzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "The Shadow Of Your Smile",
+      "release_title": "Richard \"Groove\" Holmes - Misty",
+      "year": "1992",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 4910005,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/558moptyOdLD-vkDb_3lScQSF7WwfWQ-sJcble1wK9Y/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTAw/MDUtMTUyOTk5Mjc3/Mi00NjkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Béla Szakcsi Lakatos",
+      "title": "Imagination",
+      "release_title": "Szakcsi* - Eve Of Chance",
+      "year": "1992",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 11022194,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/3u-o3NyYz8QhBEHI7geI-FIG2O-DvHjYXeRKcAOhl6I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIy/MTk0LTE1Mjg5MTA1/NDMtNDYzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roger Williams",
+      "title": "Windmills Of Your Mind",
+      "release_title": "Roger Williams (2) - The Best Of Roger Williams",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6066360,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FTPS9-MuUujtOyQ_clqDf5unpvtVRiQJlUsFOc3ruKU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjYz/NjAtMTQxMDE4OTA0/Mi0zNDk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "98.6 - Lazy Day",
+      "release_title": "Richard \"Groove\" Holmes - Welcome Home",
+      "year": "1968",
+      "label": "World Pacific Jazz",
+      "country": "US",
+      "discogs_id": 12196123,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/q--gfpwIJZb3cnbWgQ_cURvb5iVdj07V9c_5lNx7O7g/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk2/MTIzLTE1MzAyNDIy/NjItNzYyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roger Williams",
+      "title": "Almost Paradise",
+      "release_title": "Roger Williams (2) - The Best Of Roger Williams",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 6066360,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FTPS9-MuUujtOyQ_clqDf5unpvtVRiQJlUsFOc3ruKU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjYz/NjAtMTQxMDE4OTA0/Mi0zNDk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "Oklahoma Toad",
+      "release_title": "Richard \"Groove\" Holmes - Welcome Home",
+      "year": "1968",
+      "label": "World Pacific Jazz",
+      "country": "US",
+      "discogs_id": 12196123,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/q--gfpwIJZb3cnbWgQ_cURvb5iVdj07V9c_5lNx7O7g/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk2/MTIzLTE1MzAyNDIy/NjItNzYyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Hirt",
+      "title": "Louisiana Man",
+      "release_title": "Al Hirt - The Living Legend Of Al Hirt",
+      "year": "1983",
+      "label": "Candlelite Music",
+      "country": "US",
+      "discogs_id": 16676394,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wsaUDzu-Af0u0U2frvDhQZ1kLRp0tSoePMDDXqyXiEY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njc2/Mzk0LTE2MDkxOTYy/NjAtNDk4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "The Party's Over",
+      "release_title": "Gene Ammons - Late Hour Special",
+      "year": "1997",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 3358716,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/WQ88j-5VbVob2Gf0-ZukPqVgHivq4Hl9V06wY_xhMak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg3/MTYtMTUyMDkxNDI4/NS02NjI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Mystic Moods Orchestra",
+      "title": "Simple Song Of Freedom",
+      "release_title": "The Mystic Moods Orchestra - Country Lovin' Folk",
+      "year": "1971",
+      "label": "Bainbridge Records",
+      "country": "US",
+      "discogs_id": 8799360,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5D2HHVDmcQjZvp3wP0ve0GaQqGpQSmQvRjG1lX3iQaQ/rs:fit/g:sm/q:90/h:600/w:396/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTkz/NjAtMTQ2OTAxNTA0/OS00NzMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Al Hirt",
+      "title": "Feels So Good",
+      "release_title": "Al Hirt - The Living Legend Of Al Hirt",
+      "year": "1983",
+      "label": "Candlelite Music",
+      "country": "US",
+      "discogs_id": 16676394,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wsaUDzu-Af0u0U2frvDhQZ1kLRp0tSoePMDDXqyXiEY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njc2/Mzk0LTE2MDkxOTYy/NjAtNDk4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael McCabe & David Chu",
+      "title": "P.S. I Love You",
+      "release_title": "Michael McCabe / David Chu - Letters To A Friend",
+      "year": "1991",
+      "label": "Out Of The Blue Records",
+      "country": "US",
+      "discogs_id": 21250546,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OGUAsA55x06BKNSzXS8VlOliO3yTvXuSR7bAyh3OFhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjUw/NTQ2LTE2Mzg4MDUw/MjAtOTU0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rene Bloch & The Afro Blues Quintet",
+      "title": "There Is A Mountain",
+      "release_title": "Rene Bloch & The Afro Blues Quintet - There Is A Mountain",
+      "year": "1968",
+      "label": "Mira Records",
+      "country": "US",
+      "discogs_id": 11232978,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Pg4p9ZWMSVmUuxaXIMOOFjXXAcXB3YMZu5ZQvnhDLIU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMy/OTc4LTE1MTIzOTA4/MjItODYyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Waitiki",
+      "title": "L'Ours Chinois",
+      "release_title": "Waitiki - Rendezvous In Okonkuluku",
+      "year": "2007",
+      "label": "Pass Out Records",
+      "country": "US",
+      "discogs_id": 5591709,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qNDJhn8hPAi5tfggEZusb4lX1jFPGLm2fUAvJYIumrY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTE3/MDktMTM5OTcyNzY0/Ny05MDM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "With A Gentle Touch",
+      "release_title": "Ramsey Lewis - Les Fleurs ",
+      "year": "1983",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 10970443,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_EVROfkTtN8FmJP71O65oFw6o-vgEuNueCPJZpRl9-U/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcw/NDQzLTE1MDc0MjI0/NTQtNjY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Southside Johnny & The Asbury Jukes",
+      "title": "Goodbye Love",
+      "release_title": "Southside Johnny & The Asbury Jukes - On The Beach / Goodbye Love",
+      "year": "1980",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 36259363,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OdjZvFMHyXUGhNl7piAi2hXKAQwr9GVfIMCUaU-mQ90/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjU5/MzYzLTE3Njg4Mzk0/OTctNTc4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Hirt",
+      "title": "The Carpenter Medley (Close To You, For All We Know, We've Only Just Begun)",
+      "release_title": "Al Hirt - The Living Legend Of Al Hirt",
+      "year": "1983",
+      "label": "Candlelite Music",
+      "country": "US",
+      "discogs_id": 16676394,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wsaUDzu-Af0u0U2frvDhQZ1kLRp0tSoePMDDXqyXiEY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njc2/Mzk0LTE2MDkxOTYy/NjAtNDk4NS5qcGVn.jpeg"
+    }
+  ]
+}
