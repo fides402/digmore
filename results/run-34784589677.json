@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2017,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 40,
+      "fresh_lookups": 5,
+      "styles_considered": 124
+    }
+  },
+  "results": [
+    {
+      "artist": "Ramsey Lewis",
+      "title": "With A Gentle Touch",
+      "release_title": "Ramsey Lewis - Les Fleurs ",
+      "year": "1983",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 10970443,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_EVROfkTtN8FmJP71O65oFw6o-vgEuNueCPJZpRl9-U/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcw/NDQzLTE1MDc0MjI0/NTQtNjY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Anita Kerr Singers",
+      "title": "Lalena",
+      "release_title": "The Anita Kerr Singers - Velvet Voices And Bold Brass",
+      "year": "1969",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 31462691,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/E_DsmPfsD7Jvn5UaRi4MjfChOgGdOdaEtOUw_7SHDyg/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDYy/NjkxLTE3MjM0ODY4/ODgtNTc4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo",
+      "title": "Paint It Black",
+      "release_title": "Gabor Szabo - The Best Of Gabor Szabo",
+      "year": "1968",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 27716646,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cwPrbDIehdJN4bx18ZcbOLAzQ8cHmYAEXMjDi43GykQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE2/NjQ2LTE2OTA4NTU3/ODgtMzYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "Angel Eyes",
+      "release_title": "Gene Ammons - The Gene Ammons Story: Organ Combos",
+      "year": "1977",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 7384327,
+      "rating_avg": 4.56,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/V3lIg9mBD7E0k6VdLIEPWOnalrlqUM_-joWfjVlY1ok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODQz/MjctMTQ0MDM1NTMx/Ni0xNzk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Doug Smith",
+      "title": "What Child Is This",
+      "release_title": "Doug Smith (45) - A Special Gift",
+      "year": "1992",
+      "label": "Doug Smith Music",
+      "country": "US",
+      "discogs_id": 24924476,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/96l7ikQFz4CMTQxu-10mChz0jgO99W5k182frqAhxyc/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI0/NDc2LTE2NjY1NzIx/OTAtNzg3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kris Russell",
+      "title": "I Concentrate On You",
+      "release_title": "Kris Russell - I Concentrate On You",
+      "year": "2015",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 26174771,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/8YRwoDTzNXd56dihezp8bA7ooxru6_J4ulLzodZ72Ds/rs:fit/g:sm/q:90/h:440/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc0/NzcxLTE2NzY5Njcz/MzYtNjMxNy5wbmc.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "Born To Be Blue",
+      "release_title": "Gene Ammons - The Gene Ammons Story: Organ Combos",
+      "year": "1977",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 7384327,
+      "rating_avg": 4.56,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/V3lIg9mBD7E0k6VdLIEPWOnalrlqUM_-joWfjVlY1ok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODQz/MjctMTQ0MDM1NTMx/Ni0xNzk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shirley Scott & Don Patterson & Eddie \"Lockjaw\" Davis",
+      "title": "Traveling Light",
+      "release_title": "Shirley Scott / Don Patterson / \"Lockjaw\" Davis* - Stompin'",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15974609,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PqOwSqM2Kol7jifPTNsn4ArrY_JNF0e3k7lfcxkZPWk/rs:fit/g:sm/q:90/h:312/w:312/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc0/NjA5LTE2MDExOTg4/ODUtODM1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Wayman Tisdale",
+      "title": "Star Ship",
+      "release_title": "Wayman Tisdale - The Very Best Of",
+      "year": "2007",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 11032432,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/hB-emISUfzwKVrI4hhpsu2IjCgKi8EqGfVtkzL0do3w/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMy/NDMyLTE1MDg2MDE5/OTctOTk2Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo",
+      "title": "The Beat Goes On",
+      "release_title": "Gabor Szabo - The Best Of Gabor Szabo",
+      "year": "1968",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 27716646,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cwPrbDIehdJN4bx18ZcbOLAzQ8cHmYAEXMjDi43GykQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE2/NjQ2LTE2OTA4NTU3/ODgtMzYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Magic Organ",
+      "title": "The Beautiful Dishwasher",
+      "release_title": "The Magic Organ - 22 Great Organ Favorites",
+      "year": "1978",
+      "label": "Ranwood",
+      "country": "US",
+      "discogs_id": 37526976,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/iEjH_EY5daPaCuuOvpahMTIx0ShUIDjNi03zF5prd6Y/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI2/OTc2LTE3ODA1MTUy/OTgtMTU2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shirley Scott & Don Patterson & Eddie \"Lockjaw\" Davis",
+      "title": "From This Moment On",
+      "release_title": "Shirley Scott / Don Patterson / \"Lockjaw\" Davis* - Stompin'",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15974609,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PqOwSqM2Kol7jifPTNsn4ArrY_JNF0e3k7lfcxkZPWk/rs:fit/g:sm/q:90/h:312/w:312/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc0/NjA5LTE2MDExOTg4/ODUtODM1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Anita Kerr Singers",
+      "title": "God Bless The Child",
+      "release_title": "The Anita Kerr Singers - Velvet Voices And Bold Brass",
+      "year": "1969",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 31462691,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/E_DsmPfsD7Jvn5UaRi4MjfChOgGdOdaEtOUw_7SHDyg/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDYy/NjkxLTE3MjM0ODY4/ODgtNTc4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Mitchell",
+      "title": "Graffiti Blues",
+      "release_title": "Blue Mitchell - Graffiti Blues",
+      "year": "1973",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 16183891,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/hPGfjRPGRG_UurG5CZwhwJo0_ZYSzI08Gey-iLXPrOM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTgz/ODkxLTE2MDQ4Njg5/MTEtMjI2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Brecker",
+      "title": "Itsbynne Reel",
+      "release_title": "Michael Brecker - Don't Try This At Home",
+      "year": "1988",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 3381973,
+      "rating_avg": 4.32,
+      "rating_count": 38,
+      "cover_image": "https://i.discogs.com/yzYn5WnmSeFs_TfFOPtP8tV5gZddSmi24gEmpBIA0wQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODE5/NzMtMTYzMzgxODMz/NS00NzY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Wayman Tisdale",
+      "title": "Early Morning Drive",
+      "release_title": "Wayman Tisdale - The Very Best Of",
+      "year": "2007",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 11032432,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/hB-emISUfzwKVrI4hhpsu2IjCgKi8EqGfVtkzL0do3w/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMy/NDMyLTE1MDg2MDE5/OTctOTk2Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Brecker",
+      "title": "Suspone",
+      "release_title": "Michael Brecker - Don't Try This At Home",
+      "year": "1988",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 3381973,
+      "rating_avg": 4.32,
+      "rating_count": 38,
+      "cover_image": "https://i.discogs.com/yzYn5WnmSeFs_TfFOPtP8tV5gZddSmi24gEmpBIA0wQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODE5/NzMtMTYzMzgxODMz/NS00NzY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "High Heeled Sneakers",
+      "release_title": "Various - Party Jazz",
+      "year": "2000",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 16838475,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NTw98LsTyuZisFBlsXSo-3ZsYOLOZiXDZFz99aaPFwQ/rs:fit/g:sm/q:90/h:208/w:243/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM4/NDc1LTE2MTAxMzM3/NjQtNjQ0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tom Ranier",
+      "title": "I Love You, Dawn",
+      "release_title": "Tom Ranier - Ranier",
+      "year": "1976",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 15523985,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/XznbQumIWS9QdKWC9O8Ev-DNXSBgUKdbdoHY9351WC8/rs:fit/g:sm/q:90/h:484/w:483/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTIz/OTg1LTE1OTI5ODg5/MTAtOTg0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Doug Smith",
+      "title": "Jingle Bell Rock",
+      "release_title": "Doug Smith (45) - A Special Gift",
+      "year": "1992",
+      "label": "Doug Smith Music",
+      "country": "US",
+      "discogs_id": 24924476,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/96l7ikQFz4CMTQxu-10mChz0jgO99W5k182frqAhxyc/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI0/NDc2LTE2NjY1NzIx/OTAtNzg3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Doug Smith",
+      "title": "Silent Night / Silver Bells",
+      "release_title": "Doug Smith (45) - A Special Gift",
+      "year": "1992",
+      "label": "Doug Smith Music",
+      "country": "US",
+      "discogs_id": 24924476,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/96l7ikQFz4CMTQxu-10mChz0jgO99W5k182frqAhxyc/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI0/NDc2LTE2NjY1NzIx/OTAtNzg3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Mitchell",
+      "title": "Asso-Kam",
+      "release_title": "Blue Mitchell - Graffiti Blues",
+      "year": "1973",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 16183891,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/hPGfjRPGRG_UurG5CZwhwJo0_ZYSzI08Gey-iLXPrOM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTgz/ODkxLTE2MDQ4Njg5/MTEtMjI2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shirley Scott & Don Patterson & Eddie \"Lockjaw\" Davis",
+      "title": "Stompin' At The Savoy",
+      "release_title": "Shirley Scott / Don Patterson / \"Lockjaw\" Davis* - Stompin'",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15974609,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PqOwSqM2Kol7jifPTNsn4ArrY_JNF0e3k7lfcxkZPWk/rs:fit/g:sm/q:90/h:312/w:312/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc0/NjA5LTE2MDExOTg4/ODUtODM1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shirley Scott & Don Patterson & Eddie \"Lockjaw\" Davis",
+      "title": "You're My Everything",
+      "release_title": "Shirley Scott / Don Patterson / \"Lockjaw\" Davis* - Stompin'",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15974609,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PqOwSqM2Kol7jifPTNsn4ArrY_JNF0e3k7lfcxkZPWk/rs:fit/g:sm/q:90/h:312/w:312/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc0/NjA5LTE2MDExOTg4/ODUtODM1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "101 Strings",
+      "title": "A Foggy Day",
+      "release_title": "101 Strings - Million Seller Hits From Porgy And Bess-An American In Paris-Rhapsody In Blue-Swanee",
+      "year": "1972",
+      "label": "Alshire",
+      "country": "US",
+      "discogs_id": 35296138,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gmC-7ig0gvs4Lifq1MCwkpO2j_-DQN7JQq0w7Amr6fw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk2/MTM4LTE3NTk3MDEz/MjAtMjYzOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo",
+      "title": "Witchcraft",
+      "release_title": "Gabor Szabo - The Best Of Gabor Szabo",
+      "year": "1968",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 27716646,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cwPrbDIehdJN4bx18ZcbOLAzQ8cHmYAEXMjDi43GykQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE2/NjQ2LTE2OTA4NTU3/ODgtMzYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roger Williams",
+      "title": "Me",
+      "release_title": "Roger Williams (2) - Theme From New York, New York",
+      "year": "1977",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 12452147,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PUtqJONqkonCzjLwk9AyuS__lAfeeQRDzOCyHxydBv4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/MTQ3LTE1MzU1NTg0/NjQtNDc5NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lou Donaldson",
+      "title": "Good Gracious",
+      "release_title": "Lou Donaldson - Good Gracious!",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 10815580,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/8rG4fdMDQSYA_LT-jBofIPso_wzw93Xfu3Xhsx0yeyU/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE1/NTgwLTE1MDQ3NzU0/MDgtMjkxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lou Donaldson",
+      "title": "Bad John",
+      "release_title": "Lou Donaldson - Good Gracious!",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 10815580,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/8rG4fdMDQSYA_LT-jBofIPso_wzw93Xfu3Xhsx0yeyU/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE1/NTgwLTE1MDQ3NzU0/MDgtMjkxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Anita Kerr Singers",
+      "title": "Ob-La-Di, Ob-La-Da",
+      "release_title": "The Anita Kerr Singers - Velvet Voices And Bold Brass",
+      "year": "1969",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 31462691,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/E_DsmPfsD7Jvn5UaRi4MjfChOgGdOdaEtOUw_7SHDyg/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDYy/NjkxLTE3MjM0ODY4/ODgtNTc4OS5qcGVn.jpeg"
+    }
+  ]
+}
