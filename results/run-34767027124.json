@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1964,
+    "year_to": 2014,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 30,
+      "artists_found": 29,
+      "fresh_lookups": 0,
+      "styles_considered": 110
+    }
+  },
+  "results": [
+    {
+      "artist": "D'fusion",
+      "title": "Caravan",
+      "release_title": "D'fusion - Give It Up",
+      "year": "1997",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 33955836,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/K_jbU5VcOiKThJyZtvvYwXz4dTQM0acGFDydQOM8IVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTU1/ODM2LTE3NDcwMTQ3/MTgtMTUxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robin Kenyatta",
+      "title": "Afternoon Outing",
+      "release_title": "Robin Kenyatta - Nomusa",
+      "year": "1975",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 547599,
+      "rating_avg": 4.06,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/30gYtZzQ_PoEa1fc1BF4w6sWKCSAg_icbZqg0U2yQns/rs:fit/g:sm/q:90/h:499/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzU5/OS0xMjg3NTE3NTEx/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Sons Of The Gods",
+      "release_title": "Charles Earland - Odyssey",
+      "year": "1976",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 4411244,
+      "rating_avg": 4.33,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/0kiurK2UFlN-GRlI6MzrP7ZPi2kkWomrXbkSC44jheU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTEy/NDQtMTQyNjg2NDU1/OS04MjMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "D'fusion",
+      "title": "My Voice",
+      "release_title": "D'fusion - Give It Up",
+      "year": "1997",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 33955836,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/K_jbU5VcOiKThJyZtvvYwXz4dTQM0acGFDydQOM8IVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTU1/ODM2LTE3NDcwMTQ3/MTgtMTUxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Wabash",
+      "release_title": "John Scofield - Loud Jazz",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 22009960,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ZHDMJKvLwQSOLTc2VGAQfBlvU6CotTbBZnjD_ywJQVQ/rs:fit/g:sm/q:90/h:600/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDA5/OTYwLTE2NDQzMzg0/MjItOTg3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gil Evans",
+      "title": "Thoroughbred",
+      "release_title": "Various - Post Bop",
+      "year": "1986",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1309060,
+      "rating_avg": 4.33,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/CMn7vBBDAe-VCCqg_HFhMfAB5IBJXM2R6d-cIjzk32k/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkw/NjAtMTI0OTk3OTgy/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carola Grey",
+      "title": "Columbus King",
+      "release_title": "Carola Grey - The Age Of Illusions",
+      "year": "1994",
+      "label": "Jazzline",
+      "country": "US",
+      "discogs_id": 9571276,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1jW0dpvF8FwUCixjNnhZ-SvXXxF2ti7qkkRmglHSCik/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzEy/NzYtMTU4NzE0NzE1/OC03ODM0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "The Prisoner",
+      "release_title": "Herbie Hancock - The Prisoner",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 4703949,
+      "rating_avg": 4.5,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/PstbC86TA8hH00-FOk7HVhsqW_VlUBHHSHiL5ORp3-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDM5/NDktMTM5MTk3Nzkz/Mi05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Promise Of The Sun",
+      "release_title": "Herbie Hancock - The Prisoner",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 4703949,
+      "rating_avg": 4.5,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/PstbC86TA8hH00-FOk7HVhsqW_VlUBHHSHiL5ORp3-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDM5/NDktMTM5MTk3Nzkz/Mi05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carola Grey",
+      "title": "Phil - Osophy",
+      "release_title": "Carola Grey - The Age Of Illusions",
+      "year": "1994",
+      "label": "Jazzline",
+      "country": "US",
+      "discogs_id": 9571276,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1jW0dpvF8FwUCixjNnhZ-SvXXxF2ti7qkkRmglHSCik/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzEy/NzYtMTU4NzE0NzE1/OC03ODM0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Daniels & Gary Burton",
+      "title": "Memories Of You",
+      "release_title": "Eddie Daniels And Gary Burton - Benny Rides Again",
+      "year": "1994",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 13516437,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Dtpy5ngPFhlw3es34f_rzZxllq-zcJHaAZ5jwS2hDE0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE2/NDM3LTE3Njk4NTUw/OTAtNzI4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Phire",
+      "release_title": "Charles Earland - Odyssey",
+      "year": "1976",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 4411244,
+      "rating_avg": 4.33,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/0kiurK2UFlN-GRlI6MzrP7ZPi2kkWomrXbkSC44jheU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTEy/NDQtMTQyNjg2NDU1/OS04MjMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ron Carter",
+      "title": "Arkansas (Part II)",
+      "release_title": "Ron Carter - Spanish Blue",
+      "year": "1975",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 15701550,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MKeqDOZJD1CZ1YMGCol3ttaql-6Ot0qGSirqjGetW_k/rs:fit/g:sm/q:90/h:600/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAx/NTUwLTE1OTYxOTc3/MTEtNzgyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Lew Tabackin Quartet & Hank Jones & Dave Holland & Victor Lewis",
+      "title": "Johnny Come Lately",
+      "release_title": "The Lew Tabackin Quartet With Hank Jones, Dave Holland, Victor Lewis - Desert Lady",
+      "year": "1990",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 9312109,
+      "rating_avg": 4.67,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/oGzvpsBOFvsEblZUB9xcubgcT74kbGFiUq3GVgiDnq0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTIx/MDktMTQ3ODQwMDQ4/NS02NDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Freddie Hubbard",
+      "title": "Misty",
+      "release_title": "Various - Post Bop",
+      "year": "1986",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1309060,
+      "rating_avg": 4.33,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/CMn7vBBDAe-VCCqg_HFhMfAB5IBJXM2R6d-cIjzk32k/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkw/NjAtMTI0OTk3OTgy/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Lew Tabackin Quartet & Hank Jones & Dave Holland & Victor Lewis",
+      "title": "You'll Never Know",
+      "release_title": "The Lew Tabackin Quartet With Hank Jones, Dave Holland, Victor Lewis - Desert Lady",
+      "year": "1990",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 9312109,
+      "rating_avg": 4.67,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/oGzvpsBOFvsEblZUB9xcubgcT74kbGFiUq3GVgiDnq0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTIx/MDktMTQ3ODQwMDQ4/NS02NDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robin Kenyatta",
+      "title": "Warm Valley",
+      "release_title": "Robin Kenyatta - Nomusa",
+      "year": "1975",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 547599,
+      "rating_avg": 4.06,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/30gYtZzQ_PoEa1fc1BF4w6sWKCSAg_icbZqg0U2yQns/rs:fit/g:sm/q:90/h:499/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzU5/OS0xMjg3NTE3NTEx/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Moffitt",
+      "title": "Poem",
+      "release_title": "Peter Moffitt - Zoe's Song",
+      "year": "1987",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 6613209,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/k-FZC8IgW_YUQHgHeK82RKzPl5lnPgkE9ejp31f6dM8/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTMy/MDktMTQyMzA5NzM2/OC01MjI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Moffitt",
+      "title": "Big Stuff",
+      "release_title": "Peter Moffitt - Zoe's Song",
+      "year": "1987",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 6613209,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/k-FZC8IgW_YUQHgHeK82RKzPl5lnPgkE9ejp31f6dM8/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTMy/MDktMTQyMzA5NzM2/OC01MjI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lee Konitz Nonet",
+      "title": "Stryker's Dues",
+      "release_title": "The Lee Konitz Nonet* - The Lee Konitz Nonet",
+      "year": "1997",
+      "label": "Chiaroscuro Records",
+      "country": "US",
+      "discogs_id": 8238663,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PWXLvVjHqgXLtz8YMdjfZg9W9Q6HELrPfGO58_jYhgw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzg2/NjMtMTQ1NzczMzQx/OS00ODU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lee Konitz Nonet",
+      "title": "Sometimes I'm Happy",
+      "release_title": "The Lee Konitz Nonet* - The Lee Konitz Nonet",
+      "year": "1997",
+      "label": "Chiaroscuro Records",
+      "country": "US",
+      "discogs_id": 8238663,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PWXLvVjHqgXLtz8YMdjfZg9W9Q6HELrPfGO58_jYhgw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzg2/NjMtMTQ1NzczMzQx/OS00ODU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Intergalactic Love Song",
+      "release_title": "Charles Earland - Odyssey",
+      "year": "1976",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 4411244,
+      "rating_avg": 4.33,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/0kiurK2UFlN-GRlI6MzrP7ZPi2kkWomrXbkSC44jheU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTEy/NDQtMTQyNjg2NDU1/OS04MjMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lee Konitz Nonet",
+      "title": "Who You",
+      "release_title": "The Lee Konitz Nonet* - The Lee Konitz Nonet",
+      "year": "1997",
+      "label": "Chiaroscuro Records",
+      "country": "US",
+      "discogs_id": 8238663,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PWXLvVjHqgXLtz8YMdjfZg9W9Q6HELrPfGO58_jYhgw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzg2/NjMtMTQ1NzczMzQx/OS00ODU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Cosmic Fever",
+      "release_title": "Charles Earland - Odyssey",
+      "year": "1976",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 4411244,
+      "rating_avg": 4.33,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/0kiurK2UFlN-GRlI6MzrP7ZPi2kkWomrXbkSC44jheU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTEy/NDQtMTQyNjg2NDU1/OS04MjMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Blue Mitchell",
+      "title": "I Didn't Ask To Be",
+      "release_title": "Blue Mitchell - Blues' Blues",
+      "year": "1972",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 805537,
+      "rating_avg": 4.08,
+      "rating_count": 37,
+      "cover_image": "https://i.discogs.com/fUaHWR3QiEydyVcKcpUZwKcxGg8RhBhUK0U2NDHK0cw/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTUz/Ny0xNDgwOTY0MjU5/LTUxNjAuanBlZw.jpeg"
+    },
+    {
+      "artist": "Carola Grey",
+      "title": "The Colour We Create",
+      "release_title": "Carola Grey - The Age Of Illusions",
+      "year": "1994",
+      "label": "Jazzline",
+      "country": "US",
+      "discogs_id": 9571276,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1jW0dpvF8FwUCixjNnhZ-SvXXxF2ti7qkkRmglHSCik/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzEy/NzYtMTU4NzE0NzE1/OC03ODM0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Daniels & Gary Burton",
+      "title": "Grand Slam",
+      "release_title": "Eddie Daniels And Gary Burton - Benny Rides Again",
+      "year": "1994",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 13516437,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Dtpy5ngPFhlw3es34f_rzZxllq-zcJHaAZ5jwS2hDE0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE2/NDM3LTE3Njk4NTUw/OTAtNzI4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "It's Crazy",
+      "release_title": "Eddie Harris - It's Crazy / Live Right Now",
+      "year": "1968",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12401648,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Z5m6t7nyeaEt01t3zp8YNipHxLrAZ1v3gHyuP_VEQqU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAx/NjQ4LTE1MzQ1Mzkz/NjYtMTYxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "He Who Lives In Fear",
+      "release_title": "Herbie Hancock - The Prisoner",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 4703949,
+      "rating_avg": 4.5,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/PstbC86TA8hH00-FOk7HVhsqW_VlUBHHSHiL5ORp3-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDM5/NDktMTM5MTk3Nzkz/Mi05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Moffitt",
+      "title": "Destination",
+      "release_title": "Peter Moffitt - Zoe's Song",
+      "year": "1987",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 6613209,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/k-FZC8IgW_YUQHgHeK82RKzPl5lnPgkE9ejp31f6dM8/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTMy/MDktMTQyMzA5NzM2/OC01MjI0LmpwZWc.jpeg"
+    }
+  ]
+}
