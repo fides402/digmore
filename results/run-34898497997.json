@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 34,
+      "artists_found": 32,
+      "fresh_lookups": 0,
+      "styles_considered": 101
+    }
+  },
+  "results": [
+    {
+      "artist": "Dag",
+      "title": "If You Ever Need A Heart",
+      "release_title": "Dag - Apartment #635",
+      "year": "1998",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 23887682,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/44W_5LjYT_FFitoX80AmiYKfuyS54_1AaeCioPJcwCA/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg3/NjgyLTE2NTc4NTY1/NTctNDQ3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Fantastic Souls",
+      "title": "Aftershower Funk Pt.1",
+      "release_title": "The Fantastic Souls - Aftershower Funk",
+      "year": "2010",
+      "label": "Kay-Dee Records",
+      "country": "US",
+      "discogs_id": 6667437,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/JnVfNgVxd3rFh0tWHCi-n6LfoSHX_rAYMN7n5SQamVI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Njc0/MzctMTQyNTc2NTk2/My0zNDAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Three Degrees",
+      "title": "Take Good Care Of Yourself",
+      "release_title": "The Three Degrees - The Best Of The Three Degrees : When Will I See You Again",
+      "year": "1996",
+      "label": "Epic Associated",
+      "country": "US",
+      "discogs_id": 15560642,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GRwEfOcNfA5H1WRy1ktJU5EdMYwQlzU-rotU2_YLr30/rs:fit/g:sm/q:90/h:600/w:406/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYw/NjQyLTE1OTM2Mjky/NTYtODEzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Karyn White",
+      "title": "The Way I Feel About You (Album Version)",
+      "release_title": "Karyn White - The Way I Feel About You",
+      "year": "1991",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 7627553,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/zf98E3wPEzYIha82J1z2Se74Oy3ZuMsVxD0Jr5M3Ld0/rs:fit/g:sm/q:90/h:346/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjc1/NTMtMTU2NTcyNTQ3/OS05MTA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "How Many Times (Radio Mix)",
+      "release_title": "Aretha* - How Many Times",
+      "year": "1998",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 6004362,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Td2XPH4AZLqdcE53ynRSFiZb1ZukiUGeRoSiiUR6ca0/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDQz/NjItMTQwODU2OTA5/Ny0yNzczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Temptations",
+      "title": "I Wish It Would Rain",
+      "release_title": "The Temptations - The Best Of The Temptations Volume 1 - The '60s",
+      "year": "1999",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 28741009,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tWMR1zHKSYj_jgUUTkV3amxSghzr9OAholIluFFD3-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQx/MDA5LTE2OTg2MDQ0/NTAtNDYyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Thin Line",
+      "title": "I'll Give My Love (Radio)",
+      "release_title": "Thinline* - I'll Give My Love",
+      "year": "1993",
+      "label": "Hot Wax Records",
+      "country": "US",
+      "discogs_id": 6451337,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WoMVGIVzKlm80kOVl24295_KIRp46egJWDVXA_fFR5c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTEz/MzctMTU4NTAwMDY2/My02NDc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Black Heat",
+      "title": "The Jungle - Pt. I",
+      "release_title": "Black Heat - The Jungle",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 3479006,
+      "rating_avg": 4.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/uYx1d1mBIuc2056hv0-E8qp6vBknECXteRHIw2m7_cU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzkw/MDYtMTY1ODA0Mjcz/Ni03NjUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Thin Line",
+      "title": "I'll Give My Love (Instrumental)",
+      "release_title": "Thinline* - I'll Give My Love",
+      "year": "1993",
+      "label": "Hot Wax Records",
+      "country": "US",
+      "discogs_id": 6451337,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WoMVGIVzKlm80kOVl24295_KIRp46egJWDVXA_fFR5c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTEz/MzctMTU4NTAwMDY2/My02NDc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fern Kinney",
+      "title": "Sun, Moon, Rain",
+      "release_title": "Fern Kinney - Groove Me",
+      "year": "1979",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 35565310,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/03jQO7upabDeMlKNNljAAJwIl3CBGtFo6nRE2jy8ZZQ/rs:fit/g:sm/q:90/h:600/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTY1/MzEwLTE3NjIyMzc4/NzEtODI2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Temptations",
+      "title": "I'm Gonna Make You Love Me",
+      "release_title": "The Temptations - The Best Of The Temptations Volume 1 - The '60s",
+      "year": "1999",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 28741009,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tWMR1zHKSYj_jgUUTkV3amxSghzr9OAholIluFFD3-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQx/MDA5LTE2OTg2MDQ0/NTAtNDYyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Vicki Sue Robinson",
+      "title": "Movin On",
+      "release_title": "Vicki Sue Robinson - What's Happening In My Life",
+      "year": "1979",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 2284917,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/_d2DTEJx8ZqUt4bcEAIub1EoqB1obelfFDnLXqisQ3c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ5/MTctMTI3NDUzMDk3/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Fantastic Souls",
+      "title": "Aftershower Funk Pt.2",
+      "release_title": "The Fantastic Souls - Aftershower Funk",
+      "year": "2010",
+      "label": "Kay-Dee Records",
+      "country": "US",
+      "discogs_id": 6667437,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/JnVfNgVxd3rFh0tWHCi-n6LfoSHX_rAYMN7n5SQamVI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Njc0/MzctMTQyNTc2NTk2/My0zNDAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Three Degrees",
+      "title": "Long Lost Lover",
+      "release_title": "The Three Degrees - The Best Of The Three Degrees : When Will I See You Again",
+      "year": "1996",
+      "label": "Epic Associated",
+      "country": "US",
+      "discogs_id": 15560642,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GRwEfOcNfA5H1WRy1ktJU5EdMYwQlzU-rotU2_YLr30/rs:fit/g:sm/q:90/h:600/w:406/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYw/NjQyLTE1OTM2Mjky/NTYtODEzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nature's Creation & Chief Sir Funky",
+      "title": "Let's Fire It Up",
+      "release_title": "Nature's Creation Featuring Chief Sir Funky - Let's Fire It Up",
+      "year": "1982",
+      "label": "Jamtu Records",
+      "country": "US",
+      "discogs_id": 4533656,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Scf1I5y76IaZV-wXh05D-RwTM_g80rTgqEZbAQcOnks/rs:fit/g:sm/q:90/h:496/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzM2/NTYtMTQyNjI3MDE5/NS02Njg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Marie Franklin",
+      "title": "I Don't Need No Man",
+      "release_title": "Marie Franklin - I Don't Need No Man / Anything You Wasn't Born With",
+      "year": "1970",
+      "label": "Tangerine Records",
+      "country": "US",
+      "discogs_id": 5407463,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/4IwfToropxYIbtcwBdIi_cTTFPz9frHVU-S7u6kxMNw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDc0/NjMtMTQ4ODQyMTg0/OS04OTg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fern Kinney",
+      "title": "Angel On The Ground",
+      "release_title": "Fern Kinney - Groove Me",
+      "year": "1979",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 35565310,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/03jQO7upabDeMlKNNljAAJwIl3CBGtFo6nRE2jy8ZZQ/rs:fit/g:sm/q:90/h:600/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTY1/MzEwLTE3NjIyMzc4/NzEtODI2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dag",
+      "title": "Worldspinning",
+      "release_title": "Dag - Apartment #635",
+      "year": "1998",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 23887682,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/44W_5LjYT_FFitoX80AmiYKfuyS54_1AaeCioPJcwCA/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg3/NjgyLTE2NTc4NTY1/NTctNDQ3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dag",
+      "title": "You Make Me Feel",
+      "release_title": "Dag - Apartment #635",
+      "year": "1998",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 23887682,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/44W_5LjYT_FFitoX80AmiYKfuyS54_1AaeCioPJcwCA/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg3/NjgyLTE2NTc4NTY1/NTctNDQ3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Temptations",
+      "title": "My Girl",
+      "release_title": "The Temptations - The Best Of The Temptations Volume 1 - The '60s",
+      "year": "1999",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 28741009,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tWMR1zHKSYj_jgUUTkV3amxSghzr9OAholIluFFD3-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQx/MDA5LTE2OTg2MDQ0/NTAtNDYyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fern Kinney",
+      "title": "Under Fire",
+      "release_title": "Fern Kinney - Groove Me",
+      "year": "1979",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 35565310,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/03jQO7upabDeMlKNNljAAJwIl3CBGtFo6nRE2jy8ZZQ/rs:fit/g:sm/q:90/h:600/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTY1/MzEwLTE3NjIyMzc4/NzEtODI2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Karyn White",
+      "title": "The Way I Feel About You (Edit)",
+      "release_title": "Karyn White - The Way I Feel About You",
+      "year": "1991",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 7627553,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/zf98E3wPEzYIha82J1z2Se74Oy3ZuMsVxD0Jr5M3Ld0/rs:fit/g:sm/q:90/h:346/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjc1/NTMtMTU2NTcyNTQ3/OS05MTA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Barbara Pennington",
+      "title": "Twenty Four Hours A Day",
+      "release_title": "Barbara Pennington - Twenty Four Hours A Day",
+      "year": "1977",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 1350708,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/-mrF55I3dLYhl5HSTP3kQoMESxWIElt6WJhlsgrZNWU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA3/MDgtMTQ1NjYwNTc2/MC00ODY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Three Degrees",
+      "title": "Year Of Decision",
+      "release_title": "The Three Degrees - The Best Of The Three Degrees : When Will I See You Again",
+      "year": "1996",
+      "label": "Epic Associated",
+      "country": "US",
+      "discogs_id": 15560642,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GRwEfOcNfA5H1WRy1ktJU5EdMYwQlzU-rotU2_YLr30/rs:fit/g:sm/q:90/h:600/w:406/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYw/NjQyLTE1OTM2Mjky/NTYtODEzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Little Sister",
+      "title": "You're The One - Part II",
+      "release_title": "Little Sister - You're The One",
+      "year": "1970",
+      "label": "Stone Flower",
+      "country": "US",
+      "discogs_id": 3951260,
+      "rating_avg": 4.53,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/BOXRXgyxzTnLES7_Y2aWoGsG9AglhcGoKELlZLlEkKI/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTEy/NjAtMTc0OTU4MzEz/MC01NDg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy \"Bo\" Horne",
+      "title": "Get Happy",
+      "release_title": "Jimmy \"Bo\" Horne - Get Happy / It's Your Sweet Love",
+      "year": "1977",
+      "label": "T.K. Disco",
+      "country": "US",
+      "discogs_id": 7482837,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/12W6De8b7Lur8HDffxscjjoA8xSJt7oo3I6oll22PO4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODI4/MzctMTQ0MjM5NjY0/NS04MzM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Temptations",
+      "title": "Beauty Is Only Skin Deep",
+      "release_title": "The Temptations - The Best Of The Temptations Volume 1 - The '60s",
+      "year": "1999",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 28741009,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tWMR1zHKSYj_jgUUTkV3amxSghzr9OAholIluFFD3-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQx/MDA5LTE2OTg2MDQ0/NTAtNDYyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "How Many Times (Instrumental)",
+      "release_title": "Aretha* - How Many Times",
+      "year": "1998",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 6004362,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Td2XPH4AZLqdcE53ynRSFiZb1ZukiUGeRoSiiUR6ca0/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDQz/NjItMTQwODU2OTA5/Ny0yNzczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dag",
+      "title": "Supercollider",
+      "release_title": "Dag - Apartment #635",
+      "year": "1998",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 23887682,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/44W_5LjYT_FFitoX80AmiYKfuyS54_1AaeCioPJcwCA/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg3/NjgyLTE2NTc4NTY1/NTctNDQ3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "How Many Times (Call Out Research Hook)",
+      "release_title": "Aretha* - How Many Times",
+      "year": "1998",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 6004362,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Td2XPH4AZLqdcE53ynRSFiZb1ZukiUGeRoSiiUR6ca0/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDQz/NjItMTQwODU2OTA5/Ny0yNzczLmpwZWc.jpeg"
+    }
+  ]
+}
