@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1972,
+    "year_to": 2019,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 7,
+      "artists_found": 6,
+      "fresh_lookups": 0,
+      "styles_considered": 48
+    }
+  },
+  "results": [
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "Roll 'Em Pete",
+      "release_title": "'Baby Face' Willette - Behind The 8 Ball",
+      "year": "1998",
+      "label": "Universal Music & Video Distribution, Inc.",
+      "country": "US",
+      "discogs_id": 28255525,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ou0eozi2e4m5KvwMnuiSLFAGpj9Rg5MqID0cV5S3eKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU1/NTI1LTE2OTQ2NDU1/MTctMjM1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Dick Hyman Trio",
+      "title": "Dites Moi",
+      "release_title": "Dick Hyman And His Trio* - The Dick Hyman Trio",
+      "year": "1972",
+      "label": "Command",
+      "country": "US",
+      "discogs_id": 16284204,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/53hESq8DSOTpf-tJRFo9FIYxW_kr4NdIMZ-BlGx5HQY/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg0/MjA0LTE3MzQxMDY3/NDYtNDQ1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Takana Miyamoto & Kirk Whalum",
+      "title": "What's Going On",
+      "release_title": "Takana Miyamoto & Kirk Whalum - Promises Made: The Millennium Promise Jazz Project",
+      "year": "2008",
+      "label": "Koch Entertainment",
+      "country": "US",
+      "discogs_id": 32186871,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": ""
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Give It Up",
+      "release_title": "The Crusaders - Chain Reaction",
+      "year": "1975",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 3698313,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/BN0h-RQm975rXzSRCovMTm_7mdSE1Fyac-96tAYCE_U/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgz/MTMtMTQ3ODU0Mjc1/OS0yMDEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Build An Ark",
+      "title": "River Run",
+      "release_title": "Build An Ark - Dawn",
+      "year": "2007",
+      "label": "Shaman Work",
+      "country": "US",
+      "discogs_id": 1233117,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/3aanp5NJwigz4ZFHf9l_MfaAiF9i3c4OptLhMf-iz-Q/rs:fit/g:sm/q:90/h:349/w:351/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMx/MTctMTIwMjUwOTU5/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kriegsmarine",
+      "title": "Hogbone",
+      "release_title": "Kriegsmarine - Battle Worn",
+      "year": "2007",
+      "label": "Not On Label (Kriegsmarine Self-released)",
+      "country": "US",
+      "discogs_id": 12059027,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ROIW6OQRHWkDeVK1RBATtxZbAokJEbI0as2yuJnYJ_s/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU5/MDI3LTE1Mjc0NzA1/OTMtMTU0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Makin' Whoopee",
+      "release_title": "David Newman* - Heads Up",
+      "year": "1987",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 13029669,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_q8JMg1EocilDJHsGsQnfR91r_iF4ixQDjNRo4IVwNU/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDI5/NjY5LTE1NDY3ODAw/MDgtNDE1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kriegsmarine",
+      "title": "Funky",
+      "release_title": "Kriegsmarine - Battle Worn",
+      "year": "2007",
+      "label": "Not On Label (Kriegsmarine Self-released)",
+      "country": "US",
+      "discogs_id": 12059027,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ROIW6OQRHWkDeVK1RBATtxZbAokJEbI0as2yuJnYJ_s/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU5/MDI3LTE1Mjc0NzA1/OTMtMTU0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Soul Caravan",
+      "release_title": "The Crusaders - Chain Reaction",
+      "year": "1975",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 3698313,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/BN0h-RQm975rXzSRCovMTm_7mdSE1Fyac-96tAYCE_U/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgz/MTMtMTQ3ODU0Mjc1/OS0yMDEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Lover Man",
+      "release_title": "David Newman* - Heads Up",
+      "year": "1987",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 13029669,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_q8JMg1EocilDJHsGsQnfR91r_iF4ixQDjNRo4IVwNU/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDI5/NjY5LTE1NDY3ODAw/MDgtNDE1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Build An Ark",
+      "title": "Dawn",
+      "release_title": "Build An Ark - Dawn",
+      "year": "2007",
+      "label": "Shaman Work",
+      "country": "US",
+      "discogs_id": 1233117,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/3aanp5NJwigz4ZFHf9l_MfaAiF9i3c4OptLhMf-iz-Q/rs:fit/g:sm/q:90/h:349/w:351/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMx/MTctMTIwMjUwOTU5/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine & Milt Jackson",
+      "title": "I Remember You",
+      "release_title": "Stanley Turrentine With Milt Jackson - Cherry",
+      "year": "1979",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 7905200,
+      "rating_avg": 4.0,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/VP_Ky2JuNy1KE1Uw9JitLO5vn74biuHxr2be_NCyAIM/rs:fit/g:sm/q:90/h:485/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDUy/MDAtMTQ1MTM1MTAz/MS05Mzg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jay McShann",
+      "title": "Rain Is Such A Lonesome Sound",
+      "release_title": "Jay McShann - What A Wonderful World",
+      "year": "1999",
+      "label": "Groove Note Records",
+      "country": "US",
+      "discogs_id": 9127907,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/cxZbKiXgkgd7eum202B8l7a_5-TkU0KakdvPKhBsyzo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjc5/MDctMTQ3NTI1MDYw/NC03MzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Creole",
+      "release_title": "The Crusaders - Chain Reaction",
+      "year": "1975",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 3698313,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/BN0h-RQm975rXzSRCovMTm_7mdSE1Fyac-96tAYCE_U/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgz/MTMtMTQ3ODU0Mjc1/OS0yMDEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Takana Miyamoto & Kirk Whalum",
+      "title": "People Get Ready",
+      "release_title": "Takana Miyamoto & Kirk Whalum - Promises Made: The Millennium Promise Jazz Project",
+      "year": "2008",
+      "label": "Koch Entertainment",
+      "country": "US",
+      "discogs_id": 32186871,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": ""
+    },
+    {
+      "artist": "Various",
+      "title": "Black Folks",
+      "release_title": "Various - A Cocktail Party",
+      "year": "1988",
+      "label": "CBS Masterworks",
+      "country": "US",
+      "discogs_id": 13659036,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dBq2D7ibSgdN6z5ZJxkWGA8kbQDWOpjkoAlEbhK-0t4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU5/MDM2LTE1NTg0NTE4/NTAtMzM1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Arthur Prysock",
+      "title": "Unchained Melody",
+      "release_title": "Arthur Prysock - At His Very Best - Silk And Satin",
+      "year": "1977",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 15326318,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/r1-8BodBCpPMc4ifwOVU5014Ca5YJTv71PiUlWkt7ik/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI2/MzE4LTE2NTMwMTA5/NDUtMjQ1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine & Milt Jackson",
+      "title": "Cherry",
+      "release_title": "Stanley Turrentine With Milt Jackson - Cherry",
+      "year": "1979",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 7905200,
+      "rating_avg": 4.0,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/VP_Ky2JuNy1KE1Uw9JitLO5vn74biuHxr2be_NCyAIM/rs:fit/g:sm/q:90/h:485/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDUy/MDAtMTQ1MTM1MTAz/MS05Mzg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jay McShann",
+      "title": "Until The Real Thing Comes Along",
+      "release_title": "Jay McShann - What A Wonderful World",
+      "year": "1999",
+      "label": "Groove Note Records",
+      "country": "US",
+      "discogs_id": 9127907,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/cxZbKiXgkgd7eum202B8l7a_5-TkU0KakdvPKhBsyzo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjc5/MDctMTQ3NTI1MDYw/NC03MzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Dick Hyman Trio",
+      "title": "Jitterbug Waltz",
+      "release_title": "Dick Hyman And His Trio* - The Dick Hyman Trio",
+      "year": "1972",
+      "label": "Command",
+      "country": "US",
+      "discogs_id": 16284204,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/53hESq8DSOTpf-tJRFo9FIYxW_kr4NdIMZ-BlGx5HQY/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg0/MjA0LTE3MzQxMDY3/NDYtNDQ1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Takana Miyamoto & Kirk Whalum",
+      "title": "Stand By Me",
+      "release_title": "Takana Miyamoto & Kirk Whalum - Promises Made: The Millennium Promise Jazz Project",
+      "year": "2008",
+      "label": "Koch Entertainment",
+      "country": "US",
+      "discogs_id": 32186871,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": ""
+    },
+    {
+      "artist": "Arthur Prysock",
+      "title": "Love Is A Many Splendoured Thing",
+      "release_title": "Arthur Prysock - At His Very Best - Silk And Satin",
+      "year": "1977",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 15326318,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/r1-8BodBCpPMc4ifwOVU5014Ca5YJTv71PiUlWkt7ik/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI2/MzE4LTE2NTMwMTA5/NDUtMjQ1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Midnight Strings Orchestra",
+      "title": "Lost In Love",
+      "release_title": "The Midnight Strings Orchestra - Evergreen",
+      "year": "1981",
+      "label": "Excelsior",
+      "country": "US",
+      "discogs_id": 6506632,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/nV5bX2f-_Zcd5ORmpVutUviFs1T98I9rfSzSNWZk_eE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDY2/MzItMTQyMDgzNTY3/MS0zNTIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Ragtime",
+      "release_title": "Various - A Cocktail Party",
+      "year": "1988",
+      "label": "CBS Masterworks",
+      "country": "US",
+      "discogs_id": 13659036,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dBq2D7ibSgdN6z5ZJxkWGA8kbQDWOpjkoAlEbhK-0t4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU5/MDM2LTE1NTg0NTE4/NTAtMzM1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Liferaft",
+      "title": "Early Morning Love",
+      "release_title": "Liferaft - Liferaft",
+      "year": "1972",
+      "label": "Aero Space Records",
+      "country": "US",
+      "discogs_id": 5049364,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Wrqjib49Ixq11EN-7bb-sVX9ey6Zqqty_aaYQu7H60Y/rs:fit/g:sm/q:90/h:425/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDkz/NjQtMTM4MzEyOTc0/Ni01ODkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine & Milt Jackson",
+      "title": "Speedball",
+      "release_title": "Stanley Turrentine With Milt Jackson - Cherry",
+      "year": "1979",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 7905200,
+      "rating_avg": 4.0,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/VP_Ky2JuNy1KE1Uw9JitLO5vn74biuHxr2be_NCyAIM/rs:fit/g:sm/q:90/h:485/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDUy/MDAtMTQ1MTM1MTAz/MS05Mzg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "St. James Infirmary",
+      "release_title": "'Baby Face' Willette - Behind The 8 Ball",
+      "year": "1998",
+      "label": "Universal Music & Video Distribution, Inc.",
+      "country": "US",
+      "discogs_id": 28255525,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ou0eozi2e4m5KvwMnuiSLFAGpj9Rg5MqID0cV5S3eKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU1/NTI1LTE2OTQ2NDU1/MTctMjM1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Build An Ark",
+      "title": "In Her Smile",
+      "release_title": "Build An Ark - Dawn",
+      "year": "2007",
+      "label": "Shaman Work",
+      "country": "US",
+      "discogs_id": 1233117,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/3aanp5NJwigz4ZFHf9l_MfaAiF9i3c4OptLhMf-iz-Q/rs:fit/g:sm/q:90/h:349/w:351/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMx/MTctMTIwMjUwOTU5/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Arthur Prysock",
+      "title": "Maman",
+      "release_title": "Arthur Prysock - At His Very Best - Silk And Satin",
+      "year": "1977",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 15326318,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/r1-8BodBCpPMc4ifwOVU5014Ca5YJTv71PiUlWkt7ik/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI2/MzE4LTE2NTMwMTA5/NDUtMjQ1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "We're All Alone",
+      "release_title": "Bob James - Heads",
+      "year": "1977",
+      "label": "Tappan Zee Records",
+      "country": "US",
+      "discogs_id": 30530743,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bVX9z1ncd_tIk2plJiYFVCW-Vog2A6hzPoKbi0aU3e4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTMw/NzQzLTE3MTQzMjMx/MjctNzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Midnight Strings Orchestra",
+      "title": "Evergreen",
+      "release_title": "The Midnight Strings Orchestra - Evergreen",
+      "year": "1981",
+      "label": "Excelsior",
+      "country": "US",
+      "discogs_id": 6506632,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/nV5bX2f-_Zcd5ORmpVutUviFs1T98I9rfSzSNWZk_eE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDY2/MzItMTQyMDgzNTY3/MS0zNTIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Dick Hyman Trio",
+      "title": "42nd Street",
+      "release_title": "Dick Hyman And His Trio* - The Dick Hyman Trio",
+      "year": "1972",
+      "label": "Command",
+      "country": "US",
+      "discogs_id": 16284204,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/53hESq8DSOTpf-tJRFo9FIYxW_kr4NdIMZ-BlGx5HQY/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg0/MjA0LTE3MzQxMDY3/NDYtNDQ1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "You Are So Beautiful",
+      "release_title": "Bob James - Heads",
+      "year": "1977",
+      "label": "Tappan Zee Records",
+      "country": "US",
+      "discogs_id": 30530743,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bVX9z1ncd_tIk2plJiYFVCW-Vog2A6hzPoKbi0aU3e4/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTMw/NzQzLTE3MTQzMjMx/MjctNzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Tendre",
+      "release_title": "Various - A Cocktail Party",
+      "year": "1988",
+      "label": "CBS Masterworks",
+      "country": "US",
+      "discogs_id": 13659036,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dBq2D7ibSgdN6z5ZJxkWGA8kbQDWOpjkoAlEbhK-0t4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU5/MDM2LTE1NTg0NTE4/NTAtMzM1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "Sinnin' Sam",
+      "release_title": "'Baby Face' Willette - Behind The 8 Ball",
+      "year": "1998",
+      "label": "Universal Music & Video Distribution, Inc.",
+      "country": "US",
+      "discogs_id": 28255525,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ou0eozi2e4m5KvwMnuiSLFAGpj9Rg5MqID0cV5S3eKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU1/NTI1LTE2OTQ2NDU1/MTctMjM1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Arthur Prysock",
+      "title": "I'll Close My Eyes",
+      "release_title": "Arthur Prysock - At His Very Best - Silk And Satin",
+      "year": "1977",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 15326318,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/r1-8BodBCpPMc4ifwOVU5014Ca5YJTv71PiUlWkt7ik/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI2/MzE4LTE2NTMwMTA5/NDUtMjQ1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Liferaft",
+      "title": "Jesu, My Love",
+      "release_title": "Liferaft - Liferaft",
+      "year": "1972",
+      "label": "Aero Space Records",
+      "country": "US",
+      "discogs_id": 5049364,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Wrqjib49Ixq11EN-7bb-sVX9ey6Zqqty_aaYQu7H60Y/rs:fit/g:sm/q:90/h:425/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDkz/NjQtMTM4MzEyOTc0/Ni01ODkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jay McShann",
+      "title": "Piney Brown Blues",
+      "release_title": "Jay McShann - What A Wonderful World",
+      "year": "1999",
+      "label": "Groove Note Records",
+      "country": "US",
+      "discogs_id": 9127907,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/cxZbKiXgkgd7eum202B8l7a_5-TkU0KakdvPKhBsyzo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjc5/MDctMTQ3NTI1MDYw/NC03MzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Dick Hyman Trio",
+      "title": "Love For Sale",
+      "release_title": "Dick Hyman And His Trio* - The Dick Hyman Trio",
+      "year": "1972",
+      "label": "Command",
+      "country": "US",
+      "discogs_id": 16284204,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/53hESq8DSOTpf-tJRFo9FIYxW_kr4NdIMZ-BlGx5HQY/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg0/MjA0LTE3MzQxMDY3/NDYtNDQ1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine & Milt Jackson",
+      "title": "Sister Sanctified",
+      "release_title": "Stanley Turrentine With Milt Jackson - Cherry",
+      "year": "1979",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 7905200,
+      "rating_avg": 4.0,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/VP_Ky2JuNy1KE1Uw9JitLO5vn74biuHxr2be_NCyAIM/rs:fit/g:sm/q:90/h:485/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDUy/MDAtMTQ1MTM1MTAz/MS05Mzg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Liferaft",
+      "title": "Just Don't Care",
+      "release_title": "Liferaft - Liferaft",
+      "year": "1972",
+      "label": "Aero Space Records",
+      "country": "US",
+      "discogs_id": 5049364,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Wrqjib49Ixq11EN-7bb-sVX9ey6Zqqty_aaYQu7H60Y/rs:fit/g:sm/q:90/h:425/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDkz/NjQtMTM4MzEyOTc0/Ni01ODkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Delilah",
+      "release_title": "David Newman* - Heads Up",
+      "year": "1987",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 13029669,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_q8JMg1EocilDJHsGsQnfR91r_iF4ixQDjNRo4IVwNU/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDI5/NjY5LTE1NDY3ODAw/MDgtNDE1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Baroque and Blue",
+      "release_title": "Various - A Cocktail Party",
+      "year": "1988",
+      "label": "CBS Masterworks",
+      "country": "US",
+      "discogs_id": 13659036,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dBq2D7ibSgdN6z5ZJxkWGA8kbQDWOpjkoAlEbhK-0t4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU5/MDM2LTE1NTg0NTE4/NTAtMzM1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Hot's It",
+      "release_title": "The Crusaders - Chain Reaction",
+      "year": "1975",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 3698313,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/BN0h-RQm975rXzSRCovMTm_7mdSE1Fyac-96tAYCE_U/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgz/MTMtMTQ3ODU0Mjc1/OS0yMDEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kriegsmarine",
+      "title": "Rock Swing",
+      "release_title": "Kriegsmarine - Battle Worn",
+      "year": "2007",
+      "label": "Not On Label (Kriegsmarine Self-released)",
+      "country": "US",
+      "discogs_id": 12059027,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ROIW6OQRHWkDeVK1RBATtxZbAokJEbI0as2yuJnYJ_s/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU5/MDI3LTE1Mjc0NzA1/OTMtMTU0Ni5qcGVn.jpeg"
+    }
+  ]
+}
