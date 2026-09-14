@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1964,
+    "year_to": 2010,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 16,
+      "artists_found": 16,
+      "fresh_lookups": 0,
+      "styles_considered": 62
+    }
+  },
+  "results": [
+    {
+      "artist": "Ernie Krivda",
+      "title": "Valse Macabre",
+      "release_title": "Ernie Krivda - The Alchemist",
+      "year": "1978",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 4951863,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/sHXsXrcPsAPHA-YMHJzw3NWVXm0sPB3TRnPCq0wf1H8/rs:fit/g:sm/q:90/h:599/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE4/NjMtMTM4MDM5MjYy/Ny04MDk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gene Harris & The Three Sounds",
+      "title": "Do It Right Now",
+      "release_title": "Gene Harris And His Three Sounds* - Elegant Soul",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 4947157,
+      "rating_avg": 4.5,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/IcXqz81NKjbwNSzbx6NeO33EH9q-EEkWXquruYbucTE/rs:fit/g:sm/q:90/h:598/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDcx/NTctMTM4MDI2NjA4/MC00ODY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Houston Person",
+      "title": "Goodness",
+      "release_title": "Various - Giants Of The Funk Tenor Sax",
+      "year": "1981",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 3365483,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/dX8e2IYH-7nUR2wbHHdCnVAu5GcopFU5xGmX6tCp7gE/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjU0/ODMtMTMyNzUxMDg5/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Far From Home",
+      "title": "Your Not The Same",
+      "release_title": "Far From Home - Like A Whisper",
+      "year": "1998",
+      "label": "Red Bruin Recording",
+      "country": "US",
+      "discogs_id": 4058683,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mlkE9mQPekO4moNpmiyUkxvX0Tk22RrKCPxMlJDgYZI/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTg2/ODMtMTM1Mzg1ODQx/Mi04MzEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Beegie Adair",
+      "title": "Pick Yourself Up",
+      "release_title": "Beegie Adair - The Way You Look Tonight (The Romantic Songs Of Jerome Kern)",
+      "year": "2002",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 1255063,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/Aa0g0ZDhEoJ0a4pLWMnOTiXVOfOlQt_AeL3BkVt8QB0/rs:fit/g:sm/q:90/h:521/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUw/NjMtMTIwNDExMzA0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rachel Z",
+      "title": "This Woman's Work",
+      "release_title": "Rachel Z - Grace",
+      "year": "2005",
+      "label": "Chesky Records",
+      "country": "US",
+      "discogs_id": 2386300,
+      "rating_avg": 3.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/i6dva4SFuxfw7NCDggHPeVGGv9sTTPMSmX8_9z32Cso/rs:fit/g:sm/q:90/h:306/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODYz/MDAtMTI4MTAxMTg2/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dean Martin",
+      "title": "Lay Some Happiness On Me",
+      "release_title": "Dean Martin - Happiness Is Dean Martin",
+      "year": "1967",
+      "label": "Reprise Records",
+      "country": "US",
+      "discogs_id": 2888832,
+      "rating_avg": 3.93,
+      "rating_count": 56,
+      "cover_image": "https://i.discogs.com/vGwEX58VZc-xvz1Yb8eSkD4dOcMeka2YlOrcAO-ObyM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODg4/MzItMTcwODg2MzM3/My04NjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nat King Cole",
+      "title": "Your Love",
+      "release_title": "Nat King Cole - L-O-V-E",
+      "year": "1965",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 2582296,
+      "rating_avg": 4.21,
+      "rating_count": 47,
+      "cover_image": "https://i.discogs.com/vd-GflNlz_kdtjUoIoR3EJitFMWwiC6wim0yY9YygOY/rs:fit/g:sm/q:90/h:572/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIy/OTYtMTI5OTI3NjA5/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Sanborn",
+      "title": "Chicago Song",
+      "release_title": "Various - The Best Ten Years - WNUA 95.5 - Smooth Jazz",
+      "year": "1996",
+      "label": "WNUA",
+      "country": "US",
+      "discogs_id": 13601652,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/K7T-Vyce-vIQII2uijhhuyxKg-XF30OXzlNEeua6bA4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAx/NjUyLTE2MDczMDI3/ODMtNDk0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Catching The Sun",
+      "release_title": "Spyro Gyra - Catching The Sun ",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 4390942,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8VWDEED479wzFI27XJXtV9trfihsiK8V93G_e-GjUi8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTA5/NDItMTU4NDQ0OTk2/My01NTc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "O'Donel Levy",
+      "title": "Panama Red",
+      "release_title": "O'Donel Levy - Windows",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 13774258,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PgjNc1BwUJPnkXJuq0yNoO4aDVagi7-k89UNhf8ZvyU/rs:fit/g:sm/q:90/h:600/w:490/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc0/MjU4LTE1NjA4MjUy/NjMtMzA4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "O'Donel Levy",
+      "title": "Freedom And Good Times (Beginning)",
+      "release_title": "O'Donel Levy - Windows",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 13774258,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PgjNc1BwUJPnkXJuq0yNoO4aDVagi7-k89UNhf8ZvyU/rs:fit/g:sm/q:90/h:600/w:490/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc0/MjU4LTE1NjA4MjUy/NjMtMzA4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nat King Cole",
+      "title": "The Girl From Ipanema",
+      "release_title": "Nat King Cole - L-O-V-E",
+      "year": "1965",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 2582296,
+      "rating_avg": 4.21,
+      "rating_count": 47,
+      "cover_image": "https://i.discogs.com/vd-GflNlz_kdtjUoIoR3EJitFMWwiC6wim0yY9YygOY/rs:fit/g:sm/q:90/h:572/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIy/OTYtMTI5OTI3NjA5/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rachel Z",
+      "title": "Protect This Child",
+      "release_title": "Rachel Z - Grace",
+      "year": "2005",
+      "label": "Chesky Records",
+      "country": "US",
+      "discogs_id": 2386300,
+      "rating_avg": 3.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/i6dva4SFuxfw7NCDggHPeVGGv9sTTPMSmX8_9z32Cso/rs:fit/g:sm/q:90/h:306/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODYz/MDAtMTI4MTAxMTg2/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "What's Going On",
+      "release_title": "Various - TBA Records Sampler (11 Selections By 6 Artists)",
+      "year": "1989",
+      "label": "TBA Records",
+      "country": "US",
+      "discogs_id": 29385058,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/w_zZMD1NgexVNXL-B90XqJ2z_9l3lITfEnzXkhuVqiA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzg1/MDU4LTE3MDUwMDk3/MTctNjE3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tom Scott",
+      "title": "Mantra",
+      "release_title": "Tom Scott - Great Scott!",
+      "year": "1972",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 34711665,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YrkTxTktJrT-_jzBeDwKizD1Ft3FiRKXb2kl60J5f-U/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzEx/NjY1LTE3NTQxNDQ4/MzktNTcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Lawrence",
+      "title": "Lookin' Good",
+      "release_title": "Steve Lawrence (2) - Lookin' Good / Frosty Morning",
+      "year": "1971",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 9915842,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "O'Donel Levy",
+      "title": "I Believe In Miracles",
+      "release_title": "O'Donel Levy - Windows",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 13774258,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PgjNc1BwUJPnkXJuq0yNoO4aDVagi7-k89UNhf8ZvyU/rs:fit/g:sm/q:90/h:600/w:490/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc0/MjU4LTE1NjA4MjUy/NjMtMzA4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda",
+      "title": "Tzigine",
+      "release_title": "Ernie Krivda - The Alchemist",
+      "year": "1978",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 4951863,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/sHXsXrcPsAPHA-YMHJzw3NWVXm0sPB3TRnPCq0wf1H8/rs:fit/g:sm/q:90/h:599/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE4/NjMtMTM4MDM5MjYy/Ny04MDk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Beegie Adair",
+      "title": "Yesterdays",
+      "release_title": "Beegie Adair - The Way You Look Tonight (The Romantic Songs Of Jerome Kern)",
+      "year": "2002",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 1255063,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/Aa0g0ZDhEoJ0a4pLWMnOTiXVOfOlQt_AeL3BkVt8QB0/rs:fit/g:sm/q:90/h:521/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUw/NjMtMTIwNDExMzA0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "George Benson",
+      "title": "Breezin'",
+      "release_title": "Various - The Best Ten Years - WNUA 95.5 - Smooth Jazz",
+      "year": "1996",
+      "label": "WNUA",
+      "country": "US",
+      "discogs_id": 13601652,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/K7T-Vyce-vIQII2uijhhuyxKg-XF30OXzlNEeua6bA4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAx/NjUyLTE2MDczMDI3/ODMtNDk0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Houston Person",
+      "title": "Chains Of Love",
+      "release_title": "Various - Giants Of The Funk Tenor Sax",
+      "year": "1981",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 3365483,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/dX8e2IYH-7nUR2wbHHdCnVAu5GcopFU5xGmX6tCp7gE/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjU0/ODMtMTMyNzUxMDg5/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dean Martin",
+      "title": "It Just Happened That Way",
+      "release_title": "Dean Martin - Happiness Is Dean Martin",
+      "year": "1967",
+      "label": "Reprise Records",
+      "country": "US",
+      "discogs_id": 2888832,
+      "rating_avg": 3.93,
+      "rating_count": 56,
+      "cover_image": "https://i.discogs.com/vGwEX58VZc-xvz1Yb8eSkD4dOcMeka2YlOrcAO-ObyM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODg4/MzItMTcwODg2MzM3/My04NjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tom Scott",
+      "title": "Lookin' Out For Number Seven",
+      "release_title": "Tom Scott - Great Scott!",
+      "year": "1972",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 34711665,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YrkTxTktJrT-_jzBeDwKizD1Ft3FiRKXb2kl60J5f-U/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzEx/NjY1LTE3NTQxNDQ4/MzktNTcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Beegie Adair",
+      "title": "All The Things You Are",
+      "release_title": "Beegie Adair - The Way You Look Tonight (The Romantic Songs Of Jerome Kern)",
+      "year": "2002",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 1255063,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/Aa0g0ZDhEoJ0a4pLWMnOTiXVOfOlQt_AeL3BkVt8QB0/rs:fit/g:sm/q:90/h:521/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUw/NjMtMTIwNDExMzA0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dancing Fantasy",
+      "title": "Daydreamer",
+      "release_title": "Dancing Fantasy - Day Dream",
+      "year": "1995",
+      "label": "Innovative Communication",
+      "country": "US",
+      "discogs_id": 7833235,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0VplsYxVoOCaimAkG-J0CzwjEGHosRk2AhtctIl4Lms/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzMy/MzUtMTQ0OTc2MjI3/Ny0yOTUwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jacqui Naylor",
+      "title": "I Remember You",
+      "release_title": "Jacqui Naylor - I Remember You",
+      "year": "2002",
+      "label": "Ruby Records",
+      "country": "US",
+      "discogs_id": 22594397,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ruIatJ-ZB_KYQj56GgvFSOZGiP9SgPl0nKQ8qWjTHnM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk0/Mzk3LTE2NDc4ODky/NTEtMTA5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda",
+      "title": "The Alchemist",
+      "release_title": "Ernie Krivda - The Alchemist",
+      "year": "1978",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 4951863,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/sHXsXrcPsAPHA-YMHJzw3NWVXm0sPB3TRnPCq0wf1H8/rs:fit/g:sm/q:90/h:599/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE4/NjMtMTM4MDM5MjYy/Ny04MDk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gene Harris & The Three Sounds",
+      "title": "Book Of Slim",
+      "release_title": "Gene Harris And His Three Sounds* - Elegant Soul",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 4947157,
+      "rating_avg": 4.5,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/IcXqz81NKjbwNSzbx6NeO33EH9q-EEkWXquruYbucTE/rs:fit/g:sm/q:90/h:598/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDcx/NTctMTM4MDI2NjA4/MC00ODY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tom Scott",
+      "title": "Visions Off The Highway",
+      "release_title": "Tom Scott - Great Scott!",
+      "year": "1972",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 34711665,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YrkTxTktJrT-_jzBeDwKizD1Ft3FiRKXb2kl60J5f-U/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzEx/NjY1LTE3NTQxNDQ4/MzktNTcwMy5qcGVn.jpeg"
+    }
+  ]
+}
