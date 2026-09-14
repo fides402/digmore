@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1966,
+    "year_to": 2014,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 25,
+      "artists_found": 24,
+      "fresh_lookups": 0,
+      "styles_considered": 94
+    }
+  },
+  "results": [
+    {
+      "artist": "Pat Metheny Group",
+      "title": "You",
+      "release_title": "Pat Metheny Group - Speaking Of Now",
+      "year": "2002",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 3175811,
+      "rating_avg": 4.19,
+      "rating_count": 53,
+      "cover_image": "https://i.discogs.com/eOZR9BwfZcSLv4yG4Yu3sTad9k2wlOPIc7XkPEwMvc4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzU4/MTEtMTU5NzQ3NjQ3/MC0xOTU2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Anthony McGill",
+      "title": "Premiere Rhapsodie",
+      "release_title": "Anthony McGill - Anthony McGill",
+      "year": "2010",
+      "label": "Anthony McGill",
+      "country": "US",
+      "discogs_id": 13568060,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JR2G9uwxsrFtMnel9_IFO6yZjHn9K4GUmF5ig5XGwH8/rs:fit/g:sm/q:90/h:425/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY4/MDYwLTE1NTY2NjE2/MTEtMTIyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mike Freeman & Spellbound",
+      "title": "Eastern Lights",
+      "release_title": "Mike Freeman & Spellbound - Street Shuffle",
+      "year": "1991",
+      "label": "Best Recordings",
+      "country": "US",
+      "discogs_id": 10484567,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/U3owiZ9qa0Ny21qcrfYVAYs4a-kZzmEwN4AxyMgH110/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg0/NTY3LTE0OTg0MDMw/NzgtNDYxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bud Shank",
+      "title": "Lara's Theme From \"Doctor Zhivago\"",
+      "release_title": "Bud Shank - Girl In Love",
+      "year": "1966",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 7936462,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/Nzk9rD_bbPcnlV7ADqGqQiGtGU8uxoJT6bP1GAbstRM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzY0/NjItMTQ1MTk5ODg5/OS03MjI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "title": "The Gathering Sky",
+      "release_title": "Pat Metheny Group - Speaking Of Now",
+      "year": "2002",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 3175811,
+      "rating_avg": 4.19,
+      "rating_count": 53,
+      "cover_image": "https://i.discogs.com/eOZR9BwfZcSLv4yG4Yu3sTad9k2wlOPIc7XkPEwMvc4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzU4/MTEtMTU5NzQ3NjQ3/MC0xOTU2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Mark Kramer Trio",
+      "title": "The Question",
+      "release_title": "The Mark Kramer Trio - The Mark Kramer Trio Album",
+      "year": "1987",
+      "label": "Encounter Audiophile Records",
+      "country": "US",
+      "discogs_id": 8206968,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/f5q4Z6OR41sALzuq5K_HKU8JT6QjlN_2Gwn_s5i0anM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDY5/NjgtMTQ1NzQxMTcx/MC05OTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cristy Lane",
+      "title": "Star Spangled Banner",
+      "release_title": "Cristy Lane - Top 10 Songs Of All Time Plus \"Star Spangled Banner\"",
+      "year": "1991",
+      "label": "LS Records",
+      "country": "US",
+      "discogs_id": 8595555,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DU1VpuRGD2RzO9QAVUoUvwfwIVQyv-GUUpl27tfGkvI/rs:fit/g:sm/q:90/h:450/w:338/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTU1/NTUtMTQ2NDc1OTE0/OS03NTQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Steve Hudson Quintet",
+      "title": "Zop",
+      "release_title": "Steve Hudson Quintet - Outer Bridge",
+      "year": "2004",
+      "label": "Groovaholic Music",
+      "country": "US",
+      "discogs_id": 13263602,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4hwgvJAM6RNiECDYr0W0BsLea-M2y9_ZU2k70OqRmTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/NjAyLTE1NTA5NzAy/MzEtMTU0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "Hurt So Bad, Continued",
+      "release_title": "Grant Green - Carryin' On",
+      "year": "1970",
+      "label": "Liberty Stereo-Tape",
+      "country": "US",
+      "discogs_id": 24342407,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ntx23QbBRf9qXNFCRXdOAlN4xQz6_iX6S5aNI4LK4qc/rs:fit/g:sm/q:90/h:600/w:435/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQy/NDA3LTE2NjE3MDU1/MTktMTYzOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Knucklehead",
+      "release_title": "Grover Washington, Jr. - Feels So Good",
+      "year": "1975",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 4563840,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/xyiwbA3AahxhjmHGmej0YPdRrO0KkvODqVTeM2Hizvo/rs:fit/g:sm/q:90/h:600/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjM4/NDAtMTYxNzY3MDU4/NS04MDYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Moffitt",
+      "title": "Birds",
+      "release_title": "Peter Moffitt - Riverdance",
+      "year": "1989",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 4019628,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/c1zbSdntmpgwEYuHZO-To3UmxTGohGJC_eAGPUMiJR0/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTk2/MjgtMTM1MjU2NDU1/MC03NDA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Mann",
+      "title": "My Little Suede Shoes",
+      "release_title": "Herbie Mann - Early Mann - The Bethlehem Years, Volume 1",
+      "year": "1976",
+      "label": "Bethlehem Records",
+      "country": "US",
+      "discogs_id": 6466693,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/sYJN8xcwELU_sxtf9xHLNpKZlSe1xP7AXYoyc7cVzwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjY2/OTMtMTQxOTk0Njg2/My0yNzIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Mann",
+      "title": "A Spring Morning",
+      "release_title": "Herbie Mann - Early Mann - The Bethlehem Years, Volume 1",
+      "year": "1976",
+      "label": "Bethlehem Records",
+      "country": "US",
+      "discogs_id": 6466693,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/sYJN8xcwELU_sxtf9xHLNpKZlSe1xP7AXYoyc7cVzwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjY2/OTMtMTQxOTk0Njg2/My0yNzIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "Ease Back",
+      "release_title": "Grant Green - Carryin' On",
+      "year": "1970",
+      "label": "Liberty Stereo-Tape",
+      "country": "US",
+      "discogs_id": 24342407,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ntx23QbBRf9qXNFCRXdOAlN4xQz6_iX6S5aNI4LK4qc/rs:fit/g:sm/q:90/h:600/w:435/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQy/NDA3LTE2NjE3MDU1/MTktMTYzOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "Cease The Bombing, Continued",
+      "release_title": "Grant Green - Carryin' On",
+      "year": "1970",
+      "label": "Liberty Stereo-Tape",
+      "country": "US",
+      "discogs_id": 24342407,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ntx23QbBRf9qXNFCRXdOAlN4xQz6_iX6S5aNI4LK4qc/rs:fit/g:sm/q:90/h:600/w:435/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQy/NDA3LTE2NjE3MDU1/MTktMTYzOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fear Of Success",
+      "title": "Talk To Me",
+      "release_title": "Fear Of Success (2) - Architecture",
+      "year": "1990",
+      "label": "Tri Records",
+      "country": "US",
+      "discogs_id": 21121315,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/U3ouqjYHRYnun57F7TFaBzgiQq_reFRfUt2giSmSzrQ/rs:fit/g:sm/q:90/h:600/w:390/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTIx/MzE1LTE2Mzc4Njk2/MTktMjg1Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Keep Loose",
+      "release_title": "Jimmy McGriff - The Worm",
+      "year": "1968",
+      "label": "Solid State Records",
+      "country": "US",
+      "discogs_id": 6300662,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZpSCmgkHcwP0_zeiRUM6VR1q9i18gf5CkRsGVf5ZV7o/rs:fit/g:sm/q:90/h:527/w:532/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA2/NjItMTQxNTkzNzk1/NS0xNzE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Moonstreams",
+      "release_title": "Grover Washington, Jr. - Feels So Good",
+      "year": "1975",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 4563840,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/xyiwbA3AahxhjmHGmej0YPdRrO0KkvODqVTeM2Hizvo/rs:fit/g:sm/q:90/h:600/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjM4/NDAtMTYxNzY3MDU4/NS04MDYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mike Freeman & Spellbound",
+      "title": "Serendipity",
+      "release_title": "Mike Freeman & Spellbound - Street Shuffle",
+      "year": "1991",
+      "label": "Best Recordings",
+      "country": "US",
+      "discogs_id": 10484567,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/U3owiZ9qa0Ny21qcrfYVAYs4a-kZzmEwN4AxyMgH110/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg0/NTY3LTE0OTg0MDMw/NzgtNDYxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mark Kramer Trio",
+      "title": "Two Rivers",
+      "release_title": "The Mark Kramer Trio - The Mark Kramer Trio Album",
+      "year": "1987",
+      "label": "Encounter Audiophile Records",
+      "country": "US",
+      "discogs_id": 8206968,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/f5q4Z6OR41sALzuq5K_HKU8JT6QjlN_2Gwn_s5i0anM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDY5/NjgtMTQ1NzQxMTcx/MC05OTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "The Worm",
+      "release_title": "Jimmy McGriff - The Worm",
+      "year": "1968",
+      "label": "Solid State Records",
+      "country": "US",
+      "discogs_id": 6300662,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZpSCmgkHcwP0_zeiRUM6VR1q9i18gf5CkRsGVf5ZV7o/rs:fit/g:sm/q:90/h:527/w:532/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA2/NjItMTQxNTkzNzk1/NS0xNzE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Yusef Lateef",
+      "title": "Belle Isle",
+      "release_title": "Yusef Lateef - Yusef Lateef's Detroit Latitude 42° 30' Longitude 83°",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12904804,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YJ-vSyRQ43Vhrh7aSP3t_RCa_9s6E1gnSNpI5hMgkP0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/ODA0LTE1NDQyMjEx/NTUtMjU1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bud Shank",
+      "title": "The Sun Ain't Gonna Shine (Anymore)",
+      "release_title": "Bud Shank - Girl In Love",
+      "year": "1966",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 7936462,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/Nzk9rD_bbPcnlV7ADqGqQiGtGU8uxoJT6bP1GAbstRM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzY0/NjItMTQ1MTk5ODg5/OS03MjI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Henderson",
+      "title": "Black Narcissus",
+      "release_title": "Joe Henderson - Black Narcissus",
+      "year": "1977",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 1670041,
+      "rating_avg": 4.51,
+      "rating_count": 86,
+      "cover_image": "https://i.discogs.com/J_2vL_VfJ5dCmC31WwWa1PXeXSkQ_UuMKilysJyayfI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzAw/NDEtMTU5NjYxMzg0/Mi04MjY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Anthony McGill",
+      "title": "Rhapsody on a theme of Paganini",
+      "release_title": "Anthony McGill - Anthony McGill",
+      "year": "2010",
+      "label": "Anthony McGill",
+      "country": "US",
+      "discogs_id": 13568060,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JR2G9uwxsrFtMnel9_IFO6yZjHn9K4GUmF5ig5XGwH8/rs:fit/g:sm/q:90/h:425/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY4/MDYwLTE1NTY2NjE2/MTEtMTIyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Hudson Quintet",
+      "title": "Emma's Adventure",
+      "release_title": "Steve Hudson Quintet - Outer Bridge",
+      "year": "2004",
+      "label": "Groovaholic Music",
+      "country": "US",
+      "discogs_id": 13263602,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4hwgvJAM6RNiECDYr0W0BsLea-M2y9_ZU2k70OqRmTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/NjAyLTE1NTA5NzAy/MzEtMTU0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Hudson Quintet",
+      "title": "Mingus Moon",
+      "release_title": "Steve Hudson Quintet - Outer Bridge",
+      "year": "2004",
+      "label": "Groovaholic Music",
+      "country": "US",
+      "discogs_id": 13263602,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4hwgvJAM6RNiECDYr0W0BsLea-M2y9_ZU2k70OqRmTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/NjAyLTE1NTA5NzAy/MzEtMTU0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Yusef Lateef",
+      "title": "That Lucky Old Sun",
+      "release_title": "Yusef Lateef - Yusef Lateef's Detroit Latitude 42° 30' Longitude 83°",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12904804,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YJ-vSyRQ43Vhrh7aSP3t_RCa_9s6E1gnSNpI5hMgkP0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/ODA0LTE1NDQyMjEx/NTUtMjU1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herbie Mann",
+      "title": "The Purple Grotto",
+      "release_title": "Herbie Mann - Early Mann - The Bethlehem Years, Volume 1",
+      "year": "1976",
+      "label": "Bethlehem Records",
+      "country": "US",
+      "discogs_id": 6466693,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/sYJN8xcwELU_sxtf9xHLNpKZlSe1xP7AXYoyc7cVzwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjY2/OTMtMTQxOTk0Njg2/My0yNzIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Mann",
+      "title": "Chicken Little",
+      "release_title": "Herbie Mann - Early Mann - The Bethlehem Years, Volume 1",
+      "year": "1976",
+      "label": "Bethlehem Records",
+      "country": "US",
+      "discogs_id": 6466693,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/sYJN8xcwELU_sxtf9xHLNpKZlSe1xP7AXYoyc7cVzwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjY2/OTMtMTQxOTk0Njg2/My0yNzIyLmpwZWc.jpeg"
+    }
+  ]
+}
