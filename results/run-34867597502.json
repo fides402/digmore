@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 34,
+      "artists_found": 32,
+      "fresh_lookups": 0,
+      "styles_considered": 101
+    }
+  },
+  "results": [
+    {
+      "artist": "Jerry Butler",
+      "title": "How Did We Lose It Baby",
+      "release_title": "Jerry Butler - How Did We Lose It Baby / Do You Finally Need A Friend",
+      "year": "1971",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 2533752,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/N5DXRpGPHIeiZmPLYWMHtyF87cw336KDTnJ43QFtxoU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzM3/NTItMTU5MTMwMjY0/Ni00ODQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Martha Reeves & The Vandellas",
+      "title": "Love (Makes Me Do Foolish Things)",
+      "release_title": "Martha Reeves & The Vandellas - Greatest Hits",
+      "year": "1987",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 9625405,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wAE3s9l2UfIMYx1ZqFTx8evrcW02OkrZ_JU3U49HVok/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjU0/MDUtMTUxOTA3MDg4/MS0yOTM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dracpack",
+      "title": "Automatic Systematic Funk (Accapella Thump)",
+      "release_title": "Dracpack - Automatic Systematic Funk",
+      "year": "1989",
+      "label": "Sure Sound Records",
+      "country": "US",
+      "discogs_id": 1638947,
+      "rating_avg": 4.56,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/Qlv918CGsom9AL1hQOjS1xlTSzcwwesq9tIA2XPB4MA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg5/NDctMTQ4NTkzMDcx/MS02ODkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clay Hammond",
+      "title": "You've Got Me Tamed",
+      "release_title": "Clay Hammond - You Threw Out Your Lifeline / You've Got Me Tamed",
+      "year": "1970",
+      "label": "Ronn Records",
+      "country": "US",
+      "discogs_id": 17366902,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/i9hFB9zJOKt1mStt2uy75wBqZo9ApgFGflWPZfPSSaQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY2/OTAyLTE2MTMwNjQw/MjktOTkwMy5tcG8.jpeg"
+    },
+    {
+      "artist": "The Entertainers",
+      "title": "I'm Coming Home",
+      "release_title": "The Entertainers - Summer Love",
+      "year": "2015",
+      "label": "KHP Music",
+      "country": "US",
+      "discogs_id": 23229404,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0oT1uvyh8atxQUHuh3udFfa-HabDw9x6TWdpa3rLWb4/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjI5/NDA0LTE2NTI1NzE1/MDQtOTkyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Entertainers",
+      "title": "Love Land",
+      "release_title": "The Entertainers - Summer Love",
+      "year": "2015",
+      "label": "KHP Music",
+      "country": "US",
+      "discogs_id": 23229404,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0oT1uvyh8atxQUHuh3udFfa-HabDw9x6TWdpa3rLWb4/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjI5/NDA0LTE2NTI1NzE1/MDQtOTkyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bernard Purdie",
+      "title": "Don't Go",
+      "release_title": "Pretty Purdie* - Soul Is... Pretty Purdie",
+      "year": "1972",
+      "label": "Flying Dutchman",
+      "country": "US",
+      "discogs_id": 8256032,
+      "rating_avg": 4.25,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/v1FtUYZrj3ClmcB_7LAIDgAgr3Ym0rCdj-E4QPBebFE/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTYw/MzItMTQ1ODA2NDIz/Ni03NjUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Epicentre",
+      "title": "Get Off The Phone",
+      "release_title": "Various - Wheedle's Groove Volume II: Seattle Funk, Modern Soul And Boogie 1972-1987",
+      "year": "2014",
+      "label": "Light In The Attic",
+      "country": "US",
+      "discogs_id": 5826058,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/aj5cRgU0Jt4BjgqcczvB15qBrY_D-DB7_XaqRRvv1PY/rs:fit/g:sm/q:90/h:325/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjYw/NTgtMTQwMzc1NzIw/My00NjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lenny Randle",
+      "title": "Kingdome",
+      "release_title": "Various - Wheedle's Groove Volume II: Seattle Funk, Modern Soul And Boogie 1972-1987",
+      "year": "2014",
+      "label": "Light In The Attic",
+      "country": "US",
+      "discogs_id": 5826058,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/aj5cRgU0Jt4BjgqcczvB15qBrY_D-DB7_XaqRRvv1PY/rs:fit/g:sm/q:90/h:325/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjYw/NTgtMTQwMzc1NzIw/My00NjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Betty Everett",
+      "title": "The Shoop Shoop Song (It's In His Kiss)",
+      "release_title": "Various - Billboard Top R&B Hits - 1964",
+      "year": "1989",
+      "label": "Rhino Records",
+      "country": "US",
+      "discogs_id": 10124475,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XjQ6umNz29cQzBcKHnoDl8qJmdnLfdQ0ELqM6T749Mk/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI0/NDc1LTE0OTIwMzk4/NDgtMjg4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Four Tops",
+      "title": "Baby I Need Your Loving",
+      "release_title": "Various - Billboard Top R&B Hits - 1964",
+      "year": "1989",
+      "label": "Rhino Records",
+      "country": "US",
+      "discogs_id": 10124475,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XjQ6umNz29cQzBcKHnoDl8qJmdnLfdQ0ELqM6T749Mk/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI0/NDc1LTE0OTIwMzk4/NDgtMjg4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The J.B.'s",
+      "title": "Givin' Up Food For Funk - Part 1",
+      "release_title": "JB's* - Givin' Up Food For Funk",
+      "year": "1972",
+      "label": "People",
+      "country": "US",
+      "discogs_id": 10395929,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/JCgiL9kww9TkQRSBdVSBk5DbO-zkPyeJ_NiDUdg7H-A/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk1/OTI5LTE0OTY2MTU1/NDQtNDIxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Ruffin",
+      "title": "Maria (You Were The Only One)",
+      "release_title": "Jimmy Ruffin - Maria (You Were The Only One)",
+      "year": "1970",
+      "label": "Soul",
+      "country": "US",
+      "discogs_id": 10295847,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/HGSrIjlyzCsmbIu6oviZ0KHh9nM709KwYk_c-P3_A4o/rs:fit/g:sm/q:90/h:576/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk1/ODQ3LTE0OTQ4NDI1/MTEtNDAzNS5wbmc.jpeg"
+    },
+    {
+      "artist": "Ohio Players",
+      "title": "Pack It Up",
+      "release_title": "Ohio Players - Climax",
+      "year": "1974",
+      "label": "Westbound Records",
+      "country": "US",
+      "discogs_id": 34686918,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/hCPsyBuuCt0ZuN4fzpyop61r7Z5m9WmQn1Te49ZrDC0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njg2/OTE4LTE3NTM5MDU2/OTktNjkzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clay Hammond",
+      "title": "You Threw Out Your Lifeline",
+      "release_title": "Clay Hammond - You Threw Out Your Lifeline / You've Got Me Tamed",
+      "year": "1970",
+      "label": "Ronn Records",
+      "country": "US",
+      "discogs_id": 17366902,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/i9hFB9zJOKt1mStt2uy75wBqZo9ApgFGflWPZfPSSaQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY2/OTAyLTE2MTMwNjQw/MjktOTkwMy5tcG8.jpeg"
+    },
+    {
+      "artist": "Malik Din",
+      "title": "Trouble In Mind",
+      "release_title": "Various - Wheedle's Groove Volume II: Seattle Funk, Modern Soul And Boogie 1972-1987",
+      "year": "2014",
+      "label": "Light In The Attic",
+      "country": "US",
+      "discogs_id": 5826058,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/aj5cRgU0Jt4BjgqcczvB15qBrY_D-DB7_XaqRRvv1PY/rs:fit/g:sm/q:90/h:325/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjYw/NTgtMTQwMzc1NzIw/My00NjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Detroit Emeralds",
+      "title": "Just Now And Then",
+      "release_title": "Detroit Emeralds - I Can't See Myself Doing Without You / Just Now And Then",
+      "year": "1970",
+      "label": "Westbound Records",
+      "country": "US",
+      "discogs_id": 1958997,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/yNyEGkqhTPTaJUsM3odjnFVZ8oncehMibwWbaDSBNz8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg5/OTctMTI2NzIzNzQx/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Entertainers",
+      "title": "I Think It's Love",
+      "release_title": "The Entertainers - Summer Love",
+      "year": "2015",
+      "label": "KHP Music",
+      "country": "US",
+      "discogs_id": 23229404,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0oT1uvyh8atxQUHuh3udFfa-HabDw9x6TWdpa3rLWb4/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjI5/NDA0LTE2NTI1NzE1/MDQtOTkyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Natalie Cole & Peabo Bryson",
+      "title": "Love Will Find You",
+      "release_title": "Natalie Cole & Peabo Bryson - Gimme Some Time / Love Will Find You",
+      "year": "1979",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 1474151,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/QpEM3kzRv33bCxFOiXtJN2cxzFK9FRxNLXfnQ6Q5OZs/rs:fit/g:sm/q:90/h:397/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQx/NTEtMTQzNjEwMjg4/Mi04ODI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Detroit Emeralds",
+      "title": "I Can't See Myself Doing Without You",
+      "release_title": "Detroit Emeralds - I Can't See Myself Doing Without You / Just Now And Then",
+      "year": "1970",
+      "label": "Westbound Records",
+      "country": "US",
+      "discogs_id": 1958997,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/yNyEGkqhTPTaJUsM3odjnFVZ8oncehMibwWbaDSBNz8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg5/OTctMTI2NzIzNzQx/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Contours",
+      "title": "Do You Love Me",
+      "release_title": "Various - Legends Of Motown",
+      "year": "2011",
+      "label": "Compass Productions",
+      "country": "US",
+      "discogs_id": 14718250,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5gN7DUWX5hlPqUoHKADP9--obnbiC5LkeJltAbVaEZ4/rs:fit/g:sm/q:90/h:140/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE4/MjUwLTE3MzI1NDY0/NTItMjUxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Martha Reeves & The Vandellas",
+      "title": "Love Is Like A Heat Wave",
+      "release_title": "Martha Reeves & The Vandellas - Greatest Hits",
+      "year": "1987",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 9625405,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wAE3s9l2UfIMYx1ZqFTx8evrcW02OkrZ_JU3U49HVok/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjU0/MDUtMTUxOTA3MDg4/MS0yOTM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dracpack",
+      "title": "Automatic Systematic Funk (Monster Bass Mix)",
+      "release_title": "Dracpack - Automatic Systematic Funk",
+      "year": "1989",
+      "label": "Sure Sound Records",
+      "country": "US",
+      "discogs_id": 1638947,
+      "rating_avg": 4.56,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/Qlv918CGsom9AL1hQOjS1xlTSzcwwesq9tIA2XPB4MA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg5/NDctMTQ4NTkzMDcx/MS02ODkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Natalie Cole & Peabo Bryson",
+      "title": "Gimme Some Time",
+      "release_title": "Natalie Cole & Peabo Bryson - Gimme Some Time / Love Will Find You",
+      "year": "1979",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 1474151,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/QpEM3kzRv33bCxFOiXtJN2cxzFK9FRxNLXfnQ6Q5OZs/rs:fit/g:sm/q:90/h:397/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQx/NTEtMTQzNjEwMjg4/Mi04ODI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Original Drifters",
+      "title": "There Goes My Baby",
+      "release_title": "The Original Drifters - Something Old Something New",
+      "year": "1980",
+      "label": "Wonder Records",
+      "country": "US",
+      "discogs_id": 4978043,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/cc3G2xtUPISfCZvkRfEAVIMwSNUnI0O_7M_G5vK4y00/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Nzgw/NDMtMTM4MTE2NDky/Ny0yMzg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Petty",
+      "title": "Riding",
+      "release_title": "Joe Petty - What's It All About / Riding",
+      "year": "1991",
+      "label": "Avonna Records",
+      "country": "US",
+      "discogs_id": 11871115,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/gme6QgHhF4rYi04CtMLLPcESL5LkWVgIkzwKzybX7P8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcx/MTE1LTE3MTcxNDA0/NTYtNjY0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Alaimo",
+      "title": "Amerikan Music",
+      "release_title": "Steve Alaimo - Amerikan Music",
+      "year": "1972",
+      "label": "Entrance",
+      "country": "US",
+      "discogs_id": 6396025,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Gg3li5i2OFTUlZoLfpI2rimI0mwY4JgGJ4obcdo7xYE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTYw/MjUtMTQxODE5NTEx/Ni02MjA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jerry Butler",
+      "title": "Do You Finally Need A Friend",
+      "release_title": "Jerry Butler - How Did We Lose It Baby / Do You Finally Need A Friend",
+      "year": "1971",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 2533752,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/N5DXRpGPHIeiZmPLYWMHtyF87cw336KDTnJ43QFtxoU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzM3/NTItMTU5MTMwMjY0/Ni00ODQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bernard Purdie",
+      "title": "Put It Where You Want It",
+      "release_title": "Pretty Purdie* - Soul Is... Pretty Purdie",
+      "year": "1972",
+      "label": "Flying Dutchman",
+      "country": "US",
+      "discogs_id": 8256032,
+      "rating_avg": 4.25,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/v1FtUYZrj3ClmcB_7LAIDgAgr3Ym0rCdj-E4QPBebFE/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTYw/MzItMTQ1ODA2NDIz/Ni03NjUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Martha Reeves & The Vandellas",
+      "title": "Wild One",
+      "release_title": "Martha Reeves & The Vandellas - Greatest Hits",
+      "year": "1987",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 9625405,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wAE3s9l2UfIMYx1ZqFTx8evrcW02OkrZ_JU3U49HVok/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjU0/MDUtMTUxOTA3MDg4/MS0yOTM3LmpwZWc.jpeg"
+    }
+  ]
+}
