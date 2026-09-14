@@ -1,0 +1,418 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Modal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2017,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 33,
+      "artists_found": 32,
+      "fresh_lookups": 0,
+      "styles_considered": 107
+    }
+  },
+  "results": [
+    {
+      "artist": "Fuse One",
+      "title": "Silk",
+      "release_title": "Fuse One - Silk",
+      "year": "1981",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 4151861,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/JXuvDzfW1zzi7aBuAOImLJzVfQA4civXuGlWYXWaSA8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTE4/NjEtMTQzNjc1NTMz/NC04NTY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "King Richard's Fluegel Knights",
+      "title": "Somethin' Stupid",
+      "release_title": "King Richard's Fluegel Knights - Something Super!",
+      "year": "1968",
+      "label": "MTA Records",
+      "country": "US",
+      "discogs_id": 8281251,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/X--z8HQo0Bfi1puHZ8g1Z0yKOsK_21et2uLUCEuQrjw/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODEy/NTEtMTQ1ODU2Mjc4/Mi01ODc4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "You Within Me Within You",
+      "release_title": "Billy Cobham - Picture This",
+      "year": "1987",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 22490393,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/djf29j-GIP8ei6m8bgsU9byJLcd55eI3AtrDQRQjROE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkw/MzkzLTE2NDcxMzU0/NDEtODQxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Black Renaissance & GB",
+      "title": "Magic Ritual (Original)",
+      "release_title": "Black Renaissance Featuring GB - Luv N' Haight Edit Series Vol. 4",
+      "year": "2013",
+      "label": "Ubiquity",
+      "country": "US",
+      "discogs_id": 4377776,
+      "rating_avg": 4.64,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/OSaCirwngzphcZi55l13iAZVhkPNTFs8kjRYSTJnA5Y/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzc3/NzYtMTUyNDMwNjE4/Ni0yNzE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "Stella By Starlight",
+      "release_title": "\"Groove\" Holmes* - Shippin' Out",
+      "year": "1978",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 3178422,
+      "rating_avg": 4.05,
+      "rating_count": 21,
+      "cover_image": "https://i.discogs.com/Ul4L62i73UzW8sltY6rqLO0xiYh0hOwcl7UKQt3eKJc/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzg0/MjItMTMzNjI3Njg5/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Webb",
+      "title": "Love Eyes",
+      "release_title": "Art Webb - Love Eyes",
+      "year": "1977",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1480854,
+      "rating_avg": 4.44,
+      "rating_count": 57,
+      "cover_image": "https://i.discogs.com/lGEHrAqqo4O_lavZ-MqtZdC81JpFdsvhMkievaR7HBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA4/NTQtMTIzODg4NDMz/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Webb",
+      "title": "Glass Dreams",
+      "release_title": "Art Webb - Love Eyes",
+      "year": "1977",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1480854,
+      "rating_avg": 4.44,
+      "rating_count": 57,
+      "cover_image": "https://i.discogs.com/lGEHrAqqo4O_lavZ-MqtZdC81JpFdsvhMkievaR7HBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA4/NTQtMTIzODg4NDMz/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sylvia Johns",
+      "title": "Scott Joplin Melody",
+      "release_title": "Sylvia Johns - Sylvia Johns Live",
+      "year": "1978",
+      "label": "SJP Records",
+      "country": "US",
+      "discogs_id": 10486019,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/PU981Qroexn29Fh93joHdDZZ3ujXHDeX8tsZb0-As54/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg2/MDE5LTE0OTg0MjM5/MjgtMzc0OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Webb",
+      "title": "Pyramids",
+      "release_title": "Art Webb - Love Eyes",
+      "year": "1977",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1480854,
+      "rating_avg": 4.44,
+      "rating_count": 57,
+      "cover_image": "https://i.discogs.com/lGEHrAqqo4O_lavZ-MqtZdC81JpFdsvhMkievaR7HBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA4/NTQtMTIzODg4NDMz/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Idris Muhammad",
+      "title": "Crab Apple (Part I)",
+      "release_title": "Idris Muhammad - Turn This Mutha Out",
+      "year": "1977",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 13327702,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xSiW2UXRseoBFDU5KzviKGWBet7j5TVvraP38cmKuUI/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI3/NzAyLTE1NTIxNTU5/NDMtNTUxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Longines Symphonette",
+      "title": "Medley: Brother, Can You Spare A Dime / Laugh, Clown, Laugh / That Old Feeling",
+      "release_title": "The Longines Symphonette - The Hard-Time '30s ",
+      "year": "1974",
+      "label": "Longines Symphonette Society",
+      "country": "US",
+      "discogs_id": 5682514,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/84dOaiDj9ol11gA-UGebpxCq25tkNvod1B5Yg4Z5kBQ/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODI1/MTQtMTY4OTc4Njkx/Ny00Mzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "Feelings",
+      "release_title": "\"Groove\" Holmes* - Shippin' Out",
+      "year": "1978",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 3178422,
+      "rating_avg": 4.05,
+      "rating_count": 21,
+      "cover_image": "https://i.discogs.com/Ul4L62i73UzW8sltY6rqLO0xiYh0hOwcl7UKQt3eKJc/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzg0/MjItMTMzNjI3Njg5/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo",
+      "title": "The Beat Goes On",
+      "release_title": "Gabor Szabo - The Sorcerer",
+      "year": "1968",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 33588771,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eDTlDWR-lKhB2gAQBNafTZuCBEKVXNxk_ow_uPFkF4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg4/NzcxLTE3NDM2NDkz/NjctODE3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Skitch Henderson & Burt Bacharach",
+      "title": "GS 355",
+      "release_title": "Skitch Henderson, Burt Bacharach - Guard Session With Host Skitch Henderson Guest Artist Burt Bacharach",
+      "year": "1968",
+      "label": "Guard Session",
+      "country": "US",
+      "discogs_id": 14119876,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/riKtLsZ9x4xq7c4Oe8nMxKXCiHd4toZJ_Hq_uJt5DZY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/ODc2LTE1NjgyMTI2/NzUtNzYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chip Davis",
+      "title": "Auld Lang Syne",
+      "release_title": "Chip Davis - Impressions",
+      "year": "1993",
+      "label": "American Gramaphone Records",
+      "country": "US",
+      "discogs_id": 31411787,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/viP8wHxW5O4g0hX9EvTZZVkBn8lkn_lO9rSdb9FxN-M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDEx/Nzg3LTE3MjM0MjI4/MDEtODEyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herbie Mann",
+      "title": "Respect Yourself",
+      "release_title": "Herbie Mann - Respect Yourself",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12739796,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/G5fGRU02N9Z-ZCpgEYQQvpQt_f4UKZAY1rd4Qu6aGJU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM5/Nzk2LTE1NDEwNDY1/MTctNzE1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eric Scortia",
+      "title": "Killer Joe",
+      "release_title": "Eric \"Scorch\" Scortia* - A Night On The Town",
+      "year": "1993",
+      "label": "ESP Special Projects",
+      "country": "US",
+      "discogs_id": 8916302,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ou2x_4no-8bHPTBz0cQLLacsyZuRFUZjFtK8NW5hOPo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTYz/MDItMTUzMDcyNzU5/Ny0yNzg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Longines Symphonette",
+      "title": "Body And Soul",
+      "release_title": "The Longines Symphonette - The Hard-Time '30s ",
+      "year": "1974",
+      "label": "Longines Symphonette Society",
+      "country": "US",
+      "discogs_id": 5682514,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/84dOaiDj9ol11gA-UGebpxCq25tkNvod1B5Yg4Z5kBQ/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODI1/MTQtMTY4OTc4Njkx/Ny00Mzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo",
+      "title": "Lou-ise",
+      "release_title": "Gabor Szabo - The Sorcerer",
+      "year": "1968",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 33588771,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eDTlDWR-lKhB2gAQBNafTZuCBEKVXNxk_ow_uPFkF4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg4/NzcxLTE3NDM2NDkz/NjctODE3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chip Davis",
+      "title": "The Bird And The Bee",
+      "release_title": "Chip Davis - Impressions",
+      "year": "1993",
+      "label": "American Gramaphone Records",
+      "country": "US",
+      "discogs_id": 31411787,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/viP8wHxW5O4g0hX9EvTZZVkBn8lkn_lO9rSdb9FxN-M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDEx/Nzg3LTE3MjM0MjI4/MDEtODEyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Miss Thing",
+      "release_title": "Hubert Laws - The Laws Of Jazz",
+      "year": "1981",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 32227989,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CCaVoyVPnR8JOhp_QVLwnCHqZ95abdb4QVkYm5BuRB0/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjI3/OTg5LTE3MzEwNDY3/MzYtMjQ3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Black Renaissance & GB",
+      "title": "Magic Ritual (GB Remix)",
+      "release_title": "Black Renaissance Featuring GB - Luv N' Haight Edit Series Vol. 4",
+      "year": "2013",
+      "label": "Ubiquity",
+      "country": "US",
+      "discogs_id": 4377776,
+      "rating_avg": 4.64,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/OSaCirwngzphcZi55l13iAZVhkPNTFs8kjRYSTJnA5Y/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzc3/NzYtMTUyNDMwNjE4/Ni0yNzE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Reuben Wilson",
+      "title": "Never Can Say Goodbye",
+      "release_title": "Reuben Wilson - The Sweet Life",
+      "year": "1972",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 639043,
+      "rating_avg": 4.4,
+      "rating_count": 47,
+      "cover_image": "https://i.discogs.com/Qi9yX1jK31lWS-W3AfH9ZmWxgU8raHxr2Wn7r2H3WpQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTA0/My0xNzQ0NjUyNzk2/LTMwNzYuanBlZw.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "All Soul",
+      "release_title": "Hubert Laws - The Laws Of Jazz",
+      "year": "1981",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 32227989,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CCaVoyVPnR8JOhp_QVLwnCHqZ95abdb4QVkYm5BuRB0/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjI3/OTg5LTE3MzEwNDY3/MzYtMjQ3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Skitch Henderson & Burt Bacharach",
+      "title": "GS 356",
+      "release_title": "Skitch Henderson, Burt Bacharach - Guard Session With Host Skitch Henderson Guest Artist Burt Bacharach",
+      "year": "1968",
+      "label": "Guard Session",
+      "country": "US",
+      "discogs_id": 14119876,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/riKtLsZ9x4xq7c4Oe8nMxKXCiHd4toZJ_Hq_uJt5DZY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/ODc2LTE1NjgyMTI2/NzUtNzYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Bessie's Blues",
+      "release_title": "Hubert Laws - The Laws Of Jazz",
+      "year": "1981",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 32227989,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CCaVoyVPnR8JOhp_QVLwnCHqZ95abdb4QVkYm5BuRB0/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjI3/OTg5LTE3MzEwNDY3/MzYtMjQ3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nadine Jansen Trio",
+      "title": "On Green Dolphin Street",
+      "release_title": "Nadine Jansen Trio - Nadine Jansen Trio Plays 9 Live Ones From The Fat Cat",
+      "year": "1968",
+      "label": "Jantone Records",
+      "country": "US",
+      "discogs_id": 6573502,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/6vKIkyJY9qynNr6e1g_B67K5YNSWIS64MACzw0TkaRI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzM1/MDItMTQ0MTU5Nzg3/NC04MzkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "The Juggler",
+      "release_title": "Billy Cobham - Picture This",
+      "year": "1987",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 22490393,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/djf29j-GIP8ei6m8bgsU9byJLcd55eI3AtrDQRQjROE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkw/MzkzLTE2NDcxMzU0/NDEtODQxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eric Scortia",
+      "title": "Mail Order",
+      "release_title": "Eric \"Scorch\" Scortia* - A Night On The Town",
+      "year": "1993",
+      "label": "ESP Special Projects",
+      "country": "US",
+      "discogs_id": 8916302,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ou2x_4no-8bHPTBz0cQLLacsyZuRFUZjFtK8NW5hOPo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTYz/MDItMTUzMDcyNzU5/Ny0yNzg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nadine Jansen Trio",
+      "title": "Until It's Time For You To Go",
+      "release_title": "Nadine Jansen Trio - Nadine Jansen Trio Plays 9 Live Ones From The Fat Cat",
+      "year": "1968",
+      "label": "Jantone Records",
+      "country": "US",
+      "discogs_id": 6573502,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/6vKIkyJY9qynNr6e1g_B67K5YNSWIS64MACzw0TkaRI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzM1/MDItMTQ0MTU5Nzg3/NC04MzkyLmpwZWc.jpeg"
+    }
+  ]
+}
