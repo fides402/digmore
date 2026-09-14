@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 6,
+      "artists_found": 6,
+      "fresh_lookups": 0,
+      "styles_considered": 40
+    }
+  },
+  "results": [
+    {
+      "artist": "Billy Cobham",
+      "title": "A. The Foundation (\"Isisekelo Zulu\")",
+      "release_title": "Billy Cobham - Power Play",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 32167812,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/sx7uhTiNdj7mutX-S5QG_FIEckLk2iNhHRReVs-D6qA/rs:fit/g:sm/q:90/h:600/w:387/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTY3/ODEyLTE3MzA0NzM4/NzQtNTMyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nick Colionne",
+      "title": "This Is The Song",
+      "release_title": "Nick Colionne - Keepin' It Cool",
+      "year": "2006",
+      "label": "Narada Jazz",
+      "country": "US",
+      "discogs_id": 12440415,
+      "rating_avg": 4.71,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/LixTIIgkXgkU08JoQ1cpfhDMZSbdBzKJSJ8zujq3D6k/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQw/NDE1LTE1MzUzMjg2/ODItNDkxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Duduka Da Fonseca",
+      "title": "Bala Com Bala",
+      "release_title": "Duduka Da Fonseca - Samba Jazz Fantasia",
+      "year": "2008",
+      "label": "Anzic Records",
+      "country": "US",
+      "discogs_id": 9931846,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/a0hKKHiW2BiTDer0wdEojV45N2k7FAoRznXMMsPXU6k/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzE4/NDYtMTU0NjM4NTgx/NS02NTYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sofia Laiti",
+      "title": "Desafinado",
+      "release_title": "Sofia Laiti - You Don't Know Me",
+      "year": "2004",
+      "label": "Midnight Sun Music Productions",
+      "country": "US",
+      "discogs_id": 12934081,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/n9dMnEneuborUtGz5rrtnWzD6LacvKPb-aaHLsIwMmQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM0/MDgxLTE1NDQ4MzEw/ODAtNDk3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Weckl",
+      "title": "Auratune",
+      "release_title": "Dave Weckl - Master Plan",
+      "year": "1990",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 22000285,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wd5mrLpx8IGl7u0khfm139Yv86wQ6eG1mnGWnnWxYjQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDAw/Mjg1LTE2NDM4MzU1/ODAtNDMwMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Elements",
+      "title": "Underwater",
+      "release_title": "Elements (6) - Liberal Arts",
+      "year": "1989",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 3251593,
+      "rating_avg": 4.0,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/H9xkemgFHN12Jf5OYDOfjr-o3uT74fX9YJujarRdTF0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE1/OTMtMTMyMjQxMDM5/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Erickson",
+      "title": "Ocean Breeze",
+      "release_title": "Dave Erickson Project* - City Nights",
+      "year": "2015",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 33036540,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AYc39SpBII5czJPDVAOsfGILxoI4NF2WNkMbt6NRvaE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM2/NTQwLTE3Mzg2MDA2/OTgtNjYxNi5wbmc.jpeg"
+    },
+    {
+      "artist": "Antonio Carlos Jobim",
+      "title": "Surfboard",
+      "release_title": "Antonio Carlos Jobim - A Certain Mr. Jobim",
+      "year": "1986",
+      "label": "Discovery Records",
+      "country": "US",
+      "discogs_id": 5349917,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ot7M1seYOzYGbxrnYvY8QFnNZ4o8JuB61j4LIRlhD_U/rs:fit/g:sm/q:90/h:503/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MTctMTM5MTE5OTIw/Ny0xMzgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Benoit",
+      "title": "Kathy's Waltz",
+      "release_title": "David Benoit - Letter To Evan",
+      "year": "1992",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 34795643,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6nKEQCJyR_rGDOeSn1FmUL4s8cQMLdLovuDz-MWdYpE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzk1/NjQzLTE3ODA4Njk4/NTUtODk3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Erickson",
+      "title": "Easy Does It",
+      "release_title": "Dave Erickson Project* - City Nights",
+      "year": "2015",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 33036540,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AYc39SpBII5czJPDVAOsfGILxoI4NF2WNkMbt6NRvaE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM2/NTQwLTE3Mzg2MDA2/OTgtNjYxNi5wbmc.jpeg"
+    },
+    {
+      "artist": "Nick Colionne",
+      "title": "A Moment With You",
+      "release_title": "Nick Colionne - Keepin' It Cool",
+      "year": "2006",
+      "label": "Narada Jazz",
+      "country": "US",
+      "discogs_id": 12440415,
+      "rating_avg": 4.71,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/LixTIIgkXgkU08JoQ1cpfhDMZSbdBzKJSJ8zujq3D6k/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQw/NDE1LTE1MzUzMjg2/ODItNDkxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Duduka Da Fonseca",
+      "title": "Manhattan Style",
+      "release_title": "Duduka Da Fonseca - Samba Jazz Fantasia",
+      "year": "2008",
+      "label": "Anzic Records",
+      "country": "US",
+      "discogs_id": 9931846,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/a0hKKHiW2BiTDer0wdEojV45N2k7FAoRznXMMsPXU6k/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzE4/NDYtMTU0NjM4NTgx/NS02NTYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Henderson",
+      "title": "Amoeba",
+      "release_title": "Joe Henderson - Black Narcissus",
+      "year": "1977",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 24529571,
+      "rating_avg": 4.91,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/2057Gvf9Qiu62vJM0Y7Vpe9MgVcfvy2kvmUbA4r6jeI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTI5/NTcxLTE2ODUxMTcw/NTgtNjYwMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Erickson",
+      "title": "After The Rain",
+      "release_title": "Dave Erickson Project* - City Nights",
+      "year": "2015",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 33036540,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AYc39SpBII5czJPDVAOsfGILxoI4NF2WNkMbt6NRvaE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM2/NTQwLTE3Mzg2MDA2/OTgtNjYxNi5wbmc.jpeg"
+    },
+    {
+      "artist": "Caetano Veloso & David Byrne",
+      "title": "(Nothing But) Flowers",
+      "release_title": "Caetano Veloso And David Byrne - Live At Carnegie Hall",
+      "year": "2012",
+      "label": "Nonesuch",
+      "country": "US",
+      "discogs_id": 3984421,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/5CuEwq8N8_6Xg2pWr6Q2bfNHh0TL7kmXJS-PIo5u3II/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODQ0/MjEtMTc1Njk4NzA2/OS04NTcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Windows",
+      "release_title": "Hubert Laws - Carnegie Hall",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 12525023,
+      "rating_avg": 4.0,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/QrqFwPHxWF0fNK_BijDMmNDvebaZNZmoVIgWXJfRDSk/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI1/MDIzLTE1MzY5Njcy/MTktMTc5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Carlos Jobim",
+      "title": "Don't Ever Go Away (Por Causa De Você)",
+      "release_title": "Antonio Carlos Jobim - A Certain Mr. Jobim",
+      "year": "1986",
+      "label": "Discovery Records",
+      "country": "US",
+      "discogs_id": 5349917,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ot7M1seYOzYGbxrnYvY8QFnNZ4o8JuB61j4LIRlhD_U/rs:fit/g:sm/q:90/h:503/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDk5/MTctMTM5MTE5OTIw/Ny0xMzgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Vera Cruz",
+      "release_title": "Various - Bossa Nova",
+      "year": "1997",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 8786016,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RK_f5b6vVEiQE-4viC5PQ0ETM2mw2tBy7cB9GPUIfVA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODYw/MTYtMTQ2ODc0Mzc4/Ny02ODM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Benoit",
+      "title": "The Island",
+      "release_title": "David Benoit - Letter To Evan",
+      "year": "1992",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 34795643,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6nKEQCJyR_rGDOeSn1FmUL4s8cQMLdLovuDz-MWdYpE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzk1/NjQzLTE3ODA4Njk4/NTUtODk3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Henderson",
+      "title": "The Other Side Of Right",
+      "release_title": "Joe Henderson - Black Narcissus",
+      "year": "1977",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 24529571,
+      "rating_avg": 4.91,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/2057Gvf9Qiu62vJM0Y7Vpe9MgVcfvy2kvmUbA4r6jeI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTI5/NTcxLTE2ODUxMTcw/NTgtNjYwMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Caetano Veloso & David Byrne",
+      "title": "Desde Que O Samba É Samba",
+      "release_title": "Caetano Veloso And David Byrne - Live At Carnegie Hall",
+      "year": "2012",
+      "label": "Nonesuch",
+      "country": "US",
+      "discogs_id": 3984421,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/5CuEwq8N8_6Xg2pWr6Q2bfNHh0TL7kmXJS-PIo5u3II/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODQ0/MjEtMTc1Njk4NzA2/OS04NTcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Milky Way",
+      "release_title": "Weather Report - Weather Report",
+      "year": "1971",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 24524330,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PCnJCmKmcZVZ5hMJ2kcDYdi9inAMQ1_6BqQfsQL6_E8/rs:fit/g:sm/q:90/h:600/w:476/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTI0/MzMwLTE2NjMyNjM0/MzYtNDE1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sofia Laiti",
+      "title": "What A Little Moonlight Can Do",
+      "release_title": "Sofia Laiti - You Don't Know Me",
+      "year": "2004",
+      "label": "Midnight Sun Music Productions",
+      "country": "US",
+      "discogs_id": 12934081,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/n9dMnEneuborUtGz5rrtnWzD6LacvKPb-aaHLsIwMmQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM0/MDgxLTE1NDQ4MzEw/ODAtNDk3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Elements",
+      "title": "Liberal Arts - Extended Version",
+      "release_title": "Elements (6) - Liberal Arts",
+      "year": "1989",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 3251593,
+      "rating_avg": 4.0,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/H9xkemgFHN12Jf5OYDOfjr-o3uT74fX9YJujarRdTF0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE1/OTMtMTMyMjQxMDM5/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Love Note",
+      "release_title": "Chuck Mangione - Love Notes",
+      "year": "1982",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 22667582,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nRgBn23qfNhv38B2GU1zdVMLIqwlhC41np5GonEGucI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY3/NTgyLTE2NDg0MTEz/MDAtOTIzMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Fire And Rain",
+      "release_title": "Hubert Laws - Carnegie Hall",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 12525023,
+      "rating_avg": 4.0,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/QrqFwPHxWF0fNK_BijDMmNDvebaZNZmoVIgWXJfRDSk/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI1/MDIzLTE1MzY5Njcy/MTktMTc5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Elements",
+      "title": "Amber Linn",
+      "release_title": "Elements (6) - Liberal Arts",
+      "year": "1989",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 3251593,
+      "rating_avg": 4.0,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/H9xkemgFHN12Jf5OYDOfjr-o3uT74fX9YJujarRdTF0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE1/OTMtMTMyMjQxMDM5/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charlie Byrd",
+      "title": "Dindi",
+      "release_title": "Various - Bossa Nova",
+      "year": "1997",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 8786016,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RK_f5b6vVEiQE-4viC5PQ0ETM2mw2tBy7cB9GPUIfVA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODYw/MTYtMTQ2ODc0Mzc4/Ny02ODM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "To The 80's",
+      "release_title": "Chuck Mangione - Love Notes",
+      "year": "1982",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 22667582,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nRgBn23qfNhv38B2GU1zdVMLIqwlhC41np5GonEGucI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY3/NTgyLTE2NDg0MTEz/MDAtOTIzMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nick Colionne",
+      "title": "If You Ask Me",
+      "release_title": "Nick Colionne - Keepin' It Cool",
+      "year": "2006",
+      "label": "Narada Jazz",
+      "country": "US",
+      "discogs_id": 12440415,
+      "rating_avg": 4.71,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/LixTIIgkXgkU08JoQ1cpfhDMZSbdBzKJSJ8zujq3D6k/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQw/NDE1LTE1MzUzMjg2/ODItNDkxNy5qcGVn.jpeg"
+    }
+  ]
+}
