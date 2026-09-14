@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1963,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 2,
+      "styles_considered": 104
+    }
+  },
+  "results": [
+    {
+      "artist": "Tommy Tedesco",
+      "title": "Hankerin' With Hank",
+      "release_title": "Tommy Tedesco - Alone At Last",
+      "year": "1979",
+      "label": "Trend",
+      "country": "US",
+      "discogs_id": 5695626,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/yoYV4huNGkaVoaovb_aTCFfah6yj1fkoqNwN5wdtH1Y/rs:fit/g:sm/q:90/h:226/w:223/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjYtMTQwMDE2ODA5/Ny0xODc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Brother Ed",
+      "release_title": "Eddie Harris - Cool Sax Warm Heart",
+      "year": "1964",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 31261171,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RNM7oO1nsWNsx5AB97Fl1WE6FNuSKxnBaiYqo4kBAfc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjYx/MTcxLTE3MjEzNzc2/MzItNzA0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Manteca",
+      "release_title": "Cal Tjader - Soul Burst",
+      "year": "1966",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 27049656,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/r732F-3jakSSlhToTAkE-esN0lLKaTVyOHL5Xd9fTe8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDQ5/NjU2LTE2ODM4NDI3/OTQtODUzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Recuerdo",
+      "release_title": "Chuck Mangione - 70 Miles Young",
+      "year": "1982",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20563699,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/br-d53co6Et2tnCGl5CQvSbK5CuAxmt6T8fjazHXgKE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYz/Njk5LTE2MzQwNTEz/MzUtODA3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Exotic Guitars",
+      "title": "Galveston",
+      "release_title": "The Exotic Guitars - Holly Holy",
+      "year": "1970",
+      "label": "Ranwood",
+      "country": "US",
+      "discogs_id": 26174033,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rLw3sYU3webKhpB6Nl64jChswT9-JtdIrMMKcxc3hTc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc0/MDMzLTE2NzY5NTM4/MjYtNTUzOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Doug Smith",
+      "title": "White Christmas",
+      "release_title": "Doug Smith (45) - A Special Gift",
+      "year": "1992",
+      "label": "Doug Smith Music",
+      "country": "US",
+      "discogs_id": 24924476,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/96l7ikQFz4CMTQxu-10mChz0jgO99W5k182frqAhxyc/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI0/NDc2LTE2NjY1NzIx/OTAtNzg3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Donald Byrd",
+      "title": "Slop Jar Blues",
+      "release_title": "Donald Byrd - Black Byrd",
+      "year": "1977",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 10912853,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/lrVvz6CYitW4OOoeRrcb8iXB5-LQgsQ-H9Dv_yWtk7g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEy/ODUzLTE1NDI4OTQ1/NjctOTY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Webb",
+      "title": "Free",
+      "release_title": "Art Webb - Love Eyes",
+      "year": "1977",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 17135688,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/whwvil86MspRorX0ZqvNrbCXgjAePcocZ2uGquuMueQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTM1/Njg4LTE2ODI1Nzgy/ODAtNzQ5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Donald Byrd",
+      "title": "Where Are We Going?",
+      "release_title": "Donald Byrd - Black Byrd",
+      "year": "1977",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 10912853,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/lrVvz6CYitW4OOoeRrcb8iXB5-LQgsQ-H9Dv_yWtk7g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEy/ODUzLTE1NDI4OTQ1/NjctOTY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tommy Tedesco",
+      "title": "Zambah",
+      "release_title": "Tommy Tedesco - Alone At Last",
+      "year": "1979",
+      "label": "Trend",
+      "country": "US",
+      "discogs_id": 5695626,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/yoYV4huNGkaVoaovb_aTCFfah6yj1fkoqNwN5wdtH1Y/rs:fit/g:sm/q:90/h:226/w:223/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjYtMTQwMDE2ODA5/Ny0xODc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chico O'Farrill",
+      "title": "All Stops",
+      "release_title": "Chico O'Farrill - Super Chops (The Big Band Of Chico O'Farrill)",
+      "year": "2008",
+      "label": "Versatile",
+      "country": "US",
+      "discogs_id": 10897051,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZrffwJSv1m4pA9-pitZgNhGNgiU_qq0gOrNk07cm6ok/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk3/MDUxLTE1NzU4MDE4/NjYtNzU5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "It Didn't End (Nao Se Acabou)",
+      "release_title": "Cal Tjader - Soul Burst",
+      "year": "1966",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 27049656,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/r732F-3jakSSlhToTAkE-esN0lLKaTVyOHL5Xd9fTe8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDQ5/NjU2LTE2ODM4NDI3/OTQtODUzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Doug Smith",
+      "title": "Faith",
+      "release_title": "Doug Smith (45) - A Special Gift",
+      "year": "1992",
+      "label": "Doug Smith Music",
+      "country": "US",
+      "discogs_id": 24924476,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/96l7ikQFz4CMTQxu-10mChz0jgO99W5k182frqAhxyc/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI0/NDc2LTE2NjY1NzIx/OTAtNzg3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Feels So Good (Vocal)",
+      "release_title": "Chuck Mangione - 70 Miles Young",
+      "year": "1982",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20563699,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/br-d53co6Et2tnCGl5CQvSbK5CuAxmt6T8fjazHXgKE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYz/Njk5LTE2MzQwNTEz/MzUtODA3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Chicago Serenade",
+      "release_title": "Eddie Harris - Cool Sax Warm Heart",
+      "year": "1964",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 31261171,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RNM7oO1nsWNsx5AB97Fl1WE6FNuSKxnBaiYqo4kBAfc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjYx/MTcxLTE3MjEzNzc2/MzItNzA0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "Untitled",
+      "release_title": "Unknown Artist - Matching Christmas Library",
+      "year": "1967",
+      "label": "Seeburg",
+      "country": "US",
+      "discogs_id": 37031772,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/RDf5yVHP-47etxzX8jgOeqPRSs9-Sjw3a3RPxa2os4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDMx/NzcyLTE3NzU4NTY3/NTgtOTQ5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Lullaby For Nancy Carol",
+      "release_title": "Chuck Mangione - 70 Miles Young",
+      "year": "1982",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20563699,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/br-d53co6Et2tnCGl5CQvSbK5CuAxmt6T8fjazHXgKE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYz/Njk5LTE2MzQwNTEz/MzUtODA3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Fooltish",
+      "release_title": "Eddie Harris - Why Don't You Quit / Foolish",
+      "year": "1970",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 35425732,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/djHIch_bEwK0X984I7jAimf49s9WaUv3CEMquW5wDiw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDI1/NzMyLTE3NjA5NTIy/OTktNTg0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Cannonball Run Theme",
+      "release_title": "Chuck Mangione - 70 Miles Young",
+      "year": "1982",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20563699,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/br-d53co6Et2tnCGl5CQvSbK5CuAxmt6T8fjazHXgKE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYz/Njk5LTE2MzQwNTEz/MzUtODA3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bud Shank",
+      "title": "Solitary Man",
+      "release_title": "Bud Shank - Girl In Love",
+      "year": "1966",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 7936462,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/Nzk9rD_bbPcnlV7ADqGqQiGtGU8uxoJT6bP1GAbstRM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzY0/NjItMTQ1MTk5ODg5/OS03MjI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bud Shank",
+      "title": "Everybody Loves Somebody Sometime",
+      "release_title": "Bud Shank - Girl In Love",
+      "year": "1966",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 7936462,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/Nzk9rD_bbPcnlV7ADqGqQiGtGU8uxoJT6bP1GAbstRM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzY0/NjItMTQ1MTk5ODg5/OS03MjI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Morning Dance",
+      "release_title": "Spyro Gyra - Morning Dance",
+      "year": "1979",
+      "label": "Infinity Records",
+      "country": "US",
+      "discogs_id": 12654295,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/yuJ8MwQLgicAyTzrNxK7Aq3NIb1PS7-Y8MaHGpLdqz4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/Mjk1LTE2MDg4MzA0/NjItMTkzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Donald Byrd",
+      "title": "Flight Time",
+      "release_title": "Donald Byrd - Black Byrd",
+      "year": "1977",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 10912853,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/lrVvz6CYitW4OOoeRrcb8iXB5-LQgsQ-H9Dv_yWtk7g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEy/ODUzLTE1NDI4OTQ1/NjctOTY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tommy Tedesco",
+      "title": "Autumn Is Here",
+      "release_title": "Tommy Tedesco - Alone At Last",
+      "year": "1979",
+      "label": "Trend",
+      "country": "US",
+      "discogs_id": 5695626,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/yoYV4huNGkaVoaovb_aTCFfah6yj1fkoqNwN5wdtH1Y/rs:fit/g:sm/q:90/h:226/w:223/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MjYtMTQwMDE2ODA5/Ny0xODc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Doug Smith",
+      "title": "Silent Night / Silver Bells",
+      "release_title": "Doug Smith (45) - A Special Gift",
+      "year": "1992",
+      "label": "Doug Smith Music",
+      "country": "US",
+      "discogs_id": 24924476,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/96l7ikQFz4CMTQxu-10mChz0jgO99W5k182frqAhxyc/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI0/NDc2LTE2NjY1NzIx/OTAtNzg3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Doug Smith",
+      "title": "The Christmas Song",
+      "release_title": "Doug Smith (45) - A Special Gift",
+      "year": "1992",
+      "label": "Doug Smith Music",
+      "country": "US",
+      "discogs_id": 24924476,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/96l7ikQFz4CMTQxu-10mChz0jgO99W5k182frqAhxyc/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI0/NDc2LTE2NjY1NzIx/OTAtNzg3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "title": "(It's Just) Talk (Special Version)",
+      "release_title": "Pat Metheny Group - (It's Just) Talk /So May It Secretly Begin",
+      "year": "1987",
+      "label": "Geffen Records",
+      "country": "US",
+      "discogs_id": 6144547,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/tr9a943sSBlKJnCFlDD4hl2jCkXQEU1jFRCZgsub5-4/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDQ1/NDctMTQ3ODU5NTM1/Ny00OTA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "My Ship",
+      "release_title": "Cal Tjader - Soul Burst",
+      "year": "1966",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 27049656,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/r732F-3jakSSlhToTAkE-esN0lLKaTVyOHL5Xd9fTe8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDQ5/NjU2LTE2ODM4NDI3/OTQtODUzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Exotic Guitars",
+      "title": "Holly Holy",
+      "release_title": "The Exotic Guitars - Holly Holy",
+      "year": "1970",
+      "label": "Ranwood",
+      "country": "US",
+      "discogs_id": 26174033,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rLw3sYU3webKhpB6Nl64jChswT9-JtdIrMMKcxc3hTc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc0/MDMzLTE2NzY5NTM4/MjYtNTUzOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Stum Stang",
+      "release_title": "Eddie Harris - Cool Sax Warm Heart",
+      "year": "1964",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 31261171,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RNM7oO1nsWNsx5AB97Fl1WE6FNuSKxnBaiYqo4kBAfc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjYx/MTcxLTE3MjEzNzc2/MzItNzA0MC5qcGVn.jpeg"
+    }
+  ]
+}

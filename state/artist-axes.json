@@ -1,4 +1,433 @@
 {
+ "50 guitars of tommy garrett": {
+  "countries": [
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "France",
+   "UK",
+   "New Zealand",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "Brazil",
+   "US",
+   "Taiwan",
+   "Colombia",
+   "Panama",
+   "Yugoslavia",
+   "US",
+   "Canada",
+   "UK",
+   "France",
+   "South Africa",
+   "US",
+   "US",
+   "Canada"
+  ],
+  "genres": [
+   "Jazz",
+   "Folk, World, & Country",
+   "Jazz",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Jazz",
+   "Pop",
+   "Folk, World, & Country",
+   "Latin",
+   "Pop",
+   "Latin",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Hawaiian",
+    "Jazz"
+   ],
+   [
+    "Hawaiian",
+    "Folk, World, & Country"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Folk, World, & Country"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Jazz"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Latin"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Folk, World, & Country"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Rock"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Folk, World, & Country"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Latin"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Latin"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Latin"
+   ],
+   [
+    "Easy Listening",
+    "Folk, World, & Country"
+   ],
+   [
+    "Afro-Cuban",
+    "Latin"
+   ],
+   [
+    "Bolero",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Easy Listening",
+    "Rock"
+   ],
+   [
+    "Easy Listening",
+    "Pop"
+   ],
+   [
+    "Easy Listening",
+    "Folk, World, & Country"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Space-Age",
+   "Latin Jazz",
+   "Hawaiian",
+   "Easy Listening",
+   "Easy Listening",
+   "Space-Age",
+   "Space-Age",
+   "Latin Jazz",
+   "Bossa Nova",
+   "Samba",
+   "Contemporary Jazz",
+   "Space-Age",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Easy Listening",
+   "Pop Rock",
+   "Easy Listening",
+   "Easy Listening",
+   "Afro-Cuban",
+   "Bolero",
+   "Samba",
+   "Easy Listening",
+   "Latin Jazz",
+   "Easy Listening"
+  ],
+  "years": [
+   1961,
+   1965,
+   1965,
+   1962,
+   1967,
+   1962,
+   1989,
+   2001,
+   1969,
+   1973,
+   1964,
+   1967,
+   1964,
+   1977,
+   2011,
+   1971,
+   1963,
+   1968,
+   1962,
+   1975
+  ]
+ },
+ "aaron goldberg": {
+  "countries": [
+   "USA & Canada",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "USA & Canada",
+   "USA & Canada",
+   "US",
+   "Spain",
+   "UK",
+   "USA & Europe"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 14,
+  "styles": [
+   "Contemporary Jazz",
+   "Latin Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Latin Jazz",
+   "Contemporary Jazz",
+   "Latin Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz"
+  ],
+  "years": [
+   2014,
+   2001,
+   2010,
+   1999,
+   2006,
+   2018,
+   2011,
+   2011,
+   2012,
+   2005,
+   2005,
+   2015
+  ]
+ },
  "abdullah ibrahim": {
   "countries": [
    "Germany",
