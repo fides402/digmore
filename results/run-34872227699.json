@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1966,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 0,
+      "styles_considered": 113
+    }
+  },
+  "results": [
+    {
+      "artist": "Lee Konitz & The Brazilian Band",
+      "title": "A Felicidade",
+      "release_title": "Lee Konitz & The Brazilian Band - Brazilian Rhapsody",
+      "year": "1996",
+      "label": "MusicMasters Jazz",
+      "country": "US",
+      "discogs_id": 29167198,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KGw5XpzhLaJLUa58nPgs7M-05-D7HHlvKjD8cCOeweA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTY3/MTk4LTE3MDcxODQx/ODgtNzI4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dianne Reeves",
+      "title": "Hello, (Haven't I Seen You Here Before)",
+      "release_title": "Dianne Reeves - Never Too Far",
+      "year": "1988",
+      "label": "EMI USA",
+      "country": "US",
+      "discogs_id": 34658965,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xHN_1WOJwiXgBo5XPsWUIRRamlgIXjpO1ByojGXKwdE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjU4/OTY1LTE3NTM2NDY5/NjktOTU1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "We're All Alone",
+      "release_title": "Bob James - All Around The Town",
+      "year": "1981",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 21673435,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/3LAyotmqoqEHMxjDxw9YtsQoPfEtkE1W7JosNPx5ixY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjcz/NDM1LTE2NDE4NDgw/NzItNjk3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dan Pickering",
+      "title": "Bella",
+      "release_title": "Dan Pickering - (Look Out For) Tomorrow ",
+      "year": "1981",
+      "label": "All Night Records",
+      "country": "US",
+      "discogs_id": 8980749,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ybA9nwiZUf0E-MD1lEYJAAJLHr3AjuOSXwdgrDZzHcw/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODA3/NDktMTQ3MjY4MDM1/Ny0zNjIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lee Konitz & The Brazilian Band",
+      "title": "Menina Moca",
+      "release_title": "Lee Konitz & The Brazilian Band - Brazilian Rhapsody",
+      "year": "1996",
+      "label": "MusicMasters Jazz",
+      "country": "US",
+      "discogs_id": 29167198,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KGw5XpzhLaJLUa58nPgs7M-05-D7HHlvKjD8cCOeweA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTY3/MTk4LTE3MDcxODQx/ODgtNzI4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kleber Jorge",
+      "title": "Trovador",
+      "release_title": "Kleber Jorge - Voltar Pro Rio",
+      "year": "1999",
+      "label": "Sonic Images Records",
+      "country": "US",
+      "discogs_id": 2168040,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YCrh2fAxnn31qnt3nh-vyXvsCr78wt2gwhMEZXJ7qk8/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjgw/NDAtMTI2NzY5NjM0/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Morning",
+      "release_title": "Cal Tjader - Soul Burst",
+      "year": "1966",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 27049656,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/r732F-3jakSSlhToTAkE-esN0lLKaTVyOHL5Xd9fTe8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDQ5/NjU2LTE2ODM4NDI3/OTQtODUzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dianne Reeves",
+      "title": "How Long",
+      "release_title": "Dianne Reeves - Never Too Far",
+      "year": "1988",
+      "label": "EMI USA",
+      "country": "US",
+      "discogs_id": 34658965,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xHN_1WOJwiXgBo5XPsWUIRRamlgIXjpO1ByojGXKwdE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjU4/OTY1LTE3NTM2NDY5/NjktOTU1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The 50 Guitars Of Tommy Garrett",
+      "title": "Desafinado",
+      "release_title": "The 50 Guitars Of Tommy Garrett - In A Brazilian Mood",
+      "year": "1967",
+      "label": "Liberty",
+      "country": "US",
+      "discogs_id": 3231038,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/KgmkJrIl5UNaCwHlQoAUduZOqJ_Rjd_uSnysXNubG0c/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzEw/MzgtMTQ1NTA2MjY1/Mi04NzM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John McLaughlin Trio",
+      "title": "Mila Repa",
+      "release_title": "John McLaughlin Trio - Qué Alegría",
+      "year": "1992",
+      "label": "Polydor France",
+      "country": "US",
+      "discogs_id": 21519238,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RkqDJ8L4BRLvWgMLD-Py3QkAvUpzoqenJIVLBtPOAaw/rs:fit/g:sm/q:90/h:459/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE5/MjM4LTE2NDA3MjEx/ODMtOTQ5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Oran",
+      "release_title": "Cal Tjader - Soul Burst",
+      "year": "1966",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 27049656,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/r732F-3jakSSlhToTAkE-esN0lLKaTVyOHL5Xd9fTe8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDQ5/NjU2LTE2ODM4NDI3/OTQtODUzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Sanborn",
+      "title": "Poinciana",
+      "release_title": "David Sanborn - Closer",
+      "year": "2005",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 11680609,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/gA-1modcc9NZ6-2x4FI7doYlUDdwmjbawTliY5XRx2k/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjgw/NjA5LTE1MjI0NDU5/ODgtODk5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pink Martini",
+      "title": "La Soledad",
+      "release_title": "Pink Martini - Sympathique (20th Anniversary Edition)",
+      "year": "2018",
+      "label": "Heinz Records",
+      "country": "US",
+      "discogs_id": 16214773,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/DoCOaRnE6sY3wd8Uyj6P4q3H2ksrQl90ZADeroZCgqo/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE0/NzczLTE2MDUzOTA5/MDEtMzYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Judy Roberts",
+      "title": "Common Ground",
+      "release_title": "Judy Roberts - Nights In Brazil",
+      "year": "1981",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 17357821,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5_eQfag_RTdZNqnyQ97i3Ms2pMymjKvkV3Jp1oRi_HQ/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzU3/ODIxLTE2MTMwMDQ1/NzYtNTIyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dan Pickering",
+      "title": "Regardless",
+      "release_title": "Dan Pickering - (Look Out For) Tomorrow ",
+      "year": "1981",
+      "label": "All Night Records",
+      "country": "US",
+      "discogs_id": 8980749,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ybA9nwiZUf0E-MD1lEYJAAJLHr3AjuOSXwdgrDZzHcw/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODA3/NDktMTQ3MjY4MDM1/Ny0zNjIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Steve Swallow",
+      "title": "Fred And Ethel",
+      "release_title": "Steve Swallow - Carla",
+      "year": "1987",
+      "label": "XtraWATT",
+      "country": "US",
+      "discogs_id": 2826823,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/Ap583a06geDJ-KGGTveUnkMHa7tJOr4m8XkTGmGIp9M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjY4/MjMtMTYzMzI4MDk2/MC04NzYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lee Konitz & The Brazilian Band",
+      "title": "Insensatez",
+      "release_title": "Lee Konitz & The Brazilian Band - Brazilian Rhapsody",
+      "year": "1996",
+      "label": "MusicMasters Jazz",
+      "country": "US",
+      "discogs_id": 29167198,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KGw5XpzhLaJLUa58nPgs7M-05-D7HHlvKjD8cCOeweA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTY3/MTk4LTE3MDcxODQx/ODgtNzI4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Judy Roberts",
+      "title": "Olé",
+      "release_title": "Judy Roberts - Nights In Brazil",
+      "year": "1981",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 17357821,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5_eQfag_RTdZNqnyQ97i3Ms2pMymjKvkV3Jp1oRi_HQ/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzU3/ODIxLTE2MTMwMDQ1/NzYtNTIyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dan Pickering",
+      "title": "After Hours",
+      "release_title": "Dan Pickering - (Look Out For) Tomorrow ",
+      "year": "1981",
+      "label": "All Night Records",
+      "country": "US",
+      "discogs_id": 8980749,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ybA9nwiZUf0E-MD1lEYJAAJLHr3AjuOSXwdgrDZzHcw/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODA3/NDktMTQ3MjY4MDM1/Ny0zNjIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The 50 Guitars Of Tommy Garrett",
+      "title": "How Insensitive",
+      "release_title": "The 50 Guitars Of Tommy Garrett - In A Brazilian Mood",
+      "year": "1967",
+      "label": "Liberty",
+      "country": "US",
+      "discogs_id": 3231038,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/KgmkJrIl5UNaCwHlQoAUduZOqJ_Rjd_uSnysXNubG0c/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzEw/MzgtMTQ1NTA2MjY1/Mi04NzM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Special EFX",
+      "title": "Uptown East",
+      "release_title": "Special EFX - Slice Of Life",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 14035460,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/lfgvBWpxgtnW--BevrcKpr2gTMpm8-Ruy1oP0fC7NFc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM1/NDYwLTE2Mzc0Njkz/NzUtNTAwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Sanborn",
+      "title": "Enchantment",
+      "release_title": "David Sanborn - Closer",
+      "year": "2005",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 11680609,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/gA-1modcc9NZ6-2x4FI7doYlUDdwmjbawTliY5XRx2k/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjgw/NjA5LTE1MjI0NDU5/ODgtODk5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "McCoy Tyner",
+      "title": "Fly With The Wind",
+      "release_title": "McCoy Tyner - Fly With The Wind",
+      "year": "1976",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 16124478,
+      "rating_avg": 4.14,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/fVJ1qCiebzIw_pPbNeZEF-43H0S8FXkeUkFJ3UsDyJc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI0/NDc4LTE2MDQxMzc3/NzctMjUzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kleber Jorge",
+      "title": "Descube Caymmi",
+      "release_title": "Kleber Jorge - Voltar Pro Rio",
+      "year": "1999",
+      "label": "Sonic Images Records",
+      "country": "US",
+      "discogs_id": 2168040,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/YCrh2fAxnn31qnt3nh-vyXvsCr78wt2gwhMEZXJ7qk8/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjgw/NDAtMTI2NzY5NjM0/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dan Pickering",
+      "title": "Flute Cocktail",
+      "release_title": "Dan Pickering - (Look Out For) Tomorrow ",
+      "year": "1981",
+      "label": "All Night Records",
+      "country": "US",
+      "discogs_id": 8980749,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ybA9nwiZUf0E-MD1lEYJAAJLHr3AjuOSXwdgrDZzHcw/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODA3/NDktMTQ3MjY4MDM1/Ny0zNjIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Sanborn",
+      "title": "Capetown Fringe",
+      "release_title": "David Sanborn - Closer",
+      "year": "2005",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 11680609,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/gA-1modcc9NZ6-2x4FI7doYlUDdwmjbawTliY5XRx2k/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjgw/NjA5LTE1MjI0NDU5/ODgtODk5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Aaron Goldberg",
+      "title": "I Mean You",
+      "release_title": "Aaron Goldberg (2) - Home",
+      "year": "2010",
+      "label": "Sunnyside",
+      "country": "US",
+      "discogs_id": 13622632,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/qqIe0jfncpM6NI0XOXxEfyylCfoMZSHtnUNL4fZqFy4/rs:fit/g:sm/q:90/h:449/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIy/NjMyLTE1NTc3MDgw/MTUtMTA1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John McLaughlin Trio",
+      "title": "3 Willows",
+      "release_title": "John McLaughlin Trio - Qué Alegría",
+      "year": "1992",
+      "label": "Polydor France",
+      "country": "US",
+      "discogs_id": 21519238,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RkqDJ8L4BRLvWgMLD-Py3QkAvUpzoqenJIVLBtPOAaw/rs:fit/g:sm/q:90/h:459/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE5/MjM4LTE2NDA3MjEx/ODMtOTQ5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Judy Roberts",
+      "title": "Two And A Half",
+      "release_title": "Judy Roberts - Nights In Brazil",
+      "year": "1981",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 17357821,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5_eQfag_RTdZNqnyQ97i3Ms2pMymjKvkV3Jp1oRi_HQ/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzU3/ODIxLTE2MTMwMDQ1/NzYtNTIyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dianne Reeves",
+      "title": "More To Love",
+      "release_title": "Dianne Reeves - Never Too Far",
+      "year": "1988",
+      "label": "EMI USA",
+      "country": "US",
+      "discogs_id": 34658965,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xHN_1WOJwiXgBo5XPsWUIRRamlgIXjpO1ByojGXKwdE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjU4/OTY1LTE3NTM2NDY5/NjktOTU1MS5qcGVn.jpeg"
+    }
+  ]
+}
