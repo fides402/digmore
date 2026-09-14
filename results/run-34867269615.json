@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1964,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 0,
+      "styles_considered": 102
+    }
+  },
+  "results": [
+    {
+      "artist": "David Pritchard",
+      "title": "Angel's Flight",
+      "release_title": "David Pritchard (2) - City Dreams",
+      "year": "1979",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2759787,
+      "rating_avg": 4.29,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/nzt7CJ4sK0M6VxEv2T2vvIixYXzNrq0xoSRgih2J8xA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk3/ODctMTc0MjQxMTM0/My03NDYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Duquesne University Jazz Ensemble",
+      "title": "Scorpio",
+      "release_title": "The Duquesne University Jazz Ensemble - The Duquesne University Jazz Ensemble",
+      "year": "1973",
+      "label": "Mark Records",
+      "country": "US",
+      "discogs_id": 6499222,
+      "rating_avg": 4.58,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/pdBC1dZ2MnzEwTV9JDA406Pg5dp2OyoSXzIaMaqcZrY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTky/MjItMTQzMTUxMzMx/OS04OTU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Knucklehead",
+      "release_title": "Grover Washington, Jr. - Feels So Good",
+      "year": "1975",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 9258956,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": ""
+    },
+    {
+      "artist": "Roy Ayers",
+      "title": "Marlon",
+      "release_title": "Roy Ayers - I'm The One (For Your Love Tonight)",
+      "year": "1987",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 805061,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/YM36-NhaaztJiJsZsybqQNjvYRLYrcnws2RAwn9gYTw/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTA2/MS0xMTYwNjMzOTY1/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mongo Santamaria",
+      "title": "Mazacote",
+      "release_title": "Various - Latin Jazz Dance Classics Volume Two",
+      "year": "1997",
+      "label": "CuBop",
+      "country": "US",
+      "discogs_id": 8397979,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cPKp147Nvj6Df2RabvzmswvUtwRLXWn8HJALC29YDwo/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTc5/NzktMTQ2MDgzMjY1/OS04NTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Degreg & Brasilia",
+      "title": "Brazilian People",
+      "release_title": "Phil DeGreg* & Brasilia (9) - Brazilian People",
+      "year": "2014",
+      "label": "Prevenient Music",
+      "country": "US",
+      "discogs_id": 15854359,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CFRpmk4MzdF74piSNv2PNcDueE_U1rpXHU3azysS2BI/rs:fit/g:sm/q:90/h:504/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU0/MzU5LTE1OTkwMjI1/NTQtMTU1Ni5wbmc.jpeg"
+    },
+    {
+      "artist": "Tim Weisberg",
+      "title": "Street Party",
+      "release_title": "Tim Weisberg - Listen To The City",
+      "year": "1975",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 11108436,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PzM0S798Q9tijmCOjhQMeD77nTA9d2PS4pm8-OlX8wk/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA4/NDM2LTE1MTAxNTc4/NDItNjc1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roy Ayers",
+      "title": "I Once Had Your Love (And I Can't Let Go)",
+      "release_title": "Roy Ayers - I'm The One (For Your Love Tonight)",
+      "year": "1987",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 805061,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/YM36-NhaaztJiJsZsybqQNjvYRLYrcnws2RAwn9gYTw/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTA2/MS0xMTYwNjMzOTY1/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Monk Higgins",
+      "title": "Vee Pea",
+      "release_title": "Monk Higgins - Vee Pea / MacArthur Park",
+      "year": "1968",
+      "label": "Dunhill",
+      "country": "US",
+      "discogs_id": 5318547,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/SohmaTIltAjdeGdPt7GWnbfFpnDQ97NfNGHJjo43Mp0/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTg1/NDctMTM5MDQxODcy/OC0xMDgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Lights Out",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 1359490,
+      "rating_avg": 4.09,
+      "rating_count": 118,
+      "cover_image": "https://i.discogs.com/YDpomuyGUJfvaHuWiaWUymkymMCWobf1TTuq7S9-ViQ/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk0/OTAtMTIxMjY4MTgw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Nardis",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 5303169,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/rGBfUDhx1HRrbeyplgZFLllh_DGC3SnW9QOWzEXGvpM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDMx/NjktMTY0OTU3ODA1/MS04MDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Laia Ladaia (Reza)",
+      "release_title": "Sérgio Mendes & Brasil '66 - Fool On The Hill",
+      "year": "1968",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 4132271,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/VNOE3dBqMDoAYJi0MCg9NkdgmGw6lGaL7YOjxtcqlVU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzIy/NzEtMTM1NjM2MzEz/My03OTgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Lapinha",
+      "release_title": "Sérgio Mendes & Brasil '66 - Fool On The Hill",
+      "year": "1968",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 4132271,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/VNOE3dBqMDoAYJi0MCg9NkdgmGw6lGaL7YOjxtcqlVU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzIy/NzEtMTM1NjM2MzEz/My03OTgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roy Ayers",
+      "title": "Don't You Ever Turn Away",
+      "release_title": "Roy Ayers - I'm The One (For Your Love Tonight)",
+      "year": "1987",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 805061,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/YM36-NhaaztJiJsZsybqQNjvYRLYrcnws2RAwn9gYTw/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTA2/MS0xMTYwNjMzOTY1/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eumir Deodato",
+      "title": "Skyscrapers",
+      "release_title": "Deodato* - Deodato 2",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 9044973,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rhwXum3MI9TDQCJYhv-a3MnPFzcMo-vQvBfrXj697j0/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDQ5/NzMtMTQ3Mzg5NTIz/OC03NTgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dewa Budjana",
+      "title": "Manhattan Temple",
+      "release_title": "Dewa Budjana - Zentuary",
+      "year": "2016",
+      "label": "Favored Nations Entertainment",
+      "country": "US",
+      "discogs_id": 9160399,
+      "rating_avg": 4.67,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/FkmtIFrAh2z-7Q92Enb6MAQzt9X-OOEFv82z-J1culw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjAz/OTktMTQ3NTg0NjI3/MS04MzMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Degreg & Brasilia",
+      "title": "A Yankee In Brazil",
+      "release_title": "Phil DeGreg* & Brasilia (9) - Brazilian People",
+      "year": "2014",
+      "label": "Prevenient Music",
+      "country": "US",
+      "discogs_id": 15854359,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CFRpmk4MzdF74piSNv2PNcDueE_U1rpXHU3azysS2BI/rs:fit/g:sm/q:90/h:504/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU0/MzU5LTE1OTkwMjI1/NTQtMTU1Ni5wbmc.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Sparkle",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 1359490,
+      "rating_avg": 4.09,
+      "rating_count": 118,
+      "cover_image": "https://i.discogs.com/YDpomuyGUJfvaHuWiaWUymkymMCWobf1TTuq7S9-ViQ/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk0/OTAtMTIxMjY4MTgw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "The Sea Lion",
+      "release_title": "Grover Washington, Jr. - Feels So Good",
+      "year": "1975",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 9258956,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": ""
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Right Here",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 1359490,
+      "rating_avg": 4.09,
+      "rating_count": 118,
+      "cover_image": "https://i.discogs.com/YDpomuyGUJfvaHuWiaWUymkymMCWobf1TTuq7S9-ViQ/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk0/OTAtMTIxMjY4MTgw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Pritchard",
+      "title": "As Day And Night",
+      "release_title": "David Pritchard (2) - City Dreams",
+      "year": "1979",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2759787,
+      "rating_avg": 4.29,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/nzt7CJ4sK0M6VxEv2T2vvIixYXzNrq0xoSRgih2J8xA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk3/ODctMTc0MjQxMTM0/My03NDYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Vega",
+      "title": "Blue In Green / Four (For Miles Davis)",
+      "release_title": "Ray Vega - Boperation",
+      "year": "1999",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 17720533,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/dUZcIN8aFfZq2RYF8LR-_an5RV-IzkqfHJFryMQ9ruk/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzIw/NTMzLTE2MTUwNDky/NzQtNzc1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eumir Deodato",
+      "title": "Rhapsody In Blue",
+      "release_title": "Deodato* - Deodato 2",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 9044973,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rhwXum3MI9TDQCJYhv-a3MnPFzcMo-vQvBfrXj697j0/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDQ5/NzMtMTQ3Mzg5NTIz/OC03NTgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Vega",
+      "title": "Lotus Blossom (For Kenny Dorham)",
+      "release_title": "Ray Vega - Boperation",
+      "year": "1999",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 17720533,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/dUZcIN8aFfZq2RYF8LR-_an5RV-IzkqfHJFryMQ9ruk/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzIw/NTMzLTE2MTUwNDky/NzQtNzc1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Water Sign",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 1359490,
+      "rating_avg": 4.09,
+      "rating_count": 118,
+      "cover_image": "https://i.discogs.com/YDpomuyGUJfvaHuWiaWUymkymMCWobf1TTuq7S9-ViQ/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk0/OTAtMTIxMjY4MTgw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Francisco Aguabella Orchestra",
+      "title": "Shirley's Guaguancho",
+      "release_title": "Various - Latin Jazz Dance Classics Volume Two",
+      "year": "1997",
+      "label": "CuBop",
+      "country": "US",
+      "discogs_id": 8397979,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cPKp147Nvj6Df2RabvzmswvUtwRLXWn8HJALC29YDwo/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTc5/NzktMTQ2MDgzMjY1/OS04NTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Astrud Gilberto",
+      "title": "Holiday",
+      "release_title": "Astrud Gilberto - Holiday",
+      "year": "1969",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 13579505,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1uQm811FJeykKSysqmXcrwuu8svVqOepTC9uH55enhg/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc5/NTA1LTE1NTY4Nzkx/NDAtODU1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Pritchard",
+      "title": "Hog Futures",
+      "release_title": "David Pritchard (2) - City Dreams",
+      "year": "1979",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2759787,
+      "rating_avg": 4.29,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/nzt7CJ4sK0M6VxEv2T2vvIixYXzNrq0xoSRgih2J8xA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk3/ODctMTc0MjQxMTM0/My03NDYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Giant Steps",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 5303169,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/rGBfUDhx1HRrbeyplgZFLllh_DGC3SnW9QOWzEXGvpM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDMx/NjktMTY0OTU3ODA1/MS04MDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Water Shed 5tet",
+      "title": "Circuit Breaker",
+      "release_title": "Water Shed 5tet - Circuit Breaker",
+      "year": "1999",
+      "label": "Tautology",
+      "country": "US",
+      "discogs_id": 13378868,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/jXLljN41qICDUvl4q8ZoUFn-4Tp2GDC33e2nKCWIwtk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc4/ODY4LTE1NTMwODkx/NTItNDY4Ni5qcGVn.jpeg"
+    }
+  ]
+}
