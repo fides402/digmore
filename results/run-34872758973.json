@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1971,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 30,
+      "artists_found": 28,
+      "fresh_lookups": 0,
+      "styles_considered": 95
+    }
+  },
+  "results": [
+    {
+      "artist": "Phase 7",
+      "title": "Slip Away",
+      "release_title": "Phase 7 (2) - Playtime",
+      "year": "2020",
+      "label": "Aloha Got Soul",
+      "country": "US",
+      "discogs_id": 15964784,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/_DoZroWChoKOroJrHxe7Se1s8PMCsznFNBTe3INrhpA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY0/Nzg0LTE2MDEwMjk4/MDMtODYzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "O.V. Wright",
+      "title": "We're Still Together (Mono)",
+      "release_title": "O.V. Wright - We're Still Together ",
+      "year": "1979",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 4487721,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/dpe2Ja4FtLCpWgso4m0zG-Xu3gsC4PBX8u5xcXqHOa8/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODc3/MjEtMTM2NjMxMjY1/Ny0zNjE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Commodores",
+      "title": "Nightshift (Edit Of Club Mix)",
+      "release_title": "Commodores - Nightshift",
+      "year": "1985",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 5076126,
+      "rating_avg": 4.38,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/hPwvqzwgBqobahOLorMUezdS3FW6SjPnmf1StM_39PU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzYx/MjYtMTc2ODg2MDE1/OC04MzQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tyrone Davis",
+      "title": "It's All In The Game",
+      "release_title": "Tyrone Davis - It's All In The Game / Where Lovers Meet",
+      "year": "1977",
+      "label": "Dakar Records",
+      "country": "US",
+      "discogs_id": 13274061,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/gEKHQBXGizn0n9OP2KggPksyq3eQ88X6_b7w4lUnRJA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc0/MDYxLTE1NTE0Njg1/NzQtMjE2Ni5wbmc.jpeg"
+    },
+    {
+      "artist": "Commodores",
+      "title": "Nightshift (Instrumental Mix)",
+      "release_title": "Commodores - Nightshift",
+      "year": "1985",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 5076126,
+      "rating_avg": 4.38,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/hPwvqzwgBqobahOLorMUezdS3FW6SjPnmf1StM_39PU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzYx/MjYtMTc2ODg2MDE1/OC04MzQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Emotions",
+      "title": "Don't Ask My Neighbors",
+      "release_title": "The Emotions - Best Of My Love",
+      "year": "1977",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 616553,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/eIrV3-OeICGce64LtN689VGYzs_xU6bmyhDxLCkw0rU/rs:fit/g:sm/q:90/h:531/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjU1/My0xMzM4MTYzNDQ5/LTExMjMuanBlZw.jpeg"
+    },
+    {
+      "artist": "Phil Storm",
+      "title": "Outro",
+      "release_title": "Phil Storm - 'Til The End Of Time",
+      "year": "1996",
+      "label": "Somethin' Serious Records",
+      "country": "US",
+      "discogs_id": 3527395,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/64feiWWIRkDn5Isd1creqZsMH0inKmtgrarusHWGgA4/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjcz/OTUtMTYyNTQyODk3/Mi02Njk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Barry White",
+      "title": "Thank You",
+      "release_title": "Barry White - Staying Power",
+      "year": "1999",
+      "label": "Private Music",
+      "country": "US",
+      "discogs_id": 20510605,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/8FoDz7rqVP8QGHouxDTtuMZqwQgh-dGSB93cX5jf_QQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTEw/NjA1LTE2MzM2NTA3/MjctMjY5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Philly Devotions",
+      "title": "I Just Can't Say Goodbye (Instrumental)",
+      "release_title": "Philly Devotions - I Just Can't Say Goodbye (Instrumental)",
+      "year": "1974",
+      "label": "Not On Label (Philly Devotions Self-released)",
+      "country": "US",
+      "discogs_id": 28523701,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_Zn1J5DgDwLPFfAPzjYwgCSsjVyJbwCj9KMTkj4Z8VA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTIz/NzAxLTE2OTY2ODUy/NjctMTM2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Emotions",
+      "title": "Best Of My Love",
+      "release_title": "The Emotions - Best Of My Love",
+      "year": "1977",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 616553,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/eIrV3-OeICGce64LtN689VGYzs_xU6bmyhDxLCkw0rU/rs:fit/g:sm/q:90/h:531/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjU1/My0xMzM4MTYzNDQ5/LTExMjMuanBlZw.jpeg"
+    },
+    {
+      "artist": "The Otis And Carla Band",
+      "title": "Tramp",
+      "release_title": "Various - Atlantic Rhythm & Blues 1947-1974, Volume 6 1966-1969",
+      "year": "1985",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 9996208,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": ""
+    },
+    {
+      "artist": "James Duhon",
+      "title": "Heart Breaker (Child Maker) (Short Version)",
+      "release_title": "James Kelly Duhon* - Heart Breaker (Child Maker)",
+      "year": "1974",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 5892856,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/17OYfNB9_pRXs6H_3RvTFp0Xz-OrZnM1M_-8vdLrU9Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTI4/NTYtMTc1MTI1MjQ1/NC02MTk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clifford Curry",
+      "title": "Mr. Lonely",
+      "release_title": "Clifford Curry - 25 Hours A Day / Mr. Lonely",
+      "year": "1986",
+      "label": "Ocean Isle Records",
+      "country": "US",
+      "discogs_id": 2880867,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-y4FgQ2wAsQ98IZMy5ZjOWm4fHSFsVDqC94n43PXMSQ/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODA4/NjctMTM4NTYyOTQx/MC00MTM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stephanie Mills",
+      "title": "If I Were Your Woman (Suite)",
+      "release_title": "Stephanie Mills - If I Were Your Woman",
+      "year": "1988",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 1067663,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/RVO0byvXjKx7s44euIHP9uD4GHdXuWrg3aacQBYKhBw/rs:fit/g:sm/q:90/h:595/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc2/NjMtMTE4OTYyNTI3/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tyrone Davis",
+      "title": "Where Lovers Meet",
+      "release_title": "Tyrone Davis - It's All In The Game / Where Lovers Meet",
+      "year": "1977",
+      "label": "Dakar Records",
+      "country": "US",
+      "discogs_id": 13274061,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/gEKHQBXGizn0n9OP2KggPksyq3eQ88X6_b7w4lUnRJA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc0/MDYxLTE1NTE0Njg1/NzQtMjE2Ni5wbmc.jpeg"
+    },
+    {
+      "artist": "Phase 7",
+      "title": "So Good To Be In Love",
+      "release_title": "Phase 7 (2) - Playtime",
+      "year": "2020",
+      "label": "Aloha Got Soul",
+      "country": "US",
+      "discogs_id": 15964784,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/_DoZroWChoKOroJrHxe7Se1s8PMCsznFNBTe3INrhpA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY0/Nzg0LTE2MDEwMjk4/MDMtODYzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ken Williams",
+      "title": "Give Me My Heart Back",
+      "release_title": "Kenny Williams* - (You're) Fabulous Babe",
+      "year": "1978",
+      "label": "Ember Records",
+      "country": "US",
+      "discogs_id": 19807543,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1O60UjkxJQ1OCAdS5NZL0yAAqlB1mKwljSm_4IxHG_k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA3/NTQzLTE2Mjg1NjY3/NTgtNzkxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stephanie Mills",
+      "title": "If I Were Your Woman",
+      "release_title": "Stephanie Mills - If I Were Your Woman",
+      "year": "1988",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 1067663,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/RVO0byvXjKx7s44euIHP9uD4GHdXuWrg3aacQBYKhBw/rs:fit/g:sm/q:90/h:595/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc2/NjMtMTE4OTYyNTI3/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Barry White",
+      "title": "Get Up",
+      "release_title": "Barry White - Staying Power",
+      "year": "1999",
+      "label": "Private Music",
+      "country": "US",
+      "discogs_id": 20510605,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/8FoDz7rqVP8QGHouxDTtuMZqwQgh-dGSB93cX5jf_QQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTEw/NjA1LTE2MzM2NTA3/MjctMjY5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "O.V. Wright",
+      "title": "We're Still Together (Stereo)",
+      "release_title": "O.V. Wright - We're Still Together ",
+      "year": "1979",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 4487721,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/dpe2Ja4FtLCpWgso4m0zG-Xu3gsC4PBX8u5xcXqHOa8/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODc3/MjEtMTM2NjMxMjY1/Ny0zNjE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Barry White",
+      "title": "The Longer We Make Love",
+      "release_title": "Barry White - Staying Power",
+      "year": "1999",
+      "label": "Private Music",
+      "country": "US",
+      "discogs_id": 20510605,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/8FoDz7rqVP8QGHouxDTtuMZqwQgh-dGSB93cX5jf_QQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTEw/NjA1LTE2MzM2NTA3/MjctMjY5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ike & Tina Turner",
+      "title": "I'm Going Back Home",
+      "release_title": "Ike Turner - The Bad Man: Rare & Unreissued Ike Turner Produced Recordings 1962-1965",
+      "year": "2004",
+      "label": "Night Train International",
+      "country": "US",
+      "discogs_id": 11478519,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/EXLKzpgpSxSk7oKDVyOivL31pn5vwEBVgdU1QNrj_K8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc4/NTE5LTE1MTcwNjAz/MjItODEyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob & Earl",
+      "title": "Harlem Shuffle",
+      "release_title": "Bob & Earl - Harlem Shuffle / Gee Whiz",
+      "year": "1987",
+      "label": "Original Sound",
+      "country": "US",
+      "discogs_id": 7359711,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/UhcJfoWkLgfVHCcZxx6Vhp42cD3emr3jZZCOvEEUQ50/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTk3/MTEtMTQzOTc1NjA3/MS0zNDc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Wilson Pickett",
+      "title": "Mustang Sally",
+      "release_title": "Various - Atlantic Rhythm & Blues 1947-1974, Volume 6 1966-1969",
+      "year": "1985",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 9996208,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": ""
+    },
+    {
+      "artist": "Joe Tex",
+      "title": "Skinny Legs And All",
+      "release_title": "Various - Atlantic Rhythm & Blues 1947-1974, Volume 6 1966-1969",
+      "year": "1985",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 9996208,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": ""
+    },
+    {
+      "artist": "Dream Machine",
+      "title": "Don't Walk Away (Mono)",
+      "release_title": "Dream Machine (2) - Don't Walk Away",
+      "year": "1981",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 3865229,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/JXFGEgWYVg_cOD-pArI7Q-FbM9qm20Yhse9QDu8AML4/rs:fit/g:sm/q:90/h:307/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjUy/MjktMTM0NzM3NTMy/MC05NjAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phase 7",
+      "title": "Could It Be Love",
+      "release_title": "Phase 7 (2) - Playtime",
+      "year": "2020",
+      "label": "Aloha Got Soul",
+      "country": "US",
+      "discogs_id": 15964784,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/_DoZroWChoKOroJrHxe7Se1s8PMCsznFNBTe3INrhpA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY0/Nzg0LTE2MDEwMjk4/MDMtODYzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Vernon Guy",
+      "title": "Anything To Make It With You",
+      "release_title": "Ike Turner - The Bad Man: Rare & Unreissued Ike Turner Produced Recordings 1962-1965",
+      "year": "2004",
+      "label": "Night Train International",
+      "country": "US",
+      "discogs_id": 11478519,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/EXLKzpgpSxSk7oKDVyOivL31pn5vwEBVgdU1QNrj_K8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc4/NTE5LTE1MTcwNjAz/MjItODEyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Storm",
+      "title": "All In Your NAme",
+      "release_title": "Phil Storm - 'Til The End Of Time",
+      "year": "1996",
+      "label": "Somethin' Serious Records",
+      "country": "US",
+      "discogs_id": 3527395,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/64feiWWIRkDn5Isd1creqZsMH0inKmtgrarusHWGgA4/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjcz/OTUtMTYyNTQyODk3/Mi02Njk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Ruffin Brothers",
+      "title": "When My Love Hand Comes Down",
+      "release_title": "David & Jimmy Ruffin* - When My Love Hand Comes Down",
+      "year": "1971",
+      "label": "Soul",
+      "country": "US",
+      "discogs_id": 7967779,
+      "rating_avg": 4.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/wYyJd3Fu2DOUn7xdnAiYEx7WUkbCIJ1ytec9X7L1vWU/rs:fit/g:sm/q:90/h:553/w:539/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njc3/NzktMTQ4NDY1ODgx/Mi01MzM0LmpwZWc.jpeg"
+    }
+  ]
+}
