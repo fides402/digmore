@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 32,
+      "artists_found": 30,
+      "fresh_lookups": 0,
+      "styles_considered": 98
+    }
+  },
+  "results": [
+    {
+      "artist": "Tribe",
+      "title": "Smoke Pt. 1",
+      "release_title": "Tim Curry / Tribe - Paradise Garage / Smoke / Coke",
+      "year": "2009",
+      "label": "Larry",
+      "country": "US",
+      "discogs_id": 1907931,
+      "rating_avg": 4.22,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/6vqup8OsZmn0xTIO0ylZ0vTCTKqEuAK88vYxBay-XiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDc5/MzEtMTI1MTY2ODE3/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Boogie Down",
+      "release_title": "Eddie Kendricks - Boogie Down",
+      "year": "1973",
+      "label": "Tamla",
+      "country": "US",
+      "discogs_id": 6390961,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/-jYf2UqzvxoHplDcQXhYK5mVdyal-N82tEm-Gfhupn4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTA5/NjEtMTQxODIxNjgx/OS0xMTgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sophia Nelson",
+      "title": "Calle Blanca Blues (White Street Blues)",
+      "release_title": "Sophia Nelson - Woman In Love",
+      "year": "2007",
+      "label": "Sophia Nelson Music",
+      "country": "US",
+      "discogs_id": 7078404,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/29GqhdjseJSckm7Jo12Zz3x2lMlKAkCrAc6I2Vtqf0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzg0/MDQtMTQzMzE5MDc4/Ny05MzU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobby Byrd",
+      "title": "If You Don't Work, You Can't Eat",
+      "release_title": "Bobby Byrd - Bobby Byrd Got Soul (The Best Of Bobby Byrd)",
+      "year": "1995",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 31211830,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YNjm8ltcUBpxiIImFPzya4WyuBJbnd1lOBy-9gsWE3I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEx/ODMwLTE3MjA4ODcy/NDEtNTYxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Lost Weekend",
+      "title": "Trouble",
+      "release_title": "The Lost Weekend - Trouble",
+      "year": "1970",
+      "label": "U.S.A. Records",
+      "country": "US",
+      "discogs_id": 4990205,
+      "rating_avg": 4.59,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/vVFuJEoIRtQTK0te7Yrgjzj5w6SzYKWnC8MaBqRrsxY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTAy/MDUtMTM4MTUxNjg0/OS05MTA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Spinners",
+      "title": "We'll Have It Made",
+      "release_title": "The Spinners* - The Best Of The Spinners",
+      "year": "1987",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 24202253,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AWOkHfDTEkELOzcCofBuK9S-nkYPZ4O65J1U4CUlfMo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAy/MjUzLTE2NjA1MDc1/NzgtODcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Spinners",
+      "title": "Sweet Thing",
+      "release_title": "The Spinners* - The Best Of The Spinners",
+      "year": "1987",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 24202253,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AWOkHfDTEkELOzcCofBuK9S-nkYPZ4O65J1U4CUlfMo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAy/MjUzLTE2NjA1MDc1/NzgtODcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sophia Nelson",
+      "title": "Mystic Melody (East River Drive)",
+      "release_title": "Sophia Nelson - Woman In Love",
+      "year": "2007",
+      "label": "Sophia Nelson Music",
+      "country": "US",
+      "discogs_id": 7078404,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/29GqhdjseJSckm7Jo12Zz3x2lMlKAkCrAc6I2Vtqf0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzg0/MDQtMTQzMzE5MDc4/Ny05MzU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jackie Wilson",
+      "title": "This Love Is Real",
+      "release_title": "Jackie Wilson - This Love Is Real ",
+      "year": "1970",
+      "label": "Brunswick",
+      "country": "US",
+      "discogs_id": 4997325,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/PmFFR3BBlZZtEQtpa_l6YrjuRiYI4CgICPEEq2S4DkM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTcz/MjUtMTU1MDE1Njg0/My00NjY0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Optimistics",
+      "title": "Dig It (She's In The Groove) Part 2",
+      "release_title": "The Optimistics - Dig It (She's In The Groove)",
+      "year": "1976",
+      "label": "World Records",
+      "country": "US",
+      "discogs_id": 13971547,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/YnRLkkvhRVTUIaQ7l6P6eNIbNYc6cj7RknIJFB01jI8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcx/NTQ3LTE1NjUxOTM5/NzktMzE1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sarah Dash",
+      "title": "If You Don't Play, I Can't Sing",
+      "release_title": "Sarah Dash - Oo-La-La, Too Soon",
+      "year": "1980",
+      "label": "Kirshner",
+      "country": "US",
+      "discogs_id": 3773626,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/pBQWYm16Xi3BfP_-Q6RcUZugRUFp4iY-f3LwbxXORrY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzM2/MjYtMTM0NTkyMDI0/MC04MzE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Wilson Pickett",
+      "title": "Toe Hold",
+      "release_title": "Wilson Pickett - Born To Be Wild",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 9449631,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_XWFPefNLzbbu4PwS1f112Hbae0VbWBMYCVzqsP97YE/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk2/MzEtMTQ4MDc4Mjkz/NS00NTM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Vince Lawrence & Tom Tom 84",
+      "title": "Horns To House",
+      "release_title": "Vince Lawrence Ft Tom Tom 2084* - Horns To House",
+      "year": "2020",
+      "label": "Mirror Ball Recordings",
+      "country": "US",
+      "discogs_id": 15617471,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/E7U_c3J29kWM4as4AyZe0QMvjWsJi9MEz6pDjjq7uTA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE3/NDcxLTE1OTQ2Mjg0/ODUtNDk5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Optimistics",
+      "title": "Dig It (She's In The Groove) Part 1",
+      "release_title": "The Optimistics - Dig It (She's In The Groove)",
+      "year": "1976",
+      "label": "World Records",
+      "country": "US",
+      "discogs_id": 13971547,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/YnRLkkvhRVTUIaQ7l6P6eNIbNYc6cj7RknIJFB01jI8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcx/NTQ3LTE1NjUxOTM5/NzktMzE1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Lost Weekend",
+      "title": "Little Black Child",
+      "release_title": "The Lost Weekend - Trouble",
+      "year": "1970",
+      "label": "U.S.A. Records",
+      "country": "US",
+      "discogs_id": 4990205,
+      "rating_avg": 4.59,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/vVFuJEoIRtQTK0te7Yrgjzj5w6SzYKWnC8MaBqRrsxY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTAy/MDUtMTM4MTUxNjg0/OS05MTA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mavis Staples",
+      "title": "If I Can't Have You",
+      "release_title": "Mavis Staples - Tonight I Feel Like Dancing",
+      "year": "1979",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 1398891,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/uY0hFeaUIiS24hX8RBconUFY2qbRNxow5AJq1kGBYnY/rs:fit/g:sm/q:90/h:441/w:434/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg4/OTEtMTIxNjMyNjM4/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "War",
+      "title": "Hey Señorita",
+      "release_title": "War - Hey Señorita",
+      "year": "1978",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 18333541,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2vucJ3hocaJBr1KiXOiDqJWDpxpRc9-jhZKhwgKvJHg/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzMz/NTQxLTE2MTg2NDkx/MTQtNDM5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Foxy",
+      "title": "Hot Number",
+      "release_title": "Foxy - Hot Number  ",
+      "year": "1979",
+      "label": "Dash",
+      "country": "US",
+      "discogs_id": 6582618,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4WfNld0zweeGPB1VmCiJVbRRRHub4radC0JPHdPTFbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODI2/MTgtMTYwMTk5NTE0/NC00OTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sophia Nelson",
+      "title": "Someone Special",
+      "release_title": "Sophia Nelson - Woman In Love",
+      "year": "2007",
+      "label": "Sophia Nelson Music",
+      "country": "US",
+      "discogs_id": 7078404,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/29GqhdjseJSckm7Jo12Zz3x2lMlKAkCrAc6I2Vtqf0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzg0/MDQtMTQzMzE5MDc4/Ny05MzU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobby Byrd",
+      "title": "Hot Pants - I'm Coming, Coming, I'm Coming",
+      "release_title": "Bobby Byrd - Bobby Byrd Got Soul (The Best Of Bobby Byrd)",
+      "year": "1995",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 31211830,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YNjm8ltcUBpxiIImFPzya4WyuBJbnd1lOBy-9gsWE3I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEx/ODMwLTE3MjA4ODcy/NDEtNTYxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Duke Williams And The Extremes",
+      "title": "Depend On Me",
+      "release_title": "Duke Williams And The Extremes - If Lovin' You Wasn't So Easy (to Do) / Depend On Me",
+      "year": "1973",
+      "label": "Capricorn Records",
+      "country": "US",
+      "discogs_id": 6925461,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/TUOGnYqE0tB3CY6pytvloI9bGcx22NIvab58FTTTHU8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjU0/NjEtMTYxODk0NDI4/OC04NDMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Wilson Pickett",
+      "title": "Born To Be Wild",
+      "release_title": "Wilson Pickett - Born To Be Wild",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 9449631,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_XWFPefNLzbbu4PwS1f112Hbae0VbWBMYCVzqsP97YE/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk2/MzEtMTQ4MDc4Mjkz/NS00NTM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sarah Dash",
+      "title": "Oo-La-La, Too Soon",
+      "release_title": "Sarah Dash - Oo-La-La, Too Soon",
+      "year": "1980",
+      "label": "Kirshner",
+      "country": "US",
+      "discogs_id": 3773626,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/pBQWYm16Xi3BfP_-Q6RcUZugRUFp4iY-f3LwbxXORrY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzM2/MjYtMTM0NTkyMDI0/MC04MzE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Vince Lawrence & Tom Tom 84",
+      "title": "Horns To House (Terry Hunter & James Poyser's Julius Jordan Instrumental)",
+      "release_title": "Vince Lawrence Ft Tom Tom 2084* - Horns To House",
+      "year": "2020",
+      "label": "Mirror Ball Recordings",
+      "country": "US",
+      "discogs_id": 15617471,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/E7U_c3J29kWM4as4AyZe0QMvjWsJi9MEz6pDjjq7uTA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE3/NDcxLTE1OTQ2Mjg0/ODUtNDk5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby Byrd",
+      "title": "Fight Against Drug Abuse",
+      "release_title": "Bobby Byrd - Bobby Byrd Got Soul (The Best Of Bobby Byrd)",
+      "year": "1995",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 31211830,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YNjm8ltcUBpxiIImFPzya4WyuBJbnd1lOBy-9gsWE3I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEx/ODMwLTE3MjA4ODcy/NDEtNTYxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tribe",
+      "title": "Coke (Unreleased Mix)",
+      "release_title": "Tim Curry / Tribe - Paradise Garage / Smoke / Coke",
+      "year": "2009",
+      "label": "Larry",
+      "country": "US",
+      "discogs_id": 1907931,
+      "rating_avg": 4.22,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/6vqup8OsZmn0xTIO0ylZ0vTCTKqEuAK88vYxBay-XiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDc5/MzEtMTI1MTY2ODE3/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "War",
+      "title": "Sweet Fighting Lady",
+      "release_title": "War - Hey Señorita",
+      "year": "1978",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 18333541,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2vucJ3hocaJBr1KiXOiDqJWDpxpRc9-jhZKhwgKvJHg/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzMz/NTQxLTE2MTg2NDkx/MTQtNDM5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Can't Help What I Am",
+      "release_title": "Eddie Kendricks - Boogie Down",
+      "year": "1973",
+      "label": "Tamla",
+      "country": "US",
+      "discogs_id": 6390961,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/-jYf2UqzvxoHplDcQXhYK5mVdyal-N82tEm-Gfhupn4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTA5/NjEtMTQxODIxNjgx/OS0xMTgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Foxy",
+      "title": "Call It Love",
+      "release_title": "Foxy - Hot Number  ",
+      "year": "1979",
+      "label": "Dash",
+      "country": "US",
+      "discogs_id": 6582618,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4WfNld0zweeGPB1VmCiJVbRRRHub4radC0JPHdPTFbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODI2/MTgtMTYwMTk5NTE0/NC00OTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mavis Staples",
+      "title": "Tonight I Feel Like Dancing",
+      "release_title": "Mavis Staples - Tonight I Feel Like Dancing",
+      "year": "1979",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 1398891,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/uY0hFeaUIiS24hX8RBconUFY2qbRNxow5AJq1kGBYnY/rs:fit/g:sm/q:90/h:441/w:434/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg4/OTEtMTIxNjMyNjM4/My5qcGVn.jpeg"
+    }
+  ]
+}
