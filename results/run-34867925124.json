@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 6,
+      "artists_found": 6,
+      "fresh_lookups": 0,
+      "styles_considered": 40
+    }
+  },
+  "results": [
+    {
+      "artist": "Miles Davis",
+      "title": "Ife",
+      "release_title": "Miles Davis - Big Fun",
+      "year": "1987",
+      "label": "CBS Special Products",
+      "country": "US",
+      "discogs_id": 3651634,
+      "rating_avg": 4.28,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/hMT1jMv185CPufWKEBes-lxG0K_jzkSZ7BOc9wG6YHY/rs:fit/g:sm/q:90/h:457/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTE2/MzQtMTM0Mzg5ODg1/My0xOTUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Theme In Search Of A Movie",
+      "release_title": "Eddie Harris - Listen Here: The Very Best Of Eddie Harris",
+      "year": "2018",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 27801315,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yWrfFmyN0FatwuFetBs9oLuSjiz1KbNmuCb2Om1gQrE/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAx/MzE1LTE2OTA1MDAx/ODUtMzMyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jing Chi & Vinnie Colaiuta & Robben Ford & Jimmy Haslip",
+      "title": "In My Dream",
+      "release_title": "Jing Chi, Vinnie Colaiuta, Robben Ford, Jimmy Haslip - Jing Chi",
+      "year": "2001",
+      "label": "Tone Center",
+      "country": "US",
+      "discogs_id": 4676848,
+      "rating_avg": 3.82,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/ivwiVyPWxoEq4lqcTTaOpQ-X1b45cyVL3zroWz3qwy0/rs:fit/g:sm/q:90/h:223/w:226/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY4/NDgtMTM3MjA4Nzgw/MS02NzA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clifford Jordan",
+      "title": "I've Got A Feeling For You",
+      "release_title": "Clifford Jordan - Soul Fountain",
+      "year": "2010",
+      "label": "Vortex Records",
+      "country": "US",
+      "discogs_id": 15848448,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/OMr4i15ely41OCJebBXnAbry4efkqc3J3hHvMrMVwpI/rs:fit/g:sm/q:90/h:501/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ4/NDQ4LTE2MjEzNDIy/MDYtOTY5Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Metheny",
+      "title": "Omaha Celebration",
+      "release_title": "Pat Metheny - Bright Size Life",
+      "year": "1976",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 1914113,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/1-qvKWjeL_nFdC6NrcX46UB1m8RBSuxzwurkQ18qe74/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQx/MTMtMTI1MjEwNTkw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ed Jones And Familia",
+      "title": "Ole' L.A.",
+      "release_title": "Ed Jones And Familia - Ole' L.A.",
+      "year": "1992",
+      "label": "Discovery Records",
+      "country": "US",
+      "discogs_id": 9065985,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2zVWpmQ6MmkJZi6ZdPh6YV_nnNXdzxOVHheYeu6B3Xc/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjU5/ODUtMTY2NDgwNTIy/NC03MzY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rosa Passos",
+      "title": "Voce Vai Ver",
+      "release_title": "Rosa Passos - Amorosa",
+      "year": "2004",
+      "label": "Sony Classical",
+      "country": "US",
+      "discogs_id": 14994193,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3CQLeZOYLlcrWKbHxvXpyVekfs045pJc68Kb3_TozOI/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/MTkzLTE1ODUyNDI2/NzEtNjIyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Love Theme From \"The Valachi Papers\"",
+      "release_title": "Maynard Ferguson - M.F.Horn | 3",
+      "year": "1973",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 20030194,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/YKzACgkGY2OLP98wrVa5CyFiOcHjiLH-GQI3YV_6sQI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDMw/MTk0LTE2MzAxNzgw/NDItOTA2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Farrell",
+      "title": "Animal",
+      "release_title": "Joe Farrell - Canned Funk",
+      "year": "1975",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 37487637,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/HMicFuELz06BDgKiDDT6YDocm-WNOPX7roMhlsDcgMs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg3/NjM3LTE3ODAxNjcx/NTctMzg5NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jing Chi & Vinnie Colaiuta & Robben Ford & Jimmy Haslip",
+      "title": "Goin' Nowhere",
+      "release_title": "Jing Chi, Vinnie Colaiuta, Robben Ford, Jimmy Haslip - Jing Chi",
+      "year": "2001",
+      "label": "Tone Center",
+      "country": "US",
+      "discogs_id": 4676848,
+      "rating_avg": 3.82,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/ivwiVyPWxoEq4lqcTTaOpQ-X1b45cyVL3zroWz3qwy0/rs:fit/g:sm/q:90/h:223/w:226/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY4/NDgtMTM3MjA4Nzgw/MS02NzA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Metheny",
+      "title": "Round Trip / Broadway Blues",
+      "release_title": "Pat Metheny - Bright Size Life",
+      "year": "1976",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 1914113,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/1-qvKWjeL_nFdC6NrcX46UB1m8RBSuxzwurkQ18qe74/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQx/MTMtMTI1MjEwNTkw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Abstractions",
+      "release_title": "Eddie Harris - Bad Luck Is All I Have",
+      "year": "1975",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 24773396,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LORHlPgLsSBFXIVqnzk0juttPJKY0yrMrE0nfmSAa0w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcz/Mzk2LTE2NjUzNjM2/MjAtNTMyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Farrell",
+      "title": "Suite Martinique",
+      "release_title": "Joe Farrell - Canned Funk",
+      "year": "1975",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 37487637,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/HMicFuELz06BDgKiDDT6YDocm-WNOPX7roMhlsDcgMs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg3/NjM3LTE3ODAxNjcx/NTctMzg5NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tom Scott & The L.A. Express",
+      "title": "Mondo",
+      "release_title": "Tom Scott & The L.A. Express - Tom Cat",
+      "year": "1975",
+      "label": "Ode Records",
+      "country": "US",
+      "discogs_id": 4141348,
+      "rating_avg": 3.8,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/U4tgdO4Kuw702WHAuW0Vb5Qa3tHVgMz-9oBt5zyl_9o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDEz/NDgtMTQ4MjcxMjUw/OS01MzMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rare Silk",
+      "title": "Lush Life",
+      "release_title": "Rare Silk - New Weave",
+      "year": "1983",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 12918410,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/383qYlZ3LWt0E6lUMxb5I8KmYUh6cYpmJORyLEzL6ok/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE4/NDEwLTE1NDQ0OTg3/ODgtMzQzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Awright, Awright",
+      "release_title": "Maynard Ferguson - M.F.Horn | 3",
+      "year": "1973",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 20030194,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/YKzACgkGY2OLP98wrVa5CyFiOcHjiLH-GQI3YV_6sQI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDMw/MTk0LTE2MzAxNzgw/NDItOTA2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Chelsea Morning",
+      "release_title": "Sergio Mendes & Brasil '66* - Chelsea Morning",
+      "year": "1970",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8501764,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/gRcVRO2Qud78jNaUqNVQ74iI0CvazpDDbqh0rFcmiyE/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDE3/NjQtMTQ2Mjg4OTky/OS01OTY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rosa Passos",
+      "title": "Que Reste-T-Il De Nos Amours",
+      "release_title": "Rosa Passos - Amorosa",
+      "year": "2004",
+      "label": "Sony Classical",
+      "country": "US",
+      "discogs_id": 14994193,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3CQLeZOYLlcrWKbHxvXpyVekfs045pJc68Kb3_TozOI/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/MTkzLTE1ODUyNDI2/NzEtNjIyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Mother Fingers",
+      "release_title": "Maynard Ferguson - M.F.Horn | 3",
+      "year": "1973",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 20030194,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/YKzACgkGY2OLP98wrVa5CyFiOcHjiLH-GQI3YV_6sQI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDMw/MTk0LTE2MzAxNzgw/NDItOTA2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Great Expectations",
+      "release_title": "Miles Davis - Big Fun",
+      "year": "1987",
+      "label": "CBS Special Products",
+      "country": "US",
+      "discogs_id": 3651634,
+      "rating_avg": 4.28,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/hMT1jMv185CPufWKEBes-lxG0K_jzkSZ7BOc9wG6YHY/rs:fit/g:sm/q:90/h:457/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTE2/MzQtMTM0Mzg5ODg1/My0xOTUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "*Feio",
+      "release_title": "Miles Davis - Bitches Brew",
+      "year": "1999",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 13915038,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/qB8Rnj4ws4qgiyIOkhc5a7YVuNE7PpHqSMDmJZKSl0s/rs:fit/g:sm/q:90/h:600/w:376/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTE1/MDM4LTE1NjM5ODA4/NDYtOTcyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Metheny",
+      "title": "Midwestern Nights Dream",
+      "release_title": "Pat Metheny - Bright Size Life",
+      "year": "1976",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 1914113,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/1-qvKWjeL_nFdC6NrcX46UB1m8RBSuxzwurkQ18qe74/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQx/MTMtMTI1MjEwNTkw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John McLaughlin & Al Di Meola & Paco De Lucía",
+      "title": "Guardian Angel",
+      "release_title": "John McLaughlin / Al Di Meola / Paco De Lucía - Friday Night In San Francisco",
+      "year": "1984",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 15209385,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/vsuXYuOikfcn07rN8z5EXkYn6reRCSk3s2xzOsSzraA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA5/Mzg1LTE1ODgxMzgy/MzAtMjIzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rare Silk",
+      "title": "Sugar",
+      "release_title": "Rare Silk - New Weave",
+      "year": "1983",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 12918410,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/383qYlZ3LWt0E6lUMxb5I8KmYUh6cYpmJORyLEzL6ok/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE4/NDEwLTE1NDQ0OTg3/ODgtMzQzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sadao Watanabe",
+      "title": "Salvador",
+      "release_title": "Sadao Watanabe - Birds Of Passage",
+      "year": "1987",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 2665404,
+      "rating_avg": 4.11,
+      "rating_count": 47,
+      "cover_image": "https://i.discogs.com/Av7T3knN7a4w8eyluaJbjJSNR21JqKjS7GdSFsNgEww/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU0/MDQtMTc2MjUyNDc4/MS00MDY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ed Jones And Familia",
+      "title": "Angela",
+      "release_title": "Ed Jones And Familia - Ole' L.A.",
+      "year": "1992",
+      "label": "Discovery Records",
+      "country": "US",
+      "discogs_id": 9065985,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2zVWpmQ6MmkJZi6ZdPh6YV_nnNXdzxOVHheYeu6B3Xc/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjU5/ODUtMTY2NDgwNTIy/NC03MzY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Round Midnight",
+      "release_title": "Maynard Ferguson - M.F.Horn | 3",
+      "year": "1973",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 20030194,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/YKzACgkGY2OLP98wrVa5CyFiOcHjiLH-GQI3YV_6sQI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDMw/MTk0LTE2MzAxNzgw/NDItOTA2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rosa Passos",
+      "title": "Wave",
+      "release_title": "Rosa Passos - Amorosa",
+      "year": "2004",
+      "label": "Sony Classical",
+      "country": "US",
+      "discogs_id": 14994193,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3CQLeZOYLlcrWKbHxvXpyVekfs045pJc68Kb3_TozOI/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/MTkzLTE1ODUyNDI2/NzEtNjIyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tropical People",
+      "title": "Webop",
+      "release_title": "Various - Heineken Jazzfest 91",
+      "year": "1991",
+      "label": "Sony",
+      "country": "US",
+      "discogs_id": 8998112,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/08ew4p_XuSQig27ytqhSqwzqwX3tq-4152oyQa5GgTY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTgx/MTItMTQ3MzAwNjEy/MS03MzY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Les McCann",
+      "title": "Set Us Free",
+      "release_title": "Eddie Harris - Listen Here: The Very Best Of Eddie Harris",
+      "year": "2018",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 27801315,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yWrfFmyN0FatwuFetBs9oLuSjiz1KbNmuCb2Om1gQrE/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAx/MzE1LTE2OTA1MDAx/ODUtMzMyMC5qcGVn.jpeg"
+    }
+  ]
+}
