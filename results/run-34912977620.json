@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 39,
+      "fresh_lookups": 0,
+      "styles_considered": 117
+    }
+  },
+  "results": [
+    {
+      "artist": "Naughty Professor",
+      "title": "Knockwurst",
+      "release_title": "Naughty Professor - In The Flesh",
+      "year": "2016",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 8825903,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/K1D9eGvh9TMDw7MWDGfc159cBJ5UskzV4xK2OfOBciM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjU5/MDMtMTQ2OTU3MzEx/MC03MjM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willis Jackson",
+      "title": "Miss Ann",
+      "release_title": "Willis Jackson - Headed And Gutted",
+      "year": "1975",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 23462078,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/9girlF_AkygXV5vPO5DkORB0L_EzgAwTlipj7myCJww/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYy/MDc4LTE2NTQzNDAw/NzItMTE1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tag",
+      "title": "Jigsaw",
+      "release_title": "Tag (15) - Jigsaw",
+      "year": "1986",
+      "label": "Tag Records",
+      "country": "US",
+      "discogs_id": 7119001,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/BFvUZ5hKjoVBUZdXpUgsgKVGAbEAOMR-PU_m2GuQqt0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTkw/MDEtMTQzNDEzNDQ0/MS05MDkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Víctor Mendoza",
+      "title": "Susurros Del Corazón (Whispers From the Heart)",
+      "release_title": "Víctor Mendoza (3) - Black Bean Blues",
+      "year": "1998",
+      "label": "Sizzle Stick Productions",
+      "country": "US",
+      "discogs_id": 29410393,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OH-bQ3aRxMIw6dy_IN23gAu_ca9jgQufIlsXYuIi2jk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDEw/MzkzLTE3MDQ1NTUw/ODYtNjU5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Alexander Zonjic",
+      "title": "Bellavia",
+      "release_title": "Alexander Zonjic - Elegant Evening",
+      "year": "1982",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 1829723,
+      "rating_avg": 4.13,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/jJrHLTLAPFFmEWZhgQ2hT1skOEMrkjSqlPuxrK-aW6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk3/MjMtMTUyOTkzNTA3/MC0zODM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Víctor Mendoza",
+      "title": "Chacalonga",
+      "release_title": "Víctor Mendoza (3) - Black Bean Blues",
+      "year": "1998",
+      "label": "Sizzle Stick Productions",
+      "country": "US",
+      "discogs_id": 29410393,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OH-bQ3aRxMIw6dy_IN23gAu_ca9jgQufIlsXYuIi2jk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDEw/MzkzLTE3MDQ1NTUw/ODYtNjU5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Naughty Professor",
+      "title": "Six Dog Knight",
+      "release_title": "Naughty Professor - In The Flesh",
+      "year": "2016",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 8825903,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/K1D9eGvh9TMDw7MWDGfc159cBJ5UskzV4xK2OfOBciM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjU5/MDMtMTQ2OTU3MzEx/MC03MjM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Repercussions",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 5303169,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/rGBfUDhx1HRrbeyplgZFLllh_DGC3SnW9QOWzEXGvpM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDMx/NjktMTY0OTU3ODA1/MS04MDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tag",
+      "title": "Coconut Samba",
+      "release_title": "Tag (15) - Jigsaw",
+      "year": "1986",
+      "label": "Tag Records",
+      "country": "US",
+      "discogs_id": 7119001,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/BFvUZ5hKjoVBUZdXpUgsgKVGAbEAOMR-PU_m2GuQqt0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTkw/MDEtMTQzNDEzNDQ0/MS05MDkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Oscar Peterson",
+      "title": "Amanha = Tomorrow",
+      "release_title": "Oscar Peterson - Soul Español",
+      "year": "1967",
+      "label": "Limelight",
+      "country": "US",
+      "discogs_id": 31485032,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/teZ9t5cjlyBaPnC9plSeFds2f2BIWddUyRgk2McH08c/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg1/MDMyLTE3MjM3MjE5/NzYtNTA2Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hiromi Uehara",
+      "title": "Flashback",
+      "release_title": "Hiromi* - Voice",
+      "year": "2011",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 4587268,
+      "rating_avg": 4.45,
+      "rating_count": 42,
+      "cover_image": "https://i.discogs.com/QDXMZxdIfQk37YX-9UbGp5UelVbYgIsxejRa0E2jgZE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODcy/NjgtMTUxNDUyMTMx/Ny01Mzg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Poncho Sanchez",
+      "title": "Suave Cha",
+      "release_title": "Poncho Sanchez - El Mejor",
+      "year": "1992",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 10503078,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pNKwcJpMxb0Isox2oadmrIytRhK-FzBwjA43AazXdkc/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAz/MDc4LTE0OTg3NzQ4/NjYtNTc0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Di Meola",
+      "title": "In My Mother's Eyes (Memory Of Theresa)",
+      "release_title": "Al Di Meola - The Infinite Desire",
+      "year": "1998",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 7246172,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/kPoCrqVEITaPRyOseuTa7H1NNZpAsIfS6pqvutX0DKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDYx/NzItMTQzNzA2OTA2/OS02OTM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Spirit Of The Moment",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 5303169,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/rGBfUDhx1HRrbeyplgZFLllh_DGC3SnW9QOWzEXGvpM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDMx/NjktMTY0OTU3ODA1/MS04MDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Blue Mitchell",
+      "title": "Last Tango In Paris",
+      "release_title": "Blue Mitchell - Last Tango In Paris",
+      "year": "1973",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 9457261,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/hQaqb7hL-ZghGIGzP_pQRKXOv-qzc-zKhya0SQcC64I/rs:fit/g:sm/q:90/h:499/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTcy/NjEtMTQ4MDkwNjEy/MS03Mjk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Víctor Mendoza",
+      "title": "Chapina Chapín",
+      "release_title": "Víctor Mendoza (3) - Black Bean Blues",
+      "year": "1998",
+      "label": "Sizzle Stick Productions",
+      "country": "US",
+      "discogs_id": 29410393,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OH-bQ3aRxMIw6dy_IN23gAu_ca9jgQufIlsXYuIi2jk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDEw/MzkzLTE3MDQ1NTUw/ODYtNjU5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Oscar Peterson",
+      "title": "Manha De Carnaval",
+      "release_title": "Oscar Peterson - Soul Español",
+      "year": "1967",
+      "label": "Limelight",
+      "country": "US",
+      "discogs_id": 31485032,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/teZ9t5cjlyBaPnC9plSeFds2f2BIWddUyRgk2McH08c/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg1/MDMyLTE3MjM3MjE5/NzYtNTA2Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Alexander Zonjic",
+      "title": "Modaji",
+      "release_title": "Alexander Zonjic - Elegant Evening",
+      "year": "1982",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 1829723,
+      "rating_avg": 4.13,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/jJrHLTLAPFFmEWZhgQ2hT1skOEMrkjSqlPuxrK-aW6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk3/MjMtMTUyOTkzNTA3/MC0zODM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tom Scott",
+      "title": "Down To The Wire",
+      "release_title": "Tom Scott - Flashpoint",
+      "year": "1988",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 14110296,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/1muVoutN6fz2-zY-LX5xrNlUL2qNCx-4Sbej-xKxEt4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEw/Mjk2LTE2NDI2OTM1/NDgtMTgyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Just Now",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 28830604,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/uRAdXb4J8tnzYLc2MhJbGjqvMMdEDOYtunR96eYWBMc/rs:fit/g:sm/q:90/h:596/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODMw/NjA0LTE2OTkzODA3/OTgtMTU0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jerry Goodman & Jan Hammer",
+      "title": "Steppings Tones",
+      "release_title": "Jerry Goodman & Jan Hammer - Like Children",
+      "year": "1974",
+      "label": "Nemperor Records",
+      "country": "US",
+      "discogs_id": 1663991,
+      "rating_avg": 4.17,
+      "rating_count": 172,
+      "cover_image": "https://i.discogs.com/e9hll4TErxY65rF8nDCmVVBfAHR7s0EjeJsL9wEOZMU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjM5/OTEtMTM5ODcxMzM5/Mi0yMDYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Liquid Crystal",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 28830604,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/uRAdXb4J8tnzYLc2MhJbGjqvMMdEDOYtunR96eYWBMc/rs:fit/g:sm/q:90/h:596/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODMw/NjA0LTE2OTkzODA3/OTgtMTU0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gerald Veasley",
+      "title": "Shango",
+      "release_title": "Gerald Veasley - Look Ahead",
+      "year": "1992",
+      "label": "Heads Up International",
+      "country": "US",
+      "discogs_id": 7869877,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2f2uQje4HmDCBUtz8LBz53VSdxb7ehc0mFN_d_eeZzM/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njk4/NzctMTQ1MDU2MjQ3/Ni0zMzc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Alexander Zonjic",
+      "title": "Adagio",
+      "release_title": "Alexander Zonjic - Elegant Evening",
+      "year": "1982",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 1829723,
+      "rating_avg": 4.13,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/jJrHLTLAPFFmEWZhgQ2hT1skOEMrkjSqlPuxrK-aW6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk3/MjMtMTUyOTkzNTA3/MC0zODM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Alexander Zonjic",
+      "title": "Gymnopedie No. 1",
+      "release_title": "Alexander Zonjic - Elegant Evening",
+      "year": "1982",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 1829723,
+      "rating_avg": 4.13,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/jJrHLTLAPFFmEWZhgQ2hT1skOEMrkjSqlPuxrK-aW6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk3/MjMtMTUyOTkzNTA3/MC0zODM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Freddie Hubbard",
+      "title": "Crisis",
+      "release_title": "Freddie Hubbard - Crisis",
+      "year": "1974",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3136627,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9WMzLf-0GE02mw0CWOB8Jjv9dYaMy6YhQr2GUhtDERo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzY2/MjctMTMxODY4NzUz/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Poncho Sanchez",
+      "title": "Typhoon",
+      "release_title": "Poncho Sanchez - El Mejor",
+      "year": "1992",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 10503078,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pNKwcJpMxb0Isox2oadmrIytRhK-FzBwjA43AazXdkc/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAz/MDc4LTE0OTg3NzQ4/NjYtNTc0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tag",
+      "title": "Morning In The Meadow",
+      "release_title": "Tag (15) - Jigsaw",
+      "year": "1986",
+      "label": "Tag Records",
+      "country": "US",
+      "discogs_id": 7119001,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/BFvUZ5hKjoVBUZdXpUgsgKVGAbEAOMR-PU_m2GuQqt0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTkw/MDEtMTQzNDEzNDQ0/MS05MDkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willis Jackson",
+      "title": "My One And Only Love",
+      "release_title": "Willis Jackson - Headed And Gutted",
+      "year": "1975",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 23462078,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/9girlF_AkygXV5vPO5DkORB0L_EzgAwTlipj7myCJww/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYy/MDc4LTE2NTQzNDAw/NzItMTE1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michel Camilo",
+      "title": "Nardis",
+      "release_title": "Michel Camilo - Spirit Of The Moment",
+      "year": "2007",
+      "label": "Telarc Jazz",
+      "country": "US",
+      "discogs_id": 28830604,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/uRAdXb4J8tnzYLc2MhJbGjqvMMdEDOYtunR96eYWBMc/rs:fit/g:sm/q:90/h:596/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODMw/NjA0LTE2OTkzODA3/OTgtMTU0Ni5qcGVn.jpeg"
+    }
+  ]
+}
