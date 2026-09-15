@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1966,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 0,
+      "styles_considered": 105
+    }
+  },
+  "results": [
+    {
+      "artist": "Eumir Deodato",
+      "title": "Rhapsody In Blue",
+      "release_title": "Deodato* - Rhapsody In Blue / Super Strut",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 1206656,
+      "rating_avg": 4.38,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/fWuDIbpZIvUtZMGwbAceZhqlmA7qAy6Qgvu7uObOQ4o/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY2/NTYtMTQxNjI3Mjc1/Mi04MzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Cannonball Adderley Quintet",
+      "title": "Walk Tall (Baby, That's What I Need)",
+      "release_title": "The Cannonball Adderley Quintet - Music, You All",
+      "year": "1976",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 2456021,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DWUIq-PZ2SLxqYd6gwJ2bLcGm1xWVtGhX9LaI0llCDU/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/MjEtMTI4NTQwNTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Summit Afrique: The Foundation (\"Isisekelo Zulu\")",
+      "release_title": "Billy Cobham - Powerplay",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 1991280,
+      "rating_avg": 3.91,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/pbsgR79XE50Lh33HDkPzAs5Se5LoQ6WxEIu7IrWicig/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTEy/ODAtMTI2NDkxMzc0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pete Escovedo",
+      "title": "Miles Away",
+      "release_title": "Pete Escovedo - E Music",
+      "year": "2000",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 12874730,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3mPAOUn0WpmodCmx0M64P1-NGWGZl2dtVZTZrgyWwMU/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc0/NzMwLTE1NDM2MjM4/MDctNDc2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Ramsey Lewis Trio",
+      "title": "Unsilent Minority",
+      "release_title": "Ramsey Lewis & Co.* - Them Changes / Unsilent Minority",
+      "year": "1970",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 2912833,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/sGtUFf-Xjxropfa5H7XsVcxjKwh0JFFFnpNmoDnDmwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI4/MzMtMTQzNTU5NTEy/Mi0yMDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Steve Bach",
+      "title": "Once Upon A Time",
+      "release_title": "Steve Bach - Zero Gravity",
+      "year": "1987",
+      "label": "Cafe Records",
+      "country": "US",
+      "discogs_id": 37505847,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7DyHKvVimQw4cxWyaVfsLMKrhPo1gqPsz1hWYWTVO_U/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTA1/ODQ3LTE3ODAzMjkw/ODQtMjYzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Darryl Way",
+      "title": "Sea Aire",
+      "release_title": "Darryl Way - Under The Soft",
+      "year": "1991",
+      "label": "I.R.S. No Speak",
+      "country": "US",
+      "discogs_id": 5316165,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/1kclAl-gA_-jdnvUNJjy_3zJfsxgKyV3V1jJjRUS8qs/rs:fit/g:sm/q:90/h:480/w:483/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTYx/NjUtMTM5MDM1Mzg2/MS01OTUwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Times Of My Life",
+      "release_title": "Billy Cobham - Powerplay",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 1991280,
+      "rating_avg": 3.91,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/pbsgR79XE50Lh33HDkPzAs5Se5LoQ6WxEIu7IrWicig/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTEy/ODAtMTI2NDkxMzc0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Bach",
+      "title": "Zero Gravity",
+      "release_title": "Steve Bach - Zero Gravity",
+      "year": "1987",
+      "label": "Cafe Records",
+      "country": "US",
+      "discogs_id": 37505847,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7DyHKvVimQw4cxWyaVfsLMKrhPo1gqPsz1hWYWTVO_U/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTA1/ODQ3LTE3ODAzMjkw/ODQtMjYzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Buenos Aires Connection",
+      "title": "Por Una Cabeza",
+      "release_title": "Buenos Aires Connection - Tango Argentina",
+      "year": "1999",
+      "label": "Current Records",
+      "country": "US",
+      "discogs_id": 13890522,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wqcAi6hJx0N0z8pWa79UzbfsenW5-qwV1zUH2v_2ZLg/rs:fit/g:sm/q:90/h:490/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkw/NTIyLTE1NjM0MDc2/NTItOTk4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jim Beard",
+      "title": "Camieff",
+      "release_title": "Jim Beard - Song Of The Sun",
+      "year": "1991",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 6067383,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VrXlQJ5hh8NWFwVkzM2EfZ1j867fPYOWafBREWTv55g/rs:fit/g:sm/q:90/h:600/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcz/ODMtMTQxMDIwNzE2/NC0yMzkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "School Of The Arts",
+      "title": "Maybe Next Time",
+      "release_title": "School Of The Arts - School Of The Arts",
+      "year": "2007",
+      "label": "Magnatude Records",
+      "country": "US",
+      "discogs_id": 5033188,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/7KWfoKvVCugUTHIrvplZQygQ1EfAlIuYltreX_1jre8/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzMx/ODgtMTM4MjY3NTYy/MC02MjA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Eleanor Rigby",
+      "release_title": "The Crusaders - Scratch",
+      "year": "1974",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 13843435,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hWSLt7pPiH92TzPFh4pKJ2w0joGMCCMekLujhywnETM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQz/NDM1LTE1NjIzOTQ3/MTMtNzAzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jim Beard",
+      "title": "Haydel Bay",
+      "release_title": "Jim Beard - Song Of The Sun",
+      "year": "1991",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 6067383,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VrXlQJ5hh8NWFwVkzM2EfZ1j867fPYOWafBREWTv55g/rs:fit/g:sm/q:90/h:600/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcz/ODMtMTQxMDIwNzE2/NC0yMzkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roland Kirk",
+      "title": "Making Love After Hours",
+      "release_title": "Roland Kirk - Making Love After Hours",
+      "year": "1967",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 10462127,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lf3GZsfMgpbVKGpJhZox9Hv9T8_CZM6ynqaUn1TiDcA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYy/MTI3LTE0OTc5MTk5/OTctNjI4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rafi Malkiel",
+      "title": "Mai Eden",
+      "release_title": "Rafi Malkiel - Water",
+      "year": "2010",
+      "label": "Tzadik",
+      "country": "US",
+      "discogs_id": 8029987,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/trnzmAJmR9OfOXxlXqlP48jJKDNspUXz9qdqXCypVzI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjk5/ODctMTQ1Mzc4OTE0/Ny01OTMyLnBuZw.jpeg"
+    },
+    {
+      "artist": "School Of The Arts",
+      "title": "No Time Flat",
+      "release_title": "School Of The Arts - School Of The Arts",
+      "year": "2007",
+      "label": "Magnatude Records",
+      "country": "US",
+      "discogs_id": 5033188,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/7KWfoKvVCugUTHIrvplZQygQ1EfAlIuYltreX_1jre8/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzMx/ODgtMTM4MjY3NTYy/MC02MjA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock & Chick Corea",
+      "title": "Someday My Prince Will Come",
+      "release_title": "Herbie Hancock & Chick Corea - An Evening With Herbie Hancock & Chick Corea- Special Radio Edition",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 5579359,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/2y1-IUnrlRpPEMWjaSqZnaVl84jDl8qCHvMrRKfflcE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzkz/NTktMTQ2NjEzMTM2/OS01NjE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jim Beard",
+      "title": "Song Of The Sun",
+      "release_title": "Jim Beard - Song Of The Sun",
+      "year": "1991",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 6067383,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VrXlQJ5hh8NWFwVkzM2EfZ1j867fPYOWafBREWTv55g/rs:fit/g:sm/q:90/h:600/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcz/ODMtMTQxMDIwNzE2/NC0yMzkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Buenos Aires Connection",
+      "title": "9 De Julio",
+      "release_title": "Buenos Aires Connection - Tango Argentina",
+      "year": "1999",
+      "label": "Current Records",
+      "country": "US",
+      "discogs_id": 13890522,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wqcAi6hJx0N0z8pWa79UzbfsenW5-qwV1zUH2v_2ZLg/rs:fit/g:sm/q:90/h:490/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkw/NTIyLTE1NjM0MDc2/NTItOTk4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Buenos Aires Connection",
+      "title": "Adios Muchachos",
+      "release_title": "Buenos Aires Connection - Tango Argentina",
+      "year": "1999",
+      "label": "Current Records",
+      "country": "US",
+      "discogs_id": 13890522,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wqcAi6hJx0N0z8pWa79UzbfsenW5-qwV1zUH2v_2ZLg/rs:fit/g:sm/q:90/h:490/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkw/NTIyLTE1NjM0MDc2/NTItOTk4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Gary",
+      "title": "Black Is The Color Of My True Love's Hair",
+      "release_title": "John Gary - John Gary Sings Especially For You / Spanish Moonlight",
+      "year": "1967",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 10630852,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OOOjfbXB707Ajqzt7EGbirQPiHI8etedeaegdmUhyLQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/ODUyLTE1MDEyODU4/NTctMzAzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jim Beard",
+      "title": "Parsley Trees",
+      "release_title": "Jim Beard - Song Of The Sun",
+      "year": "1991",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 6067383,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VrXlQJ5hh8NWFwVkzM2EfZ1j867fPYOWafBREWTv55g/rs:fit/g:sm/q:90/h:600/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcz/ODMtMTQxMDIwNzE2/NC0yMzkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Steve Bach",
+      "title": "Hometown",
+      "release_title": "Steve Bach - Zero Gravity",
+      "year": "1987",
+      "label": "Cafe Records",
+      "country": "US",
+      "discogs_id": 37505847,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7DyHKvVimQw4cxWyaVfsLMKrhPo1gqPsz1hWYWTVO_U/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTA1/ODQ3LTE3ODAzMjkw/ODQtMjYzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Radioactive",
+      "release_title": "Billy Cobham - Powerplay",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 1991280,
+      "rating_avg": 3.91,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/pbsgR79XE50Lh33HDkPzAs5Se5LoQ6WxEIu7IrWicig/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTEy/ODAtMTI2NDkxMzc0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Darryl Way",
+      "title": "Electric Bolero",
+      "release_title": "Darryl Way - Under The Soft",
+      "year": "1991",
+      "label": "I.R.S. No Speak",
+      "country": "US",
+      "discogs_id": 5316165,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/1kclAl-gA_-jdnvUNJjy_3zJfsxgKyV3V1jJjRUS8qs/rs:fit/g:sm/q:90/h:480/w:483/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTYx/NjUtMTM5MDM1Mzg2/MS01OTUwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gary Bartz NTU Troop",
+      "title": "Drinking Song",
+      "release_title": "Gary Bartz NTU Troop - Drinking Song / Uhuru Sasa",
+      "year": "1971",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 8261415,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/pOmkGqy2HLGoeVnjRa-ipA0sxVEI_ASAlEg4T-2-UAc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjE0/MTUtMTQ1ODE2Njg5/Ni04NDg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herb Alpert",
+      "title": "Hidden Angel",
+      "release_title": "Herb Alpert - Under A Spanish Moon",
+      "year": "1988",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 5681863,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/e-hg31OY6i33WKHe5feKUIa0PTyL5tsMAQJ9wgmFDsU/rs:fit/g:sm/q:90/h:600/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODE4/NjMtMTQzNTUyMDE0/Mi0zODg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Cannonball Adderley Quintet",
+      "title": "The Scene",
+      "release_title": "The Cannonball Adderley Quintet - Music, You All",
+      "year": "1976",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 2456021,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DWUIq-PZ2SLxqYd6gwJ2bLcGm1xWVtGhX9LaI0llCDU/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYw/MjEtMTI4NTQwNTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pete Escovedo",
+      "title": "Praise And Worship",
+      "release_title": "Pete Escovedo - E Music",
+      "year": "2000",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 12874730,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3mPAOUn0WpmodCmx0M64P1-NGWGZl2dtVZTZrgyWwMU/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc0/NzMwLTE1NDM2MjM4/MDctNDc2NS5qcGVn.jpeg"
+    }
+  ]
+}
