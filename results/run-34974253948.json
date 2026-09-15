@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": ""
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2015,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 31,
+      "artists_found": 29,
+      "fresh_lookups": 0,
+      "styles_considered": 88
+    }
+  },
+  "results": [
+    {
+      "artist": "The J.C. White Singers",
+      "title": "Just A Little Love",
+      "release_title": "The J.C. White Singers - Phase 1",
+      "year": "1977",
+      "label": "Savoy Records",
+      "country": "US",
+      "discogs_id": 3350684,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/V6oR9z5KlKkonT5sRxcUOlTfH8LolduW2TovZg_tgOo/rs:fit/g:sm/q:90/h:301/w:319/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTA2/ODQtMTMyNjkwMjg1/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Dramatics",
+      "title": "Welcome Back Home",
+      "release_title": "The Dramatics - Welcome Back Home / A Marriage On Paper Only",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 1303042,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/Xl9SRigZAvaM-a0WAOcbUiCCv_zP3pjDqP69021dI0Q/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDMw/NDItMTI1NzU0MTM4/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blowfly",
+      "title": "Cancer",
+      "release_title": "Blowfly - Blowfly's Disco Zodiac Party",
+      "year": "1978",
+      "label": "Weird World",
+      "country": "US",
+      "discogs_id": 13745118,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/2Gk3Cbvi8ukOqytk3o4aoFlA6IC5LUS1Wg4fLp23WA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/MTE4LTE1NjQxMTE4/ODYtODMxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peaches & Herb",
+      "title": "I Wish I Could Be A Kid Again",
+      "release_title": "Peaches & Herb - Sayin' Something!",
+      "year": "1981",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 8048134,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fe5639-ZCS0j_xAaJjKpPlAQY_XwQFOVyTbIl5qec5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDgx/MzQtMTQ1NDE1NDQ1/MC01Mjk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peaches & Herb",
+      "title": "Picking Up The Pieces",
+      "release_title": "Peaches & Herb - Sayin' Something!",
+      "year": "1981",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 8048134,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fe5639-ZCS0j_xAaJjKpPlAQY_XwQFOVyTbIl5qec5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDgx/MzQtMTQ1NDE1NDQ1/MC01Mjk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The J.C. White Singers",
+      "title": "I'll Praise His Name",
+      "release_title": "The J.C. White Singers - Phase 1",
+      "year": "1977",
+      "label": "Savoy Records",
+      "country": "US",
+      "discogs_id": 3350684,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/V6oR9z5KlKkonT5sRxcUOlTfH8LolduW2TovZg_tgOo/rs:fit/g:sm/q:90/h:301/w:319/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTA2/ODQtMTMyNjkwMjg1/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frankie Newsome",
+      "title": "Don't Mess With My Lovemaker (Part II)",
+      "release_title": "Frankie Newsome - Don't Mess With My Lovemaker",
+      "year": "1970",
+      "label": "Savern",
+      "country": "US",
+      "discogs_id": 553598,
+      "rating_avg": 4.88,
+      "rating_count": 24,
+      "cover_image": "https://i.discogs.com/qbVsgl--jZUNYGxI26b8lQeNEHo5ODEUhylmEDKN_Eo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzU5/OC0xNTE4NjQ2MzA3/LTI4MDQuanBlZw.jpeg"
+    },
+    {
+      "artist": "Blowfly",
+      "title": "Capricorn",
+      "release_title": "Blowfly - Blowfly's Disco Zodiac Party",
+      "year": "1978",
+      "label": "Weird World",
+      "country": "US",
+      "discogs_id": 13745118,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/2Gk3Cbvi8ukOqytk3o4aoFlA6IC5LUS1Wg4fLp23WA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/MTE4LTE1NjQxMTE4/ODYtODMxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blowfly",
+      "title": "Scorpio",
+      "release_title": "Blowfly - Blowfly's Disco Zodiac Party",
+      "year": "1978",
+      "label": "Weird World",
+      "country": "US",
+      "discogs_id": 13745118,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/2Gk3Cbvi8ukOqytk3o4aoFlA6IC5LUS1Wg4fLp23WA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/MTE4LTE1NjQxMTE4/ODYtODMxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jackson Sisters",
+      "title": "Boy, You're Dynamite",
+      "release_title": "Jackson Sisters - Boy, You're Dynamite",
+      "year": "1974",
+      "label": "Mums Records",
+      "country": "US",
+      "discogs_id": 1712166,
+      "rating_avg": 4.25,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/9lt7LxHLPnABsmqem-xtSIJ1VkB-AghpFmUUPQn6hIQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/NjYtMTU1MjAzNzU0/OC04MDE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "OC Smith",
+      "title": "I Betcha",
+      "release_title": "O.C. Smith* - I Betcha",
+      "year": "1982",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 5085090,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/Z3ASjx7J4Q8epUdmN3Tgq5Xbay-O0k_xOruV1YxpXqc/rs:fit/g:sm/q:90/h:556/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODUw/OTAtMTYzNjc4NjY5/OC0xNDUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jesse Gresham Plus 3",
+      "title": "The Penguin (Pt. 1)",
+      "release_title": "Jesse Gresham Plus 3 - The Penguin",
+      "year": "1971",
+      "label": "Jewel Records",
+      "country": "US",
+      "discogs_id": 6001933,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/cYFQtOZsdtQKHVZH9k1YDFOT7lG5zmJHsRSm18IVu94/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDE5/MzMtMTQ4MjkxMzAx/MC0xNjcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dusty Springfield",
+      "title": "Willie & Laura Mae Jones",
+      "release_title": "Dusty Springfield - Willie & Laura Mae Jones",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5266936,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/0lwkdlCmwuUodQ8FLEnw3qwrdUCTw4FYJ-8N5IBojfU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjY5/MzYtMTM4OTExNzg5/NC03NDk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The J.C. White Singers",
+      "title": "The World Must See Jesus In You",
+      "release_title": "The J.C. White Singers - Phase 1",
+      "year": "1977",
+      "label": "Savoy Records",
+      "country": "US",
+      "discogs_id": 3350684,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/V6oR9z5KlKkonT5sRxcUOlTfH8LolduW2TovZg_tgOo/rs:fit/g:sm/q:90/h:301/w:319/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTA2/ODQtMTMyNjkwMjg1/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "James Brown",
+      "title": "Mother Popcorn (Part 2)",
+      "release_title": "James Brown - It's A Mother",
+      "year": "1969",
+      "label": "King Records",
+      "country": "US",
+      "discogs_id": 5615267,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/x8bWARq2YZC7KQmahqbwznypB2RM6xTrhettr32i0w0/rs:fit/g:sm/q:90/h:598/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTUy/NjctMTQzMzAzODM3/MC04MzM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Blowfly",
+      "title": "Libra",
+      "release_title": "Blowfly - Blowfly's Disco Zodiac Party",
+      "year": "1978",
+      "label": "Weird World",
+      "country": "US",
+      "discogs_id": 13745118,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/2Gk3Cbvi8ukOqytk3o4aoFlA6IC5LUS1Wg4fLp23WA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/MTE4LTE1NjQxMTE4/ODYtODMxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "James Brown",
+      "title": "You're Still Out Of Sight",
+      "release_title": "James Brown - It's A Mother",
+      "year": "1969",
+      "label": "King Records",
+      "country": "US",
+      "discogs_id": 5615267,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/x8bWARq2YZC7KQmahqbwznypB2RM6xTrhettr32i0w0/rs:fit/g:sm/q:90/h:598/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTUy/NjctMTQzMzAzODM3/MC04MzM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jesse Gresham Plus 3",
+      "title": "The Penguin (Pt. 2)",
+      "release_title": "Jesse Gresham Plus 3 - The Penguin",
+      "year": "1971",
+      "label": "Jewel Records",
+      "country": "US",
+      "discogs_id": 6001933,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/cYFQtOZsdtQKHVZH9k1YDFOT7lG5zmJHsRSm18IVu94/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDE5/MzMtMTQ4MjkxMzAx/MC0xNjcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Keith Sweat",
+      "title": "Nobody (Radio Edit)",
+      "release_title": "Keith Sweat - Nobody",
+      "year": "1996",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 7354353,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/ZaddmEkyBZZnumtYVWhLEtlBpvHPVaOTZePQOfkscAc/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTQz/NTMtMTYyNDI0OTM1/NS0yMjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Keith Sweat",
+      "title": "In The Mood",
+      "release_title": "Keith Sweat - Nobody",
+      "year": "1996",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 7354353,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/ZaddmEkyBZZnumtYVWhLEtlBpvHPVaOTZePQOfkscAc/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTQz/NTMtMTYyNDI0OTM1/NS0yMjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "James Brown",
+      "title": "Mashed Potato Popcorn (Part 2)",
+      "release_title": "James Brown - It's A Mother",
+      "year": "1969",
+      "label": "King Records",
+      "country": "US",
+      "discogs_id": 5615267,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/x8bWARq2YZC7KQmahqbwznypB2RM6xTrhettr32i0w0/rs:fit/g:sm/q:90/h:598/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTUy/NjctMTQzMzAzODM3/MC04MzM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "When She Stops Asking",
+      "release_title": "Johnnie Taylor - Just Because / When She Stops Asking",
+      "year": "1986",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 5625370,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dBZ5gXvMgS5Y49yfv9vmXYRN4K4fhjC0u-UOV5VU8qU/rs:fit/g:sm/q:90/h:375/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjUz/NzAtMTUwMzYzNzYy/NS01MDE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Otisettes & The Johnny Otis Show",
+      "title": "Everything You Said Came True",
+      "release_title": "The Otisettes Featured With The Johnny Otis Show - Everything You Said Came True",
+      "year": "1972",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 2304486,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/yv7LyVCtWzYi3CcrQzAWMT8_LrO9J50-ku73fdUGpjE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDQ0/ODYtMTI3Njc5MjY0/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Just Because",
+      "release_title": "Johnnie Taylor - Just Because / When She Stops Asking",
+      "year": "1986",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 5625370,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dBZ5gXvMgS5Y49yfv9vmXYRN4K4fhjC0u-UOV5VU8qU/rs:fit/g:sm/q:90/h:375/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjUz/NzAtMTUwMzYzNzYy/NS01MDE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peaches & Herb",
+      "title": "Freeway",
+      "release_title": "Peaches & Herb - Sayin' Something!",
+      "year": "1981",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 8048134,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fe5639-ZCS0j_xAaJjKpPlAQY_XwQFOVyTbIl5qec5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDgx/MzQtMTQ1NDE1NDQ1/MC01Mjk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ohio Players",
+      "title": "Take De Funk Off, Fly",
+      "release_title": "Ohio Players - Everybody Up / Take De Funk Off, Fly",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 11210092,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/L7QcgYpeCT1z340YGrcdW-VFwYg2zRC_snwNpnp0Qpk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEw/MDkyLTE1NzAxMDQ4/OTQtMTY0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frankie Newsome",
+      "title": "Don't Mess With My Lovemaker Part I",
+      "release_title": "Frankie Newsome - Don't Mess With My Lovemaker",
+      "year": "1970",
+      "label": "Savern",
+      "country": "US",
+      "discogs_id": 553598,
+      "rating_avg": 4.88,
+      "rating_count": 24,
+      "cover_image": "https://i.discogs.com/qbVsgl--jZUNYGxI26b8lQeNEHo5ODEUhylmEDKN_Eo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzU5/OC0xNTE4NjQ2MzA3/LTI4MDQuanBlZw.jpeg"
+    },
+    {
+      "artist": "The Dramatics",
+      "title": "A Marriage On Paper Only",
+      "release_title": "The Dramatics - Welcome Back Home / A Marriage On Paper Only",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 1303042,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/Xl9SRigZAvaM-a0WAOcbUiCCv_zP3pjDqP69021dI0Q/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDMw/NDItMTI1NzU0MTM4/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "21st Creation",
+      "title": "Tailgate",
+      "release_title": "21st Creation - Tailgate",
+      "year": "1977",
+      "label": "Gordy",
+      "country": "US",
+      "discogs_id": 3378958,
+      "rating_avg": 4.67,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/a7oiaY7c3_Gg7PGX8ufWNpnT98YNsWMLFnGJrxpQQEw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzg5/NTgtMTMyOTE3NzQ4/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Holman",
+      "title": "I Surrender",
+      "release_title": "Eddie Holman - I Love You / I Surrender",
+      "year": "1969",
+      "label": "ABC Records",
+      "country": "US",
+      "discogs_id": 3000099,
+      "rating_avg": 5.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/p-3cWZFp7Hwvbp_5Yx47FKf2VD8Cyuoj8gCEGU3bjRE/rs:fit/g:sm/q:90/h:437/w:438/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDAw/OTktMTQxMzk5NjEy/MC00NDc4LmpwZWc.jpeg"
+    }
+  ]
+}
