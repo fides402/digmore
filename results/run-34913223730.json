@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Cool Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1963,
+    "year_to": 2014,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 23,
+      "artists_found": 22,
+      "fresh_lookups": 1,
+      "styles_considered": 98
+    }
+  },
+  "results": [
+    {
+      "artist": "The New Brubeck Quartet",
+      "title": "Three To Get Ready",
+      "release_title": "The New Brubeck Quartet - A Cut Above !",
+      "year": "1978",
+      "label": "Direct-Disk Labs",
+      "country": "US",
+      "discogs_id": 2415233,
+      "rating_avg": 4.18,
+      "rating_count": 114,
+      "cover_image": "https://i.discogs.com/sw4CRJzSjbBFQA5acRZyXhGnIu5dgDhFi3w02cZOd7I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTUy/MzMtMTU5MjM5MTE1/NC0zNDYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Felix Slatkin",
+      "title": "The Days Of Wine And Roses",
+      "release_title": "Felix Slatkin - Our Winter Love",
+      "year": "1963",
+      "label": "Liberty",
+      "country": "US",
+      "discogs_id": 4044833,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/o3YUaHvQE7e_7QyY43xxDI_ZpSOGTo5y9hR1G3dziwg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDQ4/MzMtMTY1NTU1Njk5/Mi04MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Wes Montgomery",
+      "title": "More, More Amor",
+      "release_title": "Wes Montgomery - California Dreaming",
+      "year": "1967",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 13894371,
+      "rating_avg": 4.5,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/bLhpEVP8lgsiSerkskrl_SfbSKBpc6u0Q2cLW81U-7A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk0/MzcxLTE1NjM2NTM5/NzItMzY0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Monaco Strings",
+      "title": "Indian River Lullaby",
+      "release_title": "The Monaco Strings - Sounds For Sentimentalists",
+      "year": "1965",
+      "label": "Serenus",
+      "country": "US",
+      "discogs_id": 15674892,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wUudDwMTHU7LKN1-M_T42nnzQhpj9XIzU9an1GR8wrw/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc0/ODkyLTE1OTU2OTQw/OTEtODIyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Dave Brubeck Quartet",
+      "title": "The Duke",
+      "release_title": "Dave Brubeck - Ken Burns Jazz (The Definitive Dave Brubeck)",
+      "year": "2000",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 1752445,
+      "rating_avg": 4.14,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/BEpr7_dMs1g9uXuFiMLhzC3zLN5WLz0554GmKiN_jys/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTI0/NDUtMTI0MTIwODI3/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "Untitled",
+      "release_title": "Unknown Artist - Basic Music Library",
+      "year": "1964",
+      "label": "Seeburg",
+      "country": "US",
+      "discogs_id": 37214922,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BJTF8LkMaJN2zE8RTQ3_z2TcTl9d87Pgh1vdXyz-e0I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjE0/OTIyLTE3Nzc1NTk3/MDAtNjM2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hiromi Uehara",
+      "title": "Dancando No Paraiso",
+      "release_title": "Hiromi* - Live In Concert",
+      "year": "2008",
+      "label": "Yamaha",
+      "country": "US",
+      "discogs_id": 3060588,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/cQlIYLPNf8nYNUNM6ynhlnRAJzvIg-2X7vvURiypTNg/rs:fit/g:sm/q:90/h:600/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjA1/ODgtMTMxMzg2MDIx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty",
+      "title": "Tchokola",
+      "release_title": "Various - Jazziz On Disc Five",
+      "year": "1991",
+      "label": "Jazziz",
+      "country": "US",
+      "discogs_id": 2360903,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/gDzPq9Z2m43jN8rhvLo2FZNtC8WFgFtk5-DnNNO1zYw/rs:fit/g:sm/q:90/h:531/w:538/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA5/MDMtMTI3OTQ4NTgx/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet & Laurindo Almeida",
+      "title": "One Note Samba",
+      "release_title": "The Modern Jazz Quartet With Laurindo Almeida - Collaboration",
+      "year": "1966",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5330105,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/2KAGWLJz5eY2wlWd02MMfcRFtSJkRsiuVJ6Cs7Nhs5Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzAx/MDUtMTM5MDcxMTgy/MC0xOTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Miguel Zenon",
+      "title": "Through Culture And Tradition",
+      "release_title": "Miguel Zenón* - Identities Are Changeable",
+      "year": "2014",
+      "label": "Miel Music",
+      "country": "US",
+      "discogs_id": 7730226,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2I5gEgg7NZ4JUsPazLOcXgp80Ky0W-k5YrFCPSkMBuM/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzAy/MjYtMTQ0NzYwMDg5/NC04ODI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Terell Stafford",
+      "title": "Send In The Clowns",
+      "release_title": "Various - Songs Of Love, Peace, Understanding ...And A Little Heartache",
+      "year": "1997",
+      "label": "JazzFest",
+      "country": "US",
+      "discogs_id": 15528004,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/umseyUahcdcyzejq2miJ0LYbq1rHjETeTwhYg03T8GA/rs:fit/g:sm/q:90/h:495/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/MDA0LTE1OTMxNTMz/MzYtODE1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Monaco Strings",
+      "title": "Taiga Melody",
+      "release_title": "The Monaco Strings - Sounds For Sentimentalists",
+      "year": "1965",
+      "label": "Serenus",
+      "country": "US",
+      "discogs_id": 15674892,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wUudDwMTHU7LKN1-M_T42nnzQhpj9XIzU9an1GR8wrw/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc0/ODkyLTE1OTU2OTQw/OTEtODIyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Hodes",
+      "title": "Tennessee Waltz",
+      "release_title": "Various - Songs Of Love, Peace, Understanding ...And A Little Heartache",
+      "year": "1997",
+      "label": "JazzFest",
+      "country": "US",
+      "discogs_id": 15528004,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/umseyUahcdcyzejq2miJ0LYbq1rHjETeTwhYg03T8GA/rs:fit/g:sm/q:90/h:495/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/MDA0LTE1OTMxNTMz/MzYtODE1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Miguel Zenon",
+      "title": "Second Generation Lullaby",
+      "release_title": "Miguel Zenón* - Identities Are Changeable",
+      "year": "2014",
+      "label": "Miel Music",
+      "country": "US",
+      "discogs_id": 7730226,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2I5gEgg7NZ4JUsPazLOcXgp80Ky0W-k5YrFCPSkMBuM/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzAy/MjYtMTQ0NzYwMDg5/NC04ODI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet & Laurindo Almeida",
+      "title": "Fugue In A Minor",
+      "release_title": "The Modern Jazz Quartet With Laurindo Almeida - Collaboration",
+      "year": "1966",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5330105,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/2KAGWLJz5eY2wlWd02MMfcRFtSJkRsiuVJ6Cs7Nhs5Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzAx/MDUtMTM5MDcxMTgy/MC0xOTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Monaco Strings",
+      "title": "Just Say Hello For Me",
+      "release_title": "The Monaco Strings - Sounds For Sentimentalists",
+      "year": "1965",
+      "label": "Serenus",
+      "country": "US",
+      "discogs_id": 15674892,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wUudDwMTHU7LKN1-M_T42nnzQhpj9XIzU9an1GR8wrw/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc0/ODkyLTE1OTU2OTQw/OTEtODIyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lew Williams",
+      "title": "Gone With The Wind",
+      "release_title": "Lew Williams (2) - Fanfare",
+      "year": "2001",
+      "label": "ERB Enterprises, Inc.",
+      "country": "US",
+      "discogs_id": 16998516,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pEeIOdLlmsIJdndSR5Kay79Nmm_xpy3DKndY7X5czzo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk4/NTE2LTE2MTEwNDgw/ODUtNTUxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Wes Montgomery",
+      "title": "Sunny",
+      "release_title": "Wes Montgomery - California Dreaming",
+      "year": "1967",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 13894371,
+      "rating_avg": 4.5,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/bLhpEVP8lgsiSerkskrl_SfbSKBpc6u0Q2cLW81U-7A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk0/MzcxLTE1NjM2NTM5/NzItMzY0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Blue Rondo A La Turk",
+      "release_title": "Dave Brubeck - Ken Burns Jazz (The Definitive Dave Brubeck)",
+      "year": "2000",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 1752445,
+      "rating_avg": 4.14,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/BEpr7_dMs1g9uXuFiMLhzC3zLN5WLz0554GmKiN_jys/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTI0/NDUtMTI0MTIwODI3/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Miguel Zenon",
+      "title": "¿De Dónde Vienes? (Overture)",
+      "release_title": "Miguel Zenón* - Identities Are Changeable",
+      "year": "2014",
+      "label": "Miel Music",
+      "country": "US",
+      "discogs_id": 7730226,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2I5gEgg7NZ4JUsPazLOcXgp80Ky0W-k5YrFCPSkMBuM/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzAy/MjYtMTQ0NzYwMDg5/NC04ODI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Annie Ross",
+      "title": "I've Grown Accustomed To Your Face",
+      "release_title": "Annie Ross - Sings A Song With Mulligan!",
+      "year": "1995",
+      "label": "EMI-Manhattan Records",
+      "country": "US",
+      "discogs_id": 35542885,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/M8FtmnJV_4zRR__gErw0wzfTxptEN-snet2s0J3gT34/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQy/ODg1LTE3NjIwMjgz/OTUtODc3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Annie Ross",
+      "title": "You Turned The Tables On Me",
+      "release_title": "Annie Ross - Sings A Song With Mulligan!",
+      "year": "1995",
+      "label": "EMI-Manhattan Records",
+      "country": "US",
+      "discogs_id": 35542885,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/M8FtmnJV_4zRR__gErw0wzfTxptEN-snet2s0J3gT34/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQy/ODg1LTE3NjIwMjgz/OTUtODc3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Annie Ross",
+      "title": "My Old Flame",
+      "release_title": "Annie Ross - Sings A Song With Mulligan!",
+      "year": "1995",
+      "label": "EMI-Manhattan Records",
+      "country": "US",
+      "discogs_id": 35542885,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/M8FtmnJV_4zRR__gErw0wzfTxptEN-snet2s0J3gT34/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQy/ODg1LTE3NjIwMjgz/OTUtODc3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet & Laurindo Almeida",
+      "title": "Foi A Saudade",
+      "release_title": "The Modern Jazz Quartet With Laurindo Almeida - Collaboration",
+      "year": "1966",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5330105,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/2KAGWLJz5eY2wlWd02MMfcRFtSJkRsiuVJ6Cs7Nhs5Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzAx/MDUtMTM5MDcxMTgy/MC0xOTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Harper Brothers",
+      "title": "In God We Trust",
+      "release_title": "Various - Jazziz On Disc Five",
+      "year": "1991",
+      "label": "Jazziz",
+      "country": "US",
+      "discogs_id": 2360903,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/gDzPq9Z2m43jN8rhvLo2FZNtC8WFgFtk5-DnNNO1zYw/rs:fit/g:sm/q:90/h:531/w:538/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA5/MDMtMTI3OTQ4NTgx/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Sanborn",
+      "title": "Another Hand",
+      "release_title": "David Sanborn - Another Hand",
+      "year": "1991",
+      "label": "Elektra Musician",
+      "country": "US",
+      "discogs_id": 7723818,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ZZa8Y3o8l9qyLVImVTBwVCgv3IH7xqnUk780uSl7S0M/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjM4/MTgtMTQ0NzQ3MDU0/Ny04MTA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hiromi Uehara",
+      "title": "Spiral",
+      "release_title": "Hiromi* - Live In Concert",
+      "year": "2008",
+      "label": "Yamaha",
+      "country": "US",
+      "discogs_id": 3060588,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/cQlIYLPNf8nYNUNM6ynhlnRAJzvIg-2X7vvURiypTNg/rs:fit/g:sm/q:90/h:600/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjA1/ODgtMTMxMzg2MDIx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bennie Wallace",
+      "title": "If I Lose (From The Motion Picture 'White Men Can't Jump')",
+      "release_title": "Various - Songs Of Love, Peace, Understanding ...And A Little Heartache",
+      "year": "1997",
+      "label": "JazzFest",
+      "country": "US",
+      "discogs_id": 15528004,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/umseyUahcdcyzejq2miJ0LYbq1rHjETeTwhYg03T8GA/rs:fit/g:sm/q:90/h:495/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/MDA0LTE1OTMxNTMz/MzYtODE1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Sanborn",
+      "title": "Cee",
+      "release_title": "David Sanborn - Another Hand",
+      "year": "1991",
+      "label": "Elektra Musician",
+      "country": "US",
+      "discogs_id": 7723818,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ZZa8Y3o8l9qyLVImVTBwVCgv3IH7xqnUk780uSl7S0M/rs:fit/g:sm/q:90/h:600/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjM4/MTgtMTQ0NzQ3MDU0/Ny04MTA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tommy Flanagan",
+      "title": "A Child Is Born",
+      "release_title": "Various - Songs Of Love, Peace, Understanding ...And A Little Heartache",
+      "year": "1997",
+      "label": "JazzFest",
+      "country": "US",
+      "discogs_id": 15528004,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/umseyUahcdcyzejq2miJ0LYbq1rHjETeTwhYg03T8GA/rs:fit/g:sm/q:90/h:495/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/MDA0LTE1OTMxNTMz/MzYtODE1MS5qcGVn.jpeg"
+    }
+  ]
+}
