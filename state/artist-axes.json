@@ -8608,6 +8608,58 @@
    2014
   ]
  },
+ "anthony calonico": {
+  "countries": [
+   "Netherlands",
+   "Netherlands",
+   "Netherlands"
+  ],
+  "genres": [
+   "Jazz",
+   "Pop",
+   "Electronic",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Jazz"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Pop"
+   ]
+  ],
+  "releases": 3,
+  "styles": [
+   "Ambient",
+   "Fusion"
+  ],
+  "years": [
+   2026,
+   2026,
+   2026
+  ]
+ },
  "antonio adolfo": {
   "countries": [
    "US",
