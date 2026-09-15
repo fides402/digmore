@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Conscious"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Hardcore Hip-Hop"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Boom Bap"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1974,
+    "year_to": 2025,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 8,
+      "artists_found": 8,
+      "fresh_lookups": 0,
+      "styles_considered": 42
+    }
+  },
+  "results": [
+    {
+      "artist": "Stone Coal",
+      "title": "Atlanta Sound",
+      "release_title": "Stone Coal - Put Some Gospel To It",
+      "year": "1992",
+      "label": "Diadem Music",
+      "country": "US",
+      "discogs_id": 12229244,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xqN0CwXYKeBnYesP8JwacOPR2GVlU_cAkXsHd716--Y/rs:fit/g:sm/q:90/h:224/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI5/MjQ0LTE1MzA5Njg3/NDktODgxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stone Coal",
+      "title": "J Say No",
+      "release_title": "Stone Coal - Put Some Gospel To It",
+      "year": "1992",
+      "label": "Diadem Music",
+      "country": "US",
+      "discogs_id": 12229244,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xqN0CwXYKeBnYesP8JwacOPR2GVlU_cAkXsHd716--Y/rs:fit/g:sm/q:90/h:224/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI5/MjQ0LTE1MzA5Njg3/NDktODgxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Infinito 2017",
+      "title": "Twilight Zone",
+      "release_title": "Infinito 2017 - Year Of The Rabbit",
+      "year": "1999",
+      "label": "Nephew Of Frank Records",
+      "country": "US",
+      "discogs_id": 5625433,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Jg0zVNvX708iFUkE1hq7LBfKDeWUhiyaAkVg05TOvYQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjU0/MzMtMTM5ODMxMzY2/Mi05NjQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Third World Connection",
+      "title": "Hot Seat Pt. 1",
+      "release_title": "The Third World Connection - Hot Seat",
+      "year": "1976",
+      "label": "Pesante Records",
+      "country": "US",
+      "discogs_id": 4146392,
+      "rating_avg": 4.33,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/d5uJDAbFv6oyspen-XPA4U37M6vCMlz1471qwjFwAY4/rs:fit/g:sm/q:90/h:333/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDYz/OTItMTM1NjgzMTgw/MS00MzQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "YSG",
+      "title": "Freedom",
+      "release_title": "YSG-Timothy* - A Black Guy Named Tim",
+      "year": "2005",
+      "label": "YSG Records & Entertainment",
+      "country": "US",
+      "discogs_id": 9442792,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/iyrDXomXUo35eXgnuqdU_pRu5Knt2qfwAWs4Sjp4hS4/rs:fit/g:sm/q:90/h:339/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/OTItMTQ4MDY4MDA3/MC0zMjgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Duenday",
+      "title": "2010",
+      "release_title": "Duenday - Duenday",
+      "year": "2010",
+      "label": "No Static",
+      "country": "US",
+      "discogs_id": 4421773,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/g_znXUsrR44Jk09n1mszyTPCZPLbp4at0OlqrkH4HV8/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjE3/NzMtMTM2NDQ0MzM1/OC02Nzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "YSG",
+      "title": "Amplified",
+      "release_title": "YSG-Timothy* - A Black Guy Named Tim",
+      "year": "2005",
+      "label": "YSG Records & Entertainment",
+      "country": "US",
+      "discogs_id": 9442792,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/iyrDXomXUo35eXgnuqdU_pRu5Knt2qfwAWs4Sjp4hS4/rs:fit/g:sm/q:90/h:339/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/OTItMTQ4MDY4MDA3/MC0zMjgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stone Coal",
+      "title": "Hard Rock Ministry",
+      "release_title": "Stone Coal - Put Some Gospel To It",
+      "year": "1992",
+      "label": "Diadem Music",
+      "country": "US",
+      "discogs_id": 12229244,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xqN0CwXYKeBnYesP8JwacOPR2GVlU_cAkXsHd716--Y/rs:fit/g:sm/q:90/h:224/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI5/MjQ0LTE1MzA5Njg3/NDktODgxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lawrence Preston",
+      "title": "A Little Vanity",
+      "release_title": "Lawrence Preston - A Little Vanity",
+      "year": "1995",
+      "label": "Gemstone Records, Inc.",
+      "country": "US",
+      "discogs_id": 7541970,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5Q0Ia5H3VuG9Sjidg2trf6gnDtp9_b0QvR7KR6R_fm0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDE5/NzAtMTQ0MzYyOTg1/OC0zNDY0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Saaneah",
+      "title": "I'm A Pearl",
+      "release_title": "Saaneah - All The Above",
+      "year": "2015",
+      "label": "Not On Label (Saaneah Self-released)",
+      "country": "US",
+      "discogs_id": 16732773,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/o6GiVZLNrdJEV6fde23N4psA5THfedTF6EtDzZG_Egs/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzMy/NzczLTE2MDk1MTg3/NTYtODA1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "YSG",
+      "title": "The Preface",
+      "release_title": "YSG-Timothy* - A Black Guy Named Tim",
+      "year": "2005",
+      "label": "YSG Records & Entertainment",
+      "country": "US",
+      "discogs_id": 9442792,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/iyrDXomXUo35eXgnuqdU_pRu5Knt2qfwAWs4Sjp4hS4/rs:fit/g:sm/q:90/h:339/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/OTItMTQ4MDY4MDA3/MC0zMjgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Saaneah",
+      "title": "Fire Love",
+      "release_title": "Saaneah - All The Above",
+      "year": "2015",
+      "label": "Not On Label (Saaneah Self-released)",
+      "country": "US",
+      "discogs_id": 16732773,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/o6GiVZLNrdJEV6fde23N4psA5THfedTF6EtDzZG_Egs/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzMy/NzczLTE2MDk1MTg3/NTYtODA1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Infinito 2017",
+      "title": "U Cant Overstand It",
+      "release_title": "Infinito 2017 - Year Of The Rabbit",
+      "year": "1999",
+      "label": "Nephew Of Frank Records",
+      "country": "US",
+      "discogs_id": 5625433,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Jg0zVNvX708iFUkE1hq7LBfKDeWUhiyaAkVg05TOvYQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjU0/MzMtMTM5ODMxMzY2/Mi05NjQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Reuben",
+      "title": "Out Of Control",
+      "release_title": "John Reuben - Zappin (The Best Of)",
+      "year": "2017",
+      "label": "Gotee Records",
+      "country": "US",
+      "discogs_id": 11257627,
+      "rating_avg": 4.63,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Mvmr1vUKBQb3oT-1gYKxz5APXdRP3j2OfJ4XYghldME/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU3/NjI3LTE3NDgyODUw/MjktNzU3MC5wbmc.jpeg"
+    },
+    {
+      "artist": "Commodores",
+      "title": "Sail On",
+      "release_title": "Various - Let's Stay Together: '70s R&B",
+      "year": "2009",
+      "label": "Compass Productions",
+      "country": "US",
+      "discogs_id": 35807407,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/IrbR3KySVU8beO3-HdaInfiSw4WE_c6ySbcTjSaaXw4/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODA3/NDA3LTE3NjQ1Mjg1/MTQtNDg5Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Infinito 2017",
+      "title": "About Lamont",
+      "release_title": "Infinito 2017 - Year Of The Rabbit",
+      "year": "1999",
+      "label": "Nephew Of Frank Records",
+      "country": "US",
+      "discogs_id": 5625433,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Jg0zVNvX708iFUkE1hq7LBfKDeWUhiyaAkVg05TOvYQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjU0/MzMtMTM5ODMxMzY2/Mi05NjQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Deborah Washington",
+      "title": "Love Shadow / Standing In The Shadow Of Love",
+      "release_title": "Deborah Washington - Love Shadow / Standing In The Shadow Of Love",
+      "year": "1978",
+      "label": "Ariola Records America",
+      "country": "US",
+      "discogs_id": 1236958,
+      "rating_avg": 3.92,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/JJmNfJzq20RaWWBJVKWaK67S1PtkfYn74PDoq7lgMjE/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY5/NTgtMTIzODUxMTg4/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brothers Johnson",
+      "title": "I'll Be Good To You",
+      "release_title": "The Brothers Johnson* - Strawberry Letter 23 (Greatest Hits)",
+      "year": "2011",
+      "label": "Cleopatra Records",
+      "country": "US",
+      "discogs_id": 37026327,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/U_nWeMpFt-CO9GF9UBM_QVSrSoJDL1hx5Ly5VLKS8PY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDI2/MzI3LTE3NzU4MTkx/NTgtNzM2Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Exceptions",
+      "title": "Baby, You Know I Need You",
+      "release_title": "The Exceptions (3) - The Look In Their Eyes / Baby, You Know I Need You",
+      "year": "2020",
+      "label": "P And L",
+      "country": "US",
+      "discogs_id": 16085260,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/b3hZAhIxyo8PHQ5S1X6pt1SEzY-EjM0CoKNa44gfxzU/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg1/MjYwLTE2MDMxNjE5/NjgtMzEyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brothers Johnson",
+      "title": "Get The Funk Out Ma Face",
+      "release_title": "The Brothers Johnson* - Strawberry Letter 23 (Greatest Hits)",
+      "year": "2011",
+      "label": "Cleopatra Records",
+      "country": "US",
+      "discogs_id": 37026327,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/U_nWeMpFt-CO9GF9UBM_QVSrSoJDL1hx5Ly5VLKS8PY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDI2/MzI3LTE3NzU4MTkx/NTgtNzM2Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Reuben",
+      "title": "Divine Inspriation",
+      "release_title": "John Reuben - Zappin (The Best Of)",
+      "year": "2017",
+      "label": "Gotee Records",
+      "country": "US",
+      "discogs_id": 11257627,
+      "rating_avg": 4.63,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Mvmr1vUKBQb3oT-1gYKxz5APXdRP3j2OfJ4XYghldME/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU3/NjI3LTE3NDgyODUw/MjktNzU3MC5wbmc.jpeg"
+    },
+    {
+      "artist": "Duenday",
+      "title": "Running Game",
+      "release_title": "Duenday - Duenday",
+      "year": "2010",
+      "label": "No Static",
+      "country": "US",
+      "discogs_id": 4421773,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/g_znXUsrR44Jk09n1mszyTPCZPLbp4at0OlqrkH4HV8/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjE3/NzMtMTM2NDQ0MzM1/OC02Nzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "YSG",
+      "title": "Change Of Possession (A New Hope)",
+      "release_title": "YSG-Timothy* - A Black Guy Named Tim",
+      "year": "2005",
+      "label": "YSG Records & Entertainment",
+      "country": "US",
+      "discogs_id": 9442792,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/iyrDXomXUo35eXgnuqdU_pRu5Knt2qfwAWs4Sjp4hS4/rs:fit/g:sm/q:90/h:339/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/OTItMTQ4MDY4MDA3/MC0zMjgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Saaneah",
+      "title": "Club Sexy",
+      "release_title": "Saaneah - All The Above",
+      "year": "2015",
+      "label": "Not On Label (Saaneah Self-released)",
+      "country": "US",
+      "discogs_id": 16732773,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/o6GiVZLNrdJEV6fde23N4psA5THfedTF6EtDzZG_Egs/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzMy/NzczLTE2MDk1MTg3/NTYtODA1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "Mercy Mercy Me (The Ecology)",
+      "release_title": "Various - Let's Stay Together: '70s R&B",
+      "year": "2009",
+      "label": "Compass Productions",
+      "country": "US",
+      "discogs_id": 35807407,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/IrbR3KySVU8beO3-HdaInfiSw4WE_c6ySbcTjSaaXw4/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODA3/NDA3LTE3NjQ1Mjg1/MTQtNDg5Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Duenday",
+      "title": "2 Matts Cool Raps",
+      "release_title": "Duenday - Duenday",
+      "year": "2010",
+      "label": "No Static",
+      "country": "US",
+      "discogs_id": 4421773,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/g_znXUsrR44Jk09n1mszyTPCZPLbp4at0OlqrkH4HV8/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjE3/NzMtMTM2NDQ0MzM1/OC02Nzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mentors of the Aurora",
+      "title": "Legend Continues",
+      "release_title": "Mentors of the Aurora - The Unimportant Ones",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 14809599,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/klOaCa8P4sOaqFbeHVIitdJk1YQTglBuBHxvliKIEWI/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA5/NTk5LTE1ODIwMzM3/MzctMjM4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Reuben",
+      "title": "All I Have",
+      "release_title": "John Reuben - Zappin (The Best Of)",
+      "year": "2017",
+      "label": "Gotee Records",
+      "country": "US",
+      "discogs_id": 11257627,
+      "rating_avg": 4.63,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Mvmr1vUKBQb3oT-1gYKxz5APXdRP3j2OfJ4XYghldME/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU3/NjI3LTE3NDgyODUw/MjktNzU3MC5wbmc.jpeg"
+    },
+    {
+      "artist": "Stone Coal",
+      "title": "Two Tons Of Bass",
+      "release_title": "Stone Coal - Put Some Gospel To It",
+      "year": "1992",
+      "label": "Diadem Music",
+      "country": "US",
+      "discogs_id": 12229244,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xqN0CwXYKeBnYesP8JwacOPR2GVlU_cAkXsHd716--Y/rs:fit/g:sm/q:90/h:224/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI5/MjQ0LTE1MzA5Njg3/NDktODgxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rance Allen",
+      "title": "Truth Is Marching On",
+      "release_title": "Rance Allen - Truth Is Marching On",
+      "year": "1977",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 3440639,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/gUd1B-RckGhDKsgn_PGKwD44ptNciiIbpgEF-diwxPA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDA2/MzktMTM4OTY0NDk3/MC02ODg3LmpwZWc.jpeg"
+    }
+  ]
+}
