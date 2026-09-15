@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 31,
+      "artists_found": 30,
+      "fresh_lookups": 1,
+      "styles_considered": 95
+    }
+  },
+  "results": [
+    {
+      "artist": "Syl Johnson",
+      "title": "The Love You Left Behind",
+      "release_title": "Syl Johnson - The Love You Left Behind / Anyone But You",
+      "year": "1971",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 11095525,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/6ooglfyRJwsSNfJyBE1r7HaL7skxPAkKRyI2fNR3bjY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk1/NTI1LTE2OTU3NzIz/MTYtMjU0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cornelius McFerson",
+      "title": "Freak",
+      "release_title": "Cornelius* - Freak / Every Little Bit Hurts",
+      "year": "1983",
+      "label": "Third Coast Records",
+      "country": "US",
+      "discogs_id": 4332739,
+      "rating_avg": 4.0,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/XeYHa3ri3reOITSR2rY43gaTfhfPJ7N7CUq3Uv26Js8/rs:fit/g:sm/q:90/h:372/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzI3/MzktMTM2MTk5MzMy/NC04MTU3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lamar Thomas",
+      "title": "Chained (To Your Love)",
+      "release_title": "Lamar Thomas - Chained (To Your Love)",
+      "year": "1979",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 1317810,
+      "rating_avg": 4.77,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/0wW69jZvZmGvTEcB3oGMc7UkwLq3934Lf_MGo10Ikyo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc4/MTAtMTM3OTM0Nzcw/NC04NTY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ozone",
+      "title": "Li'l Suzy",
+      "release_title": "Ozone (5) - Li'l Suzy",
+      "year": "1982",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 9765276,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/AvSacuuei-0X0VzoLERJeTtvPd8aSrLna7GczKq6eJM/rs:fit/g:sm/q:90/h:543/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjUy/NzYtMTQ4NjAwOTU4/My01MzEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnny Adams",
+      "title": "When I Need You",
+      "release_title": "Johnny Adams - Cry, Cry Darling / When I Need You",
+      "year": "1983",
+      "label": "Hep' Me Records",
+      "country": "US",
+      "discogs_id": 6166115,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JimhNzHojjNyP0egG2Kr5gLS6FXXNg9MqDBdNdp7Jf8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjYx/MTUtMTQxMjcxMDQ4/MS04NjkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Thelma Houston",
+      "title": "Just Like All The Rest",
+      "release_title": "Thelma Houston - Just Like All The Rest",
+      "year": "1983",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 5119216,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/28sni66ImBMi9YxTUpLKNbzDct29J_-upaSVBVaZlIM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTky/MTYtMTM4NTAxOTA5/Ni05NzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Hudson",
+      "title": "Honey, Honey",
+      "release_title": "David Hudson (2) - Honey, Honey / Come On Back Baby",
+      "year": "1980",
+      "label": "Alston Records",
+      "country": "US",
+      "discogs_id": 12788668,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/St3Q305LA7YHTNSKGKjomQ8pQIlBBOzj7tR5yO1WT20/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg4/NjY4LTE1NDE5NjE1/NDYtNDg2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Woods Empire",
+      "title": "Love Makes The World Go 'Round",
+      "release_title": "The Woods Empire* - Love Makes The World Go 'Round",
+      "year": "1982",
+      "label": "Tabu Records",
+      "country": "US",
+      "discogs_id": 3270386,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/3icIucdzAPIzpb98pFq2TNjObaaBhOOQtnl7Msr3ufI/rs:fit/g:sm/q:90/h:180/w:204/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzAz/ODYtMTM0MzE1NzA2/Ny0zNjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Jimmy Castor Bunch",
+      "title": "The Everything Man",
+      "release_title": "The Jimmy Castor Bunch - The Everything Man",
+      "year": "1974",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 521247,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0-MORAYDxi2oLH7DShXdougYAk2JZZ_lYPDxS1QHPj0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTI0/Ny0xNDMzNDM4MjQ2/LTc2NjQuanBlZw.jpeg"
+    },
+    {
+      "artist": "Rich Madrigal",
+      "title": "Don't Say Goodbye",
+      "release_title": "Rich Madrigal - Give A Sign Girl ",
+      "year": "1985",
+      "label": "Ramah Records",
+      "country": "US",
+      "discogs_id": 10051277,
+      "rating_avg": 5.0,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/9iaUTfy9YAnvXRK3vuEd6HCnWq0WdHCQnnCwLpo_bw4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/Mjc3LTE1ODk4NzQx/NjYtMzAxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sidney Thomas",
+      "title": "\"Big Time Lady\"",
+      "release_title": "Sidney Thomas - \"Look, Let's Make Love\" (And See If You Like It) / \"Big Time Lady\"",
+      "year": "1976",
+      "label": "Parallel Records",
+      "country": "US",
+      "discogs_id": 2866533,
+      "rating_avg": 4.52,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/6XUxLgwxTsBppcm0JYWeiBFt2NqAGTF4CFUWcupwzdg/rs:fit/g:sm/q:90/h:394/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY1/MzMtMTMwNDcwNjMw/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Team Work",
+      "title": "Spotlight (Radio Mix)",
+      "release_title": "Team Work - Spotlight",
+      "year": "1989",
+      "label": "Music Merchant",
+      "country": "US",
+      "discogs_id": 13753617,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FhTHbUILDPX_bl3KrnIbjq3GxhF4LMbKwTLAie4xPu8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzUz/NjE3LTE1NjAzODA2/MDAtODI1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Wilton Felder",
+      "title": "Let's Dance Together",
+      "release_title": "Wilton Felder - Let's Dance Together",
+      "year": "1978",
+      "label": "ABC Records",
+      "country": "US",
+      "discogs_id": 9509788,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/nLjZL0GVum0FGkYxo0oR2eR7DPCGxR3DMs9Wvtr3aIU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDk3/ODgtMTQ4MTgyMDYw/NS02MjM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sidney Thomas",
+      "title": "\"Look, Let's Make Love\" (And See If You Like It)",
+      "release_title": "Sidney Thomas - \"Look, Let's Make Love\" (And See If You Like It) / \"Big Time Lady\"",
+      "year": "1976",
+      "label": "Parallel Records",
+      "country": "US",
+      "discogs_id": 2866533,
+      "rating_avg": 4.52,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/6XUxLgwxTsBppcm0JYWeiBFt2NqAGTF4CFUWcupwzdg/rs:fit/g:sm/q:90/h:394/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY1/MzMtMTMwNDcwNjMw/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Young",
+      "title": "Times Are Tight",
+      "release_title": "Jimmy Young (2) - Times Are Tight",
+      "year": "1982",
+      "label": "Delirium Records",
+      "country": "US",
+      "discogs_id": 995055,
+      "rating_avg": 4.53,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/R-F8zfHOoU__2jli06WuN4Hycduq5B7hj_f0pJ6nhI8/rs:fit/g:sm/q:90/h:482/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTA1/NS0xMTk5NzQyNjk0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy Young",
+      "title": "Times Are Tight (Instrumental)",
+      "release_title": "Jimmy Young (2) - Times Are Tight",
+      "year": "1982",
+      "label": "Delirium Records",
+      "country": "US",
+      "discogs_id": 995055,
+      "rating_avg": 4.53,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/R-F8zfHOoU__2jli06WuN4Hycduq5B7hj_f0pJ6nhI8/rs:fit/g:sm/q:90/h:482/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTA1/NS0xMTk5NzQyNjk0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dynasty",
+      "title": "Give It Up To Love",
+      "release_title": "Dynasty - Here I Am",
+      "year": "1981",
+      "label": "Solar",
+      "country": "US",
+      "discogs_id": 7731337,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/FmgE0O_3hZHDwz61w5--XepkMucfr5Yf-c-QrW_38I4/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzEz/MzctMTQ0NzYxNTQ3/OC01MTU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Hudson",
+      "title": "Come On Back Baby",
+      "release_title": "David Hudson (2) - Honey, Honey / Come On Back Baby",
+      "year": "1980",
+      "label": "Alston Records",
+      "country": "US",
+      "discogs_id": 12788668,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/St3Q305LA7YHTNSKGKjomQ8pQIlBBOzj7tR5yO1WT20/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg4/NjY4LTE1NDE5NjE1/NDYtNDg2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rich Madrigal",
+      "title": "Give A Sign Girl",
+      "release_title": "Rich Madrigal - Give A Sign Girl ",
+      "year": "1985",
+      "label": "Ramah Records",
+      "country": "US",
+      "discogs_id": 10051277,
+      "rating_avg": 5.0,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/9iaUTfy9YAnvXRK3vuEd6HCnWq0WdHCQnnCwLpo_bw4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUx/Mjc3LTE1ODk4NzQx/NjYtMzAxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Johnny Adams",
+      "title": "Cry, Cry Darling",
+      "release_title": "Johnny Adams - Cry, Cry Darling / When I Need You",
+      "year": "1983",
+      "label": "Hep' Me Records",
+      "country": "US",
+      "discogs_id": 6166115,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JimhNzHojjNyP0egG2Kr5gLS6FXXNg9MqDBdNdp7Jf8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjYx/MTUtMTQxMjcxMDQ4/MS04NjkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Moody Scott",
+      "title": "My Lovely Lady",
+      "release_title": "Moody Scott - My Lovely Lady / I'll Always Belong To You",
+      "year": "1983",
+      "label": "Straight Ahead Records",
+      "country": "US",
+      "discogs_id": 1821688,
+      "rating_avg": 4.5,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/sVFcqww74KyyxuIOFN3onK3qINd70T2S862EvhLJqB4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE2/ODgtMTc0MjcxMjIy/NC0xNDE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cornelius McFerson",
+      "title": "Every Little Bit Hurts",
+      "release_title": "Cornelius* - Freak / Every Little Bit Hurts",
+      "year": "1983",
+      "label": "Third Coast Records",
+      "country": "US",
+      "discogs_id": 4332739,
+      "rating_avg": 4.0,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/XeYHa3ri3reOITSR2rY43gaTfhfPJ7N7CUq3Uv26Js8/rs:fit/g:sm/q:90/h:372/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzI3/MzktMTM2MTk5MzMy/NC04MTU3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Moody Scott",
+      "title": "I'll Always Belong To You",
+      "release_title": "Moody Scott - My Lovely Lady / I'll Always Belong To You",
+      "year": "1983",
+      "label": "Straight Ahead Records",
+      "country": "US",
+      "discogs_id": 1821688,
+      "rating_avg": 4.5,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/sVFcqww74KyyxuIOFN3onK3qINd70T2S862EvhLJqB4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE2/ODgtMTc0MjcxMjIy/NC0xNDE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dynasty",
+      "title": "Here I Am",
+      "release_title": "Dynasty - Here I Am",
+      "year": "1981",
+      "label": "Solar",
+      "country": "US",
+      "discogs_id": 7731337,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/FmgE0O_3hZHDwz61w5--XepkMucfr5Yf-c-QrW_38I4/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzEz/MzctMTQ0NzYxNTQ3/OC01MTU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Syl Johnson",
+      "title": "Anyone But You",
+      "release_title": "Syl Johnson - The Love You Left Behind / Anyone But You",
+      "year": "1971",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 11095525,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/6ooglfyRJwsSNfJyBE1r7HaL7skxPAkKRyI2fNR3bjY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk1/NTI1LTE2OTU3NzIz/MTYtMjU0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Great Revivers",
+      "title": "Growing Older",
+      "release_title": "Great Revivers*, E.*, Ishtar (14) - Growing Older",
+      "year": "2017",
+      "label": "Fnr",
+      "country": "US",
+      "discogs_id": 11359003,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3XCiFhvSVaZvzRfar2fz3uZ-9tfiLAwaWEqWzyibJTA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzU5/MDAzLTE1MTUwOTU3/NTEtMTkwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ready For The World",
+      "title": "Cowboy (Extended Version)",
+      "release_title": "Ready For The World - Cowboy",
+      "year": "1989",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 1093425,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/hI8cikcOIjEFb3_VlH5I9wfrs50E_xV_kSHWTa9GF4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM0/MjUtMTc1NzAwMTc1/OC00MzM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jerry Knight",
+      "title": "Fire",
+      "release_title": "Jerry Knight - Love's On Our Side",
+      "year": "1982",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8131298,
+      "rating_avg": 5.0,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/uIWMUIDq1tQOz1PIW-CxzvC7L1lbEEADzKGx_7ju184/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzEy/OTgtMTQ1NTcyOTIx/Ni02NTg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Deltones Ltd.",
+      "title": "Stay - Turn The Lights Down",
+      "release_title": "Deltones Ltd. - You Don't Believe I Love You ",
+      "year": "2006",
+      "label": "Plut",
+      "country": "US",
+      "discogs_id": 8223385,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/2La66cagdHHKQo0nQW7880HgjDcbVjSrywVLa430LOg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjMz/ODUtMTU5MjA2NDA2/Mi05NzkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Platinum Hook",
+      "title": "Wonderful World",
+      "release_title": "Platinum Hook - I Don't Wanna Live Without You / Wonderful World",
+      "year": "1983",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 8311622,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/WUWxBiyfUQvhrri603IF3ISUNYycYLkmpLeOBwJIXlw/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTE2/MjItMTUzNTg1NTA2/MC00MzUzLmpwZWc.jpeg"
+    }
+  ]
+}
