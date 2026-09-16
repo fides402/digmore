@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2014,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 38,
+      "artists_found": 36,
+      "fresh_lookups": 1,
+      "styles_considered": 123
+    }
+  },
+  "results": [
+    {
+      "artist": "The Zeke Martin Quartet",
+      "title": "Skinny",
+      "release_title": "The Zeke Martin Quartet - Landscapes",
+      "year": "2001",
+      "label": "GigCity Records",
+      "country": "US",
+      "discogs_id": 35251432,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6FUKZVrssphlp8FJuU46M_dTxyhmfEGXigGUrIlT9eM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjUx/NDMyLTE3NTkyOTcx/ODgtMTk2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stuart Hart",
+      "title": "First Impressions",
+      "release_title": "Stuart Hart - Inner Voice",
+      "year": "1999",
+      "label": "Mother West",
+      "country": "US",
+      "discogs_id": 12479899,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Kfz4oQWnguDGmKrGDn9b0hl7PTKB57NN5qY56U43ojw/rs:fit/g:sm/q:90/h:401/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc5/ODk5LTE1MzYxMTEw/MTUtMjIzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eumir Deodato",
+      "title": "Nights In White Satin",
+      "release_title": "Deodato* - Deodato 2",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 3043653,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4a8UAhlR1mhxcIs5ZYRX8yfySV2dyn8yaONg8wixfpc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDM2/NTMtMTMxMzA4NzA5/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Project: Pimento",
+      "title": "Black Magic Woman",
+      "release_title": "Project: Pimento - Magical Moods Of The Theremin",
+      "year": "2003",
+      "label": "Tru Blu Lu Records",
+      "country": "US",
+      "discogs_id": 7075305,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KrZLHPJAQQjpwMgXUjl30PNUFNOQYoZeQQYjjVxe9QI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzUz/MDUtMTUyOTcwMDg0/MS05MDE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eumir Deodato",
+      "title": "Rhapsody In Blue",
+      "release_title": "Deodato* - Deodato 2",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 3043653,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4a8UAhlR1mhxcIs5ZYRX8yfySV2dyn8yaONg8wixfpc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDM2/NTMtMTMxMzA4NzA5/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Weckl",
+      "title": "Tower Of Inspiration",
+      "release_title": "Dave Weckl - Master Plan",
+      "year": "1990",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 22000285,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wd5mrLpx8IGl7u0khfm139Yv86wQ6eG1mnGWnnWxYjQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDAw/Mjg1LTE2NDM4MzU1/ODAtNDMwMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Doc Severinsen Sextet",
+      "title": "When The Saints Come Marching In",
+      "release_title": "The Doc Severinsen Sextet - Live!",
+      "year": "1966",
+      "label": "Command",
+      "country": "US",
+      "discogs_id": 5427233,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6e4vM2tbyLAiSLi19UO5RnBqOMXerSSYOFBw_sFQcH4/rs:fit/g:sm/q:90/h:432/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mjcy/MzMtMTM5NjgyNDgw/MS02OTEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Weckl",
+      "title": "Softly, As In A Morning Sunrise",
+      "release_title": "Dave Weckl - Master Plan",
+      "year": "1990",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 22000285,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wd5mrLpx8IGl7u0khfm139Yv86wQ6eG1mnGWnnWxYjQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDAw/Mjg1LTE2NDM4MzU1/ODAtNDMwMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Melvin Sparks",
+      "title": "Ain't No Woman (Like The One I Got)",
+      "release_title": "Melvin Sparks - Ain't No Woman (Like The One I Got)",
+      "year": "1973",
+      "label": "Eastbound Records",
+      "country": "US",
+      "discogs_id": 3258054,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/wWeEIRiIXYnZtwiadd5DyxXiO0PXWC_q-YL57YJjzGE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTgw/NTQtMTQwNjA0OTE4/OC03OTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Zeke Martin Quartet",
+      "title": "Mallets For Stu",
+      "release_title": "The Zeke Martin Quartet - Landscapes",
+      "year": "2001",
+      "label": "GigCity Records",
+      "country": "US",
+      "discogs_id": 35251432,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6FUKZVrssphlp8FJuU46M_dTxyhmfEGXigGUrIlT9eM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjUx/NDMyLTE3NTkyOTcx/ODgtMTk2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Doc Severinsen Sextet",
+      "title": "Georgia On My Mind",
+      "release_title": "The Doc Severinsen Sextet - Live!",
+      "year": "1966",
+      "label": "Command",
+      "country": "US",
+      "discogs_id": 5427233,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6e4vM2tbyLAiSLi19UO5RnBqOMXerSSYOFBw_sFQcH4/rs:fit/g:sm/q:90/h:432/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mjcy/MzMtMTM5NjgyNDgw/MS02OTEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Balancing Act",
+      "release_title": "Billy Cobham - Billy Cobham Box",
+      "year": "2001",
+      "label": "Purple Pyramid",
+      "country": "US",
+      "discogs_id": 13806999,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tvL7vLiwLu5lDbN8izF4oFoQJPJy_IpZSlhCOP_ENa0/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA2/OTk5LTE1NjE1NTY0/NzktODc4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Lil' Brother",
+      "release_title": "Herbie Hancock - Fat Albert Rotunda",
+      "year": "2006",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 3569150,
+      "rating_avg": 4.4,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/gMamJmWYVanhFVk6DFzJxX2HRBhHpcfRv3yjJNFe2rc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkx/NTAtMTYzMzQ1OTY2/Ni01ODUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "The Cutting Edge",
+      "release_title": "Sonny Rollins - The Cutting Edge",
+      "year": "1974",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 5621474,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/AEu7ELctcbskSeeECJQXPhZGbTWE2UFBsahMONttTzU/rs:fit/g:sm/q:90/h:580/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjE0/NzQtMTM5ODM3MjQz/NC01NDE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Nero",
+      "title": "Theme From \"Love Story\"",
+      "release_title": "Peter Nero - Summer Of '42",
+      "year": "1972",
+      "label": "MVC",
+      "country": "US",
+      "discogs_id": 27869616,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6gyrCE2XQpaH9luSs3Dl4yMASnPyTCkIGz4NQhM77hc/rs:fit/g:sm/q:90/h:600/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY5/NjE2LTE2OTExMjcx/OTAtNzQ0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Project: Pimento",
+      "title": "Agua De Beber",
+      "release_title": "Project: Pimento - Magical Moods Of The Theremin",
+      "year": "2003",
+      "label": "Tru Blu Lu Records",
+      "country": "US",
+      "discogs_id": 7075305,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KrZLHPJAQQjpwMgXUjl30PNUFNOQYoZeQQYjjVxe9QI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzUz/MDUtMTUyOTcwMDg0/MS05MDE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Zeke Martin Quartet",
+      "title": "Smooth Elements",
+      "release_title": "The Zeke Martin Quartet - Landscapes",
+      "year": "2001",
+      "label": "GigCity Records",
+      "country": "US",
+      "discogs_id": 35251432,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6FUKZVrssphlp8FJuU46M_dTxyhmfEGXigGUrIlT9eM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjUx/NDMyLTE3NTkyOTcx/ODgtMTk2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peter Nero",
+      "title": "Love",
+      "release_title": "Peter Nero - Summer Of '42",
+      "year": "1972",
+      "label": "MVC",
+      "country": "US",
+      "discogs_id": 27869616,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6gyrCE2XQpaH9luSs3Dl4yMASnPyTCkIGz4NQhM77hc/rs:fit/g:sm/q:90/h:600/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY5/NjE2LTE2OTExMjcx/OTAtNzQ0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Walking In 5",
+      "release_title": "Billy Cobham - Billy Cobham Box",
+      "year": "2001",
+      "label": "Purple Pyramid",
+      "country": "US",
+      "discogs_id": 13806999,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tvL7vLiwLu5lDbN8izF4oFoQJPJy_IpZSlhCOP_ENa0/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA2/OTk5LTE1NjE1NTY0/NzktODc4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eumir Deodato",
+      "title": "Pavane For A Dead Princess",
+      "release_title": "Deodato* - Deodato 2",
+      "year": "1973",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 3043653,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4a8UAhlR1mhxcIs5ZYRX8yfySV2dyn8yaONg8wixfpc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDM2/NTMtMTMxMzA4NzA5/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "First Moves",
+      "release_title": "Sonny Rollins - The Cutting Edge",
+      "year": "1974",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 5621474,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/AEu7ELctcbskSeeECJQXPhZGbTWE2UFBsahMONttTzU/rs:fit/g:sm/q:90/h:580/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjE0/NzQtMTM5ODM3MjQz/NC01NDE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Veronica Martell",
+      "title": "Love Don't Pay The Bills",
+      "release_title": "Veronica Martell -  The Art Of Intimacy",
+      "year": "2005",
+      "label": "Not On Label (Veronica Martell Self-released)",
+      "country": "US",
+      "discogs_id": 17677615,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/y9UDxCVWsYs9otdeAnHeJcao6-PtRyCV_qe0dY_fRl8/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njc3/NjE1LTE2MTQ4MDk0/OTktNDM4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Project: Pimento",
+      "title": "Star Trek",
+      "release_title": "Project: Pimento - Magical Moods Of The Theremin",
+      "year": "2003",
+      "label": "Tru Blu Lu Records",
+      "country": "US",
+      "discogs_id": 7075305,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KrZLHPJAQQjpwMgXUjl30PNUFNOQYoZeQQYjjVxe9QI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzUz/MDUtMTUyOTcwMDg0/MS05MDE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Doc Severinsen Sextet",
+      "title": "I'm Confessin' That I Love You",
+      "release_title": "The Doc Severinsen Sextet - Live!",
+      "year": "1966",
+      "label": "Command",
+      "country": "US",
+      "discogs_id": 5427233,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6e4vM2tbyLAiSLi19UO5RnBqOMXerSSYOFBw_sFQcH4/rs:fit/g:sm/q:90/h:432/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mjcy/MzMtMTM5NjgyNDgw/MS02OTEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Fat Albert Rotunda",
+      "release_title": "Herbie Hancock - Fat Albert Rotunda",
+      "year": "2006",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 3569150,
+      "rating_avg": 4.4,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/gMamJmWYVanhFVk6DFzJxX2HRBhHpcfRv3yjJNFe2rc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkx/NTAtMTYzMzQ1OTY2/Ni01ODUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Al Hirt",
+      "title": "Stella By Starlight",
+      "release_title": "Al Hirt - Gold",
+      "year": "1970",
+      "label": "Romulus Records",
+      "country": "US",
+      "discogs_id": 6173463,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MPf5NhnA2Q6dTiSHH40t3OoxF6CThcVs-6g9J0nGvGE/rs:fit/g:sm/q:90/h:557/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzM0/NjMtMTcyNTkxNjQy/MS05MzQwLnBuZw.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Wiggle-Waggle",
+      "release_title": "Herbie Hancock - Fat Albert Rotunda",
+      "year": "2006",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 3569150,
+      "rating_avg": 4.4,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/gMamJmWYVanhFVk6DFzJxX2HRBhHpcfRv3yjJNFe2rc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkx/NTAtMTYzMzQ1OTY2/Ni01ODUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "How Was The Night?",
+      "release_title": "Billy Cobham - Billy Cobham Box",
+      "year": "2001",
+      "label": "Purple Pyramid",
+      "country": "US",
+      "discogs_id": 13806999,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tvL7vLiwLu5lDbN8izF4oFoQJPJy_IpZSlhCOP_ENa0/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA2/OTk5LTE1NjE1NTY0/NzktODc4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "Swing Low, Sweet Chariot",
+      "release_title": "Sonny Rollins - The Cutting Edge",
+      "year": "1974",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 5621474,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/AEu7ELctcbskSeeECJQXPhZGbTWE2UFBsahMONttTzU/rs:fit/g:sm/q:90/h:580/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjE0/NzQtMTM5ODM3MjQz/NC01NDE3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Oh! Oh! Here He Comes",
+      "release_title": "Herbie Hancock - Fat Albert Rotunda",
+      "year": "2006",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 3569150,
+      "rating_avg": 4.4,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/gMamJmWYVanhFVk6DFzJxX2HRBhHpcfRv3yjJNFe2rc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkx/NTAtMTYzMzQ1OTY2/Ni01ODUyLmpwZWc.jpeg"
+    }
+  ]
+}
