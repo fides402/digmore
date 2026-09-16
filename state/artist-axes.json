@@ -72176,6 +72176,337 @@
    1969
   ]
  },
+ "liverpool express": {
+  "countries": [
+   "UK",
+   "UK",
+   "US",
+   "US",
+   "UK",
+   "UK",
+   "Italy",
+   "Germany",
+   "US",
+   "Italy",
+   "UK",
+   "UK",
+   "Italy",
+   "UK",
+   "UK",
+   "New Zealand",
+   "UK",
+   "UK",
+   "South Africa",
+   "Australia",
+   "US",
+   "UK",
+   "Germany",
+   "Italy",
+   "Australia"
+  ],
+  "genres": [
+   "Pop",
+   "Pop",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Electronic"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Electronic"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Pop"
+   ],
+   [
+    "Symphonic Rock",
+    "Rock"
+   ],
+   [
+    "Symphonic Rock",
+    "Pop"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Pop"
+   ],
+   [
+    "Classic Rock",
+    "Electronic"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soft Rock",
+   "Soft Rock",
+   "Synth-pop",
+   "Classic Rock",
+   "Synth-pop",
+   "Pop Rock",
+   "Synth-pop",
+   "Synth-pop",
+   "Classic Rock",
+   "Classic Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Synth-pop",
+   "Classic Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Synth-pop",
+   "Soft Rock",
+   "Soft Rock",
+   "Symphonic Rock",
+   "Classic Rock",
+   "Classic Rock",
+   "Synth-pop",
+   "Classic Rock",
+   "Pop Rock"
+  ],
+  "years": [
+   2002,
+   1985,
+   1976,
+   1976,
+   1979,
+   1977,
+   1976,
+   1979,
+   1976,
+   1979,
+   1976,
+   2017,
+   1976,
+   1976,
+   1977,
+   1976,
+   1975,
+   1976,
+   1976,
+   2003,
+   1976,
+   1979,
+   1976
+  ]
+ },
  "livingston taylor": {
   "countries": [
    "Canada",
