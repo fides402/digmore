@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 37,
+      "artists_found": 37,
+      "fresh_lookups": 0,
+      "styles_considered": 112
+    }
+  },
+  "results": [
+    {
+      "artist": "Wolfgang Schalk Bandett",
+      "title": "One For Us",
+      "release_title": "Wolfgang Schalk Bandett - The Second Third Man",
+      "year": "2012",
+      "label": "Frame Up Music",
+      "country": "US",
+      "discogs_id": 10555211,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/CitVoJwsqp_ivLNuXV7PLZU6yVCWPJCcBMtzXSWgAF0/rs:fit/g:sm/q:90/h:361/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU1/MjExLTE0OTk4MDUz/MTUtNzgyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "John McLaughlin",
+      "release_title": "Miles Davis - Bitches Brew",
+      "year": "1970",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 37006,
+      "rating_avg": 4.6,
+      "rating_count": 962,
+      "cover_image": "https://i.discogs.com/AdsF-koHn0A-rEW_ZghkTXrPA27SL7vrQUM7Kz0O8Vg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDA2/LTEzOTM0ODQyNDkt/MjIxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Bye Bye Blues",
+      "release_title": "Cal Tjader - Latin Kick",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 12995267,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/2_Ir7ftAbaOvUzwTKSMP164eRBvZwMOoPEdBvRbXRbQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk1/MjY3LTE1NDYxMDg5/MzItNDgxMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Bush",
+      "title": "Start From Silence, Part One",
+      "release_title": "André Bush - Start From Silence",
+      "year": "2005",
+      "label": "Odd Culture Productions",
+      "country": "US",
+      "discogs_id": 11352154,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/90tMR7bO7OQNnAcOa3vMwjDx6jMj8Q3fUncYgfrOb-E/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUy/MTU0LTE1MTQ3Njg0/NjAtMTk4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Whalen",
+      "title": "Through The Parched Land",
+      "release_title": "Various - Narada Film And Television Music",
+      "year": "2003",
+      "label": "Narada",
+      "country": "US",
+      "discogs_id": 1830277,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/AZ6Sut7jx0tzsIgvcNKe0NwTVGpxomC7TeqttRaaZZE/rs:fit/g:sm/q:90/h:353/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAy/NzctMTY4OTYyOTY3/NS04NzAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Susannah McCorkle",
+      "title": "I Though About You",
+      "release_title": "Susannah McCorkle - Most Requested Songs",
+      "year": "2001",
+      "label": "Concord Records",
+      "country": "US",
+      "discogs_id": 14761443,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EtRGe9JG_1wpUEYVphfm6iu-W5UlDcFvEACWdn7n_6o/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/NDQzLTE1ODE5NDY0/MDItOTk2Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "John McLaughlin & Al Di Meola & Paco De Lucía",
+      "title": "Short Tales Of The Black Forest",
+      "release_title": "John McLaughlin / Al Di Meola / Paco De Lucía - Friday Night In San Francisco",
+      "year": "1984",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 15209385,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/vsuXYuOikfcn07rN8z5EXkYn6reRCSk3s2xzOsSzraA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA5/Mzg1LTE1ODgxMzgy/MzAtMjIzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Harold Lootens & Tom Wiethop & Ron Hilzinger",
+      "title": "Over The Rainbow",
+      "release_title": "Bro. Harold Lootens, S.M.* With Tom Wiethop And Ron Hilzinger - ...Recorded Live At The Chez Vous",
+      "year": "1970",
+      "label": "Century Records",
+      "country": "US",
+      "discogs_id": 20111533,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WbYJkwid1DYfb7qnifXUBgCTFs6P3ZYw1u-9elr4B6M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTEx/NTMzLTE2MzA3NjM4/NDYtNzM3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lenny Dee",
+      "title": "Rock Me Back To Little Rock",
+      "release_title": "Lenny Dee (2) - Rock Me Back To Little Rock / Sweet 'N Sassy",
+      "year": "1970",
+      "label": "Decca",
+      "country": "US",
+      "discogs_id": 1950081,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/l3wZm_usNzFzVn3dtIcbq8s6YHaAxxEwI3fON9GjALE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTAw/ODEtMTM4OTc2NDc3/NS0xMzM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Bitches Brew",
+      "release_title": "Miles Davis - Bitches Brew",
+      "year": "1970",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 37006,
+      "rating_avg": 4.6,
+      "rating_count": 962,
+      "cover_image": "https://i.discogs.com/AdsF-koHn0A-rEW_ZghkTXrPA27SL7vrQUM7Kz0O8Vg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDA2/LTEzOTM0ODQyNDkt/MjIxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Will You Still Be Mine",
+      "release_title": "Cal Tjader - Latin Kick",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 12995267,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/2_Ir7ftAbaOvUzwTKSMP164eRBvZwMOoPEdBvRbXRbQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk1/MjY3LTE1NDYxMDg5/MzItNDgxMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Di Meola & John McLaughlin & Paco De Lucía",
+      "title": "Mediterranean Sundance/Rio Ancho",
+      "release_title": "Al Di Meola / John McLaughlin / Paco De Lucía - Friday Night In San Francisco",
+      "year": "1994",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 2911306,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/uRXL9_sCSteQsuUJlTny9JpgSbhOGb5MGcnKBwzQu3Q/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEz/MDYtMTMxNTUxNjc3/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Affirmation",
+      "title": "Identity Crisis",
+      "release_title": "Affirmation - Identity Crisis",
+      "year": "2001",
+      "label": "Rhombus Records",
+      "country": "US",
+      "discogs_id": 34018485,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tnqejg6VcmUX7OWQ_b7BTIohbpunHO05yaFEDVG0Yb0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDE4/NDg1LTE3NDc2MDgw/NjMtODg3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Pharaoh's Dance",
+      "release_title": "Miles Davis - Bitches Brew",
+      "year": "1970",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 37006,
+      "rating_avg": 4.6,
+      "rating_count": 962,
+      "cover_image": "https://i.discogs.com/AdsF-koHn0A-rEW_ZghkTXrPA27SL7vrQUM7Kz0O8Vg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDA2/LTEzOTM0ODQyNDkt/MjIxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Norman Connors",
+      "title": "Revelation",
+      "release_title": "Norman Connors - Love From The Sun",
+      "year": "1974",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 15007846,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/KEWOtYZTAXa4xm_JD1XrKd59qdaqs3VqBL9U55jXxa4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/ODQ2LTE2OTU5OTA3/OTMtODQ0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Bush",
+      "title": "An Even Three",
+      "release_title": "André Bush - Start From Silence",
+      "year": "2005",
+      "label": "Odd Culture Productions",
+      "country": "US",
+      "discogs_id": 11352154,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/90tMR7bO7OQNnAcOa3vMwjDx6jMj8Q3fUncYgfrOb-E/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUy/MTU0LTE1MTQ3Njg0/NjAtMTk4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dayren Santamaria",
+      "title": "Lamento Latino",
+      "release_title": "Dayren Santamaria - Belleza",
+      "year": "2015",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 14773097,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Mw5-Dtehkp2nYeXKgO3xtUq-tiJJQzXMEbwj4_ctp8g/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcz/MDk3LTE1ODE4MzU4/MDUtODE0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Norman Connors",
+      "title": "Carlos II",
+      "release_title": "Norman Connors - Love From The Sun",
+      "year": "1974",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 15007846,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/KEWOtYZTAXa4xm_JD1XrKd59qdaqs3VqBL9U55jXxa4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/ODQ2LTE2OTU5OTA3/OTMtODQ0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader's Modern Mambo Quintet",
+      "title": "Lucero",
+      "release_title": "Cal Tjader's Modern Mambo Quintet - Mambo With Tjader",
+      "year": "1992",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 612822,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/TU8ftZCoaWjHJrOZ24tPB0AZXUSVkmMpww4sZjKnrW4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjgy/Mi0xMjU2MjE1ODgw/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Harold Lootens & Tom Wiethop & Ron Hilzinger",
+      "title": "Can't Buy Me Love",
+      "release_title": "Bro. Harold Lootens, S.M.* With Tom Wiethop And Ron Hilzinger - ...Recorded Live At The Chez Vous",
+      "year": "1970",
+      "label": "Century Records",
+      "country": "US",
+      "discogs_id": 20111533,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WbYJkwid1DYfb7qnifXUBgCTFs6P3ZYw1u-9elr4B6M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTEx/NTMzLTE2MzA3NjM4/NDYtNzM3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dayren Santamaria",
+      "title": "Made In Cuba",
+      "release_title": "Dayren Santamaria - Belleza",
+      "year": "2015",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 14773097,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Mw5-Dtehkp2nYeXKgO3xtUq-tiJJQzXMEbwj4_ctp8g/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcz/MDk3LTE1ODE4MzU4/MDUtODE0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Harold Lootens & Tom Wiethop & Ron Hilzinger",
+      "title": "Wouldn't It Be Loverly?",
+      "release_title": "Bro. Harold Lootens, S.M.* With Tom Wiethop And Ron Hilzinger - ...Recorded Live At The Chez Vous",
+      "year": "1970",
+      "label": "Century Records",
+      "country": "US",
+      "discogs_id": 20111533,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WbYJkwid1DYfb7qnifXUBgCTFs6P3ZYw1u-9elr4B6M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTEx/NTMzLTE2MzA3NjM4/NDYtNzM3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader's Modern Mambo Quintet",
+      "title": "Tenderly",
+      "release_title": "Cal Tjader's Modern Mambo Quintet - Mambo With Tjader",
+      "year": "1992",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 612822,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/TU8ftZCoaWjHJrOZ24tPB0AZXUSVkmMpww4sZjKnrW4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjgy/Mi0xMjU2MjE1ODgw/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pete Escovedo",
+      "title": "Esta Noche",
+      "release_title": "Various - Concord 25th Anniversary Collection ",
+      "year": "2005",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 37433358,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vKKWVm4v2iTZDqmbPgZ_tZFqEDIeKCvi6PFk1qAZZ5M/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMz/MzU4LTE3Nzk2NjIw/NjgtNjgyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "André Bush",
+      "title": "You Are Who You Love",
+      "release_title": "André Bush - Start From Silence",
+      "year": "2005",
+      "label": "Odd Culture Productions",
+      "country": "US",
+      "discogs_id": 11352154,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/90tMR7bO7OQNnAcOa3vMwjDx6jMj8Q3fUncYgfrOb-E/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUy/MTU0LTE1MTQ3Njg0/NjAtMTk4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lenny Dee",
+      "title": "Sweet 'N Sassy",
+      "release_title": "Lenny Dee (2) - Rock Me Back To Little Rock / Sweet 'N Sassy",
+      "year": "1970",
+      "label": "Decca",
+      "country": "US",
+      "discogs_id": 1950081,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/l3wZm_usNzFzVn3dtIcbq8s6YHaAxxEwI3fON9GjALE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTAw/ODEtMTM4OTc2NDc3/NS0xMzM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nando Lauria",
+      "title": "Shall We?",
+      "release_title": "Various - Narada Film And Television Music",
+      "year": "2003",
+      "label": "Narada",
+      "country": "US",
+      "discogs_id": 1830277,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/AZ6Sut7jx0tzsIgvcNKe0NwTVGpxomC7TeqttRaaZZE/rs:fit/g:sm/q:90/h:353/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAy/NzctMTY4OTYyOTY3/NS04NzAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Invitation",
+      "release_title": "Cal Tjader - Latin Kick",
+      "year": "1991",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 12995267,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/2_Ir7ftAbaOvUzwTKSMP164eRBvZwMOoPEdBvRbXRbQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk1/MjY3LTE1NDYxMDg5/MzItNDgxMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Di Meola & John McLaughlin & Paco De Lucía",
+      "title": "Short Tales Of The Black Forest",
+      "release_title": "Al Di Meola / John McLaughlin / Paco De Lucía - Friday Night In San Francisco",
+      "year": "1994",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 2911306,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/uRXL9_sCSteQsuUJlTny9JpgSbhOGb5MGcnKBwzQu3Q/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEz/MDYtMTMxNTUxNjc3/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charlie Byrd",
+      "title": "Meditation",
+      "release_title": "Various - Concord 25th Anniversary Collection ",
+      "year": "2005",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 37433358,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vKKWVm4v2iTZDqmbPgZ_tZFqEDIeKCvi6PFk1qAZZ5M/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMz/MzU4LTE3Nzk2NjIw/NjgtNjgyNi5qcGVn.jpeg"
+    }
+  ]
+}
