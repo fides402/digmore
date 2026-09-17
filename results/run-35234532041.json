@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": ""
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2019,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 27,
+      "artists_found": 25,
+      "fresh_lookups": 0,
+      "styles_considered": 78
+    }
+  },
+  "results": [
+    {
+      "artist": "Marva Whitney",
+      "title": "Things Got To Get Better (Get Together)",
+      "release_title": "Marva Whitney - Things Got To Get Better (Get Together)",
+      "year": "1969",
+      "label": "King Records",
+      "country": "US",
+      "discogs_id": 9469301,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Nmrd1NKUT1OgPrYQdVoO-KidopyQqp1nq2cOZgdj8DY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njkz/MDEtMTUzNDIwNDgy/OC02MjIwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Whispers",
+      "title": "Planets Of Life",
+      "release_title": "The Whispers - Planets Of Life",
+      "year": "1973",
+      "label": "Janus Records",
+      "country": "US",
+      "discogs_id": 8085377,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/m3Np_bQjV679Y2tLw5hIvX5oH8QiV1q-RiwrTn2VZnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODUz/NzctMTQ1NTczNjky/MS05ODA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kirk Franklin And The Family",
+      "title": "Jesus Is The Reason For The Season",
+      "release_title": "Kirk Franklin And The Family - Christmas",
+      "year": "1995",
+      "label": "Gospo Centric Records",
+      "country": "US",
+      "discogs_id": 333906,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/u0i1UodV_HRJYzRhOkPOrsoAUq77AFPNgdsTm5MJQ70/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzkw/Ni0xMTAyNDQzMTU0/LmpwZw.jpeg"
+    },
+    {
+      "artist": "Harvey Scales & The Seven Sounds",
+      "title": "The Funky Yolk",
+      "release_title": "Harvey Scales & The Seven Sounds - The Yolk",
+      "year": "1970",
+      "label": "Chess",
+      "country": "US",
+      "discogs_id": 946332,
+      "rating_avg": 4.17,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/WtYwM5qzcgocHchFfePcHTHHL5DlqM9jT-zQZY4JhT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjMz/Mi0xMTc1OTQ4NDI5/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cee-Lo",
+      "title": "Georgia (Album Version)",
+      "release_title": "Cee Lo Green* - F**k You",
+      "year": "2010",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 2829164,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/EUmvHCNoW--V34mHsyVBe1O_d3yoUu7LxkRCzKmxCxY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjkx/NjQtMTY0OTc3ODcz/Ny0yNjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Imperial Wonders",
+      "title": "My Baby (Just Told Me She Loves Me)",
+      "release_title": "Imperial Wonders - Love Coming Down",
+      "year": "1973",
+      "label": "Musicor Records",
+      "country": "US",
+      "discogs_id": 2695941,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Ru409V-NH5rEkCFJ8JBoynkSVhJL-rYbFqqV2u9Ta4k/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTU5/NDEtMTI5OTgzNTU2/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maxine Brown",
+      "title": "Picked Up, Packed And Put Away (Mono)",
+      "release_title": "Maxine Brown - Picked Up, Packed And Put Away",
+      "year": "1973",
+      "label": "Avco",
+      "country": "US",
+      "discogs_id": 6586805,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0oAuJHNYREiCoapR8zgAhfjw-aXfil9d10lTddCnexg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODY4/MDUtMTYzMjE0MzU5/Ni00MzI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rita Dacosta",
+      "title": "No! No! No!",
+      "release_title": "Rita Dacosta - No! No! No! / Don't Bring Me Down",
+      "year": "1969",
+      "label": "Mohawk",
+      "country": "US",
+      "discogs_id": 4417465,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/GX1tI-rZfpg7eOTuGPKRWH60mWHwYYb38tBHifHJQ2c/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTc0/NjUtMTU4Nzk3NTUz/MC03ODk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Part-Time Lover (Instrumental)",
+      "release_title": "Stevie Wonder - Part-Time Lover",
+      "year": "1985",
+      "label": "Tamla",
+      "country": "US",
+      "discogs_id": 721655,
+      "rating_avg": 3.95,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/P7KJD78x0vaQ4YR5OeekO9-niiB1lbzchw5Syb3IMhw/rs:fit/g:sm/q:90/h:149/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTY1/NS0xMzE4NTMxNTM0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "General Crook",
+      "title": "Till Then",
+      "release_title": "General Crook - Do It For Me / Till Then",
+      "year": "1970",
+      "label": "Down To Earth",
+      "country": "US",
+      "discogs_id": 5880841,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/fNVhUNw3d8qba1QpBCEgtilKcAeN9B20Y-WqEwCsGmU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODA4/NDEtMTQwNTI3MjE3/NC00MDk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Randy Hall",
+      "title": "She's My Little Star",
+      "release_title": "Randy Hall - I've Been Watching You (Jamie's Girl)",
+      "year": "1984",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 13818089,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sIOVmWfWe5MWe5tiwxUatbenJzLPiFNQK79c-Ce_G_U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE4/MDg5LTE1NjE4MDU2/NTEtNzM5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "James Brown",
+      "title": "Papa Don't Take No Mess (Part I)",
+      "release_title": "James Brown - Papa Don't Take No Mess",
+      "year": "1974",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 1370641,
+      "rating_avg": 4.36,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/rhxZ44cX8qH_-o7weaYQKapNcE_IxrdKkKx4dI6flt0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/NDEtMTIyODE3MTI0/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Whispers",
+      "title": "Creation Of Love",
+      "release_title": "The Whispers - Planets Of Life",
+      "year": "1973",
+      "label": "Janus Records",
+      "country": "US",
+      "discogs_id": 8085377,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/m3Np_bQjV679Y2tLw5hIvX5oH8QiV1q-RiwrTn2VZnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODUz/NzctMTQ1NTczNjky/MS05ODA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Somewhere",
+      "release_title": "The Supremes - In Japan !",
+      "year": "2004",
+      "label": "Hip-O Select",
+      "country": "US",
+      "discogs_id": 2415261,
+      "rating_avg": 4.6,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/AQDXjyHnQUk8DaZPUMeqnLXT9zyhYjNaWzw4MMGl4wo/rs:fit/g:sm/q:90/h:153/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTUy/NjEtMTI4MjgyMDA3/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ikebe Shakedown",
+      "title": "The Prisoner (Breakbeat)",
+      "release_title": "Ikebe Shakedown - Hard Steppin'",
+      "year": "2016",
+      "label": "Colemine Records",
+      "country": "US",
+      "discogs_id": 9466965,
+      "rating_avg": 4.59,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/oGhJzkYNwCsHmulwEgs8nLuTOtBbZUvkNXZLZ2B7Utg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjY5/NjUtMTQ4MzY0MjAy/MS05MTkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maxine Brown",
+      "title": "Picked Up, Packed And Put Away (Stereo)",
+      "release_title": "Maxine Brown - Picked Up, Packed And Put Away",
+      "year": "1973",
+      "label": "Avco",
+      "country": "US",
+      "discogs_id": 6586805,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0oAuJHNYREiCoapR8zgAhfjw-aXfil9d10lTddCnexg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODY4/MDUtMTYzMjE0MzU5/Ni00MzI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Randy Hall",
+      "title": "I've Been Watching You (Jamie's Girl)",
+      "release_title": "Randy Hall - I've Been Watching You (Jamie's Girl)",
+      "year": "1984",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 13818089,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sIOVmWfWe5MWe5tiwxUatbenJzLPiFNQK79c-Ce_G_U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE4/MDg5LTE1NjE4MDU2/NTEtNzM5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Stoned Love",
+      "release_title": "The Supremes - In Japan !",
+      "year": "2004",
+      "label": "Hip-O Select",
+      "country": "US",
+      "discogs_id": 2415261,
+      "rating_avg": 4.6,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/AQDXjyHnQUk8DaZPUMeqnLXT9zyhYjNaWzw4MMGl4wo/rs:fit/g:sm/q:90/h:153/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTUy/NjEtMTI4MjgyMDA3/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Isaac Hayes",
+      "title": "Medley: Ike's Rap II / Help Me Love",
+      "release_title": "Isaac Hayes - Black Moses",
+      "year": "2009",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 1754777,
+      "rating_avg": 4.59,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/Neqhk27sSKfWpP1Z1n3zOwGWS-L5BZCkLO1Uww4GK_U/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ3/NzctMTI0MTIyNjgy/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "James Brown",
+      "title": "Papa Don't Take No Mess (Part II)",
+      "release_title": "James Brown - Papa Don't Take No Mess",
+      "year": "1974",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 1370641,
+      "rating_avg": 4.36,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/rhxZ44cX8qH_-o7weaYQKapNcE_IxrdKkKx4dI6flt0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/NDEtMTIyODE3MTI0/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Miracles",
+      "title": "Mickey's Monkey",
+      "release_title": "Smokey Robinson & The Miracles* - Mickey's Monkey / A Love She Can Count On",
+      "year": "1988",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 22706369,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vwSrwSA7jileYx_YAJHTmizl5jm18ILmPsSnwa6dffQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA2/MzY5LTE2NDg3MDg1/MjItNDE3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kirk Franklin And The Family",
+      "title": "They Need To Know",
+      "release_title": "Kirk Franklin And The Family - Christmas",
+      "year": "1995",
+      "label": "Gospo Centric Records",
+      "country": "US",
+      "discogs_id": 333906,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/u0i1UodV_HRJYzRhOkPOrsoAUq77AFPNgdsTm5MJQ70/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzkw/Ni0xMTAyNDQzMTU0/LmpwZw.jpeg"
+    },
+    {
+      "artist": "The Whispers",
+      "title": "Needle In A Haystack",
+      "release_title": "The Whispers - Planets Of Life",
+      "year": "1973",
+      "label": "Janus Records",
+      "country": "US",
+      "discogs_id": 8085377,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/m3Np_bQjV679Y2tLw5hIvX5oH8QiV1q-RiwrTn2VZnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODUz/NzctMTQ1NTczNjky/MS05ODA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Imperial Wonders",
+      "title": "Love Coming Down",
+      "release_title": "Imperial Wonders - Love Coming Down",
+      "year": "1973",
+      "label": "Musicor Records",
+      "country": "US",
+      "discogs_id": 2695941,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Ru409V-NH5rEkCFJ8JBoynkSVhJL-rYbFqqV2u9Ta4k/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTU5/NDEtMTI5OTgzNTU2/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ikebe Shakedown",
+      "title": "Afro Fred (Breakbeat)",
+      "release_title": "Ikebe Shakedown - Hard Steppin'",
+      "year": "2016",
+      "label": "Colemine Records",
+      "country": "US",
+      "discogs_id": 9466965,
+      "rating_avg": 4.59,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/oGhJzkYNwCsHmulwEgs8nLuTOtBbZUvkNXZLZ2B7Utg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjY5/NjUtMTQ4MzY0MjAy/MS05MTkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Whispers",
+      "title": "They're Gonna Hear From Me",
+      "release_title": "The Whispers - Planets Of Life",
+      "year": "1973",
+      "label": "Janus Records",
+      "country": "US",
+      "discogs_id": 8085377,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/m3Np_bQjV679Y2tLw5hIvX5oH8QiV1q-RiwrTn2VZnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODUz/NzctMTQ1NTczNjky/MS05ODA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Miracles",
+      "title": "A Love She Can Count On",
+      "release_title": "Smokey Robinson & The Miracles* - Mickey's Monkey / A Love She Can Count On",
+      "year": "1988",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 22706369,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vwSrwSA7jileYx_YAJHTmizl5jm18ILmPsSnwa6dffQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA2/MzY5LTE2NDg3MDg1/MjItNDE3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Isaac Hayes",
+      "title": "I'll Never Fall In Love Again",
+      "release_title": "Isaac Hayes - Black Moses",
+      "year": "2009",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 1754777,
+      "rating_avg": 4.59,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/Neqhk27sSKfWpP1Z1n3zOwGWS-L5BZCkLO1Uww4GK_U/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ3/NzctMTI0MTIyNjgy/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Passions",
+      "title": "A Toast (May There Be No Last Time)",
+      "release_title": "Passions (4) - One Night Affair / A Toast (May There Be No Last Time)",
+      "year": "1972",
+      "label": "GSF Records",
+      "country": "US",
+      "discogs_id": 5565224,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/LvJtyVg9rMQbx0GHzC18GwYqIf-3inmSZsmFkyMiuBo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjUy/MjQtMTM5NjcwNjYz/Ni03OTUwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kirk Franklin And The Family",
+      "title": "Love Song",
+      "release_title": "Kirk Franklin And The Family - Christmas",
+      "year": "1995",
+      "label": "Gospo Centric Records",
+      "country": "US",
+      "discogs_id": 333906,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/u0i1UodV_HRJYzRhOkPOrsoAUq77AFPNgdsTm5MJQ70/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzkw/Ni0xMTAyNDQzMTU0/LmpwZw.jpeg"
+    }
+  ]
+}
