@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Easy Listening"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 0,
+      "styles_considered": 118
+    }
+  },
+  "results": [
+    {
+      "artist": "Tony Bennett",
+      "title": "That Night (Conclusion)",
+      "release_title": "Tony Bennett - I've Gotta Be Me",
+      "year": "1969",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 16446051,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/deRlh_mRptOm7kn2EBhTIb7O5BtIgipSOqgJjoYLPnY/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ2/MDUxLTE3NTgwMjYy/MDctNjA0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kilauea",
+      "title": "Sunrise In LA Jolla",
+      "release_title": "Kilauea - Antigua Blue",
+      "year": "1991",
+      "label": "Brainchild Records",
+      "country": "US",
+      "discogs_id": 5640031,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/VpYqARYkfXrQPrDaIKoTaFB32mBf8XcH6W81snKagnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDAw/MzEtMTU4NDIyNTkw/MS05Mjk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jim Haislip",
+      "title": "Feelings",
+      "release_title": "Jim Haislip - A Quiet Tear With Love",
+      "year": "1978",
+      "label": "Meridian 8 Records",
+      "country": "US",
+      "discogs_id": 26245250,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SX6OrtTJUiT4yhCNuTIWMHkGueom7_RJveqxpSNlDMc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ1/MjUwLTE2Nzc1MTI0/MDQtMjg3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kilauea",
+      "title": "Barbados",
+      "release_title": "Kilauea - Antigua Blue",
+      "year": "1991",
+      "label": "Brainchild Records",
+      "country": "US",
+      "discogs_id": 5640031,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/VpYqARYkfXrQPrDaIKoTaFB32mBf8XcH6W81snKagnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDAw/MzEtMTU4NDIyNTkw/MS05Mjk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Fat Mama",
+      "release_title": "Herbie Hancock - Fat Mama",
+      "year": "1969",
+      "label": "Warner Bros. - Seven Arts Records",
+      "country": "US",
+      "discogs_id": 5682412,
+      "rating_avg": 5.0,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/IMtz45ndB5j6UpKvraFaCzG8DcDiY9-StdMDM1wbi8k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODI0/MTItMTUwNjY5NjQ0/OS0yNjA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jackie Gleason",
+      "title": "Dancing In The Dark",
+      "release_title": "Jackie Gleason - Shangri-La",
+      "year": "1987",
+      "label": "Pair Records",
+      "country": "US",
+      "discogs_id": 13056222,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mHiGX60muvAJFFEg-R1DXiHeVYOgLC0cQpDx0QZkcGg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU2/MjIyLTE2MDMzMDE1/MDgtOTM4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jackie Gleason",
+      "title": "Shangri-La",
+      "release_title": "Jackie Gleason - Shangri-La",
+      "year": "1987",
+      "label": "Pair Records",
+      "country": "US",
+      "discogs_id": 13056222,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mHiGX60muvAJFFEg-R1DXiHeVYOgLC0cQpDx0QZkcGg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU2/MjIyLTE2MDMzMDE1/MDgtOTM4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tony Bennett",
+      "title": "That Night (Part 1)",
+      "release_title": "Tony Bennett - I've Gotta Be Me",
+      "year": "1969",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 16446051,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/deRlh_mRptOm7kn2EBhTIb7O5BtIgipSOqgJjoYLPnY/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQ2/MDUxLTE3NTgwMjYy/MDctNjA0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Greg Mathieson",
+      "title": "QT Π",
+      "release_title": "Greg Mathieson - West Coast Groove",
+      "year": "2004",
+      "label": "LMNOP Music",
+      "country": "US",
+      "discogs_id": 5547242,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/6EIBIwNT9cV2XTqFnxn0Rxqabb3N5ySmpsjc5YSe6D4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDcy/NDItMTM5NjIwMjI2/MS05MDUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Greg Mathieson",
+      "title": "Love Will Take You",
+      "release_title": "Greg Mathieson - West Coast Groove",
+      "year": "2004",
+      "label": "LMNOP Music",
+      "country": "US",
+      "discogs_id": 5547242,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/6EIBIwNT9cV2XTqFnxn0Rxqabb3N5ySmpsjc5YSe6D4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDcy/NDItMTM5NjIwMjI2/MS05MDUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bob James Trio",
+      "title": "The Jody Grind",
+      "release_title": "Bob James Trio - Straight Up",
+      "year": "1996",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6451031,
+      "rating_avg": 4.22,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/mtkpNc5-5nLDQHlvc4jOUDw5HXrEPNJ4sTj2MtfMKMA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTEw/MzEtMTQxOTU2MDM2/Ni05MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roger Williams",
+      "title": "Cast Your Fate To The Wind",
+      "release_title": "Roger Williams \"Mr. Piano\"* - Cast Your Fate To The Wind",
+      "year": "1976",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 14291302,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/L43pjhjzK50Z9ZAkMCz3yQRvHJqMb-Uf4xD3FMSTeSI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjkx/MzAyLTE1NzE1Nzg5/MjctNDcxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Greg Mathieson",
+      "title": "Take Your Time",
+      "release_title": "Greg Mathieson - West Coast Groove",
+      "year": "2004",
+      "label": "LMNOP Music",
+      "country": "US",
+      "discogs_id": 5547242,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/6EIBIwNT9cV2XTqFnxn0Rxqabb3N5ySmpsjc5YSe6D4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDcy/NDItMTM5NjIwMjI2/MS05MDUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jackie Gleason",
+      "title": "She's Funny That Way",
+      "release_title": "Jackie Gleason - Shangri-La",
+      "year": "1987",
+      "label": "Pair Records",
+      "country": "US",
+      "discogs_id": 13056222,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mHiGX60muvAJFFEg-R1DXiHeVYOgLC0cQpDx0QZkcGg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU2/MjIyLTE2MDMzMDE1/MDgtOTM4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Hedges",
+      "title": "Baby Toes",
+      "release_title": "Michael Hedges - Breakfast In The Field",
+      "year": "1981",
+      "label": "Windham Hill Records",
+      "country": "US",
+      "discogs_id": 7685217,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/1E2a77Wjt9AjG0q1xZb7FrMbujtNgBoXBHi2PV4HTsI/rs:fit/g:sm/q:90/h:600/w:379/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODUy/MTctMTU3MzYxOTM1/MS01NDgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sam Levine",
+      "title": "Since I Don't Have You",
+      "release_title": "Sam Levine - Greatest Love Songs Of The 50s",
+      "year": "2013",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 12977460,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Pbf0eHDlE2oB7pI6qC09wRWCaqMiuqOQsL-QyH6bapc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc3/NDYwLTE1NDU3NDI2/MDEtODEwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Crosswind",
+      "release_title": "Billy Cobham - Crosswinds",
+      "year": "1974",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 13515751,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CCGryLEbsEY4wgfHUnJiWgIfZGb2aKfMdptp0go9ges/rs:fit/g:sm/q:90/h:600/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE1/NzUxLTE1NTU2Nzc5/MjEtOTE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sam Levine",
+      "title": "You Send Me",
+      "release_title": "Sam Levine - Greatest Love Songs Of The 50s",
+      "year": "2013",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 12977460,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Pbf0eHDlE2oB7pI6qC09wRWCaqMiuqOQsL-QyH6bapc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc3/NDYwLTE1NDU3NDI2/MDEtODEwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mofofunka",
+      "title": "The Felix Bag",
+      "release_title": "Mofofunka - Brown Town Lounge",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 31629718,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vHueuDERw1LaVGqvKXMBx5Djd2bYQgM4qCOvaMZBXI0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjI5/NzE4LTE3MjUyMTk0/MjMtNTY2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James Trio",
+      "title": "Three Mice Blind",
+      "release_title": "Bob James Trio - Straight Up",
+      "year": "1996",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6451031,
+      "rating_avg": 4.22,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/mtkpNc5-5nLDQHlvc4jOUDw5HXrEPNJ4sTj2MtfMKMA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTEw/MzEtMTQxOTU2MDM2/Ni05MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bob James Trio",
+      "title": "Lost April",
+      "release_title": "Bob James Trio - Straight Up",
+      "year": "1996",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6451031,
+      "rating_avg": 4.22,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/mtkpNc5-5nLDQHlvc4jOUDw5HXrEPNJ4sTj2MtfMKMA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTEw/MzEtMTQxOTU2MDM2/Ni05MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sam Levine",
+      "title": "I Only Have Eyes For You",
+      "release_title": "Sam Levine - Greatest Love Songs Of The 50s",
+      "year": "2013",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 12977460,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Pbf0eHDlE2oB7pI6qC09wRWCaqMiuqOQsL-QyH6bapc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc3/NDYwLTE1NDU3NDI2/MDEtODEwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James Trio",
+      "title": "Quiet Now",
+      "release_title": "Bob James Trio - Straight Up",
+      "year": "1996",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6451031,
+      "rating_avg": 4.22,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/mtkpNc5-5nLDQHlvc4jOUDw5HXrEPNJ4sTj2MtfMKMA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTEw/MzEtMTQxOTU2MDM2/Ni05MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Jean Pierre",
+      "release_title": "Miles Davis - We Want Miles",
+      "year": "1982",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 11720004,
+      "rating_avg": 4.2,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/bdepb0Zfb_TvDvxArCZM6T_Zd8dc9v7q_Kb8h6Mpx9c/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIw/MDA0LTE1MjEyMjkz/OTQtMTE1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Hedges",
+      "title": "Layover",
+      "release_title": "Michael Hedges - Breakfast In The Field",
+      "year": "1981",
+      "label": "Windham Hill Records",
+      "country": "US",
+      "discogs_id": 7685217,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/1E2a77Wjt9AjG0q1xZb7FrMbujtNgBoXBHi2PV4HTsI/rs:fit/g:sm/q:90/h:600/w:379/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODUy/MTctMTU3MzYxOTM1/MS01NDgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Obnoxious",
+      "release_title": "Eddie Harris - Bad Luck Is All I Have",
+      "year": "1975",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 853309,
+      "rating_avg": 4.02,
+      "rating_count": 108,
+      "cover_image": "https://i.discogs.com/8rlVeH6gIFo2pBnG9vUL1H644Man1eZe8KwR2SvvA1I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzMw/OS0xNTU1MjM4MzQ2/LTkyODIuanBlZw.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Bad Luck Is All I Have",
+      "release_title": "Eddie Harris - Bad Luck Is All I Have",
+      "year": "1975",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 853309,
+      "rating_avg": 4.02,
+      "rating_count": 108,
+      "cover_image": "https://i.discogs.com/8rlVeH6gIFo2pBnG9vUL1H644Man1eZe8KwR2SvvA1I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzMw/OS0xNTU1MjM4MzQ2/LTkyODIuanBlZw.jpeg"
+    },
+    {
+      "artist": "Michael Hedges",
+      "title": "The Happy Couple",
+      "release_title": "Michael Hedges - Breakfast In The Field",
+      "year": "1981",
+      "label": "Windham Hill Records",
+      "country": "US",
+      "discogs_id": 7685217,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/1E2a77Wjt9AjG0q1xZb7FrMbujtNgBoXBHi2PV4HTsI/rs:fit/g:sm/q:90/h:600/w:379/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODUy/MTctMTU3MzYxOTM1/MS01NDgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "5 After 4",
+      "title": "Be Beem Bop",
+      "release_title": "Five After Four* - Public Solitude",
+      "year": "1996",
+      "label": "Jazz Inspiration Records",
+      "country": "US",
+      "discogs_id": 8326570,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MhKGK2SVRQgqr-ugAhJCtHKMWEgmWZ2ylTjdhUXVUEc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjY1/NzAtMTU1Njk0OTc3/Ni0xMzEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kilauea",
+      "title": "On the Edge of Reality",
+      "release_title": "Kilauea - Antigua Blue",
+      "year": "1991",
+      "label": "Brainchild Records",
+      "country": "US",
+      "discogs_id": 5640031,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/VpYqARYkfXrQPrDaIKoTaFB32mBf8XcH6W81snKagnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDAw/MzEtMTU4NDIyNTkw/MS05Mjk1LmpwZWc.jpeg"
+    }
+  ]
+}
