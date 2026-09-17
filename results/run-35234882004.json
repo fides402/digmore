@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Hard Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Cool Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Modal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1961,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 18,
+      "artists_found": 18,
+      "fresh_lookups": 2,
+      "styles_considered": 62
+    }
+  },
+  "results": [
+    {
+      "artist": "The Serge Chaloff Sextet",
+      "title": "Body And Soul",
+      "release_title": "The Serge Chaloff Sextet - Boston Blow-Up!",
+      "year": "2006",
+      "label": "Capitol Jazz",
+      "country": "US",
+      "discogs_id": 4511989,
+      "rating_avg": 4.13,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/IPomd9Icwrodg9xWiWzAgiOTt9Vrr563p875R5r7r90/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTE5/ODktMTM5NTgyMDUx/Ni0xMzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lynne Arriale",
+      "title": "The Dove",
+      "release_title": "Lynne Arriale - Solo",
+      "year": "2012",
+      "label": "Motéma",
+      "country": "US",
+      "discogs_id": 11408453,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/eP4NchtHReo0AzvJA7t6mTIltdjbtf1qxi3PPgKqxDc/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/NDUzLTE1MTkyMjU4/ODUtODM5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tommy Flanagan",
+      "title": "North Of The Sunset",
+      "release_title": "Tommy Flanagan - Thelonica",
+      "year": "1983",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 15532698,
+      "rating_avg": 5.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/i2624kLYdhNFV7XAYoP74vpDROf494GU8NvEVvxDy14/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMy/Njk4LTE1OTMxNDQw/ODAtOTI5Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Night In Tunisia",
+      "release_title": "Art Blakey's Jazz Messengers* - A Night In Tunisia",
+      "year": "1963",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 4169330,
+      "rating_avg": 4.33,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/zS6OCY3_dlmtAp2EisWVsfoE_NKPzsKOsP9IPAZbiQ8/rs:fit/g:sm/q:90/h:338/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjkz/MzAtMTM1NzU0Nzc0/Ny05NzI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Couldn't It Be You?",
+      "release_title": "Art Blakey's Jazz Messengers* - A Night In Tunisia",
+      "year": "1963",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 4169330,
+      "rating_avg": 4.33,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/zS6OCY3_dlmtAp2EisWVsfoE_NKPzsKOsP9IPAZbiQ8/rs:fit/g:sm/q:90/h:338/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjkz/MzAtMTM1NzU0Nzc0/Ny05NzI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tommy Flanagan",
+      "title": "Thelonious",
+      "release_title": "Tommy Flanagan - Thelonica",
+      "year": "1983",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 15532698,
+      "rating_avg": 5.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/i2624kLYdhNFV7XAYoP74vpDROf494GU8NvEVvxDy14/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMy/Njk4LTE1OTMxNDQw/ODAtOTI5Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clifford Brown",
+      "title": "Carving The Rock",
+      "release_title": "Clifford Brown - Memorial Album",
+      "year": "2014",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 6535336,
+      "rating_avg": 4.76,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/FsWiwfvkMgCseBo_Rgkrss2hScsiyy8IpLFTR1Pehrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzUz/MzYtMTcyNzM4MzE3/NC05NjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lynne Arriale",
+      "title": "Yada, Yada, Yada",
+      "release_title": "Lynne Arriale - Solo",
+      "year": "2012",
+      "label": "Motéma",
+      "country": "US",
+      "discogs_id": 11408453,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/eP4NchtHReo0AzvJA7t6mTIltdjbtf1qxi3PPgKqxDc/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/NDUzLTE1MTkyMjU4/ODUtODM5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sonny Stitt & Bud Powell & J.J. Johnson",
+      "title": "Taking A Chance On Love",
+      "release_title": "Sonny Stitt With Bud Powell And J. J. Johnson* - All God's Children Got Rhythm",
+      "year": "1965",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 28958917,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/rxCcQ6t3XZWEJnkbOxUQUEmAkTgeDFW8tPhWJ-5UnIE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU4/OTE3LTE3MDAzODk0/NjEtNTIzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sonny Stitt & Bud Powell & J.J. Johnson",
+      "title": "Elora",
+      "release_title": "Sonny Stitt With Bud Powell And J. J. Johnson* - All God's Children Got Rhythm",
+      "year": "1965",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 28958917,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/rxCcQ6t3XZWEJnkbOxUQUEmAkTgeDFW8tPhWJ-5UnIE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU4/OTE3LTE3MDAzODk0/NjEtNTIzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clifford Brown",
+      "title": "Cherokee",
+      "release_title": "Clifford Brown - Memorial Album",
+      "year": "2014",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 6535336,
+      "rating_avg": 4.76,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/FsWiwfvkMgCseBo_Rgkrss2hScsiyy8IpLFTR1Pehrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzUz/MzYtMTcyNzM4MzE3/NC05NjI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Oscar Peterson Trio",
+      "title": "Medley: It Never Entered My Mind / Body And Soul",
+      "release_title": "The Oscar Peterson Trio - Live At The Blue Note (The Complete Recordings - March 16-18, 1990)",
+      "year": "2004",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 4110067,
+      "rating_avg": 4.5,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/roX6ydBFluOq6qrLF1GLyXlp3rcMlrpZ7m444jbqSrI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTAw/NjctMTY1ODE2NTYx/NS03OTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clifford Brown",
+      "title": "Carvin' The Rock",
+      "release_title": "Clifford Brown - Memorial Album",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 32122074,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/SSsX_9cWf7yNEu-YjQufNx4zq7qV8ZYtLOTxhEREQYk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTIy/MDc0LTE3MzAwNjM1/MjAtOTA5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Oscar Peterson Trio",
+      "title": "Blues For Big Scotia",
+      "release_title": "The Oscar Peterson Trio - Live At The Blue Note (The Complete Recordings - March 16-18, 1990)",
+      "year": "2004",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 4110067,
+      "rating_avg": 4.5,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/roX6ydBFluOq6qrLF1GLyXlp3rcMlrpZ7m444jbqSrI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTAw/NjctMTY1ODE2NTYx/NS03OTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Frank Morgan Allstars",
+      "title": "Sonnymoon For Two",
+      "release_title": "Frank Morgan Allstars - Reflections ",
+      "year": "2000",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 11218577,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fJcuuNdTPZyfgJmiJwYapq6mI5s7NXdT2YRcNQPks7Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE4/NTc3LTE1Nzk4MzUy/NjgtNDAyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Morgan Allstars",
+      "title": "Reflections",
+      "release_title": "Frank Morgan Allstars - Reflections ",
+      "year": "2000",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 11218577,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fJcuuNdTPZyfgJmiJwYapq6mI5s7NXdT2YRcNQPks7Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE4/NTc3LTE1Nzk4MzUy/NjgtNDAyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Serge Chaloff Sextet",
+      "title": "Yesterday's Gardenias",
+      "release_title": "The Serge Chaloff Sextet - Boston Blow-Up!",
+      "year": "2006",
+      "label": "Capitol Jazz",
+      "country": "US",
+      "discogs_id": 4511989,
+      "rating_avg": 4.13,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/IPomd9Icwrodg9xWiWzAgiOTt9Vrr563p875R5r7r90/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTE5/ODktMTM5NTgyMDUx/Ni0xMzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Thelonious Monk",
+      "title": "Japanese Folk Song",
+      "release_title": "Monk* - Straight, No Chaser",
+      "year": "1967",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 34198339,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/dmDrYUU6I5OqXSGhBgK1j2s21QjZkA2EkamyL-gyD-U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk4/MzM5LTE3NjUxMzU0/OTYtNjI4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Watts",
+      "title": "Reaching Up",
+      "release_title": "Ernie Watts - Reaching Up",
+      "year": "1994",
+      "label": "JVC",
+      "country": "US",
+      "discogs_id": 6806145,
+      "rating_avg": 4.3,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/1pL1UGKumt3G888043OhMxQ5K0sh2UV7BuFMLywOgIA/rs:fit/g:sm/q:90/h:434/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDYx/NDUtMTY0MTE0MTc0/My0xNTY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Oscar Peterson",
+      "title": "Love Ballade",
+      "release_title": "Oscar Peterson - Oscar's Ballads",
+      "year": "2001",
+      "label": "Telarc",
+      "country": "US",
+      "discogs_id": 20638237,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/mxjaWW4lBUAyyWO0jIBVS4EaiOmp2zDwDGxfXBcHYKE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjM4/MjM3LTE2MzQ1ODg0/NTQtNjMxMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Watts",
+      "title": "Mr. Syms",
+      "release_title": "Ernie Watts - Reaching Up",
+      "year": "1994",
+      "label": "JVC",
+      "country": "US",
+      "discogs_id": 6806145,
+      "rating_avg": 4.3,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/1pL1UGKumt3G888043OhMxQ5K0sh2UV7BuFMLywOgIA/rs:fit/g:sm/q:90/h:434/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDYx/NDUtMTY0MTE0MTc0/My0xNTY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Denny Zeitlin",
+      "title": "My Shining Hour",
+      "release_title": "Denny Zeitlin - Shining Hour - Live At The Trident",
+      "year": "1966",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 2257332,
+      "rating_avg": 4.44,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/yu7PMZKubk1PxOK6T-f_Wd3a5kKkK7QMXBrlGk4D2ks/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTcz/MzItMTY0NzEyODgz/OC04MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Mingus",
+      "title": "Devil Woman",
+      "release_title": "Charles Mingus - Passions Of A Man: An Anthology Of His Atlantic Recordings",
+      "year": "1979",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 36148543,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QLhoAd1LfpChcIadLdNvzGY0Q457R5pxjgQcpshsN04/rs:fit/g:sm/q:90/h:435/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQ4/NTQzLTE3Njc5ODY4/OTAtOTYzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Serge Chaloff Sextet",
+      "title": "What's New",
+      "release_title": "The Serge Chaloff Sextet - Boston Blow-Up!",
+      "year": "2006",
+      "label": "Capitol Jazz",
+      "country": "US",
+      "discogs_id": 4511989,
+      "rating_avg": 4.13,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/IPomd9Icwrodg9xWiWzAgiOTt9Vrr563p875R5r7r90/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTE5/ODktMTM5NTgyMDUx/Ni0xMzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ernie Watts",
+      "title": "Angel's Flight",
+      "release_title": "Ernie Watts - Reaching Up",
+      "year": "1994",
+      "label": "JVC",
+      "country": "US",
+      "discogs_id": 6806145,
+      "rating_avg": 4.3,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/1pL1UGKumt3G888043OhMxQ5K0sh2UV7BuFMLywOgIA/rs:fit/g:sm/q:90/h:434/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDYx/NDUtMTY0MTE0MTc0/My0xNTY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clifford Brown",
+      "title": "Wail Bait",
+      "release_title": "Clifford Brown - Memorial Album",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 32122074,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/SSsX_9cWf7yNEu-YjQufNx4zq7qV8ZYtLOTxhEREQYk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTIy/MDc0LTE3MzAwNjM1/MjAtOTA5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stan Getz & Chet Baker",
+      "title": "Dear Old Stockholm",
+      "release_title": "Stan Getz & Chet Baker - Line For Lyons",
+      "year": "1984",
+      "label": "Storyville",
+      "country": "US",
+      "discogs_id": 12230301,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PuH5cpSJs8JknayHyp2SILukU0mHqE3wwCVYQWsZx8c/rs:fit/g:sm/q:90/h:376/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjMw/MzAxLTE1MzA5ODc5/NjItNjg1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clifford Brown",
+      "title": "Bellarosa",
+      "release_title": "Clifford Brown - Memorial Album",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 32122074,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/SSsX_9cWf7yNEu-YjQufNx4zq7qV8ZYtLOTxhEREQYk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTIy/MDc0LTE3MzAwNjM1/MjAtOTA5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Mingus",
+      "title": "Better Git Hit In Your Soul",
+      "release_title": "Charles Mingus - Passions Of A Man: An Anthology Of His Atlantic Recordings",
+      "year": "1979",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 36148543,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QLhoAd1LfpChcIadLdNvzGY0Q457R5pxjgQcpshsN04/rs:fit/g:sm/q:90/h:435/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQ4/NTQzLTE3Njc5ODY4/OTAtOTYzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cedar Walton",
+      "title": "For All We Know",
+      "release_title": "Cedar Walton - Among Friends",
+      "year": "1990",
+      "label": "Theresa Records",
+      "country": "US",
+      "discogs_id": 33452582,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/dvDi2gi1730-DvlqUEU67mb1oRplWz1dCvcyxQOAeME/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDUy/NTgyLTE3NDIzNzkz/OTItOTgwMC5qcGVn.jpeg"
+    }
+  ]
+}

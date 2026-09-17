@@ -34016,6 +34016,198 @@
    2001
   ]
  },
+ "don byas": {
+  "countries": [
+   "Worldwide",
+   "Andorra",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "Japan",
+   "France",
+   "France",
+   "US",
+   "Europe",
+   "France",
+   "France",
+   "Spain",
+   "US",
+   "US",
+   "New Zealand",
+   "Germany",
+   "France",
+   "France",
+   "France",
+   "France",
+   "France"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Swing",
+   "Bop",
+   "Swing",
+   "Bop",
+   "Bop",
+   "Bop",
+   "Bop",
+   "Swing",
+   "Bop",
+   "Swing",
+   "Swing",
+   "Bop",
+   "Bop",
+   "Swing",
+   "Swing",
+   "Bop",
+   "Swing",
+   "Bop",
+   "Cool Jazz",
+   "Swing",
+   "Swing",
+   "Bop"
+  ],
+  "years": [
+   2023,
+   2001,
+   1946,
+   1953,
+   1946,
+   1968,
+   1993,
+   1954,
+   1944,
+   1984,
+   1996,
+   1997,
+   2001,
+   2009,
+   1953,
+   1997,
+   2004,
+   1986,
+   1948
+  ]
+ },
  "don cherry": {
   "countries": [
    "Japan",
@@ -64054,6 +64246,341 @@
    1967,
    1986,
    1976,
+   1972
+  ]
+ },
+ "john coltrane quartet": {
+  "countries": [
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "UK",
+   "Europe",
+   "Russia",
+   "Luxembourg",
+   "US",
+   "UK",
+   "Europe",
+   "Japan",
+   "Japan",
+   "Italy",
+   "Europe",
+   "US",
+   "UK",
+   "Canada",
+   "US",
+   "US",
+   "Europe",
+   "UK",
+   "Japan",
+   "Italy",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Hard Bop",
+   "Post Bop",
+   "Free Jazz",
+   "Post Bop",
+   "Modal",
+   "Cool Jazz",
+   "Modal",
+   "Free Jazz",
+   "Hard Bop",
+   "Modal",
+   "Hard Bop",
+   "Post Bop",
+   "Modal",
+   "Instrumental",
+   "Post Bop",
+   "Hard Bop",
+   "Hard Bop",
+   "Modal",
+   "Hard Bop",
+   "Post Bop",
+   "Modal",
+   "Post Bop",
+   "Modal",
+   "Modal",
+   "Cool Jazz",
+   "Modal",
+   "Post Bop",
+   "Free Jazz",
+   "Modal",
+   "Cool Jazz",
+   "Hard Bop",
+   "Free Jazz",
+   "Hard Bop",
+   "Modal",
+   "Hard Bop",
+   "Modal",
+   "Modal",
+   "Cool Jazz",
+   "Post Bop",
+   "Modal",
+   "Post Bop",
+   "Modal",
+   "Free Improvisation",
+   "Post Bop",
+   "Modal",
+   "Free Improvisation",
+   "Post Bop",
+   "Modal",
+   "Free Improvisation",
+   "Modal",
+   "Cool Jazz"
+  ],
+  "years": [
+   1976,
+   1963,
+   2021,
+   1961,
+   2015,
+   2005,
+   1997,
+   1993,
+   2008,
+   1980,
+   1980,
+   1961,
+   1973,
+   1965,
+   1963,
+   2005,
    1972
   ]
  },
