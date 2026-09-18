@@ -1000,7 +1000,27 @@ async def embed_raw_audio(audio: UploadFile = File(...), offset_sec: float = For
         norm = float(np.linalg.norm(emb_arr))
         if norm > 1e-9:
             emb_arr = emb_arr / norm
-        return {"embedding": emb_arr.tolist(), "dim": len(emb_arr)}
+
+        # Raw tempo estimate, additive field (existing callers ignore it).
+        # DELIBERATELY not folded to any "canonical" octave here: a beat
+        # tracker's 60/120/240 ambiguity can only be resolved against a
+        # target tempo, which this stateless endpoint doesn't have — the
+        # caller (BLUESKIES scoring) compares against ITS OWN target at
+        # 0.5x/1x/2x and keeps the closest, instead of trusting one raw
+        # number the way a naive |candidate - target| check would (that is
+        # the exact bug: it silently would have called a 60 BPM ballad "not a
+        # 120 BPM match" when it is the same track felt at half time).
+        bpm = None
+        try:
+            import librosa
+            y, sr = librosa.load(tmp_out_path, sr=22050, mono=True, duration=30)
+            onset = librosa.onset.onset_strength(y=y, sr=sr)
+            tempo = librosa.beat.beat_track(onset_envelope=onset, sr=sr)[0]
+            bpm = round(float(np.asarray(tempo).reshape(-1)[0]), 2) if np.size(tempo) else None
+        except Exception:
+            bpm = None  # tempo is a scoring bonus, never a hard requirement
+
+        return {"embedding": emb_arr.tolist(), "dim": len(emb_arr), "bpm": bpm}
     finally:
         for p in (tmp_in_path, tmp_out_path):
             try:
