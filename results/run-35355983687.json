@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 32,
+      "artists_found": 29,
+      "fresh_lookups": 0,
+      "styles_considered": 93
+    }
+  },
+  "results": [
+    {
+      "artist": "Gregory Havrilak",
+      "title": "A Phone Call Away",
+      "release_title": "Gregory Havrilak - Proud Woman",
+      "year": "1971",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 9543133,
+      "rating_avg": 5.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/m42EiUpAeojzwqSx58TjzHzEy8A61hsALAsDdFeuOM8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDMx/MzMtMTQ4MjQxODI1/Mi05Mzg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sheba Potts-Wright",
+      "title": "I Can Bagg It Up",
+      "release_title": "Sheba Potts-Wright - Love Fest",
+      "year": "2002",
+      "label": "Ecko Records",
+      "country": "US",
+      "discogs_id": 10628979,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cVAdQAlifv4yqu-TM8A7FBtaKhl53A7mTfjpR8UEwYw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI4/OTc5LTE3NTM2MTIy/OTMtNzcyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "D.C. LaRue",
+      "title": "I Don’t Want To Lose You (Pt. 2)",
+      "release_title": "D.C. LaRue - Ca-The-Drals",
+      "year": "1976",
+      "label": "Pyramid",
+      "country": "US",
+      "discogs_id": 36950226,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Margie Joseph",
+      "title": "Big Strong Man",
+      "release_title": "Margie Joseph - Ready For The Night",
+      "year": "1984",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 7719987,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KcTCXR2KdFdH4_0NUiH2tUlV0MLQK4cgnkUNb425NF8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTk5/ODctMTY4NTExMzU1/MC05NTM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sly & The Family Stone",
+      "title": "Luv N' Haight",
+      "release_title": "Sly & The Family Stone - Family Affair / Luv N' Haight",
+      "year": "1971",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 1316480,
+      "rating_avg": 4.22,
+      "rating_count": 55,
+      "cover_image": "https://i.discogs.com/VZo94Clx_3DTSHhlkBiIojcgsf5VtN1Jq-5StJ9yZNI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY0/ODAtMTU3MDg5NjU3/NC02NTEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Chi-Lites",
+      "title": "My First Mistake (Instrumental)",
+      "release_title": "The Chi-Lites - My First Mistake (Paul Simpson Remix)",
+      "year": "2021",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 19923088,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TgQ-kWsST92bLdfZ8RVj72sIrmnw15hEZFe7lQzWeN8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTIz/MDg4LTE2Mjk0MTQz/MzUtMzE5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dream Machine",
+      "title": "Dream Machine",
+      "release_title": "Dream Machine (2) - Don't Walk Away",
+      "year": "1981",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 8011561,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WtlhnMYhEinWv8IXhBhACb3wFMAXGIMsIf3YnLp4kJQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTE1/NjEtMTUwNjMzOTMx/MC02NzU2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Celi Bee & The Buzzy Bunch",
+      "title": "One Love",
+      "release_title": "Celi Bee & The Buzzy Bunch - Superman / One Love",
+      "year": "1977",
+      "label": "T.K. Disco",
+      "country": "US",
+      "discogs_id": 22489823,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_DReggnLek-Pbl0jv6RxrC-zM33j3pTWTmMWo47Ur8Y/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg5/ODIzLTE2NDcxMzE5/ODctNzc1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "France Joli",
+      "title": "Let Go",
+      "release_title": "France Joli - France Joli",
+      "year": "1979",
+      "label": "Prelude Records",
+      "country": "US",
+      "discogs_id": 5760440,
+      "rating_avg": 4.25,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/59UMkqP0h1r_oMlsqsdEdJRaC3EOpRiMPeIUQ3GCWnY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjA0/NDAtMTQwMTkwMzAx/MS02NzcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Margie Joseph",
+      "title": "Midnight Lover",
+      "release_title": "Margie Joseph - Ready For The Night",
+      "year": "1984",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 7719987,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KcTCXR2KdFdH4_0NUiH2tUlV0MLQK4cgnkUNb425NF8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTk5/ODctMTY4NTExMzU1/MC05NTM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dream Machine",
+      "title": "Don't Walk Away",
+      "release_title": "Dream Machine (2) - Don't Walk Away",
+      "year": "1981",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 8011561,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WtlhnMYhEinWv8IXhBhACb3wFMAXGIMsIf3YnLp4kJQ/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTE1/NjEtMTUwNjMzOTMx/MC02NzU2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sonny Til",
+      "title": "Don't Feel No Pain",
+      "release_title": "Sonny Til - One Big Unhappy Family/Don't Feel No Pain",
+      "year": "1970",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 11973290,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/CDAV29oHyJAWaBAueeVOu4pHEmcsbSGoyuZ5TFh4NHs/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcz/MjkwLTE1NjcwNjk3/NzQtOTEyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Larry Graham",
+      "title": "The Entertainer",
+      "release_title": "Larry Graham - One In A Million You",
+      "year": "1980",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 14854085,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/CK5qDFGj80klUTMLspvn8PefyZ43Mwzm_PZj7wDv1Ck/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU0/MDg1LTE1ODI4NzI5/MTEtNjg2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "D.C. LaRue",
+      "title": "I Don’t Want To Lose You (Pt. 1)",
+      "release_title": "D.C. LaRue - Ca-The-Drals",
+      "year": "1976",
+      "label": "Pyramid",
+      "country": "US",
+      "discogs_id": 36950226,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Sheba Potts-Wright",
+      "title": "I'll Be The Other Woman",
+      "release_title": "Sheba Potts-Wright - Love Fest",
+      "year": "2002",
+      "label": "Ecko Records",
+      "country": "US",
+      "discogs_id": 10628979,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cVAdQAlifv4yqu-TM8A7FBtaKhl53A7mTfjpR8UEwYw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI4/OTc5LTE3NTM2MTIy/OTMtNzcyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Z'Looke",
+      "title": "Sneak Preview",
+      "release_title": "Z'Looke - Take U Back To My Place",
+      "year": "1988",
+      "label": "Orpheus Records",
+      "country": "US",
+      "discogs_id": 4477594,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/51RkPGSRRo3bP0lu4xAxCPDCxobCSR4AP-hsuB4Q3lg/rs:fit/g:sm/q:90/h:438/w:273/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzc1/OTQtMTM2NTk4MTI1/Ni0zNzMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "France Joli",
+      "title": "Don't Stop Dancing",
+      "release_title": "France Joli - France Joli",
+      "year": "1979",
+      "label": "Prelude Records",
+      "country": "US",
+      "discogs_id": 5760440,
+      "rating_avg": 4.25,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/59UMkqP0h1r_oMlsqsdEdJRaC3EOpRiMPeIUQ3GCWnY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjA0/NDAtMTQwMTkwMzAx/MS02NzcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sheba Potts-Wright",
+      "title": "Southern Guys",
+      "release_title": "Sheba Potts-Wright - Love Fest",
+      "year": "2002",
+      "label": "Ecko Records",
+      "country": "US",
+      "discogs_id": 10628979,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cVAdQAlifv4yqu-TM8A7FBtaKhl53A7mTfjpR8UEwYw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI4/OTc5LTE3NTM2MTIy/OTMtNzcyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Z'Looke",
+      "title": "Take U Back To My Place",
+      "release_title": "Z'Looke - Take U Back To My Place",
+      "year": "1988",
+      "label": "Orpheus Records",
+      "country": "US",
+      "discogs_id": 4477594,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/51RkPGSRRo3bP0lu4xAxCPDCxobCSR4AP-hsuB4Q3lg/rs:fit/g:sm/q:90/h:438/w:273/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzc1/OTQtMTM2NTk4MTI1/Ni0zNzMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Flame 'N' King & Sons Of Darkness",
+      "title": "Something",
+      "release_title": "Flame* And The Sons Of Darkness* - Solid Funk",
+      "year": "1972",
+      "label": "P&P Records",
+      "country": "US",
+      "discogs_id": 551140,
+      "rating_avg": 4.62,
+      "rating_count": 21,
+      "cover_image": "https://i.discogs.com/xRrRf66VUAR7RMCMsPdWjGIsKw2zjgbFHg5GY_W_p9U/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTE0/MC0xNjcwNDUwMjM0/LTgxMTguanBlZw.jpeg"
+    },
+    {
+      "artist": "France Joli",
+      "title": "Come To Me",
+      "release_title": "France Joli - France Joli",
+      "year": "1979",
+      "label": "Prelude Records",
+      "country": "US",
+      "discogs_id": 5760440,
+      "rating_avg": 4.25,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/59UMkqP0h1r_oMlsqsdEdJRaC3EOpRiMPeIUQ3GCWnY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjA0/NDAtMTQwMTkwMzAx/MS02NzcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Darnell Kendricks",
+      "title": "Because Of You",
+      "release_title": "Darnell Kendricks - Strawberry Lemonade",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 13297892,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HxlTuP6qD519dBWOquW8GZKFX6nQTv4ch7sQlpqiVDA/rs:fit/g:sm/q:90/h:460/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk3/ODkyLTE1NTE2MjAy/OTEtNzc4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Darnell Kendricks",
+      "title": "Jones In My Bones",
+      "release_title": "Darnell Kendricks - Strawberry Lemonade",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 13297892,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HxlTuP6qD519dBWOquW8GZKFX6nQTv4ch7sQlpqiVDA/rs:fit/g:sm/q:90/h:460/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk3/ODkyLTE1NTE2MjAy/OTEtNzc4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Chi-Lites",
+      "title": "My First Mistake (Paul Simpson Remix)",
+      "release_title": "The Chi-Lites - My First Mistake (Paul Simpson Remix)",
+      "year": "2021",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 19923088,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TgQ-kWsST92bLdfZ8RVj72sIrmnw15hEZFe7lQzWeN8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTIz/MDg4LTE2Mjk0MTQz/MzUtMzE5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Darnell Kendricks",
+      "title": "Soft Answer",
+      "release_title": "Darnell Kendricks - Strawberry Lemonade",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 13297892,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HxlTuP6qD519dBWOquW8GZKFX6nQTv4ch7sQlpqiVDA/rs:fit/g:sm/q:90/h:460/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk3/ODkyLTE1NTE2MjAy/OTEtNzc4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "D.C. LaRue",
+      "title": "Deep, Dark, Delicious Night",
+      "release_title": "D.C. LaRue - Ca-The-Drals",
+      "year": "1976",
+      "label": "Pyramid",
+      "country": "US",
+      "discogs_id": 36950226,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Celi Bee & The Buzzy Bunch",
+      "title": "Superman",
+      "release_title": "Celi Bee & The Buzzy Bunch - Superman / One Love",
+      "year": "1977",
+      "label": "T.K. Disco",
+      "country": "US",
+      "discogs_id": 22489823,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_DReggnLek-Pbl0jv6RxrC-zM33j3pTWTmMWo47Ur8Y/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg5/ODIzLTE2NDcxMzE5/ODctNzc1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sly & The Family Stone",
+      "title": "Family Affair",
+      "release_title": "Sly & The Family Stone - Family Affair / Luv N' Haight",
+      "year": "1971",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 1316480,
+      "rating_avg": 4.22,
+      "rating_count": 55,
+      "cover_image": "https://i.discogs.com/VZo94Clx_3DTSHhlkBiIojcgsf5VtN1Jq-5StJ9yZNI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY0/ODAtMTU3MDg5NjU3/NC02NTEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Darnell Kendricks",
+      "title": "Good Love",
+      "release_title": "Darnell Kendricks - Strawberry Lemonade",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 13297892,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HxlTuP6qD519dBWOquW8GZKFX6nQTv4ch7sQlpqiVDA/rs:fit/g:sm/q:90/h:460/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk3/ODkyLTE1NTE2MjAy/OTEtNzc4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Arrington's Hall Of Fame",
+      "title": "Pocketful Of Air",
+      "release_title": "Steve Arrington's Hall Of Fame - Steve Arrington's Hall Of Fame I",
+      "year": "1997",
+      "label": "Rhino Records",
+      "country": "US",
+      "discogs_id": 1914269,
+      "rating_avg": 4.23,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/R3wqYItYfWk-pO97dWpiWooSaVWyGisvUBOM8kQVbCc/rs:fit/g:sm/q:90/h:592/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQy/NjktMTM1MjM5MDQ1/MC02ODg5LmpwZWc.jpeg"
+    }
+  ]
+}
