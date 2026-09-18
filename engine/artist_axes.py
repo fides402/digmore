@@ -58,6 +58,20 @@ _NON_MUSICAL_STYLES = frozenset({
     "public broadcast", "story", "fiction", "health-fitness",
 })
 
+# "Easy Listening" is a real Discogs style, not excluded for being non-music
+# like the set above — excluded because as a SEARCH AXIS it has failed three
+# separate live BLUESKIES runs in a row (18/09/2026, see HANDOFF.md "Cosa NON
+# ha funzionato"), regardless of how the axes were derived (hand-picked, then
+# seed-artist-derived). It survives derivation because genuinely sophisticated
+# vocal artists (Burt Bacharach, The Singers Unlimited) carry the tag on
+# Discogs, but the bucket itself is dominated by generic 1950s-70s lounge/
+# mood-music orchestras (André Previn And His Orchestra, Bert Kaempfert & His
+# Orchestra, Floyd Cramer, Boots Randolph, Leo Diamond, The Three Suns) that
+# CLAP + the vocal/instrumental mood bonus were not discriminating against
+# strongly enough. Blunt but evidence-backed: drop it as a search axis
+# entirely rather than trying a fourth scoring fix on top of it.
+_UNRELIABLE_SEARCH_STYLES = frozenset({"easy listening"})
+
 _MAX_RELEASES_PER_ARTIST = 25
 _MAX_SEARCHES = 8
 _MAX_COUNTRIES = 3
@@ -113,7 +127,11 @@ def _lookup(name: str) -> dict:
     pairs: list[list[str]] = []
     for r in rows:
         row_genres = [g for g in (r.get("genre") or []) if g and g.lower() not in _NON_MUSICAL_GENRES]
-        row_styles = [s for s in (r.get("style") or []) if s and s.lower() not in _NON_MUSICAL_STYLES]
+        row_styles = [
+            s for s in (r.get("style") or [])
+            if s and s.lower() not in _NON_MUSICAL_STYLES
+            and s.lower() not in _UNRELIABLE_SEARCH_STYLES
+        ]
         genres += row_genres
         styles += row_styles
         for s in row_styles:
@@ -195,13 +213,22 @@ def axes_for_artists(names: list[str], use_cache: bool = True) -> dict:
         for g in info["genres"]:
             genre_releases[g] = genre_releases.get(g, 0) + 1
         for s in info["styles"]:
+            if s.lower() in _UNRELIABLE_SEARCH_STYLES:
+                continue
             style_releases[s] = style_releases.get(s, 0) + 1
             style_artists.setdefault(s, set()).add(key)
         # Which genre does this style live under? Discogs styles are not
         # globally unique across genres ("Soul-Jazz" is Jazz, "Funk" is
         # Funk / Soul) and the search API needs the pair, not the style alone.
         # The pairing has to come from the same release row (see _lookup).
+        # Filtered here too, not just in _lookup: most seed artists are
+        # already in the committed cache (state/artist-axes.json) from BEFORE
+        # this exclusion existed, so their cached "styles"/"pairs" still
+        # contain "Easy Listening" — re-deriving axes from an unchanged seed
+        # list would otherwise silently ignore this fix.
         for s, g in info.get("pairs", []):
+            if s.lower() in _UNRELIABLE_SEARCH_STYLES:
+                continue
             bucket = genre_of_style.setdefault(s, {})
             bucket[g] = bucket.get(g, 0) + 1
         for c in info["countries"]:
