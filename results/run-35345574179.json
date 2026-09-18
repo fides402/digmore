@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1966,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 40,
+      "fresh_lookups": 0,
+      "styles_considered": 120
+    }
+  },
+  "results": [
+    {
+      "artist": "Bobby Hutcherson",
+      "title": "Shirl (part 2)",
+      "release_title": "Bobby Hutcherson - Natural Illusions",
+      "year": "1972",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 9857104,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9xI7OLoidu4BUwEgnxz6qtXFi0h2CQhTikbuwZXdb98/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcx/MDQtMTQ4NzQ2NjMx/NC03MDI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mike Nock Quintet",
+      "title": "Come Sunday",
+      "release_title": "Mike Nock Quintet - Ozboppin'",
+      "year": "1998",
+      "label": "Naxos Jazz",
+      "country": "US",
+      "discogs_id": 26312837,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/U9a_hedJQuO7GkEPNhy2OMngs2452VcR8DPwEB9AdD4/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzEy/ODM3LTE2NzgwMjU2/MjUtNTg4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "House Of David",
+      "release_title": "David Newman* - House Of David",
+      "year": "1967",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 4776142,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4roN0XfwkSvN5h5tZ4HypHWw0cKoPAMuOq6rVZclUNo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzYx/NDItMTQ5MjgwNTEx/OS04NDAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobby Hutcherson",
+      "title": "Rain Every Thursday",
+      "release_title": "Bobby Hutcherson - Natural Illusions",
+      "year": "1972",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 9857104,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9xI7OLoidu4BUwEgnxz6qtXFi0h2CQhTikbuwZXdb98/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcx/MDQtMTQ4NzQ2NjMx/NC03MDI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Soulive",
+      "title": "Evidence",
+      "release_title": "Soulive - Doin' Something",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 5632458,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BeC_Oo6s4gTKdQF6b_hVsDT2JJA8Q3nA1vrGKAdRVWE/rs:fit/g:sm/q:90/h:482/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzI0/NTgtMTQ0Mzc5NTc5/Mi02OTE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Just Like A Woman",
+      "release_title": "David Newman* - House Of David",
+      "year": "1967",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 4776142,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4roN0XfwkSvN5h5tZ4HypHWw0cKoPAMuOq6rVZclUNo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzYx/NDItMTQ5MjgwNTEx/OS04NDAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Deborah Henson-Conant",
+      "title": "The Emerald Pool",
+      "release_title": "Deborah Henson-Conant - On The Rise",
+      "year": "1989",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 12811265,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qjSHx9muVRyxuAOCrcXPatWMRzBkBvTBI6hv0Wjvxok/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/MjY1LTE1NjkzNDUw/MzEtNDk1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "More Today Than Yesterday (Concl.)",
+      "release_title": "Charles Earland - Black Talk!",
+      "year": "1970",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 22300384,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hMHw-RePI7eboKsbMBLpuasKsQuSIDqoiWk74Pgc4ZQ/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/Mzg0LTE2NzkwNjkx/NjUtNTI5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Thad Jones / Mel Lewis Orchestra",
+      "title": "Us",
+      "release_title": "Thad Jones / Mel Lewis Orchestra - Ahunk Ahunk",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 2696299,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VcTmhMcpS-PmH4XEDOSwg2OpTU4nwoURynaX_hfaW4M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTYy/OTktMTUxNTI4MDgz/MC0zNDYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Noland",
+      "title": "Voices From Before",
+      "release_title": "Dave Noland - Nomad",
+      "year": "2007",
+      "label": "Jazz Excursion",
+      "country": "US",
+      "discogs_id": 12369199,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/H5nNfP2n7gfl85n8lLTGnc6fH9fc-99pw8dRcQ4XpY4/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY5/MTk5LTE1MzM4NTg1/MTEtNzA1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paquito D'Rivera & The United Nation Orchestra",
+      "title": "Recife's Blues",
+      "release_title": "Paquito D'Rivera & The United Nation Orchestra - Live At Manchester Craftsmen's Guild",
+      "year": "1997",
+      "label": "MCG Jazz",
+      "country": "US",
+      "discogs_id": 6778050,
+      "rating_avg": 4.3,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/CEbRsYuBw_z8-b_IKnTCj7CQtBynmuwNawxVrZQuxcM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzgw/NTAtMTQyNjQ0OTk2/Ni05MzM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobby Hutcherson",
+      "title": "Sophisticated Lady",
+      "release_title": "Bobby Hutcherson - Natural Illusions",
+      "year": "1972",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 9857104,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9xI7OLoidu4BUwEgnxz6qtXFi0h2CQhTikbuwZXdb98/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcx/MDQtMTQ4NzQ2NjMx/NC03MDI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willie Bobo",
+      "title": "Black Coffee",
+      "release_title": "Willie Bobo - Bobo Motion",
+      "year": "1967",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 2181795,
+      "rating_avg": 4.17,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/8UD4ZtUgKrj2COrJFAe84m8QMPIA-GxoXs0UcPt1NpE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE3/OTUtMTYzNzgwNjEx/NS03NDQ5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jamie Cullum",
+      "title": "Photograph",
+      "release_title": "Jamie Cullum - Catching Tales",
+      "year": "2005",
+      "label": "Verve Forecast",
+      "country": "US",
+      "discogs_id": 5715757,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DGCzAsdedFc3nRG14fe1IK7dSEmH95CCGyM-Q1a7UvU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTU3/NTctMTYxNzE3NjY0/OS0zOTEwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Here Comes Charlie",
+      "release_title": "Charles Earland - Black Talk!",
+      "year": "1970",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 22300384,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hMHw-RePI7eboKsbMBLpuasKsQuSIDqoiWk74Pgc4ZQ/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/Mzg0LTE2NzkwNjkx/NjUtNTI5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ed Calle",
+      "title": "Blocks",
+      "release_title": "Ed Calle - DoubleTalk",
+      "year": "1996",
+      "label": "Sony Discos",
+      "country": "US",
+      "discogs_id": 34167241,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lFN4yWeWBQo3Wal0pXekiqhATUYwYLebn2pWDn4h24w/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY3/MjQxLTE3NDg5Nzky/MDUtNjYzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Willie Bobo",
+      "title": "I Don't Know",
+      "release_title": "Willie Bobo - Bobo Motion",
+      "year": "1967",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 2181795,
+      "rating_avg": 4.17,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/8UD4ZtUgKrj2COrJFAe84m8QMPIA-GxoXs0UcPt1NpE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE3/OTUtMTYzNzgwNjEx/NS03NDQ5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willie Bobo",
+      "title": "Ain't That Right",
+      "release_title": "Willie Bobo - Bobo Motion",
+      "year": "1967",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 2181795,
+      "rating_avg": 4.17,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/8UD4ZtUgKrj2COrJFAe84m8QMPIA-GxoXs0UcPt1NpE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE3/OTUtMTYzNzgwNjEx/NS03NDQ5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jamie Cullum",
+      "title": "Nothing I Do",
+      "release_title": "Jamie Cullum - Catching Tales",
+      "year": "2005",
+      "label": "Verve Forecast",
+      "country": "US",
+      "discogs_id": 5715757,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DGCzAsdedFc3nRG14fe1IK7dSEmH95CCGyM-Q1a7UvU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTU3/NTctMTYxNzE3NjY0/OS0zOTEwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Deborah Henson-Conant",
+      "title": "7:00 A. M.",
+      "release_title": "Deborah Henson-Conant - On The Rise",
+      "year": "1989",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 12811265,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qjSHx9muVRyxuAOCrcXPatWMRzBkBvTBI6hv0Wjvxok/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/MjY1LTE1NjkzNDUw/MzEtNDk1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Noland",
+      "title": "Sweet Pea",
+      "release_title": "Dave Noland - Nomad",
+      "year": "2007",
+      "label": "Jazz Excursion",
+      "country": "US",
+      "discogs_id": 12369199,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/H5nNfP2n7gfl85n8lLTGnc6fH9fc-99pw8dRcQ4XpY4/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY5/MTk5LTE1MzM4NTg1/MTEtNzA1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Blue New",
+      "release_title": "David Newman* - House Of David",
+      "year": "1967",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 4776142,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4roN0XfwkSvN5h5tZ4HypHWw0cKoPAMuOq6rVZclUNo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzYx/NDItMTQ5MjgwNTEx/OS04NDAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Noland",
+      "title": "Eronel",
+      "release_title": "Dave Noland - Nomad",
+      "year": "2007",
+      "label": "Jazz Excursion",
+      "country": "US",
+      "discogs_id": 12369199,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/H5nNfP2n7gfl85n8lLTGnc6fH9fc-99pw8dRcQ4XpY4/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY5/MTk5LTE1MzM4NTg1/MTEtNzA1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Noland",
+      "title": "Skylark",
+      "release_title": "Dave Noland - Nomad",
+      "year": "2007",
+      "label": "Jazz Excursion",
+      "country": "US",
+      "discogs_id": 12369199,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/H5nNfP2n7gfl85n8lLTGnc6fH9fc-99pw8dRcQ4XpY4/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY5/MTk5LTE1MzM4NTg1/MTEtNzA1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Aquarius",
+      "release_title": "Charles Earland - Black Talk!",
+      "year": "1970",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 22300384,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hMHw-RePI7eboKsbMBLpuasKsQuSIDqoiWk74Pgc4ZQ/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/Mzg0LTE2NzkwNjkx/NjUtNTI5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jamie Cullum",
+      "title": "Oh God",
+      "release_title": "Jamie Cullum - Catching Tales",
+      "year": "2005",
+      "label": "Verve Forecast",
+      "country": "US",
+      "discogs_id": 5715757,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DGCzAsdedFc3nRG14fe1IK7dSEmH95CCGyM-Q1a7UvU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTU3/NTctMTYxNzE3NjY0/OS0zOTEwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paquito D'Rivera & The United Nation Orchestra",
+      "title": "Quasi Modal",
+      "release_title": "Paquito D'Rivera & The United Nation Orchestra - Live At Manchester Craftsmen's Guild",
+      "year": "1997",
+      "label": "MCG Jazz",
+      "country": "US",
+      "discogs_id": 6778050,
+      "rating_avg": 4.3,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/CEbRsYuBw_z8-b_IKnTCj7CQtBynmuwNawxVrZQuxcM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzgw/NTAtMTQyNjQ0OTk2/Ni05MzM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paquito D'Rivera & The United Nation Orchestra",
+      "title": "Groove For Diz",
+      "release_title": "Paquito D'Rivera & The United Nation Orchestra - Live At Manchester Craftsmen's Guild",
+      "year": "1997",
+      "label": "MCG Jazz",
+      "country": "US",
+      "discogs_id": 6778050,
+      "rating_avg": 4.3,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/CEbRsYuBw_z8-b_IKnTCj7CQtBynmuwNawxVrZQuxcM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzgw/NTAtMTQyNjQ0OTk2/Ni05MzM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jamie Cullum",
+      "title": "Our Day Will Come",
+      "release_title": "Jamie Cullum - Catching Tales",
+      "year": "2005",
+      "label": "Verve Forecast",
+      "country": "US",
+      "discogs_id": 5715757,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DGCzAsdedFc3nRG14fe1IK7dSEmH95CCGyM-Q1a7UvU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTU3/NTctMTYxNzE3NjY0/OS0zOTEwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "More Today Than Yesterday (Beg.)",
+      "release_title": "Charles Earland - Black Talk!",
+      "year": "1970",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 22300384,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hMHw-RePI7eboKsbMBLpuasKsQuSIDqoiWk74Pgc4ZQ/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/Mzg0LTE2NzkwNjkx/NjUtNTI5NS5qcGVn.jpeg"
+    }
+  ]
+}
