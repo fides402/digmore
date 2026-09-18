@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1966,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 40,
+      "fresh_lookups": 0,
+      "styles_considered": 120
+    }
+  },
+  "results": [
+    {
+      "artist": "Ray Obiedo",
+      "title": "Sabor",
+      "release_title": "Ray Obiedo - Latin Jazz Project Vol. 1",
+      "year": "2016",
+      "label": "Rhythmus Records",
+      "country": "US",
+      "discogs_id": 9330442,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9OqFELh3ZUhslQiVpqC5J8s-kSjCsVn4K10MWM5Fkz0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzA0/NDItMTQ3ODcxMzA5/Ny03MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gary Bartz NTU Troop",
+      "title": "Blue (A Folk Tale)",
+      "release_title": "Gary Bartz NTU Troop - Harlem Bush Music - Uhuru",
+      "year": "1971",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 1064096,
+      "rating_avg": 4.55,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/-046H5vCPX5gDuenKMZLDJPQR9YZFG9XqcnDhW_3YlQ/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQw/OTYtMTE4OTMzNTQ4/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Leaving This Planet",
+      "release_title": "Charles Earland - Leaving This Planet",
+      "year": "1974",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 1839747,
+      "rating_avg": 4.77,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/KCUZR7UeGTXuaQzmjrO49FadofsCrpjHo2neiPIcKpM/rs:fit/g:sm/q:90/h:506/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk3/NDctMTQwMTI5ODgx/Mi02MDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Beto And The Fairlanes",
+      "title": "Kinshasa Kinshasa",
+      "release_title": "Beto And The Fairlanes - Best O Beto",
+      "year": "2012",
+      "label": "Fable Records",
+      "country": "US",
+      "discogs_id": 13286611,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_E25vJjfb2N6pmnWCL9iaULlWfumcKr-FqCsd_IasBM/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/NjExLTE1NTE0MDU1/NjQtODU5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Obiedo",
+      "title": "Caravan",
+      "release_title": "Ray Obiedo - Latin Jazz Project Vol. 1",
+      "year": "2016",
+      "label": "Rhythmus Records",
+      "country": "US",
+      "discogs_id": 9330442,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9OqFELh3ZUhslQiVpqC5J8s-kSjCsVn4K10MWM5Fkz0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzA0/NDItMTQ3ODcxMzA5/Ny03MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sadao Watanabe",
+      "title": "Life Is All Like That",
+      "release_title": "Sadao Watanabe - \"One For You\" Sadao & Bona Live",
+      "year": "2006",
+      "label": "Koch Records",
+      "country": "US",
+      "discogs_id": 17991346,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zkGkGNSbNTALeKTvNGu5sDV_lpJYNkmIX03xm1w0lPQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/MzQ2LTE2MTY2MDUy/NzQtMTQ5Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Mister Magic",
+      "release_title": "Grover Washington, Jr. - Mister Magic",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 20814214,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/2ZaKGMlC6glV-srP7TO1Tfe7fL7UzstRrtSoF8lTOsY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODE0/MjE0LTE2MzU4MDc5/MTgtOTg4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Unsung Heroes",
+      "release_title": "The Crusaders - Unsung Heroes",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 26247518,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7GE0Gcois7Ggpkal6fnJgzsRBYvv1D4Z-s09qpT84-s/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ3/NTE4LTE2Nzc3ODY3/MTItMjgwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Smith",
+      "title": "Lulu's Back In Town",
+      "release_title": "Jimmy Smith - Plays Fats Waller",
+      "year": "1982",
+      "label": "Applause Records",
+      "country": "US",
+      "discogs_id": 16029488,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Ch6i8hd0rOGQHb6g9DDH1nhZXsuEtDILJCaAQEVaN7k/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI5/NDg4LTE2MDIxNzI3/NTEtOTg5Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Enrique Toussaint",
+      "title": "Para Pops (para Papá)",
+      "release_title": "Enrique Toussaint - Comunidad",
+      "year": "2006",
+      "label": "Nakawe Productions",
+      "country": "US",
+      "discogs_id": 31480550,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7zkDhd5z6EWtMDZ7C5pxyHzINILClsSLTvD90qjkBtc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDgw/NTUwLTE3MjM2NjA3/NzYtMzI2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jens Johansson",
+      "title": "Don't Mention The War",
+      "release_title": "Jens Johansson - Fission",
+      "year": "1998",
+      "label": "Shrapnel Records",
+      "country": "US",
+      "discogs_id": 2368408,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/MHRWY2clPE1ZmxdRDyv4i7G32weaXHsXhZuAgBGJYmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjg0/MDgtMTI4MDMzNjk2/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Passion Flower",
+      "release_title": "Grover Washington, Jr. - Mister Magic",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 20814214,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/2ZaKGMlC6glV-srP7TO1Tfe7fL7UzstRrtSoF8lTOsY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODE0/MjE0LTE2MzU4MDc5/MTgtOTg4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Return To Forever",
+      "title": "Song To The Pharaoh Kings (Part I)",
+      "release_title": "Return To Forever - Where Have I Known You Before",
+      "year": "1974",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 14675665,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VX5XVe09iYUr4ppgpYI0-rq0u6c2hF95UQgjVo3fWYg/rs:fit/g:sm/q:90/h:600/w:445/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc1/NjY1LTE1Nzk0MTEy/MjgtMzY4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda & Friends",
+      "title": "Three-Legged Dance",
+      "release_title": "Ernie Krivda & Friends - Satanic",
+      "year": "2008",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 36360829,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3dFGauN-td0sUjzqgoOKt77jBVIi8HSiCQUSVW97ito/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzYw/ODI5LTE3Njk3OTYy/MzYtNTEyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jens Johansson",
+      "title": "Beautiful Lung Dogs",
+      "release_title": "Jens Johansson - Fission",
+      "year": "1998",
+      "label": "Shrapnel Records",
+      "country": "US",
+      "discogs_id": 2368408,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/MHRWY2clPE1ZmxdRDyv4i7G32weaXHsXhZuAgBGJYmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjg0/MDgtMTI4MDMzNjk2/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda & Friends",
+      "title": "Magic Music Box",
+      "release_title": "Ernie Krivda & Friends - Satanic",
+      "year": "2008",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 36360829,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3dFGauN-td0sUjzqgoOKt77jBVIi8HSiCQUSVW97ito/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzYw/ODI5LTE3Njk3OTYy/MzYtNTEyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sadao Watanabe",
+      "title": "I Thought Of You",
+      "release_title": "Sadao Watanabe - \"One For You\" Sadao & Bona Live",
+      "year": "2006",
+      "label": "Koch Records",
+      "country": "US",
+      "discogs_id": 17991346,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zkGkGNSbNTALeKTvNGu5sDV_lpJYNkmIX03xm1w0lPQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/MzQ2LTE2MTY2MDUy/NzQtMTQ5Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Gambale",
+      "title": "Nothing Personal",
+      "release_title": "Frank Gambale - Resident Alien - Live Bootlegs, Disc Two",
+      "year": "2004",
+      "label": "Wombat Records",
+      "country": "US",
+      "discogs_id": 12356443,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/i1HopkVHTlwjRO9ObFbdlyxtBxbk_SmE06IIvnRWaQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU2/NDQzLTE1MzM1ODk4/MjMtMjA5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Freedom Sound",
+      "release_title": "The Crusaders - Unsung Heroes",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 26247518,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7GE0Gcois7Ggpkal6fnJgzsRBYvv1D4Z-s09qpT84-s/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ3/NTE4LTE2Nzc3ODY3/MTItMjgwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Return To Forever",
+      "title": "Where Have I Loved You Before",
+      "release_title": "Return To Forever - Where Have I Known You Before",
+      "year": "1974",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 14675665,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VX5XVe09iYUr4ppgpYI0-rq0u6c2hF95UQgjVo3fWYg/rs:fit/g:sm/q:90/h:600/w:445/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc1/NjY1LTE1Nzk0MTEy/MjgtMzY4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Guillermo Klein & Los Guachos",
+      "title": "The Habit Of Memory",
+      "release_title": "Guillermo Klein | Los Guachos - CaRREra",
+      "year": "2012",
+      "label": "Sunnyside",
+      "country": "US",
+      "discogs_id": 7166303,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/oka7mW5MX34RfSxLuWgKP6xRB3RbXxuN-ymF1IqrtN8/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYz/MDMtMTQzNTE5OTM2/OC0yOTcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Red Clay",
+      "release_title": "Charles Earland - Leaving This Planet",
+      "year": "1974",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 1839747,
+      "rating_avg": 4.77,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/KCUZR7UeGTXuaQzmjrO49FadofsCrpjHo2neiPIcKpM/rs:fit/g:sm/q:90/h:506/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk3/NDctMTQwMTI5ODgx/Mi02MDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Enrique Toussaint",
+      "title": "See You Then",
+      "release_title": "Enrique Toussaint - Comunidad",
+      "year": "2006",
+      "label": "Nakawe Productions",
+      "country": "US",
+      "discogs_id": 31480550,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7zkDhd5z6EWtMDZ7C5pxyHzINILClsSLTvD90qjkBtc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDgw/NTUwLTE3MjM2NjA3/NzYtMzI2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "Tyner",
+      "release_title": "Charles Earland - Leaving This Planet",
+      "year": "1974",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 1839747,
+      "rating_avg": 4.77,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/KCUZR7UeGTXuaQzmjrO49FadofsCrpjHo2neiPIcKpM/rs:fit/g:sm/q:90/h:506/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk3/NDctMTQwMTI5ODgx/Mi02MDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Frank Gambale",
+      "title": "Walkin' The Wombat",
+      "release_title": "Frank Gambale - Resident Alien - Live Bootlegs, Disc Two",
+      "year": "2004",
+      "label": "Wombat Records",
+      "country": "US",
+      "discogs_id": 12356443,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/i1HopkVHTlwjRO9ObFbdlyxtBxbk_SmE06IIvnRWaQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU2/NDQzLTE1MzM1ODk4/MjMtMjA5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Beto And The Fairlanes",
+      "title": "Remolacha Cha",
+      "release_title": "Beto And The Fairlanes - Best O Beto",
+      "year": "2012",
+      "label": "Fable Records",
+      "country": "US",
+      "discogs_id": 13286611,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_E25vJjfb2N6pmnWCL9iaULlWfumcKr-FqCsd_IasBM/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/NjExLTE1NTE0MDU1/NjQtODU5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Obiedo",
+      "title": "Coral Keys",
+      "release_title": "Ray Obiedo - Latin Jazz Project Vol. 1",
+      "year": "2016",
+      "label": "Rhythmus Records",
+      "country": "US",
+      "discogs_id": 9330442,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9OqFELh3ZUhslQiVpqC5J8s-kSjCsVn4K10MWM5Fkz0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzA0/NDItMTQ3ODcxMzA5/Ny03MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Earth Tones",
+      "release_title": "Grover Washington, Jr. - Mister Magic",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 20814214,
+      "rating_avg": 4.57,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/2ZaKGMlC6glV-srP7TO1Tfe7fL7UzstRrtSoF8lTOsY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODE0/MjE0LTE2MzU4MDc5/MTgtOTg4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jens Johansson",
+      "title": "Zero Sun Game",
+      "release_title": "Jens Johansson - Fission",
+      "year": "1998",
+      "label": "Shrapnel Records",
+      "country": "US",
+      "discogs_id": 2368408,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/MHRWY2clPE1ZmxdRDyv4i7G32weaXHsXhZuAgBGJYmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjg0/MDgtMTI4MDMzNjk2/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Smith",
+      "title": "I've Found A New Baby",
+      "release_title": "Jimmy Smith - Plays Fats Waller",
+      "year": "1982",
+      "label": "Applause Records",
+      "country": "US",
+      "discogs_id": 16029488,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Ch6i8hd0rOGQHb6g9DDH1nhZXsuEtDILJCaAQEVaN7k/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI5/NDg4LTE2MDIxNzI3/NTEtOTg5Ni5qcGVn.jpeg"
+    }
+  ]
+}
