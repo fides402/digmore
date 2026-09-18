@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1966,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 40,
+      "fresh_lookups": 0,
+      "styles_considered": 120
+    }
+  },
+  "results": [
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Earth Tones",
+      "release_title": "Grover Washington, Jr. - Mister Magic",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 318637,
+      "rating_avg": 4.39,
+      "rating_count": 580,
+      "cover_image": "https://i.discogs.com/2qOoHquCBJseAj7h5bCbYl4QUTqjP7x1m_v-jFw_zhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODYz/Ny0xNTcwNTQyMjk3/LTc3MDYuanBlZw.jpeg"
+    },
+    {
+      "artist": "Dave Holland Quintet",
+      "title": "The Benevolent One",
+      "release_title": "Dave Holland Quintet - Points Of View",
+      "year": "1998",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 9492368,
+      "rating_avg": 5.0,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/MW8G3AjcXUirxMHsSY363QYHNsGjY3f3z7sfcgqhcWE/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTIz/NjgtMTc2ODQwODgy/MS05ODk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Larry Vuckovich",
+      "title": "Cast Your Fate To The Wind",
+      "release_title": "Larry Vuckovich - Tres Palabras",
+      "year": "1990",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 13171819,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/LbUuSmSA5WgB89nZFaUMJZ-vSqPFgPc8w8lZLpbp6M0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcx/ODE5LTE1NDkzMTE4/NzgtMTcxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carnavalito",
+      "title": "Tu Y Yo",
+      "release_title": "Carnavalito - Tu Y Yo",
+      "year": "1998",
+      "label": "Cuco Records",
+      "country": "US",
+      "discogs_id": 5963225,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/KBMZ_XBwElZtkyEMuqPXhFY2jBq_l02zuZSyD568IPI/rs:fit/g:sm/q:90/h:586/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjMy/MjUtMTQxMzgzNTkx/My0xMjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Yusef Lateef",
+      "title": "Below Yellow Bell",
+      "release_title": "Yusef Lateef - Nubian Lady / Below Yellow Bell",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 30586894,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2SmkvC_NMLz_qnKr0CXThfY25qDEsGWEKcUtuZA1x9Y/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTg2/ODk0LTE3MTQ4ODU0/MjktNjQwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Beto And The Fairlanes",
+      "title": "Zopilote",
+      "release_title": "Beto And The Fairlanes - Best O Beto",
+      "year": "2012",
+      "label": "Fable Records",
+      "country": "US",
+      "discogs_id": 13286611,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_E25vJjfb2N6pmnWCL9iaULlWfumcKr-FqCsd_IasBM/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/NjExLTE1NTE0MDU1/NjQtODU5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Grusin & The NY-LA Dream Band",
+      "title": "Theme From 'The Champ' \"What Matters Most\"",
+      "release_title": "Dave Grusin And The N.Y./L.A. Dream Band* - Dave Grusin And The N.Y./L.A. Dream Band",
+      "year": "1982",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 6641956,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/vkZYo3fOUylKKwku3S0yae95N8kpkIJnhYyvR3L1ksw/rs:fit/g:sm/q:90/h:600/w:371/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDE5/NTYtMTQyMzY4NTgy/Mi05ODUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Diana Krall",
+      "title": "I'm An Errand Girl For Rhythm",
+      "release_title": "Diana Krall - All For You (A Dedication To The Nat King Cole Trio)",
+      "year": "1996",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 6303405,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/F_ChZm5AQb_C5BqlpKrTSXD85p2EsDxzkj1cIeJCXiI/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDM0/MDUtMTQxNjAwMzUy/MS04OTU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Adriano Santos Quintet",
+      "title": "Pro Zeca",
+      "release_title": "Adriano Santos Quintet - In Session",
+      "year": "2009",
+      "label": "Kingjazzad Music",
+      "country": "US",
+      "discogs_id": 12989130,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MiadsaROv0za6CBMtD-og9cJNglS1233BJtliIRe22M/rs:fit/g:sm/q:90/h:355/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg5/MTMwLTE1NDU5OTg1/MTgtNjUyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "The Shoes Of The Fisherman's Wife Are Some Jive Ass Slippers",
+      "release_title": "Various - Weird Nightmare (Meditations On Mingus)",
+      "year": "1992",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 1056738,
+      "rating_avg": 4.47,
+      "rating_count": 59,
+      "cover_image": "https://i.discogs.com/zVHoDHx5AD_pwUsuNSCQ0zpIC6csOSJwnfxFVK1DRnU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY3/MzgtMTUwMjQ2Njk0/Mi03MTQ4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Beata Pater",
+      "title": "Blue In Green",
+      "release_title": "Beata Pater - Blue",
+      "year": "2011",
+      "label": "B&B Records",
+      "country": "US",
+      "discogs_id": 9002310,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bZevv5NmloQ_uzcmzj9HvYvCcaO1dcRN2Q9yiKmoi_0/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDIz/MTAtMTQ3MzA4MTQ4/OS0yMzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Beata Pater",
+      "title": "Mr. Tad",
+      "release_title": "Beata Pater - Blue",
+      "year": "2011",
+      "label": "B&B Records",
+      "country": "US",
+      "discogs_id": 9002310,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bZevv5NmloQ_uzcmzj9HvYvCcaO1dcRN2Q9yiKmoi_0/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDIz/MTAtMTQ3MzA4MTQ4/OS0yMzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Grusin & The NY-LA Dream Band",
+      "title": "Summer Sketches '82",
+      "release_title": "Dave Grusin And The N.Y./L.A. Dream Band* - Dave Grusin And The N.Y./L.A. Dream Band",
+      "year": "1982",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 6641956,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/vkZYo3fOUylKKwku3S0yae95N8kpkIJnhYyvR3L1ksw/rs:fit/g:sm/q:90/h:600/w:371/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDE5/NTYtMTQyMzY4NTgy/Mi05ODUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Larry Vuckovich",
+      "title": "Blues For Alexi",
+      "release_title": "Larry Vuckovich - Tres Palabras",
+      "year": "1990",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 13171819,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/LbUuSmSA5WgB89nZFaUMJZ-vSqPFgPc8w8lZLpbp6M0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcx/ODE5LTE1NDkzMTE4/NzgtMTcxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Spooky",
+      "release_title": "Cal Tjader - Cal Tjader Plugs In",
+      "year": "1969",
+      "label": "Skye Records",
+      "country": "US",
+      "discogs_id": 12347869,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/oIHq5leSnidhPMGFEEr3qfYaHo3hX2cPhabMeBmMGOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ3/ODY5LTE1MzM0MTk3/MDktNjk5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roy Ayers",
+      "title": "Virgo Vibes (Outside Blues)",
+      "release_title": "Roy Ayers - Daddy Bug & Friends",
+      "year": "1976",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 7444789,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/2YQXc9-UanXFVx3Ta9LIKbpWgm2wXUDbZXGEDxJ9MHk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDQ3/ODktMTQ0MTYzNjcw/OC0xNDU3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Sign 'O' The Times",
+      "release_title": "Billy Cobham - Picture This",
+      "year": "1987",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 35467330,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2ixxVLEYsZkIWpbYUgJprxnhpwMd1TbK5fuhukJAlL0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDY3/MzMwLTE3NjIzNDUx/NzctMTMzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Danse For Non Masque",
+      "release_title": "Billy Cobham - Picture This",
+      "year": "1987",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 35467330,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2ixxVLEYsZkIWpbYUgJprxnhpwMd1TbK5fuhukJAlL0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDY3/MzMwLTE3NjIzNDUx/NzctMTMzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Alonzo",
+      "release_title": "Cal Tjader - Cal Tjader Plugs In",
+      "year": "1969",
+      "label": "Skye Records",
+      "country": "US",
+      "discogs_id": 12347869,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/oIHq5leSnidhPMGFEEr3qfYaHo3hX2cPhabMeBmMGOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ3/ODY5LTE1MzM0MTk3/MDktNjk5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Beata Pater",
+      "title": "Rokminoff",
+      "release_title": "Beata Pater - Blue",
+      "year": "2011",
+      "label": "B&B Records",
+      "country": "US",
+      "discogs_id": 9002310,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bZevv5NmloQ_uzcmzj9HvYvCcaO1dcRN2Q9yiKmoi_0/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDIz/MTAtMTQ3MzA4MTQ4/OS0yMzc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Brecker",
+      "title": "Suspone",
+      "release_title": "Michael Brecker - Don't Try This At Home",
+      "year": "1988",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 10823622,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/TpkvXI_HfT0no3tX_knBjLq9O6dPLFRFHLKAaXziuOE/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODIz/NjIyLTE1MDQ4OTk5/MzktOTQ1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Mister Magic",
+      "release_title": "Grover Washington, Jr. - Mister Magic",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 318637,
+      "rating_avg": 4.39,
+      "rating_count": 580,
+      "cover_image": "https://i.discogs.com/2qOoHquCBJseAj7h5bCbYl4QUTqjP7x1m_v-jFw_zhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODYz/Ny0xNTcwNTQyMjk3/LTc3MDYuanBlZw.jpeg"
+    },
+    {
+      "artist": "Dave Grusin & The NY-LA Dream Band",
+      "title": "Serengetti Walk",
+      "release_title": "Dave Grusin And The N.Y./L.A. Dream Band* - Dave Grusin And The N.Y./L.A. Dream Band",
+      "year": "1982",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 6641956,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/vkZYo3fOUylKKwku3S0yae95N8kpkIJnhYyvR3L1ksw/rs:fit/g:sm/q:90/h:600/w:371/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDE5/NTYtMTQyMzY4NTgy/Mi05ODUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roy Ayers",
+      "title": "Bonita",
+      "release_title": "Roy Ayers - Daddy Bug & Friends",
+      "year": "1976",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 7444789,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/2YQXc9-UanXFVx3Ta9LIKbpWgm2wXUDbZXGEDxJ9MHk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDQ3/ODktMTQ0MTYzNjcw/OC0xNDU3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Larry Vuckovich",
+      "title": "Historia De Un Amor",
+      "release_title": "Larry Vuckovich - Tres Palabras",
+      "year": "1990",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 13171819,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/LbUuSmSA5WgB89nZFaUMJZ-vSqPFgPc8w8lZLpbp6M0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcx/ODE5LTE1NDkzMTE4/NzgtMTcxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Diana Krall",
+      "title": "Hit That Jive Jack",
+      "release_title": "Diana Krall - All For You (A Dedication To The Nat King Cole Trio)",
+      "year": "1996",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 6303405,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/F_ChZm5AQb_C5BqlpKrTSXD85p2EsDxzkj1cIeJCXiI/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDM0/MDUtMTQxNjAwMzUy/MS04OTU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tim Horner",
+      "title": "Invisible Heroes",
+      "release_title": "Tim Horner - The Places We Feel Free",
+      "year": "2011",
+      "label": "Miles High Records",
+      "country": "US",
+      "discogs_id": 9498073,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rJ0zMf7Iy3wlv-8EMXja2rqfiQK4Gq5cEBbajvW0AzE/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTgw/NzMtMTYzNjcwNjQw/Ny05NDA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tim Horner",
+      "title": "The Places We Feel Free",
+      "release_title": "Tim Horner - The Places We Feel Free",
+      "year": "2011",
+      "label": "Miles High Records",
+      "country": "US",
+      "discogs_id": 9498073,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rJ0zMf7Iy3wlv-8EMXja2rqfiQK4Gq5cEBbajvW0AzE/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTgw/NzMtMTYzNjcwNjQw/Ny05NDA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jovino Santos Neto",
+      "title": "February 1",
+      "release_title": "Jovino Santos Neto - Veja O Som   See The Sound",
+      "year": "2010",
+      "label": "Adventure Music",
+      "country": "US",
+      "discogs_id": 23694062,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/RIpvbpssQFIfoasfio3pM7RhFKCdawTWeSM_8kC1Z94/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk0/MDYyLTE2NTYyMDgx/NTMtMzE2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Morning Mist",
+      "release_title": "Cal Tjader - Cal Tjader Plugs In",
+      "year": "1969",
+      "label": "Skye Records",
+      "country": "US",
+      "discogs_id": 12347869,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/oIHq5leSnidhPMGFEEr3qfYaHo3hX2cPhabMeBmMGOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ3/ODY5LTE1MzM0MTk3/MDktNjk5OC5qcGVn.jpeg"
+    }
+  ]
+}
