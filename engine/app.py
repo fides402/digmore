@@ -1011,16 +1011,26 @@ async def embed_raw_audio(audio: UploadFile = File(...), offset_sec: float = For
         # the exact bug: it silently would have called a 60 BPM ballad "not a
         # 120 BPM match" when it is the same track felt at half time).
         bpm = None
+        brightness = None
         try:
             import librosa
             y, sr = librosa.load(tmp_out_path, sr=22050, mono=True, duration=30)
             onset = librosa.onset.onset_strength(y=y, sr=sr)
             tempo = librosa.beat.beat_track(onset_envelope=onset, sr=sr)[0]
             bpm = round(float(np.asarray(tempo).reshape(-1)[0]), 2) if np.size(tempo) else None
+            # Same 0..1 mapping as seq_features.features_from_path's own
+            # "brightness" (spectral centroid / 8000, clipped) — reused here
+            # rather than re-derived, so a BLUESKIES target measured offline
+            # with that function means the same number on this endpoint.
+            centroid = librosa.feature.spectral_centroid(y=y, sr=sr)
+            brightness = round(float(np.clip(float(np.mean(centroid)) / 8000.0, 0.0, 1.0)), 4)
         except Exception:
-            bpm = None  # tempo is a scoring bonus, never a hard requirement
+            pass  # tempo/brightness are scoring bonuses, never a hard requirement
 
-        return {"embedding": emb_arr.tolist(), "dim": len(emb_arr), "bpm": bpm}
+        return {
+            "embedding": emb_arr.tolist(), "dim": len(emb_arr),
+            "bpm": bpm, "brightness": brightness,
+        }
     finally:
         for p in (tmp_in_path, tmp_out_path):
             try:
