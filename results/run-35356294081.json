@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Hard Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Cool Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Modal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 16,
+      "artists_found": 16,
+      "fresh_lookups": 0,
+      "styles_considered": 55
+    }
+  },
+  "results": [
+    {
+      "artist": "Joe Pass & Ray Brown & Jake Hanna & Herb Ellis",
+      "title": "Bad News Blues",
+      "release_title": "Joe Pass, Ray Brown, Jake Hanna, Herb Ellis - Jazz/Concord",
+      "year": "1988",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 6240984,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/oOL1O6JvKuEJhVtVfKxR3kfuUnRDQ5veowDSILZj7sk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA5/ODQtMTQyMTA0NzQ3/OS05NjIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stan Getz",
+      "title": "Coba",
+      "release_title": "Stan Getz - Apasionado",
+      "year": "1990",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8222163,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/ladlEcuwzP-RMbgKzgj1s6POR24wdWNtAdDADPRKQlk/rs:fit/g:sm/q:90/h:400/w:392/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjIx/NjMtMTQ1NzQyNDE5/OC0zNzI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr. & Lalah Hathaway",
+      "title": "Love Like This (Album Version)",
+      "release_title": "Grover Washington, Jr. Featuring Lalah Hathaway - Love Like This",
+      "year": "1992",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 20406679,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xRJigZOB7wqsW1Do3jeUj6DBuEhfJun8gksc2UGUnUk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDA2/Njc5LTE2MzI4ODc0/MjQtNTA4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Pass & Ray Brown & Jake Hanna & Herb Ellis",
+      "title": "Love For Sale",
+      "release_title": "Joe Pass, Ray Brown, Jake Hanna, Herb Ellis - Jazz/Concord",
+      "year": "1988",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 6240984,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/oOL1O6JvKuEJhVtVfKxR3kfuUnRDQ5veowDSILZj7sk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA5/ODQtMTQyMTA0NzQ3/OS05NjIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hampton Hawes",
+      "title": "Polka Dots And Moonbeams",
+      "release_title": "Hampton Hawes - Everybody Likes Hampton Hawes, Vol. 3: The Trio",
+      "year": "1990",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 21434743,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/f7kUwVnTfQ-kpsM0DajSJ9nf3NxwpXNMxX5KU6exO6w/rs:fit/g:sm/q:90/h:600/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDM0/NzQzLTE2NDAxMDI3/NzYtNTYxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Breathing Effect",
+      "title": "One For The Mountains By The Sea",
+      "release_title": "The Breathing Effect - Mars Is A Very Bad Place For Love",
+      "year": "2015",
+      "label": "Alpha Pup Records",
+      "country": "US",
+      "discogs_id": 7855036,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/1Isqmxzu4EdF4QL9aMrEx25kFVYq0EP8Iyzw1DJrzrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTUw/MzYtMTQ1MDIyODkw/MS05NzU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shades Of Brown",
+      "title": "Lay Lady Lay",
+      "release_title": "Shades Of Brown (2) - Lines & Spaces",
+      "year": "1996",
+      "label": "Waldon Records",
+      "country": "US",
+      "discogs_id": 33595035,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/P6RBE6-mUt3f27XwL8R3x2wk4upNaFekN_RvQ4MY0v0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTk1/MDM1LTE3NDM5OTU5/NTQtOTg4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Breathing Effect",
+      "title": "Fireflies",
+      "release_title": "The Breathing Effect - Mars Is A Very Bad Place For Love",
+      "year": "2015",
+      "label": "Alpha Pup Records",
+      "country": "US",
+      "discogs_id": 7855036,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/1Isqmxzu4EdF4QL9aMrEx25kFVYq0EP8Iyzw1DJrzrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTUw/MzYtMTQ1MDIyODkw/MS05NzU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Greg Murphy",
+      "title": "Snap Happy",
+      "release_title": "Greg Murphy - Let's Get Started",
+      "year": "2004",
+      "label": "Murphasaurus Records",
+      "country": "US",
+      "discogs_id": 25375501,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4BPBvd9o5wAyUyw-KWPmwpkzNfjJHYQ7kOqgZNPwCEU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc1/NTAxLTE2NzAyNDQ0/NjYtNzAzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "Theme From \"Taxi\" (Angela)",
+      "release_title": "Bob James - Theme From \"Taxi\" (Angela)",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3454962,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/4M1xBw3zRtYGujGfI_CvNVyCFw5j9NiHJ52dNrzGTWY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQ5/NjItMTMzMTAzMjE3/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeremy Wall",
+      "title": "Dream Tango",
+      "release_title": "Jeremy Wall - Stepping To The New World",
+      "year": "1992",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 7970708,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lH9cq3rS7mu3mlFbboGZPUpJH8o8ojTLEu6Dw7X1haQ/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzA3/MDgtMTQ1MjY2NzIy/OC03MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ralf Illenberger",
+      "title": "Ballad",
+      "release_title": "Various - Jazz and Java",
+      "year": "1997",
+      "label": "Hallmark Music",
+      "country": "US",
+      "discogs_id": 32900997,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZluT34vCELj9q6jQ-4sRzbQE0eL2ole4ZLTeU-x84I0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTAw/OTk3LTE3Mzc0MDA4/MzgtNjk2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeremy Wall",
+      "title": "Inception",
+      "release_title": "Jeremy Wall - Stepping To The New World",
+      "year": "1992",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 7970708,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lH9cq3rS7mu3mlFbboGZPUpJH8o8ojTLEu6Dw7X1haQ/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzA3/MDgtMTQ1MjY2NzIy/OC03MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tim Watson",
+      "title": "We Three Kings (At A Glance)",
+      "release_title": "Tim Watson (8) - A Smooth Christmas Vol I",
+      "year": "2007",
+      "label": "Kushite Records",
+      "country": "US",
+      "discogs_id": 11560420,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/MGiAEiit-gbCSSioPxzbWh_aIISQ6UqCZYxpZiN_E-M/rs:fit/g:sm/q:90/h:496/w:496/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYw/NDIwLTE1MTg1MTI1/MDMtOTIyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Trotta",
+      "title": "Never On Sunday",
+      "release_title": "Ray Trotta - In Dallas",
+      "year": "1970",
+      "label": "Oak Cliff Records",
+      "country": "US",
+      "discogs_id": 8666484,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/1BOWhYUTd0juksJv8P_zxRyCQmSRY5qs8BYEa6V0f1o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjY0/ODQtMTQ2NjIxMzM3/OC01MTkwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Taylor Trio",
+      "title": "Sunny",
+      "release_title": "Billy Taylor Trio - I Wish I Knew How It Would Feel To Be Free / Sunny",
+      "year": "1968",
+      "label": "Tower",
+      "country": "US",
+      "discogs_id": 13345563,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6KXEpbhm_jPey0KC9JIr_w9owXY46XE5ZIUVSYbPDG0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ1/NTYzLTE1NTI0ODM5/NzktOTQxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shades Of Brown",
+      "title": "Shades Of Brown",
+      "release_title": "Shades Of Brown (2) - Lines & Spaces",
+      "year": "1996",
+      "label": "Waldon Records",
+      "country": "US",
+      "discogs_id": 33595035,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/P6RBE6-mUt3f27XwL8R3x2wk4upNaFekN_RvQ4MY0v0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTk1/MDM1LTE3NDM5OTU5/NTQtOTg4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Earl Klugh",
+      "title": "For The Love Of You",
+      "release_title": "Various - Best Of Smooth Jazz, Vol. 2 (Under The Covers)",
+      "year": "1998",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 11760257,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/PVaMg7xXwdldp5doC-iFiSnEIcBYlnGHbG_Ixz1gxVM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzYw/MjU3LTE1MjMxODU5/MTAtMjcxMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "title": "A Little Bit Of This And A Little Bit Of That (Mono)",
+      "release_title": "Lee Ritenour - A Little Bit Of This And A Little Bit Of That",
+      "year": "1976",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 2866962,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/DkWhUCcuswhgukJGv-qWEXVBrB_w81aCdah8IOT_UEM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY5/NjItMTU0NzIxOTM0/MC03Mzk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ralf Illenberger",
+      "title": "Horizons 1",
+      "release_title": "Various - Jazz and Java",
+      "year": "1997",
+      "label": "Hallmark Music",
+      "country": "US",
+      "discogs_id": 32900997,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZluT34vCELj9q6jQ-4sRzbQE0eL2ole4ZLTeU-x84I0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTAw/OTk3LTE3Mzc0MDA4/MzgtNjk2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeremy Wall",
+      "title": "Stepping Out",
+      "release_title": "Jeremy Wall - Stepping To The New World",
+      "year": "1992",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 7970708,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lH9cq3rS7mu3mlFbboGZPUpJH8o8ojTLEu6Dw7X1haQ/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzA3/MDgtMTQ1MjY2NzIy/OC03MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Trotta",
+      "title": "You Don't Understand Me",
+      "release_title": "Ray Trotta - In Dallas",
+      "year": "1970",
+      "label": "Oak Cliff Records",
+      "country": "US",
+      "discogs_id": 8666484,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/1BOWhYUTd0juksJv8P_zxRyCQmSRY5qs8BYEa6V0f1o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjY0/ODQtMTQ2NjIxMzM3/OC01MTkwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tim Watson",
+      "title": "White Christmas",
+      "release_title": "Tim Watson (8) - A Smooth Christmas Vol I",
+      "year": "2007",
+      "label": "Kushite Records",
+      "country": "US",
+      "discogs_id": 11560420,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/MGiAEiit-gbCSSioPxzbWh_aIISQ6UqCZYxpZiN_E-M/rs:fit/g:sm/q:90/h:496/w:496/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYw/NDIwLTE1MTg1MTI1/MDMtOTIyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Take 6",
+      "title": "Biggest Part Of Me",
+      "release_title": "Various - Best Of Smooth Jazz, Vol. 2 (Under The Covers)",
+      "year": "1998",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 11760257,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/PVaMg7xXwdldp5doC-iFiSnEIcBYlnGHbG_Ixz1gxVM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzYw/MjU3LTE1MjMxODU5/MTAtMjcxMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Johnny Smith",
+      "title": "The Girl With The Flaxen Hair",
+      "release_title": "Johnny Smith - Johnny Smith's Kaleidoscope",
+      "year": "1968",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 15772218,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GcXXvmiGLWZBczx1UBVl6VhGnecx-Gr5fh1Ec7DCxIs/rs:fit/g:sm/q:90/h:600/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcy/MjE4LTE1OTc2MTcz/MjgtMjY4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stan Getz",
+      "title": "Apasionado",
+      "release_title": "Stan Getz - Apasionado",
+      "year": "1990",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8222163,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/ladlEcuwzP-RMbgKzgj1s6POR24wdWNtAdDADPRKQlk/rs:fit/g:sm/q:90/h:400/w:392/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjIx/NjMtMTQ1NzQyNDE5/OC0zNzI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Steve Bach",
+      "title": "Hometown",
+      "release_title": "Steve Bach - Zero Gravity",
+      "year": "1987",
+      "label": "Cafe Records",
+      "country": "US",
+      "discogs_id": 37505847,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7DyHKvVimQw4cxWyaVfsLMKrhPo1gqPsz1hWYWTVO_U/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTA1/ODQ3LTE3ODAzMjkw/ODQtMjYzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Breathing Effect",
+      "title": "Twenty Years Altogether",
+      "release_title": "The Breathing Effect - Mars Is A Very Bad Place For Love",
+      "year": "2015",
+      "label": "Alpha Pup Records",
+      "country": "US",
+      "discogs_id": 7855036,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/1Isqmxzu4EdF4QL9aMrEx25kFVYq0EP8Iyzw1DJrzrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTUw/MzYtMTQ1MDIyODkw/MS05NzU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jeremy Wall",
+      "title": "Things Change",
+      "release_title": "Jeremy Wall - Stepping To The New World",
+      "year": "1992",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 7970708,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lH9cq3rS7mu3mlFbboGZPUpJH8o8ojTLEu6Dw7X1haQ/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzA3/MDgtMTQ1MjY2NzIy/OC03MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Greg Murphy",
+      "title": "Little Miss Tigerfish (Alt. Take)",
+      "release_title": "Greg Murphy - Let's Get Started",
+      "year": "2004",
+      "label": "Murphasaurus Records",
+      "country": "US",
+      "discogs_id": 25375501,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4BPBvd9o5wAyUyw-KWPmwpkzNfjJHYQ7kOqgZNPwCEU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc1/NTAxLTE2NzAyNDQ0/NjYtNzAzMS5qcGVn.jpeg"
+    }
+  ]
+}
