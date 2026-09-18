@@ -1,0 +1,418 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Rock",
+        "style": "Soft Rock"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 28,
+      "artists_found": 26,
+      "fresh_lookups": 0,
+      "styles_considered": 93
+    }
+  },
+  "results": [
+    {
+      "artist": "David Murillo",
+      "title": "Brothers",
+      "release_title": "David Murillo - Blast Beat (Original Motion Picture Score)",
+      "year": "2021",
+      "label": "Madison Gate Records",
+      "country": "US",
+      "discogs_id": 21350635,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/oIS-2bFnhQCzFubJEzO7vYKgaGoCe8t3C-FNkdWgTxg/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzUw/NjM1LTE2Mzk1MDc2/MDktNTAzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clive Pig And The Hopeful Chinamen",
+      "title": "The Whale Zoo",
+      "release_title": "Clive Pig And The Hopeful Chinamen - Clive Pig And The Hopeful Chinamen",
+      "year": "1983",
+      "label": "Hopewell Records",
+      "country": "US",
+      "discogs_id": 2532812,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/TeCgZyy5t5hWZOxY03wialXEfA9onBf75xsw2r5Nn8w/rs:fit/g:sm/q:90/h:600/w:311/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI4/MTItMTQ0MTA1MjA5/Ni04MzIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Turner",
+      "title": "Never Meant To Stay",
+      "release_title": "Dave Turner (25) - Could Have Talked All Night",
+      "year": "2007",
+      "label": "Morning Storm Records",
+      "country": "US",
+      "discogs_id": 12861510,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bwxgvsH84Q4ttps6pA28vw5R7Qx8JLSB9uH8TE7bMF4/rs:fit/g:sm/q:90/h:448/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYx/NTEwLTE1NDM2NDEx/MDUtNjkxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ken",
+      "title": "A Little Bit Of That Sky (Instrumental)",
+      "release_title": "Ken (65) - A Little Bit Of That Sky",
+      "year": "1970",
+      "label": "Mattel",
+      "country": "US",
+      "discogs_id": 3668769,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/eEB-EgGtjmnUPp24fcyq0F4TOyuDi-_MVQsHnhgFe-c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njg3/NjktMTMzOTY5MjA4/MS0xMDQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Murillo",
+      "title": "Hermanos Restrepo",
+      "release_title": "David Murillo - Blast Beat (Original Motion Picture Score)",
+      "year": "2021",
+      "label": "Madison Gate Records",
+      "country": "US",
+      "discogs_id": 21350635,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/oIS-2bFnhQCzFubJEzO7vYKgaGoCe8t3C-FNkdWgTxg/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzUw/NjM1LTE2Mzk1MDc2/MDktNTAzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Cerveris",
+      "title": "Atlas",
+      "release_title": "Michael Cerveris - Piety",
+      "year": "2016",
+      "label": "Low Heat Records",
+      "country": "US",
+      "discogs_id": 13259657,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SxQtxR9TO5ofGNp5m_bH6NIdI3uE3xOhgw7aq5T7A0o/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU5/NjU3LTE1NTI5NDU2/ODYtNDA0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Turner",
+      "title": "Tears On The Page",
+      "release_title": "Dave Turner (25) - Could Have Talked All Night",
+      "year": "2007",
+      "label": "Morning Storm Records",
+      "country": "US",
+      "discogs_id": 12861510,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bwxgvsH84Q4ttps6pA28vw5R7Qx8JLSB9uH8TE7bMF4/rs:fit/g:sm/q:90/h:448/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYx/NTEwLTE1NDM2NDEx/MDUtNjkxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peter Hollens",
+      "title": "Seasons Of Love",
+      "release_title": "Peter Hollens - Covers Vol. 1",
+      "year": "2017",
+      "label": "Not On Label (Peter Hollens Self-released)",
+      "country": "US",
+      "discogs_id": 32461713,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/N4MPK74ccsoXQhWbXXi_VhBdA8moYKig2KNpLKm2JRs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDYx/NzEzLTE3MzMyMDU4/NTUtMTM4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tommy Faragher",
+      "title": "Look Out For Number One",
+      "release_title": "Various - Staying Alive (The Original Motion Picture Soundtrack)",
+      "year": "1983",
+      "label": "RSO",
+      "country": "US",
+      "discogs_id": 31210948,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/t0_yE__aqXnvnuAF-Wa-UIpwWzFeDyJOuXoA6Q_8i2o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEw/OTQ4LTE3MjA4ODE3/OTAtODUwNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Unspoken",
+      "title": "So Good To Me",
+      "release_title": "Unspoken (4) - Follow Through",
+      "year": "2016",
+      "label": "Centricity Music",
+      "country": "US",
+      "discogs_id": 12751091,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yXZ44jOHofFNpP5fYtsPBV9QxI2HGTTW6a-S8jEjRns/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzUx/MDkxLTE1NDEyNTc5/MjYtNDUzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ken Thorne",
+      "title": "Mother's Advice",
+      "release_title": "Ken Thorne - Superman II (Original Sound Track)",
+      "year": "1981",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 2559469,
+      "rating_avg": 4.14,
+      "rating_count": 108,
+      "cover_image": "https://i.discogs.com/KQw4hpyq1fXA5yb6hBchdQuw8d35RNbRmJSles7LoCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk0/NjktMTM4MzEyMzk1/My01NDQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clive Pig And The Hopeful Chinamen",
+      "title": "Our Movement",
+      "release_title": "Clive Pig And The Hopeful Chinamen - Clive Pig And The Hopeful Chinamen",
+      "year": "1983",
+      "label": "Hopewell Records",
+      "country": "US",
+      "discogs_id": 2532812,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/TeCgZyy5t5hWZOxY03wialXEfA9onBf75xsw2r5Nn8w/rs:fit/g:sm/q:90/h:600/w:311/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI4/MTItMTQ0MTA1MjA5/Ni04MzIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Beatles",
+      "title": "First Record Sold",
+      "release_title": "The Beatles - Alf Bicknell's Personal Beatles Diary",
+      "year": "1996",
+      "label": "Simitar",
+      "country": "US",
+      "discogs_id": 25559266,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vjPBUv0evFmcitQqlAJapriAMeJFVgJy9GPDG16yKyA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTU5/MjY2LTE2NzE5Mzc1/NjAtNDIxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ken Thorne",
+      "title": "Clark Fumbles Rescue",
+      "release_title": "Ken Thorne - Superman II (Original Sound Track)",
+      "year": "1981",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 2559469,
+      "rating_avg": 4.14,
+      "rating_count": 108,
+      "cover_image": "https://i.discogs.com/KQw4hpyq1fXA5yb6hBchdQuw8d35RNbRmJSles7LoCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk0/NjktMTM4MzEyMzk1/My01NDQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Unspoken",
+      "title": "Can't Deny Your Love",
+      "release_title": "Unspoken (4) - Follow Through",
+      "year": "2016",
+      "label": "Centricity Music",
+      "country": "US",
+      "discogs_id": 12751091,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yXZ44jOHofFNpP5fYtsPBV9QxI2HGTTW6a-S8jEjRns/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzUx/MDkxLTE1NDEyNTc5/MjYtNDUzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Unspoken",
+      "title": "Solid Rock (Acoustic)",
+      "release_title": "Unspoken (4) - Follow Through",
+      "year": "2016",
+      "label": "Centricity Music",
+      "country": "US",
+      "discogs_id": 12751091,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yXZ44jOHofFNpP5fYtsPBV9QxI2HGTTW6a-S8jEjRns/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzUx/MDkxLTE1NDEyNTc5/MjYtNDUzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Aunt Shirley",
+      "release_title": "Various - Lord Why Do I Keep Choosing The Wrong Man?",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 16124464,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SNTsf_j9WN9ckLWYCOg2FhXMmMCXT66WzkQhoRKy38w/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI0/NDY0LTE2MDQ2Nzk4/NjItNTAyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "The Merry Old Land Of Oz",
+      "release_title": "Various - The Wizard Of Oz (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "WaterTower Music",
+      "country": "US",
+      "discogs_id": 22098130,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/oA2gnmFqhOFhRUHc3mClRXJcWMS_ExkpggyMqBbqM_U/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDk4/MTMwLTE2NjAxOTM3/NTAtMzIwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peter Hollens",
+      "title": "Somebody That I Used To Know",
+      "release_title": "Peter Hollens - Covers Vol. 1",
+      "year": "2017",
+      "label": "Not On Label (Peter Hollens Self-released)",
+      "country": "US",
+      "discogs_id": 32461713,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/N4MPK74ccsoXQhWbXXi_VhBdA8moYKig2KNpLKm2JRs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDYx/NzEzLTE3MzMyMDU4/NTUtMTM4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Andrew Powell & Philharmonia Orchestra",
+      "title": "Navarre's Ambush",
+      "release_title": "Andrew Powell & The Philharmonia Orchestra* - Ladyhawke (Original Motion Picture Soundtrack)",
+      "year": "1985",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 6566891,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/DyDYXFS8naaa1oyF7N-ujLEQ3t9H0J_ELMrjUrI4BF8/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NjY4/OTEtMTQyMjE0Mjk5/My0yNzU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Murillo",
+      "title": "You're So Hot",
+      "release_title": "David Murillo - Blast Beat (Original Motion Picture Score)",
+      "year": "2021",
+      "label": "Madison Gate Records",
+      "country": "US",
+      "discogs_id": 21350635,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/oIS-2bFnhQCzFubJEzO7vYKgaGoCe8t3C-FNkdWgTxg/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzUw/NjM1LTE2Mzk1MDc2/MDktNTAzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Cerveris",
+      "title": "Evangeline",
+      "release_title": "Michael Cerveris - Piety",
+      "year": "2016",
+      "label": "Low Heat Records",
+      "country": "US",
+      "discogs_id": 13259657,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SxQtxR9TO5ofGNp5m_bH6NIdI3uE3xOhgw7aq5T7A0o/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU5/NjU3LTE1NTI5NDU2/ODYtNDA0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clive Pig And The Hopeful Chinamen",
+      "title": "The Masters",
+      "release_title": "Clive Pig And The Hopeful Chinamen - Clive Pig And The Hopeful Chinamen",
+      "year": "1983",
+      "label": "Hopewell Records",
+      "country": "US",
+      "discogs_id": 2532812,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/TeCgZyy5t5hWZOxY03wialXEfA9onBf75xsw2r5Nn8w/rs:fit/g:sm/q:90/h:600/w:311/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI4/MTItMTQ0MTA1MjA5/Ni04MzIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "It Will Be Alright",
+      "release_title": "Various - Lord Why Do I Keep Choosing The Wrong Man?",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 16124464,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SNTsf_j9WN9ckLWYCOg2FhXMmMCXT66WzkQhoRKy38w/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI0/NDY0LTE2MDQ2Nzk4/NjItNTAyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "title": "Damned If I Do",
+      "release_title": "The Alan Parsons Project - The Best Of The Alan Parsons Project",
+      "year": "1983",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 1173750,
+      "rating_avg": 4.14,
+      "rating_count": 159,
+      "cover_image": "https://i.discogs.com/15nvThbX66sfuXVwD_s6QCbSc1Vi_rdKyO_L03_GdlI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM3/NTAtMTI5Mjk3NzY2/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Unspoken",
+      "title": "Sleep In The Storm",
+      "release_title": "Unspoken (4) - Follow Through",
+      "year": "2016",
+      "label": "Centricity Music",
+      "country": "US",
+      "discogs_id": 12751091,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yXZ44jOHofFNpP5fYtsPBV9QxI2HGTTW6a-S8jEjRns/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzUx/MDkxLTE1NDEyNTc5/MjYtNDUzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shag",
+      "title": "Lay It Down",
+      "release_title": "Shag (3) - Loop Di Love",
+      "year": "1972",
+      "label": "UK Records",
+      "country": "US",
+      "discogs_id": 5712619,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kO-WmMZ9-d7--N9E9v4wxr4svU35CI40NTkyDQPeQSc/rs:fit/g:sm/q:90/h:500/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTI2/MTktMTQxOTE4NTU2/NC04MTE1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Cerveris",
+      "title": "Crescent",
+      "release_title": "Michael Cerveris - Piety",
+      "year": "2016",
+      "label": "Low Heat Records",
+      "country": "US",
+      "discogs_id": 13259657,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SxQtxR9TO5ofGNp5m_bH6NIdI3uE3xOhgw7aq5T7A0o/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU5/NjU3LTE1NTI5NDU2/ODYtNDA0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "The Jitterbug (Outtake)",
+      "release_title": "Various - The Wizard Of Oz (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "WaterTower Music",
+      "country": "US",
+      "discogs_id": 22098130,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/oA2gnmFqhOFhRUHc3mClRXJcWMS_ExkpggyMqBbqM_U/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDk4/MTMwLTE2NjAxOTM3/NTAtMzIwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Stallone",
+      "title": "Far From Over",
+      "release_title": "Various - Staying Alive (The Original Motion Picture Soundtrack)",
+      "year": "1983",
+      "label": "RSO",
+      "country": "US",
+      "discogs_id": 31210948,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/t0_yE__aqXnvnuAF-Wa-UIpwWzFeDyJOuXoA6Q_8i2o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEw/OTQ4LTE3MjA4ODE3/OTAtODUwNi5qcGVn.jpeg"
+    }
+  ]
+}
