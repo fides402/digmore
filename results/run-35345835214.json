@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Rhythm & Blues"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 32,
+      "artists_found": 29,
+      "fresh_lookups": 1,
+      "styles_considered": 93
+    }
+  },
+  "results": [
+    {
+      "artist": "The J.B.'s",
+      "title": "Gimme Some More",
+      "release_title": "The JB's* - Gimme Some More",
+      "year": "1971",
+      "label": "People",
+      "country": "US",
+      "discogs_id": 3764478,
+      "rating_avg": 4.28,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/t0-Qn5o0niggsZmvrVtkofytbA-59vhwNjqH8AwJfc4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ0/NzgtMTM0MzQ4MDE2/MC03MDY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ghetto Shakespear",
+      "title": "The Other Woman",
+      "release_title": "Ghetto Shakespear (2) - Double Life",
+      "year": "2008",
+      "label": "Underground Alabama Entertainment",
+      "country": "US",
+      "discogs_id": 11366489,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Gi2GEcud4WCY8A9TO2xjKP69WB2-E7vSBYpV5oPO6GI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY2/NDg5LTE1MTUwMzc2/NjUtOTczNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Ujima",
+      "release_title": "Various - Kwanzaa for Young People (And Everyone Else)",
+      "year": "1999",
+      "label": "Charphelia",
+      "country": "US",
+      "discogs_id": 16219555,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qJtObQOUc4W94wJLQv13wOQy0oj_xzG7Q10K1MdtWIg/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE5/NTU1LTE2MDYwNDk2/MjEtMzgzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roxbury Drive",
+      "title": "Do You Love Me?",
+      "release_title": "Roxbury Drive - Do You Love Me?",
+      "year": "1980",
+      "label": "Baby'O Records & Tapes",
+      "country": "US",
+      "discogs_id": 15012398,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3Kp70glv1sDCsSP5iE5Cp2End4XH-Xc6q16wa0WjNcc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEy/Mzk4LTE1ODU0OTI0/ODItMzA4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Drifters",
+      "title": "I Gotta Get Myself A Woman",
+      "release_title": "The Drifters - Let The Boogie-Woogie Roll - Greatest Hits 1953-1958",
+      "year": "1988",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 10415108,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BRU-F3Fh3rgU4UxK9hjmjjAd15s3e5BdaFx5-sX2BV8/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/MTA4LTE0OTY5NTg1/NDUtOTk1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Lovemakers",
+      "title": "My Girl Is Really Dynamite",
+      "release_title": "The Lovemakers (3) - When You're Next To Me",
+      "year": "1975",
+      "label": "Island Records",
+      "country": "US",
+      "discogs_id": 33357395,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Bs-OgVb8T2Lm6duu6rAmuRvE7JFuv9G6IbFkXwX2r3M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzU3/Mzk1LTE3NDE2ODIw/MTItOTEyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Magnum",
+      "title": "Composition Seven (Prelude)",
+      "release_title": "Magnum - Funky Junky",
+      "year": "1974",
+      "label": "The Phoenix",
+      "country": "US",
+      "discogs_id": 4905331,
+      "rating_avg": 4.71,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/ghWI_60IdR-HgDk9c455In0OhmwAHynIBjOlE6e-BXY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDUz/MzEtMTQyNjI5NTU1/NS03MjAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sam Cooke",
+      "title": "Rome Wasn't Built In A Day",
+      "release_title": "Sam Cooke - Songs Of Sam Cooke And Others",
+      "year": "1975",
+      "label": "ABKCO",
+      "country": "US",
+      "discogs_id": 7418244,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/J7gKrOQB5SOlxKmeAQbl7dWbZJwkwinwZ92E0HnEx-0/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTgy/NDQtMTY1OTczODA4/NC01NjcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carol Douglas",
+      "title": "I Got Your Body",
+      "release_title": "Carol Douglas - Love Zone",
+      "year": "1983",
+      "label": "Next Plateau Records Inc.",
+      "country": "US",
+      "discogs_id": 3409839,
+      "rating_avg": 4.48,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/VuyZeRumTJK3T8VOJF87k6kinNDWWaQLiyyMXTzTyJY/rs:fit/g:sm/q:90/h:553/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDk4/MzktMTUyMTM5Mzk0/NC01MTk3LnBuZw.jpeg"
+    },
+    {
+      "artist": "The Knights Of Forty First Street",
+      "title": "Catapult",
+      "release_title": "Naomi Davis & The Knights Of Forty First Street - Forty First Street Breakdowne / Catapult",
+      "year": "1998",
+      "label": "Desco Records",
+      "country": "US",
+      "discogs_id": 8708162,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fRbURJE4cqgdOBpe8IIaUL298pgD3323894qWiXzXzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDgx/NjItMTU0NjM2Njc2/OC05NTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Otis Redding",
+      "title": "Satisfaction",
+      "release_title": "Otis Redding - I've Been Loving You Too Long And Other Hits",
+      "year": "1997",
+      "label": "Flashback Records",
+      "country": "US",
+      "discogs_id": 35407891,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gYd5glkH7dU7aKcs2j9K5kjV5Hr6N_h97hg_TpQO49Q/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDA3/ODkxLTE3NjA5MTcy/OTQtMTQwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cut To The Chase",
+      "title": "For God's Sake",
+      "release_title": "Cut To The Chase (2) - Hard",
+      "year": "1992",
+      "label": "Art & Commerce Records",
+      "country": "US",
+      "discogs_id": 36486514,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/L3khqrmtFQ6kSiVSSF0wX0Sb_U4THjBbnIktaWtgyt8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDg2/NTE0LTE3NzA5Mzkx/ODEtMTk4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carol Douglas",
+      "title": "I Got Your Body (Euro)",
+      "release_title": "Carol Douglas - Love Zone",
+      "year": "1983",
+      "label": "Next Plateau Records Inc.",
+      "country": "US",
+      "discogs_id": 3409839,
+      "rating_avg": 4.48,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/VuyZeRumTJK3T8VOJF87k6kinNDWWaQLiyyMXTzTyJY/rs:fit/g:sm/q:90/h:553/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDk4/MzktMTUyMTM5Mzk0/NC01MTk3LnBuZw.jpeg"
+    },
+    {
+      "artist": "The J.B.'s",
+      "title": "The Rabbit Got The Gun",
+      "release_title": "The JB's* - Gimme Some More",
+      "year": "1971",
+      "label": "People",
+      "country": "US",
+      "discogs_id": 3764478,
+      "rating_avg": 4.28,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/t0-Qn5o0niggsZmvrVtkofytbA-59vhwNjqH8AwJfc4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ0/NzgtMTM0MzQ4MDE2/MC03MDY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Steelers",
+      "title": "You Got Me Callin'",
+      "release_title": "Steelers* - You're What's Been Missing From My Life",
+      "year": "1971",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 23120021,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_BZc-erA_CuVTuw1WXyk_Re2ulBVvVCIkya0K9OQXLc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/MDIxLTE2NTE3NTI5/ODYtOTYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dorothy Moore",
+      "title": "What Am I To Do",
+      "release_title": "Dorothy Moore - Once Moore With Feeling",
+      "year": "1978",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 1490140,
+      "rating_avg": 4.0,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/Ydk6G48djyasJDQfZy8CHglGqHc9mhMe83OkUkoRQZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAx/NDAtMTMyMTI3NTk2/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Otis Redding",
+      "title": "I've Been Loving You Too Long (To Stop Now)",
+      "release_title": "Otis Redding - I've Been Loving You Too Long And Other Hits",
+      "year": "1997",
+      "label": "Flashback Records",
+      "country": "US",
+      "discogs_id": 35407891,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gYd5glkH7dU7aKcs2j9K5kjV5Hr6N_h97hg_TpQO49Q/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDA3/ODkxLTE3NjA5MTcy/OTQtMTQwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Drifters",
+      "title": "Your Promise To Be Mine",
+      "release_title": "The Drifters - Let The Boogie-Woogie Roll - Greatest Hits 1953-1958",
+      "year": "1988",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 10415108,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BRU-F3Fh3rgU4UxK9hjmjjAd15s3e5BdaFx5-sX2BV8/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/MTA4LTE0OTY5NTg1/NDUtOTk1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Subway Riders",
+      "title": "After The Session",
+      "release_title": "The Subway Riders - Adam / After The Session",
+      "year": "1975",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 15485822,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/hzzLx_xJvYCgt7EJmLdjYTd-zyy8j9wjthcEwNQwDO8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg1/ODIyLTE1OTIzMjIx/NDUtOTgzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ghetto Shakespear",
+      "title": "How Many Ways",
+      "release_title": "Ghetto Shakespear (2) - Double Life",
+      "year": "2008",
+      "label": "Underground Alabama Entertainment",
+      "country": "US",
+      "discogs_id": 11366489,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Gi2GEcud4WCY8A9TO2xjKP69WB2-E7vSBYpV5oPO6GI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY2/NDg5LTE1MTUwMzc2/NjUtOTczNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roxbury Drive",
+      "title": "Blame It On Jackie (Daniels)",
+      "release_title": "Roxbury Drive - Do You Love Me?",
+      "year": "1980",
+      "label": "Baby'O Records & Tapes",
+      "country": "US",
+      "discogs_id": 15012398,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3Kp70glv1sDCsSP5iE5Cp2End4XH-Xc6q16wa0WjNcc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEy/Mzk4LTE1ODU0OTI0/ODItMzA4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cut To The Chase",
+      "title": "L.A.'s Burning",
+      "release_title": "Cut To The Chase (2) - Hard",
+      "year": "1992",
+      "label": "Art & Commerce Records",
+      "country": "US",
+      "discogs_id": 36486514,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/L3khqrmtFQ6kSiVSSF0wX0Sb_U4THjBbnIktaWtgyt8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDg2/NTE0LTE3NzA5Mzkx/ODEtMTk4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dorothy Moore",
+      "title": "(We Need More) Loving Time",
+      "release_title": "Dorothy Moore - Once Moore With Feeling",
+      "year": "1978",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 1490140,
+      "rating_avg": 4.0,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/Ydk6G48djyasJDQfZy8CHglGqHc9mhMe83OkUkoRQZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAx/NDAtMTMyMTI3NTk2/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dorothy Moore",
+      "title": "The Going Ups And The Coming Downs",
+      "release_title": "Dorothy Moore - Once Moore With Feeling",
+      "year": "1978",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 1490140,
+      "rating_avg": 4.0,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/Ydk6G48djyasJDQfZy8CHglGqHc9mhMe83OkUkoRQZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAx/NDAtMTMyMTI3NTk2/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Kujichagulia",
+      "release_title": "Various - Kwanzaa for Young People (And Everyone Else)",
+      "year": "1999",
+      "label": "Charphelia",
+      "country": "US",
+      "discogs_id": 16219555,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qJtObQOUc4W94wJLQv13wOQy0oj_xzG7Q10K1MdtWIg/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE5/NTU1LTE2MDYwNDk2/MjEtMzgzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Subway Riders",
+      "title": "Adam",
+      "release_title": "The Subway Riders - Adam / After The Session",
+      "year": "1975",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 15485822,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/hzzLx_xJvYCgt7EJmLdjYTd-zyy8j9wjthcEwNQwDO8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg1/ODIyLTE1OTIzMjIx/NDUtOTgzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carol Douglas",
+      "title": "Got Ya Where I Want Ya",
+      "release_title": "Carol Douglas - Love Zone",
+      "year": "1983",
+      "label": "Next Plateau Records Inc.",
+      "country": "US",
+      "discogs_id": 3409839,
+      "rating_avg": 4.48,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/VuyZeRumTJK3T8VOJF87k6kinNDWWaQLiyyMXTzTyJY/rs:fit/g:sm/q:90/h:553/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDk4/MzktMTUyMTM5Mzk0/NC01MTk3LnBuZw.jpeg"
+    },
+    {
+      "artist": "The Steelers",
+      "title": "You're What's Been Missing From My Life",
+      "release_title": "Steelers* - You're What's Been Missing From My Life",
+      "year": "1971",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 23120021,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_BZc-erA_CuVTuw1WXyk_Re2ulBVvVCIkya0K9OQXLc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIw/MDIxLTE2NTE3NTI5/ODYtOTYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Drifters",
+      "title": "Steamboat",
+      "release_title": "The Drifters - Let The Boogie-Woogie Roll - Greatest Hits 1953-1958",
+      "year": "1988",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 10415108,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BRU-F3Fh3rgU4UxK9hjmjjAd15s3e5BdaFx5-sX2BV8/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/MTA4LTE0OTY5NTg1/NDUtOTk1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Magnum",
+      "title": "Funky Junky",
+      "release_title": "Magnum - Funky Junky",
+      "year": "1974",
+      "label": "The Phoenix",
+      "country": "US",
+      "discogs_id": 4905331,
+      "rating_avg": 4.71,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/ghWI_60IdR-HgDk9c455In0OhmwAHynIBjOlE6e-BXY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDUz/MzEtMTQyNjI5NTU1/NS03MjAzLmpwZWc.jpeg"
+    }
+  ]
+}
