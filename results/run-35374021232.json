@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1964,
+    "year_to": 2013,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 26,
+      "artists_found": 26,
+      "fresh_lookups": 0,
+      "styles_considered": 87
+    }
+  },
+  "results": [
+    {
+      "artist": "Blue Mitchell",
+      "title": "Funky Walk - Hot Stuff",
+      "release_title": "Blue Mitchell - Many Shades Of Blue",
+      "year": "1973",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 34629313,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RN8pdzBHHuA3QTof5GzZbCtV7rAsXo_KI1c_v8OeCbY/rs:fit/g:sm/q:90/h:600/w:452/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjI5/MzEzLTE3NTM3OTYz/MDYtNTE2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Return To Forever",
+      "title": "Medieval Overture",
+      "release_title": "Return To Forever - Romantic Warrior",
+      "year": "1976",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 29857717,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B-5lhgWV1wBNOg8oARCzmFEfk2xlOvtk9xWnU2vTpH0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODU3/NzE3LTE3MDgzOTgx/MDEtNDYwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herman Riley",
+      "title": "MPH",
+      "release_title": "Herman Riley - Herman",
+      "year": "1984",
+      "label": "Jam",
+      "country": "US",
+      "discogs_id": 32299265,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bCzN6O6GkCNJg-NLy4hGgmVVNXg5eAM4RoQXNz8NXGg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjk5/MjY1LTE3MzE2OTUz/MTEtMjc3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The San Jose State University",
+      "title": "A Nigth in Tunisia",
+      "release_title": "The San Jose State University - Latin Jazz Esemble",
+      "year": "2001",
+      "label": "San José State Latin Jazz Emsemble",
+      "country": "US",
+      "discogs_id": 30492256,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8qQxgxo-ikqLOrCslcT_3KIYHalXy8mssR0bYc_H-sU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDky/MjU2LTE3MTM5Njcz/NDMtNzAyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Neil Larsen",
+      "title": "Sudden Samba",
+      "release_title": "Neil Larsen - Orbit",
+      "year": "2007",
+      "label": "Straight Ahead Records",
+      "country": "US",
+      "discogs_id": 28679134,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TaZOfmpV-5msYL6ViMnO_nvyjHpyWErJXb4PlpkINRs/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njc5/MTM0LTE2OTg3OTA0/MTktMjQwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Return To Forever",
+      "title": "The Magician",
+      "release_title": "Return To Forever - Romantic Warrior",
+      "year": "1976",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 29857717,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B-5lhgWV1wBNOg8oARCzmFEfk2xlOvtk9xWnU2vTpH0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODU3/NzE3LTE3MDgzOTgx/MDEtNDYwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "5 After 4",
+      "title": "Be Still",
+      "release_title": "Five After Four* - Public Solitude",
+      "year": "1996",
+      "label": "Jazz Inspiration Records",
+      "country": "US",
+      "discogs_id": 8326570,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MhKGK2SVRQgqr-ugAhJCtHKMWEgmWZ2ylTjdhUXVUEc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjY1/NzAtMTU1Njk0OTc3/Ni0xMzEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Blue Mitchell",
+      "title": "Where It's At - Harmony Of The Underworld",
+      "release_title": "Blue Mitchell - Many Shades Of Blue",
+      "year": "1973",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 34629313,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RN8pdzBHHuA3QTof5GzZbCtV7rAsXo_KI1c_v8OeCbY/rs:fit/g:sm/q:90/h:600/w:452/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjI5/MzEzLTE3NTM3OTYz/MDYtNTE2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "The Mean Machine",
+      "release_title": "Jimmy McGriff - The Mean Machine",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3155713,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Siiz5wXZBP4XlUMo5c-peub_8yUIeFRtyX-MeVee2HA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/MTMtMTMyNTA3NTY4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Irukandji",
+      "title": "Awakening",
+      "release_title": "Irukandji (3) - Awakening",
+      "year": "2012",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 14578049,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zyIKocXenNwcPyAU4ZKEdOHY8793rVEm44qWFHbe8OY/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc4/MDQ5LTE1Nzc0OTMy/MzMtODUwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Batucada (The Beat)",
+      "release_title": "Sergio Mendes & Brasil '66* - Look Around",
+      "year": "1968",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 15022561,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/-WE2qb6EuuLcYWSvsUEWI9NKj9_Z0VCMAs9wxVim5_g/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDIy/NTYxLTE1ODU2MzM3/MjctNzMzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "5 After 4",
+      "title": "Mother’s Nature",
+      "release_title": "Five After Four* - Public Solitude",
+      "year": "1996",
+      "label": "Jazz Inspiration Records",
+      "country": "US",
+      "discogs_id": 8326570,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MhKGK2SVRQgqr-ugAhJCtHKMWEgmWZ2ylTjdhUXVUEc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjY1/NzAtMTU1Njk0OTc3/Ni0xMzEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Blue Mitchell",
+      "title": "Blue Funk - Funny Bone",
+      "release_title": "Blue Mitchell - Many Shades Of Blue",
+      "year": "1973",
+      "label": "Mainstream Records",
+      "country": "US",
+      "discogs_id": 34629313,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RN8pdzBHHuA3QTof5GzZbCtV7rAsXo_KI1c_v8OeCbY/rs:fit/g:sm/q:90/h:600/w:452/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjI5/MzEzLTE3NTM3OTYz/MDYtNTE2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Get Back",
+      "release_title": "Jimmy McGriff - The Mean Machine",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3155713,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Siiz5wXZBP4XlUMo5c-peub_8yUIeFRtyX-MeVee2HA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/MTMtMTMyNTA3NTY4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Neil Larsen",
+      "title": "Day Train",
+      "release_title": "Neil Larsen - Orbit",
+      "year": "2007",
+      "label": "Straight Ahead Records",
+      "country": "US",
+      "discogs_id": 28679134,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TaZOfmpV-5msYL6ViMnO_nvyjHpyWErJXb4PlpkINRs/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njc5/MTM0LTE2OTg3OTA0/MTktMjQwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The S.C.E.N.E.",
+      "title": "Back Burner",
+      "release_title": "The S ★ C ★ E ★ N ★ E ★* - Back Burner",
+      "year": "1991",
+      "label": "Three Tee Productions",
+      "country": "US",
+      "discogs_id": 15257521,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/DL7z55yuJ8a0lNyEhMkJ7S4v5Pe5C-_I8j8NwZ7qKDg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjU3/NTIxLTE1ODg3ODQ3/NDktNDUzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mike Smiarowski",
+      "title": "Isle Of Jabeam",
+      "release_title": "Mike Smiarowski - Island Fantasy",
+      "year": "1989",
+      "label": "Smear Records",
+      "country": "US",
+      "discogs_id": 9566364,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VJ0S_MIu9rQqD6MIx2fH7TNWmVNIlEdb65iYgOzpKrs/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjYz/NjQtMTUxMjEwMDM2/NS0yNzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Irukandji",
+      "title": "Rhythm Of Rhyme",
+      "release_title": "Irukandji (3) - Awakening",
+      "year": "2012",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 14578049,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zyIKocXenNwcPyAU4ZKEdOHY8793rVEm44qWFHbe8OY/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc4/MDQ5LTE1Nzc0OTMy/MzMtODUwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The San Jose State University",
+      "title": "Bamboleo",
+      "release_title": "The San Jose State University - Latin Jazz Esemble",
+      "year": "2001",
+      "label": "San José State Latin Jazz Emsemble",
+      "country": "US",
+      "discogs_id": 30492256,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8qQxgxo-ikqLOrCslcT_3KIYHalXy8mssR0bYc_H-sU/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDky/MjU2LTE3MTM5Njcz/NDMtNzAyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeremy Wall",
+      "title": "Stepping Out",
+      "release_title": "Jeremy Wall - Stepping To The New World",
+      "year": "1992",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 7970708,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lH9cq3rS7mu3mlFbboGZPUpJH8o8ojTLEu6Dw7X1haQ/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzA3/MDgtMTQ1MjY2NzIy/OC03MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "Struttin' On Five",
+      "release_title": "Herb Alpert / Tijuana Brass* - Struttin' On Five",
+      "year": "1984",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 9232629,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BUNyVOFeyRQ759mzY9MRJQ_R116ielEwdLUpM3IbWvg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzI2/MjktMTQ3NzA4Mjcx/Ny04NTIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "5 After 4",
+      "title": "Be Beem Bop",
+      "release_title": "Five After Four* - Public Solitude",
+      "year": "1996",
+      "label": "Jazz Inspiration Records",
+      "country": "US",
+      "discogs_id": 8326570,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MhKGK2SVRQgqr-ugAhJCtHKMWEgmWZ2ylTjdhUXVUEc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjY1/NzAtMTU1Njk0OTc3/Ni0xMzEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "With A Little Help From My Friends",
+      "release_title": "Sergio Mendes & Brasil '66* - Look Around",
+      "year": "1968",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 15022561,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/-WE2qb6EuuLcYWSvsUEWI9NKj9_Z0VCMAs9wxVim5_g/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDIy/NTYxLTE1ODU2MzM3/MjctNzMzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Irukandji",
+      "title": "DreamGirl",
+      "release_title": "Irukandji (3) - Awakening",
+      "year": "2012",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 14578049,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zyIKocXenNwcPyAU4ZKEdOHY8793rVEm44qWFHbe8OY/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc4/MDQ5LTE1Nzc0OTMy/MzMtODUwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "5 After 4",
+      "title": "Tangled Dreams",
+      "release_title": "Five After Four* - Public Solitude",
+      "year": "1996",
+      "label": "Jazz Inspiration Records",
+      "country": "US",
+      "discogs_id": 8326570,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MhKGK2SVRQgqr-ugAhJCtHKMWEgmWZ2ylTjdhUXVUEc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjY1/NzAtMTU1Njk0OTc3/Ni0xMzEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herman Riley",
+      "title": "Jewel",
+      "release_title": "Herman Riley - Herman",
+      "year": "1984",
+      "label": "Jam",
+      "country": "US",
+      "discogs_id": 32299265,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bCzN6O6GkCNJg-NLy4hGgmVVNXg5eAM4RoQXNz8NXGg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjk5/MjY1LTE3MzE2OTUz/MTEtMjc3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Overweight Shark Bait",
+      "release_title": "Jimmy McGriff - The Mean Machine",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3155713,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Siiz5wXZBP4XlUMo5c-peub_8yUIeFRtyX-MeVee2HA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/MTMtMTMyNTA3NTY4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeremy Wall",
+      "title": "New World Anthem",
+      "release_title": "Jeremy Wall - Stepping To The New World",
+      "year": "1992",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 7970708,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lH9cq3rS7mu3mlFbboGZPUpJH8o8ojTLEu6Dw7X1haQ/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzA3/MDgtMTQ1MjY2NzIy/OC03MjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Return To Forever",
+      "title": "The Romantic Warrior",
+      "release_title": "Return To Forever - Romantic Warrior",
+      "year": "1976",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 29857717,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B-5lhgWV1wBNOg8oARCzmFEfk2xlOvtk9xWnU2vTpH0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODU3/NzE3LTE3MDgzOTgx/MDEtNDYwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeremy Wall",
+      "title": "Things Change",
+      "release_title": "Jeremy Wall - Stepping To The New World",
+      "year": "1992",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 7970708,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lH9cq3rS7mu3mlFbboGZPUpJH8o8ojTLEu6Dw7X1haQ/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzA3/MDgtMTQ1MjY2NzIy/OC03MjMyLmpwZWc.jpeg"
+    }
+  ]
+}
