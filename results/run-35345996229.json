@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Hard Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Cool Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Modal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 16,
+      "artists_found": 16,
+      "fresh_lookups": 0,
+      "styles_considered": 55
+    }
+  },
+  "results": [
+    {
+      "artist": "Jeanette Harris",
+      "title": "Chillin'",
+      "release_title": "Jeanette Harris (2) - Summer Rain",
+      "year": "2013",
+      "label": "J & M Records",
+      "country": "US",
+      "discogs_id": 30102866,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9B593oqa14r9OWqwciPBlzkkaShyuw71jEqHG-GTFVI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAy/ODY2LTE3NTg3MzI5/ODAtOTMyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Celeste Howard",
+      "title": "Sweet Chardonnay",
+      "release_title": "Celeste Howard - Place With A View",
+      "year": "1991",
+      "label": "Hummingbird Suite Productions",
+      "country": "US",
+      "discogs_id": 9890881,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1GIVoX9twn32LyziPgRAawQpsW6Tnyp6I8LzyHLzhJU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTA4/ODEtMTYyNDY1MzM4/MS01Njg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Indigo",
+      "title": "Gee Baby Ain’t I Good For You",
+      "release_title": "Indigo (62) - Featuring Brad Allison On Trumpet",
+      "year": "1996",
+      "label": "Sugo Music",
+      "country": "US",
+      "discogs_id": 30873066,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/y6ewmWrtiyXShhtKWWMIfLptVx9PcXy8nfHDEHDi7Mc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODcz/MDY2LTE3MTc1MzM1/MzAtMjg4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gerald Albright",
+      "title": "Sooki Sooki",
+      "release_title": "Gerald Albright - Live To Love",
+      "year": "1997",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 17390542,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/uP9rwNLl8GHRxmo4E2QUy-O8QV55XY5SUq5S1aZQFuE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzkw/NTQyLTE2MjYwMzI5/NzEtNDgyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Viola",
+      "title": "How Long Has This Been Going On",
+      "release_title": "Al Viola - Solo Guitar",
+      "year": "1989",
+      "label": "V.S.O.P. Records",
+      "country": "US",
+      "discogs_id": 14665828,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TjzBwZm2tEevOFbFH3PT9DPOi7btKhAPpN9yZ5ACKDQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY1/ODI4LTE1NzkyMTAx/MDUtMTUzOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet",
+      "title": "Django",
+      "release_title": "The Modern Jazz Quartet - European Concert Volumes One & Two",
+      "year": "2006",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 7791799,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Lfv9AoqLusky9VryVyM4EwURnbMKRAu9a0HowU4lT9M/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTE3/OTktMTQ2OTQwNTA0/NS01NjQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Thelonious Monk",
+      "title": "Think Of One (Take 1)",
+      "release_title": "Thelonious Monk - The Complete Prestige Recordings",
+      "year": "2000",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 1413572,
+      "rating_avg": 4.56,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/YxP7lVaFhRRM1JLyygoEpjulGvUsh-NYsakMDSfjoB0/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM1/NzItMTU0NDQ2NDk1/MS0yNDg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet",
+      "title": "Vendome",
+      "release_title": "The Modern Jazz Quartet - European Concert Volumes One & Two",
+      "year": "2006",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 7791799,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Lfv9AoqLusky9VryVyM4EwURnbMKRAu9a0HowU4lT9M/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTE3/OTktMTQ2OTQwNTA0/NS01NjQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Thelonious Monk",
+      "title": "I'll Follow You",
+      "release_title": "Thelonious Monk - The Complete Blue Note Recordings",
+      "year": "1994",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 1595570,
+      "rating_avg": 4.5,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/GfcbCW4Epdjtf3iyJ0FwZUj7ctI6dQHY5_bFg7bO9s8/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU1/NzAtMTIzMTEyMjE5/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeanette Harris",
+      "title": "Take Me There",
+      "release_title": "Jeanette Harris (2) - Summer Rain",
+      "year": "2013",
+      "label": "J & M Records",
+      "country": "US",
+      "discogs_id": 30102866,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9B593oqa14r9OWqwciPBlzkkaShyuw71jEqHG-GTFVI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAy/ODY2LTE3NTg3MzI5/ODAtOTMyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gerald Albright",
+      "title": "The Good Ole Days",
+      "release_title": "Gerald Albright - Live To Love",
+      "year": "1997",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 17390542,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/uP9rwNLl8GHRxmo4E2QUy-O8QV55XY5SUq5S1aZQFuE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzkw/NTQyLTE2MjYwMzI5/NzEtNDgyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nora Evans",
+      "title": "Don't Explain",
+      "release_title": "Nora Evans - Don't Explain / Pictures",
+      "year": "1980",
+      "label": "Noreeva",
+      "country": "US",
+      "discogs_id": 6226792,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/uZaOUsO5Jn0SK1EnOjcKgxudDEwMKlyd0v-SKMWmH-4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjY3/OTItMTQxNDE5ODMy/My03NzA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shelly Manne",
+      "title": "Shapes, Motion, Colors",
+      "release_title": "Shelly Manne - Shelly Manne Vol. 2",
+      "year": "1998",
+      "label": "Contemporary Records",
+      "country": "US",
+      "discogs_id": 7957989,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/R0BA90-Gam5qyBYlps8Pd0ZORg4HE243OXRGerdNuQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTc5/ODktMTQ1MjQzMTIw/Ny05Nzg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet",
+      "title": "The Watergate Blues",
+      "release_title": "The Modern Jazz Quartet - Echoes",
+      "year": "1984",
+      "label": "Pablo today",
+      "country": "US",
+      "discogs_id": 6588635,
+      "rating_avg": 4.44,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/Xz2ffFWMt1vYv6jxpJVn9vTngO7oUJyU85vAc0t6Bvw/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODg2/MzUtMTQyMjYyODA1/MC0yMzk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cecil Payne",
+      "title": "Scotch And Milk",
+      "release_title": "Cecil Payne - Scotch And Milk",
+      "year": "1997",
+      "label": "Delmark Records",
+      "country": "US",
+      "discogs_id": 10133298,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/xRi5WPY4Q1nXJNtCGshUdRUddhpoccqzZgg0L_MsC0k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/Mjk4LTE2MjQxOTEw/ODktOTAxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Chico Hamilton Quintet",
+      "title": "Strange",
+      "release_title": "The Chico Hamilton Quintet - With Strings Attached",
+      "year": "2007",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 10762574,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/4iuQ6eP0h_VvY47oG2TSh04FsUtf42r06FQuhGgMqXY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzYy/NTc0LTE1NjAxNTQ3/NTgtNDEzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeffery Smith",
+      "title": "Take Me Home",
+      "release_title": "Jeffery Smith - Watercolors",
+      "year": "2003",
+      "label": "DARU Records",
+      "country": "US",
+      "discogs_id": 11767847,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/w0Hx-U9NIPzmgzgB4RnJMn5T2wFB7_Gx3Rzfa62-LfQ/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzY3/ODQ3LTE1MjczOTMy/MTQtMzUxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nora Evans",
+      "title": "Pictures",
+      "release_title": "Nora Evans - Don't Explain / Pictures",
+      "year": "1980",
+      "label": "Noreeva",
+      "country": "US",
+      "discogs_id": 6226792,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/uZaOUsO5Jn0SK1EnOjcKgxudDEwMKlyd0v-SKMWmH-4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjY3/OTItMTQxNDE5ODMy/My03NzA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jeffery Smith",
+      "title": "In The Midst Of War",
+      "release_title": "Jeffery Smith - Watercolors",
+      "year": "2003",
+      "label": "DARU Records",
+      "country": "US",
+      "discogs_id": 11767847,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/w0Hx-U9NIPzmgzgB4RnJMn5T2wFB7_Gx3Rzfa62-LfQ/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzY3/ODQ3LTE1MjczOTMy/MTQtMzUxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phoenix Jazz Quartet",
+      "title": "So Waltz",
+      "release_title": "Phoenix Jazz Quartet - Phoenix Jazz Quartet",
+      "year": "2001",
+      "label": "Tempest Recording",
+      "country": "US",
+      "discogs_id": 32778381,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1ZQyChxuzwbf9mf-3TIigHY0u_HW_gLAqNXuHOywdg8/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzc4/MzgxLTE3MzYyNTg4/MzQtMTk0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Thelonious Monk",
+      "title": "Little Rootie Tootie",
+      "release_title": "Thelonious Monk - The Complete Prestige Recordings",
+      "year": "2000",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 1413572,
+      "rating_avg": 4.56,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/YxP7lVaFhRRM1JLyygoEpjulGvUsh-NYsakMDSfjoB0/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM1/NzItMTU0NDQ2NDk1/MS0yNDg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Al Viola",
+      "title": "My Old Flame",
+      "release_title": "Al Viola - Solo Guitar",
+      "year": "1989",
+      "label": "V.S.O.P. Records",
+      "country": "US",
+      "discogs_id": 14665828,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TjzBwZm2tEevOFbFH3PT9DPOi7btKhAPpN9yZ5ACKDQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY1/ODI4LTE1NzkyMTAx/MDUtMTUzOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "J.J. Johnson & Milt Jackson",
+      "title": "Out Of Nowhere",
+      "release_title": "J. J. Johnson*, Milt Jackson - A Date In New York",
+      "year": "1979",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 1196135,
+      "rating_avg": 3.93,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/Cgk7nGSdcIJYIkiWP-ZGfrsmVG-dR_B-Fdr6gSrNiRo/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYx/MzUtMTQ3NzcwOTE3/OC0xNzM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gerald Albright",
+      "title": "You're My Everything (Reprise)",
+      "release_title": "Gerald Albright - Live To Love",
+      "year": "1997",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 17390542,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/uP9rwNLl8GHRxmo4E2QUy-O8QV55XY5SUq5S1aZQFuE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzkw/NTQyLTE2MjYwMzI5/NzEtNDgyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet",
+      "title": "That Slavic Smile",
+      "release_title": "The Modern Jazz Quartet - Echoes",
+      "year": "1984",
+      "label": "Pablo today",
+      "country": "US",
+      "discogs_id": 6588635,
+      "rating_avg": 4.44,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/Xz2ffFWMt1vYv6jxpJVn9vTngO7oUJyU85vAc0t6Bvw/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODg2/MzUtMTQyMjYyODA1/MC0yMzk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shelly Manne",
+      "title": "Lullaby",
+      "release_title": "Shelly Manne - Shelly Manne Vol. 2",
+      "year": "1998",
+      "label": "Contemporary Records",
+      "country": "US",
+      "discogs_id": 7957989,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/R0BA90-Gam5qyBYlps8Pd0ZORg4HE243OXRGerdNuQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTc5/ODktMTQ1MjQzMTIw/Ny05Nzg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Chico Hamilton Quintet",
+      "title": "Close Your Eyes",
+      "release_title": "The Chico Hamilton Quintet - With Strings Attached",
+      "year": "2007",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 10762574,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/4iuQ6eP0h_VvY47oG2TSh04FsUtf42r06FQuhGgMqXY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzYy/NTc0LTE1NjAxNTQ3/NTgtNDEzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Indigo",
+      "title": "Desafinado",
+      "release_title": "Indigo (62) - Featuring Brad Allison On Trumpet",
+      "year": "1996",
+      "label": "Sugo Music",
+      "country": "US",
+      "discogs_id": 30873066,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/y6ewmWrtiyXShhtKWWMIfLptVx9PcXy8nfHDEHDi7Mc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODcz/MDY2LTE3MTc1MzM1/MzAtMjg4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Thelonious Monk",
+      "title": "Ask Me Now (1) (Alt Tk)",
+      "release_title": "Thelonious Monk - The Complete Blue Note Recordings",
+      "year": "1994",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 1595570,
+      "rating_avg": 4.5,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/GfcbCW4Epdjtf3iyJ0FwZUj7ctI6dQHY5_bFg7bO9s8/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU1/NzAtMTIzMTEyMjE5/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phoenix Jazz Quartet",
+      "title": "O' Grande Amore",
+      "release_title": "Phoenix Jazz Quartet - Phoenix Jazz Quartet",
+      "year": "2001",
+      "label": "Tempest Recording",
+      "country": "US",
+      "discogs_id": 32778381,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1ZQyChxuzwbf9mf-3TIigHY0u_HW_gLAqNXuHOywdg8/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzc4/MzgxLTE3MzYyNTg4/MzQtMTk0OC5qcGVn.jpeg"
+    }
+  ]
+}
