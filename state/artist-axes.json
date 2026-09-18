@@ -10869,6 +10869,370 @@
    2015
   ]
  },
+ "antonio rossi": {
+  "countries": [
+   "Germany",
+   "Germany",
+   "Italy",
+   "Italy",
+   "Austria",
+   "Austria",
+   "Europe",
+   "Brazil",
+   "Europe",
+   "Hungary",
+   "Canada",
+   "UK",
+   "Netherlands",
+   "Brazil",
+   "Hungary",
+   "Germany",
+   "Worldwide",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Germany",
+   "Netherlands",
+   "Italy",
+   "Brazil",
+   "France"
+  ],
+  "genres": [
+   "Pop",
+   "Classical",
+   "Stage & Screen",
+   "Jazz",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Jazz",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Funk / Soul",
+   "Classical"
+  ],
+  "pairs": [
+   [
+    "Easy Listening",
+    "Jazz"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Concerto",
+    "Classical"
+   ],
+   [
+    "String Ensemble",
+    "Classical"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Renaissance",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Concerto Grosso",
+    "Classical"
+   ],
+   [
+    "String Ensemble",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "String Instrument",
+    "Classical"
+   ],
+   [
+    "Concerto",
+    "Classical"
+   ],
+   [
+    "Orchestra",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Concerto Grosso",
+    "Classical"
+   ],
+   [
+    "String Ensemble",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Concerto Grosso",
+    "Classical"
+   ],
+   [
+    "String Ensemble",
+    "Classical"
+   ],
+   [
+    "Gospel",
+    "Latin"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Gospel",
+    "Latin"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Gospel",
+    "Latin"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Gospel",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Renaissance",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Renaissance",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Gospel",
+    "Funk / Soul"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Oratorio",
+    "Classical"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Easy Listening",
+   "Contemporary",
+   "Baroque",
+   "Baroque",
+   "Concerto",
+   "String Ensemble",
+   "Cool Jazz",
+   "Bossa Nova",
+   "Baroque",
+   "Contemporary",
+   "Renaissance",
+   "Baroque",
+   "Baroque",
+   "Concerto Grosso",
+   "String Ensemble",
+   "Baroque",
+   "Classical",
+   "String Instrument",
+   "Concerto",
+   "Orchestra",
+   "Baroque",
+   "MPB",
+   "Baroque",
+   "Concerto Grosso",
+   "String Ensemble",
+   "Baroque",
+   "Baroque",
+   "Concerto Grosso",
+   "String Ensemble",
+   "Gospel",
+   "MPB",
+   "Gospel",
+   "MPB",
+   "Gospel",
+   "MPB",
+   "Renaissance",
+   "Baroque",
+   "Renaissance",
+   "Baroque",
+   "Contemporary",
+   "Gospel",
+   "Baroque",
+   "Oratorio"
+  ],
+  "years": [
+   1991,
+   1990,
+   1981,
+   1994,
+   2025,
+   2013,
+   1971,
+   1996,
+   1999,
+   1997,
+   2014,
+   1999,
+   2020,
+   2016,
+   2012,
+   1998,
+   1994,
+   2016,
+   2009,
+   2012
+  ]
+ },
  "antônio carlos jobim": {
   "countries": [
    "Japan",
@@ -88984,6 +89348,430 @@
    1993,
    2014,
    1988
+  ]
+ },
+ "patrice rushen": {
+  "countries": [
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Europe",
+   "UK",
+   "Netherlands",
+   "France",
+   "US",
+   "UK",
+   "US",
+   "UK",
+   "UK",
+   "US",
+   "Spain",
+   "Netherlands",
+   "Spain",
+   "US",
+   "Japan",
+   "Spain",
+   "UK",
+   "Japan",
+   "US"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Boogie",
+    "Electronic"
+   ],
+   [
+    "Boogie",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Boogie",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Funk",
+   "Contemporary R&B",
+   "Disco",
+   "Disco",
+   "Electro",
+   "Disco",
+   "Fusion",
+   "Soul",
+   "Disco",
+   "Contemporary R&B",
+   "Boogie",
+   "Funk",
+   "Soul",
+   "Disco",
+   "Disco",
+   "Funk",
+   "Soul",
+   "Disco",
+   "Funk",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Fusion",
+   "Jazz-Funk",
+   "Funk",
+   "Jazz-Funk",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Disco",
+   "Jazz-Funk",
+   "Disco",
+   "Disco",
+   "Soul",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Disco",
+   "Boogie",
+   "Rhythm & Blues",
+   "Disco",
+   "Soul",
+   "Funk",
+   "Disco"
+  ],
+  "years": [
+   1998,
+   1979,
+   1987,
+   1982,
+   1987,
+   1987,
+   1984,
+   1984,
+   1982,
+   1982,
+   1982,
+   1978,
+   1996,
+   1977,
+   2009,
+   1976,
+   1982,
+   1978,
+   1982,
+   1984,
+   1997,
+   1980,
+   1982,
+   2014,
+   1976
   ]
  },
  "paul desmond": {
