@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1964,
+    "year_to": 2016,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 37,
+      "fresh_lookups": 0,
+      "styles_considered": 112
+    }
+  },
+  "results": [
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Kiko",
+      "release_title": "Jimmy McGriff - I've Got A New Woman",
+      "year": "1968",
+      "label": "Solid State Records",
+      "country": "US",
+      "discogs_id": 12363526,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "The Black Cat",
+      "release_title": "Gene Ammons - The Black Cat!",
+      "year": "1971",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 13656517,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/TeRsfcW0ePklc8f3UvVdr6WszKBYPxm15TRgZR57veM/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU2/NTE3LTE1NTgzOTM2/MzMtMjM1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "The Swinging Shepherd Blues",
+      "release_title": "Jimmy McGriff - I've Got A New Woman",
+      "year": "1968",
+      "label": "Solid State Records",
+      "country": "US",
+      "discogs_id": 12363526,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Roni Ben-Hur",
+      "title": "A Sleepin' Bee",
+      "release_title": "Roni Ben-Hur - Fortuna",
+      "year": "2009",
+      "label": "Motéma Music",
+      "country": "US",
+      "discogs_id": 13215553,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xlPzxVBCilDyrjhpre1UOaVumSDW4cPNJcPCjjQVLgk/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE1/NTUzLTE1NTAwOTIz/MzItNjQ2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "title": "Lone Jack",
+      "release_title": "Pat Metheny Group - Pat Metheny Group",
+      "year": "1978",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 26744474,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PrcvCC-PSiDBzN3H49NozNZ0zaRRfcppJQ3CHucf6x4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQ0/NDc0LTE2ODEzNzE3/OTUtNDg2OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Willis Jackson",
+      "title": "In The Alley",
+      "release_title": "Willis Jackson - In The Alley",
+      "year": "1977",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 28815907,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/c9GacFULMmpFEvzQwWV-A4J0MTqYNG-zNTKr_UCg_EI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODE1/OTA3LTE2OTkyNDk2/ODAtMjc2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales",
+      "title": "Jam We Did",
+      "release_title": "Jonathan Scales - Character Farm And Other Short Stories",
+      "year": "2011",
+      "label": "Le' Rue Records",
+      "country": "US",
+      "discogs_id": 11225662,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QROf1nOq0xF6QQYJJykF-R_sNY2tNXNdMRurLICAFC0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI1/NjYyLTE1MTIyNDQy/NjEtNzk0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "The Juggler",
+      "release_title": "Weather Report - Heavy Weather",
+      "year": "1981",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 2659647,
+      "rating_avg": 4.49,
+      "rating_count": 37,
+      "cover_image": "https://i.discogs.com/keij35_VC7bw7zF7WvD9OaXZKCXlR6BtGVxVVzQ2SrA/rs:fit/g:sm/q:90/h:495/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk2/NDctMTMwOTEyNjE4/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dizzy Gillespie",
+      "title": "Poor Joe",
+      "release_title": "Dizzy Gillespie - Jambo Caribe",
+      "year": "1964",
+      "label": "Limelight",
+      "country": "US",
+      "discogs_id": 3263279,
+      "rating_avg": 4.47,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/lRZyFmN0cTGEHUcIjaWXxPOn4sqCm9WzeQAIHYSg3Po/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjMy/NzktMTU5MTcyOTA2/NS05ODgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Movin' On Out",
+      "release_title": "Eddie Harris - Movin' On Out / Funky Doo",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 27974193,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/91ibZG67DDSOC9iVkgox-GypVUKRyLCfJcemIgHfmRA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc0/MTkzLTE2OTIwNDI3/MTctMzc0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales",
+      "title": "The Longest December",
+      "release_title": "Jonathan Scales - Character Farm And Other Short Stories",
+      "year": "2011",
+      "label": "Le' Rue Records",
+      "country": "US",
+      "discogs_id": 11225662,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QROf1nOq0xF6QQYJJykF-R_sNY2tNXNdMRurLICAFC0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI1/NjYyLTE1MTIyNDQy/NjEtNzk0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "Long Long Time",
+      "release_title": "Gene Ammons - The Black Cat!",
+      "year": "1971",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 13656517,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/TeRsfcW0ePklc8f3UvVdr6WszKBYPxm15TRgZR57veM/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU2/NTE3LTE1NTgzOTM2/MzMtMjM1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "More And More Amor",
+      "release_title": "Herb Alpert & The Tijuana Brass - !!Going Places!!",
+      "year": "1965",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 27858816,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dsUGT6SIzSq63h03RejbS6VrMd5sJxUrYCq9vLpbuvU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODU4/ODE2LTE2OTEwMjI2/NDUtNjg3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chick Corea",
+      "title": "Marimbala",
+      "release_title": "Chick Corea - Portions Of \"Marimbala\" And \"Ginkakuji\"",
+      "year": "1985",
+      "label": "Keyboard Magazine",
+      "country": "US",
+      "discogs_id": 4217679,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B3m8rn0BvgMCQc7gWgRoYTPSmQ_Jz6kWzVlEfIG9hKk/rs:fit/g:sm/q:90/h:532/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc2/NzktMTM1ODgyODMx/Ni0xNTY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Earland",
+      "title": "More Today Than Yesterday",
+      "release_title": "Richard \"Groove\" Holmes / Charles Earland - Misty / More Today Than Yesterday",
+      "year": "1984",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 26366672,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DTNx8NLo1fjRwalhSwvTgsXgwwRu_w0M4s6nlyb4ZUE/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzY2/NjcyLTE2Nzg0MzIw/MDYtNTI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales",
+      "title": "Jy Sanders' Sing Along",
+      "release_title": "Jonathan Scales - Character Farm And Other Short Stories",
+      "year": "2011",
+      "label": "Le' Rue Records",
+      "country": "US",
+      "discogs_id": 11225662,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QROf1nOq0xF6QQYJJykF-R_sNY2tNXNdMRurLICAFC0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI1/NjYyLTE1MTIyNDQy/NjEtNzk0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "title": "Phase Dance (Concl.)",
+      "release_title": "Pat Metheny Group - Pat Metheny Group",
+      "year": "1978",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 26744474,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PrcvCC-PSiDBzN3H49NozNZ0zaRRfcppJQ3CHucf6x4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQ0/NDc0LTE2ODEzNzE3/OTUtNDg2OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "Hi Ruth!",
+      "release_title": "Gene Ammons - The Black Cat!",
+      "year": "1971",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 13656517,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/TeRsfcW0ePklc8f3UvVdr6WszKBYPxm15TRgZR57veM/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU2/NTE3LTE1NTgzOTM2/MzMtMjM1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jakob Magnússon",
+      "title": "Ode To Abe",
+      "release_title": "Jakob Magnusson* - Special Treatment",
+      "year": "1979",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 36635587,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/85PpoMuEpgSRSsfU6fKN7d5yWDkFoZ3LaN-K-qOseeo/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM1/NTg3LTE3NzIyNDQ5/NjgtMTIzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Barry Miles",
+      "title": "Tandoori",
+      "release_title": "Barry Miles - Fusion Is...",
+      "year": "1978",
+      "label": "Century Records",
+      "country": "US",
+      "discogs_id": 1019853,
+      "rating_avg": 3.98,
+      "rating_count": 61,
+      "cover_image": "https://i.discogs.com/iIO50ubaiT7Ziv87s2yizRuEkfiKZC9p-sNPjD0iMeE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTk4/NTMtMTUzODU5NTY5/Ny04MTc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dizzy Gillespie",
+      "title": "And Then She Stopped",
+      "release_title": "Dizzy Gillespie - Jambo Caribe",
+      "year": "1964",
+      "label": "Limelight",
+      "country": "US",
+      "discogs_id": 3263279,
+      "rating_avg": 4.47,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/lRZyFmN0cTGEHUcIjaWXxPOn4sqCm9WzeQAIHYSg3Po/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjMy/NzktMTU5MTcyOTA2/NS05ODgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roni Ben-Hur",
+      "title": "Granada",
+      "release_title": "Roni Ben-Hur - Fortuna",
+      "year": "2009",
+      "label": "Motéma Music",
+      "country": "US",
+      "discogs_id": 13215553,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xlPzxVBCilDyrjhpre1UOaVumSDW4cPNJcPCjjQVLgk/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE1/NTUzLTE1NTAwOTIz/MzItNjQ2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "title": "Zorba The Greek",
+      "release_title": "Herb Alpert & The Tijuana Brass - !!Going Places!!",
+      "year": "1965",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 27858816,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dsUGT6SIzSq63h03RejbS6VrMd5sJxUrYCq9vLpbuvU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODU4/ODE2LTE2OTEwMjI2/NDUtNjg3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dizzy Gillespie",
+      "title": "Don't Try To Keep Up With The Joneses",
+      "release_title": "Dizzy Gillespie - Jambo Caribe",
+      "year": "1964",
+      "label": "Limelight",
+      "country": "US",
+      "discogs_id": 3263279,
+      "rating_avg": 4.47,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/lRZyFmN0cTGEHUcIjaWXxPOn4sqCm9WzeQAIHYSg3Po/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjMy/NzktMTU5MTcyOTA2/NS05ODgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Les McCann",
+      "title": "Que Rico (The Swinging Preacher)",
+      "release_title": "Les McCann - Que Rico (The Swinging Preacher) / It Had Better Be Tonight",
+      "year": "1964",
+      "label": "World Pacific Records",
+      "country": "US",
+      "discogs_id": 6356378,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/lDW2eErLQ_NDp2xzrInDu887ElkYth86LVNgVZyoRio/rs:fit/g:sm/q:90/h:550/w:553/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTYz/NzgtMTQxNzI0MTI5/MS00Mzc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "Misty",
+      "release_title": "Richard \"Groove\" Holmes / Charles Earland - Misty / More Today Than Yesterday",
+      "year": "1984",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 26366672,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DTNx8NLo1fjRwalhSwvTgsXgwwRu_w0M4s6nlyb4ZUE/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzY2/NjcyLTE2Nzg0MzIw/MDYtNTI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Ramsey Lewis Trio",
+      "title": "All My Love Belongs To You",
+      "release_title": "Ramsey Lewis Trio* - A Hard Day's Night / All My Love Belongs To You",
+      "year": "1966",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 11979938,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Mf_HI65QgCVvgdE0d5Fvzvina8edMlmZqkfgMT06N-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc5/OTM4LTE1MjU5MTg4/OTEtNTA0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Embraceable You",
+      "release_title": "Jimmy McGriff - I've Got A New Woman",
+      "year": "1968",
+      "label": "Solid State Records",
+      "country": "US",
+      "discogs_id": 12363526,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Jakob Magnússon",
+      "title": "Burlesque In Barcelona",
+      "release_title": "Jakob Magnusson* - Special Treatment",
+      "year": "1979",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 36635587,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/85PpoMuEpgSRSsfU6fKN7d5yWDkFoZ3LaN-K-qOseeo/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM1/NTg3LTE3NzIyNDQ5/NjgtMTIzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "title": "Jaco",
+      "release_title": "Pat Metheny Group - Pat Metheny Group",
+      "year": "1978",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 26744474,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PrcvCC-PSiDBzN3H49NozNZ0zaRRfcppJQ3CHucf6x4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQ0/NDc0LTE2ODEzNzE3/OTUtNDg2OS5qcGVn.jpeg"
+    }
+  ]
+}
