@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2017,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 30,
+      "artists_found": 28,
+      "fresh_lookups": 2,
+      "styles_considered": 91
+    }
+  },
+  "results": [
+    {
+      "artist": "The Supremes",
+      "title": "I Hear A Symphony",
+      "release_title": "The Supremes - Nothing But Heartaches / I Hear A Symphony",
+      "year": "1973",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 2947332,
+      "rating_avg": 4.18,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/3Uky75l1cQ26XaICWKTYb7g3upkTGnuti8yyPo2zfYI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDcz/MzItMTMzODc3NDI1/My05NTg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The J.B.'s",
+      "title": "Givin' Up Food For Funk - Part 1",
+      "release_title": "JB's* - Givin' Up Food For Funk",
+      "year": "1972",
+      "label": "People",
+      "country": "US",
+      "discogs_id": 10395929,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/JCgiL9kww9TkQRSBdVSBk5DbO-zkPyeJ_NiDUdg7H-A/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk1/OTI5LTE0OTY2MTU1/NDQtNDIxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hot Chocolate",
+      "title": "One Night's Not Enough",
+      "release_title": "Hot Chocolate - Are You Getting Enough Happiness / One Night's Not Enough",
+      "year": "1982",
+      "label": "EMI",
+      "country": "US",
+      "discogs_id": 5604129,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/AR9cdxKsxpOK8oNLhm31hXTAx0QBHIgxajfQQuEEw1c/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQx/MjktMTQ0NDY4ODIz/Ny0yNjk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Barbara Acklin",
+      "title": "Yes I See The Love (I Missed)",
+      "release_title": "Barbara Acklin - Love Makes A Woman",
+      "year": "2000",
+      "label": "Brunswick",
+      "country": "US",
+      "discogs_id": 5418452,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/HuCV-Lj7n5BTdgPiZA_ItrOor_MdIXV8O1IRmEvfZs8/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTg0/NTItMTM5MzgwOTU3/Ni0zOTc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Pree Sisters",
+      "title": "You've Got To Use What You've Got",
+      "release_title": "The Pree Sisters - You've Got To Use What You've Got / Part Time Lover, Full Time Fool",
+      "year": "1973",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 6916604,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/q4rZkpyFI63nAZ4bG3ZEIEMVH0uHYE2lC8D-UbR_Up4/rs:fit/g:sm/q:90/h:400/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTY2/MDQtMTQyOTQ0OTk3/OS0yODIwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Unyque",
+      "title": "Keep On Making Me High",
+      "release_title": "Unyque - Keep On Making Me High / Party Down",
+      "year": "1979",
+      "label": "DJM Records",
+      "country": "US",
+      "discogs_id": 738202,
+      "rating_avg": 4.52,
+      "rating_count": 21,
+      "cover_image": "https://i.discogs.com/a7-FNBBYgA8jfGyGBTRJcWFAIK8jnvanKKmjcfztm4s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODIw/Mi0xNDQ2NjU5NTk1/LTYzODAuanBlZw.jpeg"
+    },
+    {
+      "artist": "Kids At Work",
+      "title": "Reggae Kids",
+      "release_title": "Kids At Work - Singing Hey Yea",
+      "year": "1984",
+      "label": "CBS Associated Records",
+      "country": "US",
+      "discogs_id": 2149783,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/gu_KY-8MRETGmWVg5hKVcoHDVSDupSwkqE6k1vLvl00/rs:fit/g:sm/q:90/h:585/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk3/ODMtMTI2NzMxMzgy/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Unyque",
+      "title": "Party Down",
+      "release_title": "Unyque - Keep On Making Me High / Party Down",
+      "year": "1979",
+      "label": "DJM Records",
+      "country": "US",
+      "discogs_id": 738202,
+      "rating_avg": 4.52,
+      "rating_count": 21,
+      "cover_image": "https://i.discogs.com/a7-FNBBYgA8jfGyGBTRJcWFAIK8jnvanKKmjcfztm4s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODIw/Mi0xNDQ2NjU5NTk1/LTYzODAuanBlZw.jpeg"
+    },
+    {
+      "artist": "Hamilton Bohannon",
+      "title": "She's A Boogie Woogie Freak",
+      "release_title": "Bohannon* - Bohannon Fever",
+      "year": "1982",
+      "label": "Phase II Records Ltd.",
+      "country": "US",
+      "discogs_id": 838373,
+      "rating_avg": 3.97,
+      "rating_count": 34,
+      "cover_image": "https://i.discogs.com/e1z4sCSPWw9ylKALtmsNaiNaU8AeecnavDdtNDqZnVo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODM3/My0xNTQyODEyMjI2/LTk3MDcuanBlZw.jpeg"
+    },
+    {
+      "artist": "Jill Sharp",
+      "title": "Take Me Back",
+      "release_title": "Jill Sharp - I'll Be Your Cheatin' Woman",
+      "year": "2010",
+      "label": "Snowbird Recording",
+      "country": "US",
+      "discogs_id": 32904699,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/F6yVQ5pDjHAVIPyanBON6Bwd0vdDYNcvau4O_OLvCWM/rs:fit/g:sm/q:90/h:500/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTA0/Njk5LTE3Mzc0MzM5/NzItMzYzOS5wbmc.jpeg"
+    },
+    {
+      "artist": "Buddy Miles",
+      "title": "We Got To Live Together - Part II",
+      "release_title": "Buddy Miles - We Got To Live Together",
+      "year": "1970",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 1804161,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/ikXzKz2ACfNMJywcGO1g31N9451teocuCkxHu79RWY0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDQx/NjEtMTI4NDUxNzQ1/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Barbara Acklin",
+      "title": "The Old Matchmaker",
+      "release_title": "Barbara Acklin - Love Makes A Woman",
+      "year": "2000",
+      "label": "Brunswick",
+      "country": "US",
+      "discogs_id": 5418452,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/HuCV-Lj7n5BTdgPiZA_ItrOor_MdIXV8O1IRmEvfZs8/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTg0/NTItMTM5MzgwOTU3/Ni0zOTc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Doris Jones",
+      "title": "Possessed",
+      "release_title": "Doris Jones - Possessed",
+      "year": "1979",
+      "label": "AVI Records",
+      "country": "US",
+      "discogs_id": 1961633,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/bZufHyA7jNFdTy6bYoo14UqvokLXfZx-nY6xt9uJg9c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE2/MzMtMTMxODYwNzcx/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Barbara Acklin",
+      "title": "Be By My Side",
+      "release_title": "Barbara Acklin - Love Makes A Woman",
+      "year": "2000",
+      "label": "Brunswick",
+      "country": "US",
+      "discogs_id": 5418452,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/HuCV-Lj7n5BTdgPiZA_ItrOor_MdIXV8O1IRmEvfZs8/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTg0/NTItMTM5MzgwOTU3/Ni0zOTc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hot Chocolate",
+      "title": "Are You Getting Enough Happiness",
+      "release_title": "Hot Chocolate - Are You Getting Enough Happiness / One Night's Not Enough",
+      "year": "1982",
+      "label": "EMI",
+      "country": "US",
+      "discogs_id": 5604129,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/AR9cdxKsxpOK8oNLhm31hXTAx0QBHIgxajfQQuEEw1c/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQx/MjktMTQ0NDY4ODIz/Ny0yNjk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Funkapolitan",
+      "title": "Behold The Super Ace",
+      "release_title": "Funkapolitan - Funkapolitan",
+      "year": "2011",
+      "label": "Essential Media Group",
+      "country": "US",
+      "discogs_id": 7545585,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/GKRTRsALueW38PWJteYGsOxPnqLB_XO6zYYzbT9Q2ys/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDU1/ODUtMTQ0MzcyNzcy/Ny0xNjkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brenda Holloway",
+      "title": "All I Do Is Think About You",
+      "release_title": "Tammi Terrell / Brenda Holloway - All I Do Is Think About You",
+      "year": "2013",
+      "label": "Tamla",
+      "country": "US",
+      "discogs_id": 4408766,
+      "rating_avg": 4.78,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/1eA1vikjWySxWY-q8PszcCCJ4tAYvFJ2_WRsB2T9o7E/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg3/NjYtMTM2NDQ5Mjgy/My03MjA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The O'Jays",
+      "title": "Work On Me",
+      "release_title": "O'Jays* - Work On Me / Let's Spend Some Time Together",
+      "year": "1977",
+      "label": "Philadelphia International Records",
+      "country": "US",
+      "discogs_id": 1295595,
+      "rating_avg": 4.45,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/AT6Hy9Y0eBvQGm77avrEIc7AQR2n4EExXVrkJg6Y5wQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU1/OTUtMTMwMzg5ODUx/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Barons",
+      "title": "I've Got A Feelin'",
+      "release_title": "The Barons - Society Don't Let Us Down",
+      "year": "1996",
+      "label": "Funky Delicacies",
+      "country": "US",
+      "discogs_id": 2133550,
+      "rating_avg": 4.27,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/6VSLHhCMraL8tguzOaRgubFLQ5DeCsxa5Yghi1A-e4M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM1/NTAtMTYxNDUyNDg4/Ny00ODczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "George Duke",
+      "title": "Positive Energy",
+      "release_title": "George Duke - Shine On",
+      "year": "1982",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 2080902,
+      "rating_avg": 4.17,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/rGlVjQxXvMPVsPNpiseCUR8xZkR1S3DdSYlUShCgJ48/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA5/MDItMTI4MTQyNTcw/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Nothing But Heartaches",
+      "release_title": "The Supremes - Nothing But Heartaches / I Hear A Symphony",
+      "year": "1973",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 2947332,
+      "rating_avg": 4.18,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/3Uky75l1cQ26XaICWKTYb7g3upkTGnuti8yyPo2zfYI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDcz/MzItMTMzODc3NDI1/My05NTg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Barons",
+      "title": "Love Power",
+      "release_title": "The Barons - Society Don't Let Us Down",
+      "year": "1996",
+      "label": "Funky Delicacies",
+      "country": "US",
+      "discogs_id": 2133550,
+      "rating_avg": 4.27,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/6VSLHhCMraL8tguzOaRgubFLQ5DeCsxa5Yghi1A-e4M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM1/NTAtMTYxNDUyNDg4/Ny00ODczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tammi Terrell",
+      "title": "All I Do Is Think About You",
+      "release_title": "Tammi Terrell / Brenda Holloway - All I Do Is Think About You",
+      "year": "2013",
+      "label": "Tamla",
+      "country": "US",
+      "discogs_id": 4408766,
+      "rating_avg": 4.78,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/1eA1vikjWySxWY-q8PszcCCJ4tAYvFJ2_WRsB2T9o7E/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg3/NjYtMTM2NDQ5Mjgy/My03MjA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hamilton Bohannon",
+      "title": "Thoughts And Wishes",
+      "release_title": "Bohannon* - Bohannon Fever",
+      "year": "1982",
+      "label": "Phase II Records Ltd.",
+      "country": "US",
+      "discogs_id": 838373,
+      "rating_avg": 3.97,
+      "rating_count": 34,
+      "cover_image": "https://i.discogs.com/e1z4sCSPWw9ylKALtmsNaiNaU8AeecnavDdtNDqZnVo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODM3/My0xNTQyODEyMjI2/LTk3MDcuanBlZw.jpeg"
+    },
+    {
+      "artist": "Funkapolitan",
+      "title": "In The Crime Of Life",
+      "release_title": "Funkapolitan - Funkapolitan",
+      "year": "2011",
+      "label": "Essential Media Group",
+      "country": "US",
+      "discogs_id": 7545585,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/GKRTRsALueW38PWJteYGsOxPnqLB_XO6zYYzbT9Q2ys/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDU1/ODUtMTQ0MzcyNzcy/Ny0xNjkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kids At Work",
+      "title": "Singing Hey Yea",
+      "release_title": "Kids At Work - Singing Hey Yea",
+      "year": "1984",
+      "label": "CBS Associated Records",
+      "country": "US",
+      "discogs_id": 2149783,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/gu_KY-8MRETGmWVg5hKVcoHDVSDupSwkqE6k1vLvl00/rs:fit/g:sm/q:90/h:585/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk3/ODMtMTI2NzMxMzgy/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Buddy Miles",
+      "title": "We Got To Live Together - Part I",
+      "release_title": "Buddy Miles - We Got To Live Together",
+      "year": "1970",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 1804161,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/ikXzKz2ACfNMJywcGO1g31N9451teocuCkxHu79RWY0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDQx/NjEtMTI4NDUxNzQ1/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hamilton Bohannon",
+      "title": "I've Got The Dance Fever",
+      "release_title": "Bohannon* - Bohannon Fever",
+      "year": "1982",
+      "label": "Phase II Records Ltd.",
+      "country": "US",
+      "discogs_id": 838373,
+      "rating_avg": 3.97,
+      "rating_count": 34,
+      "cover_image": "https://i.discogs.com/e1z4sCSPWw9ylKALtmsNaiNaU8AeecnavDdtNDqZnVo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODM3/My0xNTQyODEyMjI2/LTk3MDcuanBlZw.jpeg"
+    },
+    {
+      "artist": "Funkapolitan",
+      "title": "Illusion",
+      "release_title": "Funkapolitan - Funkapolitan",
+      "year": "2011",
+      "label": "Essential Media Group",
+      "country": "US",
+      "discogs_id": 7545585,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/GKRTRsALueW38PWJteYGsOxPnqLB_XO6zYYzbT9Q2ys/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDU1/ODUtMTQ0MzcyNzcy/Ny0xNjkyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Barons",
+      "title": "Society Don't Let Us Down",
+      "release_title": "The Barons - Society Don't Let Us Down",
+      "year": "1996",
+      "label": "Funky Delicacies",
+      "country": "US",
+      "discogs_id": 2133550,
+      "rating_avg": 4.27,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/6VSLHhCMraL8tguzOaRgubFLQ5DeCsxa5Yghi1A-e4M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM1/NTAtMTYxNDUyNDg4/Ny00ODczLmpwZWc.jpeg"
+    }
+  ]
+}
