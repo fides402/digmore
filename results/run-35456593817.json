@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1962,
+    "year_to": 2014,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 37,
+      "fresh_lookups": 3,
+      "styles_considered": 100
+    }
+  },
+  "results": [
+    {
+      "artist": "Michael Tinholme",
+      "title": "Make Someone Happy",
+      "release_title": "Michael Tinholme - A Nightingale Sang In Berkeley Square",
+      "year": "2008",
+      "label": "Blue Planet Records",
+      "country": "US",
+      "discogs_id": 11301513,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/WY3lrW9JrG5QzsFS0IidPEYu3WhozF0uQs-Ve25fOZA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAx/NTEzLTE1MTM3NTkw/NTgtNjUxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lynda Lybeck",
+      "title": "Morning Smile",
+      "release_title": "Lynda Lybeck - Behind The Mask",
+      "year": "1995",
+      "label": "L & L Music",
+      "country": "US",
+      "discogs_id": 8591248,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EIteCe01_3zEJIvybMAjgT2Wz6Ww_bgJi-LeAGITiW8/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTEy/NDgtMTQ2NDY2NDU3/OS04MDQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes & Gene Ammons",
+      "title": "Groovin' With Jug",
+      "release_title": "Richard Holmes* & Gene Ammons - Groovin' With Jug",
+      "year": "1989",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 1639799,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/kHwoqJSRV7hJHuu7Lypac8iraQp5xmktwW20UN-ZkpY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzk3/OTktMTY2MzkxNzkx/OS05MjU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Al Jarreau",
+      "title": "Alonzo",
+      "release_title": "Al Jarreau - We're In This Love Together",
+      "year": "1981",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 13568809,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/sdj8UU1CTeYULUl75B-C6DZavjl3_QwzJqLFkzxFm5U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY4/ODA5LTE1NTY2ODQ0/OTAtMzY0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "Florzinha \"Petite Fleur\"",
+      "release_title": "Tania Maria - Viva Brazil",
+      "year": "2000",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 10860066,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/aU_Hisdr8CryRe8_56zNPptHrgKxtanEV8Btd2naqNY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODYw/MDY2LTE2NTYxNzIz/NzAtNzE1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Lovely Is Today",
+      "release_title": "Eddie Harris - Plug Me In",
+      "year": "1968",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 36244600,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XAkJTWEV3Uk5sJ7IdLESPy2hxLACJFk6qD61Xg7G_fY/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ0/NjAwLTE3Njg3MTEy/OTgtMzU4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hank Crawford",
+      "title": "In The Wee Small Hours Of The Morning",
+      "release_title": "Hank Crawford - Brian's Song / In The Wee Small Hours Of The Morning",
+      "year": "1972",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 2998354,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/To0Ak_2jcj2wjyIswDONyy4Q91KjMRtGaBBnY9afXho/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTgz/NTQtMTMxMTAzNTc0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard \"Groove\" Holmes & Gene Ammons",
+      "title": "Hittin' The Jug",
+      "release_title": "Richard Holmes* & Gene Ammons - Groovin' With Jug",
+      "year": "1989",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 1639799,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/kHwoqJSRV7hJHuu7Lypac8iraQp5xmktwW20UN-ZkpY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzk3/OTktMTY2MzkxNzkx/OS05MjU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Sanborn",
+      "title": "Creeper",
+      "release_title": "David Sanborn - Hideaway",
+      "year": "1980",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 14418972,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rIy7W3tFMApCdq-xHn7eyAdqkuBg1o-QWgQ9eVBuYQA/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE4/OTcyLTE1NzQxMzg4/MDUtNjg4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Winter Meeting",
+      "release_title": "Eddie Harris - Plug Me In",
+      "year": "1968",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 36244600,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XAkJTWEV3Uk5sJ7IdLESPy2hxLACJFk6qD61Xg7G_fY/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ0/NjAwLTE3Njg3MTEy/OTgtMzU4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "Vem Pr'a Roda",
+      "release_title": "Tania Maria - Viva Brazil",
+      "year": "2000",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 10860066,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/aU_Hisdr8CryRe8_56zNPptHrgKxtanEV8Btd2naqNY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODYw/MDY2LTE2NTYxNzIz/NzAtNzE1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marc Macisso",
+      "title": "Let It Snow",
+      "release_title": "Marc Macisso - Seasons Of Love",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 6572961,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IuwKWwOMl2cCzU1K-gESOw3INRyDTesAHF2gmJCZAMs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzI5/NjEtMTQyMjI4MTQ0/Ni05OTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richie Gajate-Garcia",
+      "title": "Tu Luz En Mi",
+      "release_title": "Richie Gajate-Garcia - Entre Amigos",
+      "year": "2002",
+      "label": "Pulpo Records",
+      "country": "US",
+      "discogs_id": 30423803,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/RgcUz9YeyWFeX95aXRb8ih9Mvc9y7RVqzFaCgXVAPlo/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/ODAzLTE3MTMzNjM0/OTQtODU3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lou Donaldson",
+      "title": "The Masquerade Is Over",
+      "release_title": "Lou Donaldson - Play The Right Thing",
+      "year": "1991",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 8624704,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rlDaf0RUxlm2m7ACCjFr3tEcs_d5ESMt6JlKGfgGYA0/rs:fit/g:sm/q:90/h:348/w:346/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjQ3/MDQtMTQ2NTM4OTMw/Ny02NTA1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tania Maria",
+      "title": "Sangria",
+      "release_title": "Tania Maria - Viva Brazil",
+      "year": "2000",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 10860066,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/aU_Hisdr8CryRe8_56zNPptHrgKxtanEV8Btd2naqNY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODYw/MDY2LTE2NTYxNzIz/NzAtNzE1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lynda Lybeck",
+      "title": "Old Friends",
+      "release_title": "Lynda Lybeck - Behind The Mask",
+      "year": "1995",
+      "label": "L & L Music",
+      "country": "US",
+      "discogs_id": 8591248,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EIteCe01_3zEJIvybMAjgT2Wz6Ww_bgJi-LeAGITiW8/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTEy/NDgtMTQ2NDY2NDU3/OS04MDQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lou Donaldson",
+      "title": "Foot Pattin' Time",
+      "release_title": "Lou Donaldson - Play The Right Thing",
+      "year": "1991",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 8624704,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rlDaf0RUxlm2m7ACCjFr3tEcs_d5ESMt6JlKGfgGYA0/rs:fit/g:sm/q:90/h:348/w:346/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjQ3/MDQtMTQ2NTM4OTMw/Ny02NTA1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Jefferson",
+      "title": "It's Only A Paper Moon",
+      "release_title": "Eddie Jefferson - The Jazz Singer - Vocal Improvisations On Famous Jazz Solos ",
+      "year": "1976",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 6885005,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/7bx6H-ht_AB4J4MJjBGbYZ0XymUovewXEdgw7y9MYTg/rs:fit/g:sm/q:90/h:595/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODUw/MDUtMTQyODc0ODY4/MS0zMzk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lynda Lybeck",
+      "title": "Cartwheel",
+      "release_title": "Lynda Lybeck - Behind The Mask",
+      "year": "1995",
+      "label": "L & L Music",
+      "country": "US",
+      "discogs_id": 8591248,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EIteCe01_3zEJIvybMAjgT2Wz6Ww_bgJi-LeAGITiW8/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTEy/NDgtMTQ2NDY2NDU3/OS04MDQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Sanborn",
+      "title": "If You Would Be Mine",
+      "release_title": "David Sanborn - Hideaway",
+      "year": "1980",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 14418972,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rIy7W3tFMApCdq-xHn7eyAdqkuBg1o-QWgQ9eVBuYQA/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE4/OTcyLTE1NzQxMzg4/MDUtNjg4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Ballad (For My Love)",
+      "release_title": "Eddie Harris - Plug Me In",
+      "year": "1968",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 36244600,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XAkJTWEV3Uk5sJ7IdLESPy2hxLACJFk6qD61Xg7G_fY/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ0/NjAwLTE3Njg3MTEy/OTgtMzU4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Jefferson",
+      "title": "Moody's Mood For Love",
+      "release_title": "Eddie Jefferson - The Jazz Singer - Vocal Improvisations On Famous Jazz Solos ",
+      "year": "1976",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 6885005,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/7bx6H-ht_AB4J4MJjBGbYZ0XymUovewXEdgw7y9MYTg/rs:fit/g:sm/q:90/h:595/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODUw/MDUtMTQyODc0ODY4/MS0zMzk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Conosur & Hernan Romero & Tony Viscardo",
+      "title": "La Añera",
+      "release_title": "Conosur Featuring Hernán Romero* & Tony Viscardo - Zonda",
+      "year": "1999",
+      "label": "Palmetto Records",
+      "country": "US",
+      "discogs_id": 8695909,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gkV3hwIj_-FsoN7CY4y8GqvkDTPGEkPMi2GyzfcYVlg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTU5/MDktMTQ2Njc5NDUy/NS02MTU2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hank Crawford",
+      "title": "Brian's Song",
+      "release_title": "Hank Crawford - Brian's Song / In The Wee Small Hours Of The Morning",
+      "year": "1972",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 2998354,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/To0Ak_2jcj2wjyIswDONyy4Q91KjMRtGaBBnY9afXho/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTgz/NTQtMTMxMTAzNTc0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richie Gajate-Garcia",
+      "title": "Conga y Bongo",
+      "release_title": "Richie Gajate-Garcia - Entre Amigos",
+      "year": "2002",
+      "label": "Pulpo Records",
+      "country": "US",
+      "discogs_id": 30423803,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/RgcUz9YeyWFeX95aXRb8ih9Mvc9y7RVqzFaCgXVAPlo/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDIz/ODAzLTE3MTMzNjM0/OTQtODU3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marc Macisso",
+      "title": "I Heard The Bells On Christmas Day",
+      "release_title": "Marc Macisso - Seasons Of Love",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 6572961,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IuwKWwOMl2cCzU1K-gESOw3INRyDTesAHF2gmJCZAMs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzI5/NjEtMTQyMjI4MTQ0/Ni05OTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Poncho Sanchez & Tito Puente",
+      "title": "Quieto",
+      "release_title": "Poncho Sanchez With Special Guest Tito Puente - Chile Con Soul",
+      "year": "1990",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 8326421,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SwpbKRejNDm5EfmhSwXZgngBJe1aIee3utkvHrKCoRc/rs:fit/g:sm/q:90/h:600/w:393/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjY0/MjEtMTY3NTMwMDA2/OS01NDYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Marc Antoine",
+      "title": "New Boundaries",
+      "release_title": "Marc Antoine - Classical Soul",
+      "year": "1994",
+      "label": "NYC Records",
+      "country": "US",
+      "discogs_id": 18548149,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/fDEtkzvZLO63kx5DdY31Q5cEVamBbQHfNw5lDVORXDY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ4/MTQ5LTE2MTk4OTUw/MjgtMTE2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marc Macisso",
+      "title": "Seasons Of Love",
+      "release_title": "Marc Macisso - Seasons Of Love",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 6572961,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IuwKWwOMl2cCzU1K-gESOw3INRyDTesAHF2gmJCZAMs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzI5/NjEtMTQyMjI4MTQ0/Ni05OTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Marc Antoine",
+      "title": "Smart But Casual",
+      "release_title": "Marc Antoine - Classical Soul",
+      "year": "1994",
+      "label": "NYC Records",
+      "country": "US",
+      "discogs_id": 18548149,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/fDEtkzvZLO63kx5DdY31Q5cEVamBbQHfNw5lDVORXDY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ4/MTQ5LTE2MTk4OTUw/MjgtMTE2OC5qcGVn.jpeg"
+    }
+  ]
+}

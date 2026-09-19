@@ -29394,6 +29394,324 @@
    1966
   ]
  },
+ "charles gerhardt": {
+  "countries": [
+   "UK",
+   "US",
+   "UK",
+   "UK",
+   "Europe",
+   "US",
+   "Australia",
+   "Australia",
+   "Japan",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Italy",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Classical",
+   "Stage & Screen",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Romantic",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Neo-Romantic",
+    "Classical"
+   ],
+   [
+    "Neo-Romantic",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Neo-Romantic",
+    "Classical"
+   ],
+   [
+    "Neo-Romantic",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Romantic",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Classical"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Romantic",
+   "Modern",
+   "Soundtrack",
+   "Score",
+   "Theme",
+   "Score",
+   "Soundtrack",
+   "Theme",
+   "Score",
+   "Soundtrack",
+   "Theme",
+   "Score",
+   "Soundtrack",
+   "Score",
+   "Soundtrack",
+   "Soundtrack",
+   "Score",
+   "Score",
+   "Contemporary",
+   "Score",
+   "Neo-Romantic",
+   "Score",
+   "Soundtrack",
+   "Neo-Romantic",
+   "Score",
+   "Score",
+   "Soundtrack",
+   "Score",
+   "Theme",
+   "Soundtrack",
+   "Romantic",
+   "Score",
+   "Score",
+   "Soundtrack",
+   "Score",
+   "Modern",
+   "Theme"
+  ],
+  "years": [
+   2000,
+   1994,
+   1978,
+   1978,
+   2020,
+   1978,
+   1978,
+   1980,
+   1992,
+   1998,
+   2025,
+   1994,
+   1990,
+   1975,
+   1991,
+   1975,
+   1979,
+   1992,
+   1978,
+   2010
+  ]
+ },
  "charles mingus": {
   "countries": [
    "Japan",
@@ -39291,6 +39609,230 @@
    1993,
    2012,
    2001
+  ]
+ },
+ "die 12 cellisten der berliner philharmoniker": {
+  "countries": [
+   "New Zealand",
+   "Europe",
+   "Japan",
+   "Spain",
+   "Germany",
+   "Taiwan",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Japan",
+   "South Korea",
+   "Spain",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Spain",
+   "Germany",
+   "US",
+   "Germany",
+   "Germany"
+  ],
+  "genres": [
+   "Pop",
+   "Classical",
+   "Latin",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Blues",
+   "Pop",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Classical",
+   "Pop",
+   "Classical"
+  ],
+  "pairs": [
+   [
+    "Modern",
+    "Blues"
+   ],
+   [
+    "Modern",
+    "Pop"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Blues"
+   ],
+   [
+    "Contemporary",
+    "Pop"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Pop"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Pop"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Pop"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Pop"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Pop"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Pop"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Promotional",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Pop"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Modern",
+   "Contemporary",
+   "Modern",
+   "Contemporary",
+   "Contemporary",
+   "Classical",
+   "Modern",
+   "Contemporary",
+   "Contemporary",
+   "Contemporary",
+   "Classical",
+   "Modern",
+   "Modern",
+   "Contemporary",
+   "Promotional",
+   "Contemporary"
+  ],
+  "years": [
+   1983,
+   2016,
+   1986,
+   1978,
+   1995,
+   1983,
+   1985,
+   1985,
+   1983,
+   1986,
+   1988,
+   1983,
+   1983,
+   1995,
+   1995,
+   1983,
+   1986,
+   1986,
+   1995,
+   1981
   ]
  },
  "don byas": {
@@ -60741,6 +61283,284 @@
    1974,
    2020,
    1966
+  ]
+ },
+ "hank crawford": {
+  "countries": [
+   "USA & Europe",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "UK",
+   "US",
+   "Italy",
+   "Japan",
+   "US",
+   "US",
+   "Canada",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "UK",
+   "UK",
+   "Canada",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "Argentina",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Blues",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Jazz"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Blues"
+   ],
+   [
+    "Rhythm & Blues",
+    "Jazz"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Soul-Jazz",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Swing",
+   "Soul-Jazz",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Contemporary R&B",
+   "Rhythm & Blues",
+   "Soul",
+   "Jazz-Funk",
+   "Fusion",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Jazz-Funk",
+   "Fusion",
+   "Jazz-Funk",
+   "Funk",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Jazz-Funk",
+   "Soul-Jazz"
+  ],
+  "years": [
+   1998,
+   1972,
+   1961,
+   1985,
+   2007,
+   1964,
+   2000,
+   1968,
+   1975,
+   1975,
+   1966,
+   1979,
+   2012,
+   1983,
+   1961,
+   1974,
+   1976,
+   1972,
+   1983,
+   1974,
+   1969,
+   1972,
+   1974,
+   1987
   ]
  },
  "hareton salvanini": {
