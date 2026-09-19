@@ -1,0 +1,22 @@
+{
+  "status": "empty",
+  "spec_used": {
+    "id": "imagine-0",
+    "searches": [
+      {
+        "genre": "Stage & Screen",
+        "style": "Library Music"
+      }
+    ],
+    "countries": [],
+    "year_from": 1964,
+    "year_to": 1985,
+    "target": 10,
+    "derived": false,
+    "widened": true,
+    "rounds": 4,
+    "obscure": true,
+    "coverage": {}
+  },
+  "results": []
+}
