@@ -26692,6 +26692,51 @@
    1961
   ]
  },
+ "brussels art quintet": {
+  "countries": [
+   "UK",
+   "UK",
+   "UK",
+   "Belgium"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ]
+  ],
+  "releases": 4,
+  "styles": [
+   "Modal",
+   "Modal",
+   "Modal",
+   "Modal"
+  ],
+  "years": [
+   2019,
+   2019,
+   2019,
+   1969
+  ]
+ },
  "bud shank quartet": {
   "countries": [
    "Japan",
@@ -33876,6 +33921,166 @@
    1969,
    2015,
    1969
+  ]
+ },
+ "coleman hawkins quartet": {
+  "countries": [
+   "US",
+   "Spain",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "UK",
+   "Brazil",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "Europe",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "UK",
+   "Japan",
+   "Europe",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Bop",
+   "Swing",
+   "Bop",
+   "Bop",
+   "Swing",
+   "Bop",
+   "Free Jazz",
+   "Bop",
+   "Swing",
+   "Bop",
+   "Bop",
+   "Swing",
+   "Swing",
+   "Bop",
+   "Bop",
+   "Swing"
+  ],
+  "years": [
+   1982,
+   1965,
+   1945,
+   1963,
+   1965,
+   2024,
+   1993,
+   1989,
+   2010,
+   1956,
+   1976,
+   2013,
+   1998,
+   1979,
+   1945,
+   1977,
+   1963
   ]
  },
  "common": {
