@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1973,
+    "year_to": 2015,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 26,
+      "artists_found": 26,
+      "fresh_lookups": 1,
+      "styles_considered": 85
+    }
+  },
+  "results": [
+    {
+      "artist": "Larry Carlton",
+      "title": "Perfect Peace",
+      "release_title": "Larry Carlton - Alone/But Never Alone",
+      "year": "1986",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 29962327,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Y6l4LzbrOXlH_1CtkTL3r_ev3tTmBl5mlUEPeYeHpQA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTYy/MzI3LTE3MDkyNDMx/ODgtODM2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Three Sounds",
+      "title": "Popsicle Pimp",
+      "release_title": "The Three Sounds - Soul Symphony",
+      "year": "2008",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 1564227,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/0UFNFGih1SsfFZkkRW8ZNbUngGorPXjME5Lmz-LYMFo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQy/MjctMTc2OTU0OTIy/OS02NTc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Noel Pointer",
+      "title": "Living For The City",
+      "release_title": "Noel Pointer - Phantazia",
+      "year": "1977",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 1574387,
+      "rating_avg": 4.19,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/KrCcXJKNq8hJwB1ZkXyOfo85wMuXuEFlc6LI7wt5kU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQz/ODctMTc0MTYzMTA4/My0xODU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Three Sounds",
+      "title": "Black Sugar",
+      "release_title": "The Three Sounds - Soul Symphony",
+      "year": "2008",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 1564227,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/0UFNFGih1SsfFZkkRW8ZNbUngGorPXjME5Lmz-LYMFo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQy/MjctMTc2OTU0OTIy/OS02NTc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Noel Pointer",
+      "title": "Night Song",
+      "release_title": "Noel Pointer - Phantazia",
+      "year": "1977",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 1574387,
+      "rating_avg": 4.19,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/KrCcXJKNq8hJwB1ZkXyOfo85wMuXuEFlc6LI7wt5kU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQz/ODctMTc0MTYzMTA4/My0xODU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Don Diego",
+      "title": "Don's Groove",
+      "release_title": "Don Diego (2) - Bridging Generations",
+      "year": "1995",
+      "label": "Rhythm Of Atlanta Records",
+      "country": "US",
+      "discogs_id": 29415475,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VD2M69JYJJ_mhcZNUZPutdugOSjfc4NCVKzh5BEw9AY/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDE1/NDc1LTE3MDQ1OTgw/OTYtMTAzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Altamira",
+      "title": "Altamira",
+      "release_title": "Altamira (5) - Altamira",
+      "year": "1993",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 11492175,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/o_SVyhI2rlLBijMKGH32iexCvNYwE-apGIpw4KPFLU4/rs:fit/g:sm/q:90/h:600/w:366/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDky/MTc1LTE1MTcyODEw/NDYtMTU5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Bellar & The As-Is Ensemble",
+      "title": "All Things Rabbit",
+      "release_title": "Michael Bellar & The As-Is Ensemble - Turned On Turned Up",
+      "year": "2009",
+      "label": "Left Three Lanes Music",
+      "country": "US",
+      "discogs_id": 3105303,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/KS_kgeGYlSAJ0hAEwO0O7ISqeN_8o6LItqzHCzCkOtU/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDUz/MDMtMTMxNjAwNzI0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Passport",
+      "title": "Jadoo",
+      "release_title": "Passport (2) - Jadoo / Cross-Collateral",
+      "year": "1975",
+      "label": "ATCO Records",
+      "country": "US",
+      "discogs_id": 5938621,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/NVFlaCiORIO30AdcX_JhLd2bPYgahCxngZnCqvDQUX0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzg2/MjEtMTQwNjgzODc4/NC00NDg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jeff Kashiwa",
+      "title": "Remember Catalina",
+      "release_title": "Jeff Kashiwa - Remember Catalina",
+      "year": "1995",
+      "label": "Fahrenheit Records",
+      "country": "US",
+      "discogs_id": 9035319,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/KkXPpEyBKkFJ6ri3kdwLKC5HZwKSkKxPnkHwrb4kzrg/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzUz/MTktMTQ3MzY0MTEy/Mi00NjYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Blackbyrds",
+      "title": "Flying High",
+      "release_title": "The Blackbyrds - City Life",
+      "year": "1975",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 4408125,
+      "rating_avg": 4.32,
+      "rating_count": 57,
+      "cover_image": "https://i.discogs.com/nH8JFgxF4M5K3mxPeZuVD92fAWkX4HXPiIqmlW_lJlI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDgx/MjUtMTM4MDc3NDQx/Ny0xODc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Don Diego",
+      "title": "I Will Be There - Remix",
+      "release_title": "Don Diego (2) - Bridging Generations",
+      "year": "1995",
+      "label": "Rhythm Of Atlanta Records",
+      "country": "US",
+      "discogs_id": 29415475,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VD2M69JYJJ_mhcZNUZPutdugOSjfc4NCVKzh5BEw9AY/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDE1/NDc1LTE3MDQ1OTgw/OTYtMTAzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jeff Kashiwa",
+      "title": "Could It Be I'm Falling In Love?",
+      "release_title": "Jeff Kashiwa - Remember Catalina",
+      "year": "1995",
+      "label": "Fahrenheit Records",
+      "country": "US",
+      "discogs_id": 9035319,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/KkXPpEyBKkFJ6ri3kdwLKC5HZwKSkKxPnkHwrb4kzrg/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzUz/MTktMTQ3MzY0MTEy/Mi00NjYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Bellar & The As-Is Ensemble",
+      "title": "Misty Mountain Hop",
+      "release_title": "Michael Bellar & The As-Is Ensemble - Turned On Turned Up",
+      "year": "2009",
+      "label": "Left Three Lanes Music",
+      "country": "US",
+      "discogs_id": 3105303,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/KS_kgeGYlSAJ0hAEwO0O7ISqeN_8o6LItqzHCzCkOtU/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDUz/MDMtMTMxNjAwNzI0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Azymuth",
+      "title": "The House I Lived In = A Casa Em Que Vivi",
+      "release_title": "Azymuth - Telecommunication",
+      "year": "1982",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 260446,
+      "rating_avg": 4.37,
+      "rating_count": 187,
+      "cover_image": "https://i.discogs.com/w5m1374MAQtFh3KQWNSVoKKXbdpe2Ti5xOiyBwxHwO0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQ0/Ni0xMjU2NTYzNjUy/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paul Gonsalves & Willie Cook & Enrique Villegas",
+      "title": "Recorro Los Muelles (\"I Cover The Waterfront\")",
+      "release_title": "Paul Gonsalves With Willie Cook & Enrique Villegas - The Buenos Aires Session",
+      "year": "1977",
+      "label": "Catalyst Records",
+      "country": "US",
+      "discogs_id": 1992972,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/s0v6T0XEAQb4WBTN3W-63QfQwIsS9wmzC1Qpj8zz1dM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI5/NzItMTY3ODc1MjY1/OC02MTYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Speed Of Sound",
+      "title": "Fun And Games",
+      "release_title": "Speed Of Sound (8) - Make No Mistake",
+      "year": "1991",
+      "label": "Tundra Records",
+      "country": "US",
+      "discogs_id": 25878169,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xIxTgfVF2rFzQRjumFv2vYzPzNz1AEN5KjJAiy7a2NY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc4/MTY5LTE2NzQ2NTgz/MDItMTYwNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobbi Humphrey",
+      "title": "Harlem River Drive",
+      "release_title": "Bobbi Humphrey - Blacks And Blues",
+      "year": "1975",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 36596989,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/RXVUjbY7-dsczz67zimII-ndvY6opOd7pfxSScVN1Yk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTk2/OTg5LTE3NzE5MTg3/ODItNzI3Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Alma Adentro",
+      "release_title": "Various - Trompeta Tropical - La Trompeta de Puerto Rico",
+      "year": "2008",
+      "label": "Nilpo Music",
+      "country": "US",
+      "discogs_id": 30424604,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Wre1SAAr4yA_fSB8aAlFS4Vp-kDN6hvj4yYLf9n28ro/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDI0/NjA0LTE3MTMzNjg1/NjEtNTYzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Speed Of Sound",
+      "title": "Prelude/Wishful Thinking",
+      "release_title": "Speed Of Sound (8) - Make No Mistake",
+      "year": "1991",
+      "label": "Tundra Records",
+      "country": "US",
+      "discogs_id": 25878169,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xIxTgfVF2rFzQRjumFv2vYzPzNz1AEN5KjJAiy7a2NY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc4/MTY5LTE2NzQ2NTgz/MDItMTYwNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Altamira",
+      "title": "Dansa Dos Voces",
+      "release_title": "Altamira (5) - Altamira",
+      "year": "1993",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 11492175,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/o_SVyhI2rlLBijMKGH32iexCvNYwE-apGIpw4KPFLU4/rs:fit/g:sm/q:90/h:600/w:366/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDky/MTc1LTE1MTcyODEw/NDYtMTU5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Gonsalves & Willie Cook & Enrique Villegas",
+      "title": "Perdido",
+      "release_title": "Paul Gonsalves With Willie Cook & Enrique Villegas - The Buenos Aires Session",
+      "year": "1977",
+      "label": "Catalyst Records",
+      "country": "US",
+      "discogs_id": 1992972,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/s0v6T0XEAQb4WBTN3W-63QfQwIsS9wmzC1Qpj8zz1dM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI5/NzItMTY3ODc1MjY1/OC02MTYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paul Gonsalves & Willie Cook & Enrique Villegas",
+      "title": "St. Louis Blues",
+      "release_title": "Paul Gonsalves With Willie Cook & Enrique Villegas - The Buenos Aires Session",
+      "year": "1977",
+      "label": "Catalyst Records",
+      "country": "US",
+      "discogs_id": 1992972,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/s0v6T0XEAQb4WBTN3W-63QfQwIsS9wmzC1Qpj8zz1dM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI5/NzItMTY3ODc1MjY1/OC02MTYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Mister Magic",
+      "release_title": "Grover Washington, Jr. - Mister Magic",
+      "year": "1995",
+      "label": "MoJazz",
+      "country": "US",
+      "discogs_id": 7176744,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/9WpiGUOIoAYRWcuiz95OW-hLpOPNDTsKpjpzwfXV7wI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzY3/NDQtMTUyODk5OTI5/OS0zNTc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Blackbyrds",
+      "title": "All I Ask",
+      "release_title": "The Blackbyrds - City Life",
+      "year": "1975",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 4408125,
+      "rating_avg": 4.32,
+      "rating_count": 57,
+      "cover_image": "https://i.discogs.com/nH8JFgxF4M5K3mxPeZuVD92fAWkX4HXPiIqmlW_lJlI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDgx/MjUtMTM4MDc3NDQx/Ny0xODc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Luis Muñoz",
+      "title": "La Semilla",
+      "release_title": "Luis Muñoz (5) - Of Soul And Shadow",
+      "year": "2007",
+      "label": "Pelin Music",
+      "country": "US",
+      "discogs_id": 12608994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/dHOJG9Y1v2gymyr3Vm7GZdjilB2vH6pTjDiyw_aVU0U/rs:fit/g:sm/q:90/h:500/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA4/OTk0LTE1Mzg1MTcx/MjItOTc5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Speed Of Sound",
+      "title": "Seeing Stars",
+      "release_title": "Speed Of Sound (8) - Make No Mistake",
+      "year": "1991",
+      "label": "Tundra Records",
+      "country": "US",
+      "discogs_id": 25878169,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xIxTgfVF2rFzQRjumFv2vYzPzNz1AEN5KjJAiy7a2NY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc4/MTY5LTE2NzQ2NTgz/MDItMTYwNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Bellar & The As-Is Ensemble",
+      "title": "Three Legged Dog",
+      "release_title": "Michael Bellar & The As-Is Ensemble - Turned On Turned Up",
+      "year": "2009",
+      "label": "Left Three Lanes Music",
+      "country": "US",
+      "discogs_id": 3105303,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/KS_kgeGYlSAJ0hAEwO0O7ISqeN_8o6LItqzHCzCkOtU/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDUz/MDMtMTMxNjAwNzI0/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Luis Muñoz",
+      "title": "El Vedado",
+      "release_title": "Luis Muñoz (5) - Of Soul And Shadow",
+      "year": "2007",
+      "label": "Pelin Music",
+      "country": "US",
+      "discogs_id": 12608994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/dHOJG9Y1v2gymyr3Vm7GZdjilB2vH6pTjDiyw_aVU0U/rs:fit/g:sm/q:90/h:500/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA4/OTk0LTE1Mzg1MTcx/MjItOTc5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Noel Pointer",
+      "title": "Rainstorm",
+      "release_title": "Noel Pointer - Phantazia",
+      "year": "1977",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 1574387,
+      "rating_avg": 4.19,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/KrCcXJKNq8hJwB1ZkXyOfo85wMuXuEFlc6LI7wt5kU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQz/ODctMTc0MTYzMTA4/My0xODU0LmpwZWc.jpeg"
+    }
+  ]
+}
