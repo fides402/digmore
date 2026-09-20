@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1966,
+    "year_to": 2013,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 39,
+      "fresh_lookups": 10,
+      "styles_considered": 110
+    }
+  },
+  "results": [
+    {
+      "artist": "Buddy Miles",
+      "title": "The Way I Feel Tonight",
+      "release_title": "Buddy Miles - Them Changes / The Way I Feel Tonight",
+      "year": "1971",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 3542111,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ZWfopZuyIZ4zO085fzYBtaMyGr_mhAMeXLpGHvOgrKA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDIx/MTEtMTM3ODI1NjYw/OC05MTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lou Donaldson",
+      "title": "Alligator Bogaloo",
+      "release_title": "Lou Donaldson - Alligator Bogaloo",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 18939901,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/DErEbQqubud6-EmdMEXmP8kPM91Zqhw3rOgTipzkDiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM5/OTAxLTE2MjIzMzcx/ODEtMTU0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herbie Mann",
+      "title": "Theme From \"This Is My Beloved\"",
+      "release_title": "Herbie Mann - Scratch / Theme From \"This Is My Beloved\"",
+      "year": "1966",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 7457311,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SC8O_9eUI2TNC_uVvSozTQVjlrzawkyYc7yuZbYMy9A/rs:fit/g:sm/q:90/h:546/w:544/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTcz/MTEtMTQ0MTg3NDYx/MC0zMDY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "Quiet Afternoon",
+      "release_title": "Stanley Clarke - School Days",
+      "year": "1981",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 34292680,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dYBXnY7trHHMMPfmNkeKawweSCNyk3RJdpqQrN-MjCg/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjky/NjgwLTE3NTAxNTky/MDMtNjE3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "J.J. Johnson & Kai Winding",
+      "title": "Bach Invention #1",
+      "release_title": "J* & K* - Betwixt & Between",
+      "year": "1969",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 11304530,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5iTEf3tzk154VpRCQsBuFjuBR2kLunrNEsTB4PZGZSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA0/NTMwLTE1MTM4MTE4/NDEtODU3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Funn",
+      "title": "School Daze",
+      "release_title": "Funn - School Daze",
+      "year": "1981",
+      "label": "Magic Records",
+      "country": "US",
+      "discogs_id": 13997022,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7VZKYCs0RswpLjs26OcU5hEUkYHes1QYSyivdHEIRCM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk3/MDIyLTE1NjU3MzIy/MzgtMjA2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Black Rain",
+      "title": "Sparkplugs",
+      "release_title": "Black Rain (18) - Sparkplugs / Houston Is A Grand Old Town",
+      "year": "1976",
+      "label": "Tap Records",
+      "country": "US",
+      "discogs_id": 6677231,
+      "rating_avg": 4.0,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/0CMFbVwMpcYxBZXS0eaSnVZ2vKM-qvCDZc8AGukLzmY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzcy/MzEtMTQ0MjA5MTEy/OC04Mzg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Try A Little Harder",
+      "release_title": "The Crusaders - Hollywood",
+      "year": "1972",
+      "label": "MoWest",
+      "country": "US",
+      "discogs_id": 1800286,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wblT1rGP9yPcOfl1OcPU87CA0KGER1AUCYDASGZsYl4/rs:fit/g:sm/q:90/h:425/w:282/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDAy/ODYtMTI0NDE2NDE5/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Bryant",
+      "title": "Amen",
+      "release_title": "Ray Bryant - Slow Freight",
+      "year": "1967",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 14848197,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/-JnHZayMQccH9px3_U6fK7TyEBsTwb2A9W9SnsTlyZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ4/MTk3LTE1ODI4NDk4/MjctNDczNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brother Jack McDuff",
+      "title": "For Those Who Choose",
+      "release_title": "Brother Jack McDuff - Talking 'Bout My Woman",
+      "year": "1966",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 8209863,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FDpNZhPiv1VvbZ1ujvjZXD7SWBb9cBS4-s_YBU39kkY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDk4/NjMtMTQ1NzE5Nzky/MS01NTgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Osiris",
+      "title": "Gritt On It",
+      "release_title": "Osiris (2) - Gritt On It",
+      "year": "1980",
+      "label": "Tom Dog Records",
+      "country": "US",
+      "discogs_id": 391512,
+      "rating_avg": 4.06,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/yPM2bXXS8H3ItTcJWQ2Td2kAVuSxHHC6lHkueaCCeLA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTUx/Mi0xMjk4MTA4ODYw/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Altenburgh",
+      "title": "Simmer Down",
+      "release_title": "John Altenburgh - Legends Of Keelerville",
+      "year": "1996",
+      "label": "Altenburgh Records",
+      "country": "US",
+      "discogs_id": 10762269,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xQgFEwyLDJiBcKSRZQrsdwe9FGxWmmmfRWCr2caPD5M/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzYy/MjY5LTE1MDM4NTY2/MzgtMTMzMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brother Jack McDuff",
+      "title": "Talking 'Bout My Woman",
+      "release_title": "Brother Jack McDuff - Talking 'Bout My Woman",
+      "year": "1966",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 8209863,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FDpNZhPiv1VvbZ1ujvjZXD7SWBb9cBS4-s_YBU39kkY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDk4/NjMtMTQ1NzE5Nzky/MS01NTgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Bryant",
+      "title": "The Return Of The Prodigal Son",
+      "release_title": "Ray Bryant - Slow Freight",
+      "year": "1967",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 14848197,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/-JnHZayMQccH9px3_U6fK7TyEBsTwb2A9W9SnsTlyZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ4/MTk3LTE1ODI4NDk4/MjctNDczNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Latimore",
+      "title": "Just One Step",
+      "release_title": "Latimore (2) - There's A Red-Neck In The Soul Band / Just One Step",
+      "year": "1975",
+      "label": "Glades",
+      "country": "US",
+      "discogs_id": 6659672,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_OubVW0c0yMeSAUC3ZHEXU0YTmZcJYNE8Lmmzk2XJu8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTk2/NzItMTQyNDEwMjg1/NC03OTI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Scratch",
+      "release_title": "The Crusaders - Scratch",
+      "year": "1975",
+      "label": "ABC Blue Thumb",
+      "country": "US",
+      "discogs_id": 6679687,
+      "rating_avg": 3.91,
+      "rating_count": 33,
+      "cover_image": "https://i.discogs.com/dSOZ-fLrQI1eAyqJ2LVge8b_l7R5b_D5QdIUk2CBN3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk2/ODctMTQ1NDQwNzg3/NS02MDI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "The Sea Lion",
+      "release_title": "Grover Washington, Jr. - Feels So Good",
+      "year": "1975",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 17729011,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/F3bbY1nmsuDErDB-sg7XvhQ6g9I7Jl9PHDL-PGRJb8Q/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzI5/MDExLTE2MTUwOTU1/MTQtNTczMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Knucklehead",
+      "release_title": "Grover Washington, Jr. - Feels So Good",
+      "year": "1975",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 17729011,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/F3bbY1nmsuDErDB-sg7XvhQ6g9I7Jl9PHDL-PGRJb8Q/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzI5/MDExLTE2MTUwOTU1/MTQtNTczMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Alekesam",
+      "release_title": "The Crusaders - Hollywood",
+      "year": "1972",
+      "label": "MoWest",
+      "country": "US",
+      "discogs_id": 1508797,
+      "rating_avg": 4.14,
+      "rating_count": 49,
+      "cover_image": "https://i.discogs.com/HvYvdTdnX5-pB9EoMHeDL_fQZdVfIlWEInwtMBLQeIM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDg3/OTctMTI0NDE2NDY3/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "It Happens Every Day",
+      "release_title": "Hubert Laws - Love Gets Better",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 9410867,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tl530NlQS5NN8deTG_K-wf9sGrB2EW9Di6l4VZfw800/rs:fit/g:sm/q:90/h:600/w:558/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTA4/NjctMTYxNDE3NDA3/MC01NzU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "J.J. Johnson & Kai Winding",
+      "title": "Bach Chorale #241",
+      "release_title": "J* & K* - Betwixt & Between",
+      "year": "1969",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 11304530,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5iTEf3tzk154VpRCQsBuFjuBR2kLunrNEsTB4PZGZSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA0/NTMwLTE1MTM4MTE4/NDEtODU3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Altenburgh",
+      "title": "And Then There Were Four",
+      "release_title": "John Altenburgh - Legends Of Keelerville",
+      "year": "1996",
+      "label": "Altenburgh Records",
+      "country": "US",
+      "discogs_id": 10762269,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xQgFEwyLDJiBcKSRZQrsdwe9FGxWmmmfRWCr2caPD5M/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzYy/MjY5LTE1MDM4NTY2/MzgtMTMzMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Hollywood",
+      "release_title": "The Crusaders - Hollywood",
+      "year": "1972",
+      "label": "MoWest",
+      "country": "US",
+      "discogs_id": 1508797,
+      "rating_avg": 4.14,
+      "rating_count": 49,
+      "cover_image": "https://i.discogs.com/HvYvdTdnX5-pB9EoMHeDL_fQZdVfIlWEInwtMBLQeIM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDg3/OTctMTI0NDE2NDY3/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Latimore",
+      "title": "There's A Red-Neck In The Soul Band",
+      "release_title": "Latimore (2) - There's A Red-Neck In The Soul Band / Just One Step",
+      "year": "1975",
+      "label": "Glades",
+      "country": "US",
+      "discogs_id": 6659672,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_OubVW0c0yMeSAUC3ZHEXU0YTmZcJYNE8Lmmzk2XJu8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTk2/NzItMTQyNDEwMjg1/NC03OTI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Hydra",
+      "release_title": "Grover Washington, Jr. - Feels So Good",
+      "year": "1975",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 17729011,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/F3bbY1nmsuDErDB-sg7XvhQ6g9I7Jl9PHDL-PGRJb8Q/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzI5/MDExLTE2MTUwOTU1/MTQtNTczMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "Life Is Just A Game",
+      "release_title": "Stanley Clarke - School Days",
+      "year": "1981",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 34292680,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dYBXnY7trHHMMPfmNkeKawweSCNyk3RJdpqQrN-MjCg/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjky/NjgwLTE3NTAxNTky/MDMtNjE3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lou Donaldson",
+      "title": "I Want A Little Girl",
+      "release_title": "Lou Donaldson - Alligator Bogaloo",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 18939901,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/DErEbQqubud6-EmdMEXmP8kPM91Zqhw3rOgTipzkDiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM5/OTAxLTE2MjIzMzcx/ODEtMTU0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "The Dancer",
+      "release_title": "Stanley Clarke - School Days",
+      "year": "1981",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 34292680,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dYBXnY7trHHMMPfmNkeKawweSCNyk3RJdpqQrN-MjCg/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjky/NjgwLTE3NTAxNTky/MDMtNjE3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "J.J. Johnson & Kai Winding",
+      "title": "Just A Funky Old Vegetable Bin",
+      "release_title": "J* & K* - Betwixt & Between",
+      "year": "1969",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 11304530,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5iTEf3tzk154VpRCQsBuFjuBR2kLunrNEsTB4PZGZSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA0/NTMwLTE1MTM4MTE4/NDEtODU3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Bryant",
+      "title": "The Fox Stalker",
+      "release_title": "Ray Bryant - Slow Freight",
+      "year": "1967",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 14848197,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/-JnHZayMQccH9px3_U6fK7TyEBsTwb2A9W9SnsTlyZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ4/MTk3LTE1ODI4NDk4/MjctNDczNi5qcGVn.jpeg"
+    }
+  ]
+}
