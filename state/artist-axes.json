@@ -22806,6 +22806,195 @@
    1963
   ]
  },
+ "billy vaughn": {
+  "countries": [
+   "Japan",
+   "South Korea",
+   "Japan",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "Canada",
+   "Germany",
+   "Europe",
+   "Germany",
+   "Japan",
+   "Germany",
+   "UK",
+   "France",
+   "Norway",
+   "Greece",
+   "US",
+   "US",
+   "Australia",
+   "US",
+   "Germany",
+   "Canada",
+   "US",
+   "Spain"
+  ],
+  "genres": [
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Folk, World, & Country",
+   "Jazz",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Folk, World, & Country",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Blues",
+   "Jazz",
+   "Pop",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Light Music",
+    "Pop"
+   ],
+   [
+    "Light Music",
+    "Stage & Screen"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Hawaiian",
+    "Jazz"
+   ],
+   [
+    "Hawaiian",
+    "Folk, World, & Country"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Bluegrass",
+    "Folk, World, & Country"
+   ],
+   [
+    "Bluegrass",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Pop"
+   ],
+   [
+    "Instrumental",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Light Music",
+   "Big Band",
+   "Big Band",
+   "Swing",
+   "Cool Jazz",
+   "Hawaiian",
+   "Big Band",
+   "Bluegrass",
+   "Theme",
+   "Big Band",
+   "Swing",
+   "Instrumental"
+  ],
+  "years": [
+   2013,
+   1967,
+   1963,
+   1959,
+   1996,
+   1963,
+   1962,
+   2014,
+   1960,
+   1967,
+   1961,
+   1966,
+   1965,
+   1963,
+   1966,
+   1962,
+   1967,
+   1971
+  ]
+ },
  "billy woods": {
   "countries": [
    "US",
@@ -77188,6 +77377,306 @@
    2018,
    2017,
    1975
+  ]
+ },
+ "josh johnson": {
+  "countries": [
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "USA & Canada",
+   "Unknown",
+   "US",
+   "Japan",
+   "USA & Canada",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "Worldwide",
+   "Spain",
+   "Worldwide",
+   "US",
+   "Worldwide",
+   "Japan",
+   "Worldwide",
+   "Worldwide",
+   "Europe",
+   "Worldwide",
+   "Worldwide",
+   "Worldwide"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Jazz"
+   ],
+   [
+    "Heavy Metal",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Jazz"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Jazz"
+   ],
+   [
+    "Heavy Metal",
+    "Rock"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Electronic"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Electronic"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Electronic"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Electronic"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Electronic"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Electronic"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Electronic"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Electronic"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Contemporary Jazz",
+   "Ambient",
+   "Heavy Metal",
+   "Ambient",
+   "Ambient",
+   "Heavy Metal",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Avant-garde Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Avant-garde Jazz",
+   "Contemporary Jazz",
+   "Avant-garde Jazz",
+   "Contemporary Jazz",
+   "Avant-garde Jazz",
+   "Contemporary Jazz",
+   "Avant-garde Jazz",
+   "Contemporary Jazz",
+   "Avant-garde Jazz",
+   "Contemporary Jazz",
+   "Avant-garde Jazz",
+   "Free Improvisation",
+   "Contemporary Jazz",
+   "Avant-garde Jazz"
+  ],
+  "years": [
+   2020,
+   2020,
+   2020,
+   2024,
+   2021,
+   2020,
+   2016,
+   2024,
+   2021,
+   2024,
+   2016,
+   2020,
+   2022,
+   2025,
+   2019,
+   2025,
+   2024,
+   2025,
+   2025,
+   2025,
+   2025,
+   2025,
+   2025,
+   2025,
+   2025
   ]
  },
  "judy roberts": {
