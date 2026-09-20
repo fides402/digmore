@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Musical"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Theme"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2020,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 21,
+      "artists_found": 20,
+      "fresh_lookups": 0,
+      "styles_considered": 66
+    }
+  },
+  "results": [
+    {
+      "artist": "Charlie Jones",
+      "title": "You Can Feel Your Love",
+      "release_title": "Charlie Jones (5) - Choking Kind Of Love",
+      "year": "1996",
+      "label": "Kon-Kord Records",
+      "country": "US",
+      "discogs_id": 10527478,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gvo0016i3LPvmqlEtyT59QsXGH_M_8PPbrMJQLj7efI/rs:fit/g:sm/q:90/h:428/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NDc4LTE0OTkyNzA2/NDgtNzM2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peabo Bryson",
+      "title": "Tonight I Celebrate My Love",
+      "release_title": "Peabo Bryson - Tonight I Celebrate My Love",
+      "year": "1987",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 13749082,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yReZyaVVaeq4cb7lC8F358f21MMxSE9iioWRnsxwPS4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ5/MDgyLTE1NjAyODg0/NzMtMTA3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Thee Sinseers",
+      "title": "Seems Like (Instrumental)",
+      "release_title": "Thee Sinseers - Seems Like",
+      "year": "2020",
+      "label": "Penrose",
+      "country": "US",
+      "discogs_id": 15331390,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/tsyCXJZklcSQFe7c_1fJPNuOgAN2T7R7-3VuDgokXH0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMx/MzkwLTE1ODk4NDY1/MjUtODI2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kurt Weill & Maxwell Anderson & Walter Huston",
+      "title": "Finale Ultimo: That's How You Tell An American",
+      "release_title": "Kurt Weill, Maxwell Anderson - Walter Huston - Knickerbocker Holiday",
+      "year": "1995",
+      "label": "AEI Records",
+      "country": "US",
+      "discogs_id": 11664840,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YBpSJj52k4hsrAMiibVL2RjNfp5OMmCPlASL0K6fGMY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY0/ODQwLTE1MjAyOTMz/NDEtMTgzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The King Rooster",
+      "title": "You Got Me Spinning",
+      "release_title": "The King Rooster Featuring Kim Dawson - You Got Me Spinning",
+      "year": "2019",
+      "label": "Fnr",
+      "country": "US",
+      "discogs_id": 13482048,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/KTPqUODAP6wZK98wS0HiTs89U0H51O_ug6ni0JHVOm8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgy/MDQ4LTE1NTUwNTMy/MTktMTk3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Slave",
+      "title": "The Great American Funk Song",
+      "release_title": "Slave - The Hardness Of The World",
+      "year": "1977",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 9805229,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bAJNt5V5GniB4mSIXqK3xsm_fUGwtpVO3Mp_DyeFtw4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDUy/MjktMTQ4NjU4Njc0/Mi0yMTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Jones",
+      "title": "Let's Have A Good Time",
+      "release_title": "Charlie Jones (5) - Choking Kind Of Love",
+      "year": "1996",
+      "label": "Kon-Kord Records",
+      "country": "US",
+      "discogs_id": 10527478,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gvo0016i3LPvmqlEtyT59QsXGH_M_8PPbrMJQLj7efI/rs:fit/g:sm/q:90/h:428/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NDc4LTE0OTkyNzA2/NDgtNzM2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Thee Sinseers",
+      "title": "Seems Like",
+      "release_title": "Thee Sinseers - Seems Like",
+      "year": "2020",
+      "label": "Penrose",
+      "country": "US",
+      "discogs_id": 15331390,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/tsyCXJZklcSQFe7c_1fJPNuOgAN2T7R7-3VuDgokXH0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMx/MzkwLTE1ODk4NDY1/MjUtODI2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cole Porter",
+      "title": "You're The Top",
+      "release_title": "Various - Cole Porter's Anything Goes",
+      "year": "1977",
+      "label": "Smithsonian Collection",
+      "country": "US",
+      "discogs_id": 3105962,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/J0K4WtYfHyuONtCE5mWCTfH1vrNujdzbc-OFfQpTloI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDU5/NjItMTMxNjEwNjIz/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cole Porter",
+      "title": "Anything Goes",
+      "release_title": "Various - Cole Porter's Anything Goes",
+      "year": "1977",
+      "label": "Smithsonian Collection",
+      "country": "US",
+      "discogs_id": 3105962,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/J0K4WtYfHyuONtCE5mWCTfH1vrNujdzbc-OFfQpTloI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDU5/NjItMTMxNjEwNjIz/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kurt Weill & Maxwell Anderson & Walter Huston",
+      "title": "It Never Was You",
+      "release_title": "Kurt Weill, Maxwell Anderson - Walter Huston - Knickerbocker Holiday",
+      "year": "1995",
+      "label": "AEI Records",
+      "country": "US",
+      "discogs_id": 11664840,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YBpSJj52k4hsrAMiibVL2RjNfp5OMmCPlASL0K6fGMY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY0/ODQwLTE1MjAyOTMz/NDEtMTgzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "René & Angela",
+      "title": "I'll Be Good (Instrumental)",
+      "release_title": "Rene & Angela* - I'll Be Good",
+      "year": "1985",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 2966613,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/F9yevzn_iGIiZnYmrVCaeYTcwn-E5V9jkqw9sWVgb40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjY2/MTMtMTQ3ODg5NDAw/NS00NjQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Rodgers & Oscar Hammerstein II & \"Oklahoma!\" Orchestra And Chorus & Jay Blackton",
+      "title": "Pore Jud Is Daid",
+      "release_title": "Richard Rodgers And Oscar Hammerstein II / \"Oklahoma\" Orchestra And Chorus* Directed By Jay Blackton - Oklahoma!",
+      "year": "1977",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 11339408,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/DyXYGN0okfmqwlWtJBfP3a-DUSA8Rxp859Zb5VGuXD0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/NDA4LTE1MTQ1NDMx/MTktMzE2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Slave",
+      "title": "Can't Get Enough Of You",
+      "release_title": "Slave - The Hardness Of The World",
+      "year": "1977",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 9805229,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bAJNt5V5GniB4mSIXqK3xsm_fUGwtpVO3Mp_DyeFtw4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDUy/MjktMTQ4NjU4Njc0/Mi0yMTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kurt Weill & Maxwell Anderson & Walter Huston",
+      "title": "A History Of New York",
+      "release_title": "Kurt Weill, Maxwell Anderson - Walter Huston - Knickerbocker Holiday",
+      "year": "1995",
+      "label": "AEI Records",
+      "country": "US",
+      "discogs_id": 11664840,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YBpSJj52k4hsrAMiibVL2RjNfp5OMmCPlASL0K6fGMY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY0/ODQwLTE1MjAyOTMz/NDEtMTgzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Eddy Jacobs Exchange",
+      "title": "Pull My Coat",
+      "release_title": "The Eddy Jacobs Exchange - Pull My Coat ",
+      "year": "1969",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 13202520,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dYwOzIq6q0WQbGr0f-gXXO87-e0H0sDsauRSzxtjXA0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAy/NTIwLTE1NDk4NDQ1/NzUtODU3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "The King Rooster",
+      "title": "Back It Up Or Pack It Up",
+      "release_title": "The King Rooster Featuring Kim Dawson - You Got Me Spinning",
+      "year": "2019",
+      "label": "Fnr",
+      "country": "US",
+      "discogs_id": 13482048,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/KTPqUODAP6wZK98wS0HiTs89U0H51O_ug6ni0JHVOm8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgy/MDQ4LTE1NTUwNTMy/MTktMTk3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Fortune Teller",
+      "release_title": "Eddie Kendricks - The Hit Man",
+      "year": "1975",
+      "label": "Tamla",
+      "country": "US",
+      "discogs_id": 8931788,
+      "rating_avg": 4.64,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/fyBBR_9TiHHdOfgsVRcOwqc2YvK07P-1jbuS590z_ks/rs:fit/g:sm/q:90/h:585/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzE3/ODgtMTQ3MTcyMjI2/OC00MTcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Marks",
+      "title": "Cracker Jack",
+      "release_title": "Richard Marks - I’m The Man For You",
+      "year": "1969",
+      "label": "Tuska",
+      "country": "US",
+      "discogs_id": 7213278,
+      "rating_avg": 4.7,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/DA2l-YTBywSNOsNy9MG2WZ7gtOs0-rvnGq0DiYvPH0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTMy/NzgtMTcwNDQ2NDU1/OC03MzgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Body Talk",
+      "release_title": "Eddie Kendricks - The Hit Man",
+      "year": "1975",
+      "label": "Tamla",
+      "country": "US",
+      "discogs_id": 8931788,
+      "rating_avg": 4.64,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/fyBBR_9TiHHdOfgsVRcOwqc2YvK07P-1jbuS590z_ks/rs:fit/g:sm/q:90/h:585/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzE3/ODgtMTQ3MTcyMjI2/OC00MTcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peabo Bryson",
+      "title": "What You Won't Do For Love",
+      "release_title": "Peabo Bryson - Tonight I Celebrate My Love",
+      "year": "1987",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 13749082,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yReZyaVVaeq4cb7lC8F358f21MMxSE9iioWRnsxwPS4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ5/MDgyLTE1NjAyODg0/NzMtMTA3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard Rodgers & Oscar Hammerstein II & \"Oklahoma!\" Orchestra And Chorus & Jay Blackton",
+      "title": "Oh, What A Beautiful Mornin'",
+      "release_title": "Richard Rodgers And Oscar Hammerstein II / \"Oklahoma\" Orchestra And Chorus* Directed By Jay Blackton - Oklahoma!",
+      "year": "1977",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 11339408,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/DyXYGN0okfmqwlWtJBfP3a-DUSA8Rxp859Zb5VGuXD0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/NDA4LTE1MTQ1NDMx/MTktMzE2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard Marks",
+      "title": "I’m The Man For You",
+      "release_title": "Richard Marks - I’m The Man For You",
+      "year": "1969",
+      "label": "Tuska",
+      "country": "US",
+      "discogs_id": 7213278,
+      "rating_avg": 4.7,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/DA2l-YTBywSNOsNy9MG2WZ7gtOs0-rvnGq0DiYvPH0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTMy/NzgtMTcwNDQ2NDU1/OC03MzgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kurt Weill & Maxwell Anderson & Walter Huston",
+      "title": "Introduction",
+      "release_title": "Kurt Weill, Maxwell Anderson - Walter Huston - Knickerbocker Holiday",
+      "year": "1995",
+      "label": "AEI Records",
+      "country": "US",
+      "discogs_id": 11664840,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YBpSJj52k4hsrAMiibVL2RjNfp5OMmCPlASL0K6fGMY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY0/ODQwLTE1MjAyOTMz/NDEtMTgzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peabo Bryson",
+      "title": "Let The Feeling Flow",
+      "release_title": "Peabo Bryson - Tonight I Celebrate My Love",
+      "year": "1987",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 13749082,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yReZyaVVaeq4cb7lC8F358f21MMxSE9iioWRnsxwPS4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ5/MDgyLTE1NjAyODg0/NzMtMTA3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Slave",
+      "title": "Life Can Be Happy",
+      "release_title": "Slave - The Hardness Of The World",
+      "year": "1977",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 9805229,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bAJNt5V5GniB4mSIXqK3xsm_fUGwtpVO3Mp_DyeFtw4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDUy/MjktMTQ4NjU4Njc0/Mi0yMTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Foursome",
+      "title": "Sailor's Charity",
+      "release_title": "Various - Cole Porter's Anything Goes",
+      "year": "1977",
+      "label": "Smithsonian Collection",
+      "country": "US",
+      "discogs_id": 3105962,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/J0K4WtYfHyuONtCE5mWCTfH1vrNujdzbc-OFfQpTloI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDU5/NjItMTMxNjEwNjIz/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "I've Got To Be",
+      "release_title": "Eddie Kendricks - The Hit Man",
+      "year": "1975",
+      "label": "Tamla",
+      "country": "US",
+      "discogs_id": 8931788,
+      "rating_avg": 4.64,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/fyBBR_9TiHHdOfgsVRcOwqc2YvK07P-1jbuS590z_ks/rs:fit/g:sm/q:90/h:585/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzE3/ODgtMTQ3MTcyMjI2/OC00MTcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "René & Angela",
+      "title": "I'll Be Good (Special Mix)",
+      "release_title": "Rene & Angela* - I'll Be Good",
+      "year": "1985",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 2966613,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/F9yevzn_iGIiZnYmrVCaeYTcwn-E5V9jkqw9sWVgb40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjY2/MTMtMTQ3ODg5NDAw/NS00NjQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ethel Merman",
+      "title": "You're The Top",
+      "release_title": "Various - Cole Porter's Anything Goes",
+      "year": "1977",
+      "label": "Smithsonian Collection",
+      "country": "US",
+      "discogs_id": 3105962,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/J0K4WtYfHyuONtCE5mWCTfH1vrNujdzbc-OFfQpTloI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDU5/NjItMTMxNjEwNjIz/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard Rodgers & Oscar Hammerstein II & \"Oklahoma!\" Orchestra And Chorus & Jay Blackton",
+      "title": "Kansas City",
+      "release_title": "Richard Rodgers And Oscar Hammerstein II / \"Oklahoma\" Orchestra And Chorus* Directed By Jay Blackton - Oklahoma!",
+      "year": "1977",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 11339408,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/DyXYGN0okfmqwlWtJBfP3a-DUSA8Rxp859Zb5VGuXD0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/NDA4LTE1MTQ1NDMx/MTktMzE2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Get The Cream Off The Top",
+      "release_title": "Eddie Kendricks - The Hit Man",
+      "year": "1975",
+      "label": "Tamla",
+      "country": "US",
+      "discogs_id": 8931788,
+      "rating_avg": 4.64,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/fyBBR_9TiHHdOfgsVRcOwqc2YvK07P-1jbuS590z_ks/rs:fit/g:sm/q:90/h:585/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzE3/ODgtMTQ3MTcyMjI2/OC00MTcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peabo Bryson",
+      "title": "Reaching For The Sky",
+      "release_title": "Peabo Bryson - Tonight I Celebrate My Love",
+      "year": "1987",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 13749082,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yReZyaVVaeq4cb7lC8F358f21MMxSE9iioWRnsxwPS4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ5/MDgyLTE1NjAyODg0/NzMtMTA3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charlie Jones",
+      "title": "Choking Kind",
+      "release_title": "Charlie Jones (5) - Choking Kind Of Love",
+      "year": "1996",
+      "label": "Kon-Kord Records",
+      "country": "US",
+      "discogs_id": 10527478,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gvo0016i3LPvmqlEtyT59QsXGH_M_8PPbrMJQLj7efI/rs:fit/g:sm/q:90/h:428/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NDc4LTE0OTkyNzA2/NDgtNzM2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charlie Jones",
+      "title": "Finders Keepers",
+      "release_title": "Charlie Jones (5) - Choking Kind Of Love",
+      "year": "1996",
+      "label": "Kon-Kord Records",
+      "country": "US",
+      "discogs_id": 10527478,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gvo0016i3LPvmqlEtyT59QsXGH_M_8PPbrMJQLj7efI/rs:fit/g:sm/q:90/h:428/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NDc4LTE0OTkyNzA2/NDgtNzM2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Slave",
+      "title": "The World's On Hard",
+      "release_title": "Slave - The Hardness Of The World",
+      "year": "1977",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 9805229,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bAJNt5V5GniB4mSIXqK3xsm_fUGwtpVO3Mp_DyeFtw4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDUy/MjktMTQ4NjU4Njc0/Mi0yMTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Rodgers & Oscar Hammerstein II & \"Oklahoma!\" Orchestra And Chorus & Jay Blackton",
+      "title": "Out Of My Dreams",
+      "release_title": "Richard Rodgers And Oscar Hammerstein II / \"Oklahoma\" Orchestra And Chorus* Directed By Jay Blackton - Oklahoma!",
+      "year": "1977",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 11339408,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/DyXYGN0okfmqwlWtJBfP3a-DUSA8Rxp859Zb5VGuXD0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/NDA4LTE1MTQ1NDMx/MTktMzE2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Friends Of Lola",
+      "title": "Kissed Me Like Thunder",
+      "release_title": "Various - A Walk In The Woods (Original Motion Picture Soundtrack)",
+      "year": "2015",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 11450239,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/LAbA_mc9aIMf6x9yuk9LAWM-hsg4JDu5rJP5O9L7TP4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUw/MjM5LTE1MTY1NDU3/NDgtMzI4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Manchester",
+      "title": "Teamwork 1",
+      "release_title": "John Manchester - Volume Three",
+      "year": "1993",
+      "label": "Manchester Music Library",
+      "country": "US",
+      "discogs_id": 37916637,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/liypv4aK95Tw2e7tvjHDhcFyHN4IolmyUCudJtZ_z8c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTE2/NjM3LTE3ODQ0MTA5/ODctMzM3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sounds Of Sunshine",
+      "title": "Nadia's Theme (Vocal)",
+      "release_title": "Sounds Of Sunshine / Touch, Unlimited - Nadia's Theme",
+      "year": "1976",
+      "label": "P.I.P. Records",
+      "country": "US",
+      "discogs_id": 1487911,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/9rG7ayOQZSKiz_GDKmMLVcL9BmPqBZ6iwS3q9gv8vKk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc5/MTEtMTM2MDI4MTI1/Ny02MTYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nathan Larson",
+      "title": "So Many Stars",
+      "release_title": "Various - A Walk In The Woods (Original Motion Picture Soundtrack)",
+      "year": "2015",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 11450239,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/LAbA_mc9aIMf6x9yuk9LAWM-hsg4JDu5rJP5O9L7TP4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUw/MjM5LTE1MTY1NDU3/NDgtMzI4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chatham County Line",
+      "title": "Crop Comes In",
+      "release_title": "Various - A Walk In The Woods (Original Motion Picture Soundtrack)",
+      "year": "2015",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 11450239,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/LAbA_mc9aIMf6x9yuk9LAWM-hsg4JDu5rJP5O9L7TP4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUw/MjM5LTE1MTY1NDU3/NDgtMzI4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Danny Caron & Charles Brown",
+      "title": "Sweet Little Jesus Boy (Long Version)",
+      "release_title": "Danny Caron, Charles Brown - Johns (Original Motion Picture Soundtrack)",
+      "year": "1997",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 7622756,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/P9Yo9bsJQ5ILyda8qeLpMWRYV3e-8_fGdFE6dbUKRZI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjI3/NTYtMTY2MTY0Nzc5/OS05ODExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Aunt Shirley",
+      "release_title": "Various - Lord Why Do I Keep Choosing The Wrong Man?",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 16124464,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SNTsf_j9WN9ckLWYCOg2FhXMmMCXT66WzkQhoRKy38w/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI0/NDY0LTE2MDQ2Nzk4/NjItNTAyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tim Grimm",
+      "title": "The Lake",
+      "release_title": "Various - A Walk In The Woods (Original Motion Picture Soundtrack)",
+      "year": "2015",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 11450239,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/LAbA_mc9aIMf6x9yuk9LAWM-hsg4JDu5rJP5O9L7TP4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUw/MjM5LTE1MTY1NDU3/NDgtMzI4OC5qcGVn.jpeg"
+    }
+  ]
+}
