@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1963,
+    "year_to": 2017,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 37,
+      "fresh_lookups": 1,
+      "styles_considered": 96
+    }
+  },
+  "results": [
+    {
+      "artist": "Eydie Gormé",
+      "title": "If He Walked Into My Life (From \"Mame\")",
+      "release_title": "Eydie Gorme* - Eydie Gorme's Greatest Hits",
+      "year": "1967",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 5638953,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2g-IKqRkTIkFf5_BELBCe9UIdL0a6OeBCDBzSfknlwM/rs:fit/g:sm/q:90/h:583/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mzg5/NTMtMTM5ODY0ODUy/NC0zODAyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eydie Gormé",
+      "title": "Sabor A Mi",
+      "release_title": "Eydie Gorme* - Eydie Gorme's Greatest Hits",
+      "year": "1967",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 5638953,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2g-IKqRkTIkFf5_BELBCe9UIdL0a6OeBCDBzSfknlwM/rs:fit/g:sm/q:90/h:583/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mzg5/NTMtMTM5ODY0ODUy/NC0zODAyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Galt MacDermot",
+      "title": "Wurly",
+      "release_title": "Galt MacDermot - More From The Basement (Unreleased Tracks Vol. 2)",
+      "year": "2001",
+      "label": "Kilmarnock",
+      "country": "US",
+      "discogs_id": 2479615,
+      "rating_avg": 4.45,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/E7sR1d44jn5Y4DpCarv7Np9Rct4ErCWCZ4UQezQniVU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk2/MTUtMTM0MDMxNjg0/Mi05MDU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Ramsey Lewis Trio",
+      "title": "Unsilent Minority",
+      "release_title": "Ramsey Lewis & Co.* - Them Changes / Unsilent Minority",
+      "year": "1970",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 2912833,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/sGtUFf-Xjxropfa5H7XsVcxjKwh0JFFFnpNmoDnDmwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI4/MzMtMTQzNTU5NTEy/Mi0yMDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mark Sherman & Tim Horner Quartet",
+      "title": "The Great Triplet",
+      "release_title": "Mark Sherman & Tim Horner Quartet - Good Rhythm / Good Vibes",
+      "year": "2010",
+      "label": "Miles High Records",
+      "country": "US",
+      "discogs_id": 22233637,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LDgisEaiX2SRs7RxYJMdydaI3QPY6It317eizYzVNQA/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMz/NjM3LTE2NDUzNjIw/NTYtMzkzMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Young Rabbits '71 - '72",
+      "release_title": "The Crusaders - Pass The Plate",
+      "year": "1971",
+      "label": "Chisa",
+      "country": "US",
+      "discogs_id": 3354913,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/2iyJ27sLNiZ6Ihff_g7C4zAV5i6xO58nhiChrz2MnQA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTQ5/MTMtMTU3ODE2OTMx/Ni05ODgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Galt MacDermot",
+      "title": "St. Valentine's Day",
+      "release_title": "Galt MacDermot - More From The Basement (Unreleased Tracks Vol. 2)",
+      "year": "2001",
+      "label": "Kilmarnock",
+      "country": "US",
+      "discogs_id": 2479615,
+      "rating_avg": 4.45,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/E7sR1d44jn5Y4DpCarv7Np9Rct4ErCWCZ4UQezQniVU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk2/MTUtMTM0MDMxNjg0/Mi05MDU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Ramsey Lewis Trio",
+      "title": "Them Changes",
+      "release_title": "Ramsey Lewis & Co.* - Them Changes / Unsilent Minority",
+      "year": "1970",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 2912833,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/sGtUFf-Xjxropfa5H7XsVcxjKwh0JFFFnpNmoDnDmwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI4/MzMtMTQzNTU5NTEy/Mi0yMDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert Lamm",
+      "title": "25 Or 6 To 4",
+      "release_title": "Robert Lamm - Robert Lamm Songs: The JVE ReMixes",
+      "year": "2012",
+      "label": "Blue Infinity",
+      "country": "US",
+      "discogs_id": 11038306,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/E7D4-ROdsAj3riPNdzvGClbzZQv5ALPZahUXExxf5Ps/rs:fit/g:sm/q:90/h:522/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM4/MzA2LTE1MDg2OTkx/NDMtODI3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "The Windjammer",
+      "release_title": "Grant Green - Green Is Beautiful",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 23133026,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/iQS89YedXW17wFH6DW_tkoxYw4qvWBRBHHTnosVlv0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTMz/MDI2LTE2NTE4NDcw/MjctNzgwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Speedball",
+      "release_title": "Stanley Turrentine - Cherry",
+      "year": "1979",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 13504003,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/-7-hInHSbtcwTULyhc50WccLFu-wSmvcbwCgMQnxJKU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA0/MDAzLTE1NTU0NDAw/NjMtNTU2MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Love Can't Grow Where The Rain Won't Fall",
+      "release_title": "The Crusaders - Pass The Plate",
+      "year": "1971",
+      "label": "Chisa",
+      "country": "US",
+      "discogs_id": 3354913,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/2iyJ27sLNiZ6Ihff_g7C4zAV5i6xO58nhiChrz2MnQA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTQ5/MTMtMTU3ODE2OTMx/Ni05ODgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Tommy's Tune",
+      "release_title": "Stanley Turrentine - Have You Ever Seen The Rain",
+      "year": "1975",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 3202273,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": ""
+    },
+    {
+      "artist": "Grant Green",
+      "title": "I'll Never Fall In Love Again",
+      "release_title": "Grant Green - Green Is Beautiful",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 23133026,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/iQS89YedXW17wFH6DW_tkoxYw4qvWBRBHHTnosVlv0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTMz/MDI2LTE2NTE4NDcw/MjctNzgwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eydie Gormé",
+      "title": "Don't Go To Strangers",
+      "release_title": "Eydie Gorme* - Eydie Gorme's Greatest Hits",
+      "year": "1967",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 5638953,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2g-IKqRkTIkFf5_BELBCe9UIdL0a6OeBCDBzSfknlwM/rs:fit/g:sm/q:90/h:583/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mzg5/NTMtMTM5ODY0ODUy/NC0zODAyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eldar Djangirov",
+      "title": "Fly Me To The Moon",
+      "release_title": "Eldar* - Eldar",
+      "year": "2005",
+      "label": "Sony Classical",
+      "country": "US",
+      "discogs_id": 1411159,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/5le23pSXT3GlGY9eHk91YBj41SDlBgjR3jnSmwYR0Ko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEx/NTktMTY3MTgyMDE1/MS02MzQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fly",
+      "title": "CJ",
+      "release_title": "Fly (24) - Sky & Country",
+      "year": "2009",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 4938592,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/toeORBlti2ENobofXid4W3o5X7s9O6QH4qChhzbXZhk/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzg1/OTItMTUyNzE2NjA5/Mi00MzA1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert Lamm",
+      "title": "Questions 67 & 68",
+      "release_title": "Robert Lamm - Robert Lamm Songs: The JVE ReMixes",
+      "year": "2012",
+      "label": "Blue Infinity",
+      "country": "US",
+      "discogs_id": 11038306,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/E7D4-ROdsAj3riPNdzvGClbzZQv5ALPZahUXExxf5Ps/rs:fit/g:sm/q:90/h:522/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM4/MzA2LTE1MDg2OTkx/NDMtODI3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ralph Towner",
+      "title": "Special Delivery",
+      "release_title": "Ralph Towner - Old Friends, New Friends",
+      "year": "1979",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 2394096,
+      "rating_avg": 4.27,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/gn5a_tFP5htk1xpoQMC-UIBoy-G7GKx1HDesUCY6RQc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTQw/OTYtMTYxNjQ1MDYw/My02MzY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Listen And You'll See",
+      "release_title": "The Crusaders - Pass The Plate",
+      "year": "1971",
+      "label": "Chisa",
+      "country": "US",
+      "discogs_id": 3354913,
+      "rating_avg": 4.17,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/2iyJ27sLNiZ6Ihff_g7C4zAV5i6xO58nhiChrz2MnQA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTQ5/MTMtMTU3ODE2OTMx/Ni05ODgxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Galt MacDermot",
+      "title": "Ba Ba Black Baby",
+      "release_title": "Galt MacDermot - More From The Basement (Unreleased Tracks Vol. 2)",
+      "year": "2001",
+      "label": "Kilmarnock",
+      "country": "US",
+      "discogs_id": 2479615,
+      "rating_avg": 4.45,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/E7sR1d44jn5Y4DpCarv7Np9Rct4ErCWCZ4UQezQniVU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk2/MTUtMTM0MDMxNjg0/Mi05MDU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The New Stan Getz Quartet & Astrud Gilberto",
+      "title": "It Might As Well Be Spring",
+      "release_title": "The New Stan Getz Quartet Featuring Astrud Gilberto - Getz Au Go Go",
+      "year": "1995",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 15110976,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Bz1pgy47ZxI6m5qFLOLTc1Mdt1Zpgh6K5tdX85BSgdg/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEw/OTc2LTE2MjIwMDE2/MDItNTQ3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Galt MacDermot",
+      "title": "\"Cool It With Contac\" Radio Spot",
+      "release_title": "Galt MacDermot - More From The Basement (Unreleased Tracks Vol. 2)",
+      "year": "2001",
+      "label": "Kilmarnock",
+      "country": "US",
+      "discogs_id": 2479615,
+      "rating_avg": 4.45,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/E7sR1d44jn5Y4DpCarv7Np9Rct4ErCWCZ4UQezQniVU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk2/MTUtMTM0MDMxNjg0/Mi05MDU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fly",
+      "title": "Transfigured",
+      "release_title": "Fly (24) - Sky & Country",
+      "year": "2009",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 4938592,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/toeORBlti2ENobofXid4W3o5X7s9O6QH4qChhzbXZhk/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzg1/OTItMTUyNzE2NjA5/Mi00MzA1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The New Stan Getz Quartet & Astrud Gilberto",
+      "title": "6-Nix-Pix-Flix",
+      "release_title": "The New Stan Getz Quartet Featuring Astrud Gilberto - Getz Au Go Go",
+      "year": "1995",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 15110976,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Bz1pgy47ZxI6m5qFLOLTc1Mdt1Zpgh6K5tdX85BSgdg/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEw/OTc2LTE2MjIwMDE2/MDItNTQ3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Leroy Van Dyke",
+      "title": "Auctioneer",
+      "release_title": "Leroy Van Dyke / Vincent Bell* - Auctioneer  / Airport Love Theme",
+      "year": "1991",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 8064712,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9ahDZmk_wFWv5dOXGYJF6vd24ZHhwPn_FMQ5QFAJXP8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjQ3/MTItMTczNDY0MDg4/Ni03ODgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eydie Gormé",
+      "title": "Guess I Should Have Loved Him More",
+      "release_title": "Eydie Gormé - Blame It On The Bossa Nova",
+      "year": "1963",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 38299716,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VUgcBJww-sBhKFQNvNR4Oh6ku0tm_6sKwVM7jRm9TF8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjk5/NzE2LTE3ODgxNzk1/ODYtNjE1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eydie Gormé",
+      "title": "Blame It On The Bossa Nova",
+      "release_title": "Eydie Gormé - Blame It On The Bossa Nova",
+      "year": "1963",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 38299716,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VUgcBJww-sBhKFQNvNR4Oh6ku0tm_6sKwVM7jRm9TF8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjk5/NzE2LTE3ODgxNzk1/ODYtNjE1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ralph Towner",
+      "title": "New Moon",
+      "release_title": "Ralph Towner - Old Friends, New Friends",
+      "year": "1979",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 2394096,
+      "rating_avg": 4.27,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/gn5a_tFP5htk1xpoQMC-UIBoy-G7GKx1HDesUCY6RQc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTQw/OTYtMTYxNjQ1MDYw/My02MzY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eldar Djangirov",
+      "title": "Maiden Voyage",
+      "release_title": "Eldar* - Eldar",
+      "year": "2005",
+      "label": "Sony Classical",
+      "country": "US",
+      "discogs_id": 1411159,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/5le23pSXT3GlGY9eHk91YBj41SDlBgjR3jnSmwYR0Ko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEx/NTktMTY3MTgyMDE1/MS02MzQwLmpwZWc.jpeg"
+    }
+  ]
+}

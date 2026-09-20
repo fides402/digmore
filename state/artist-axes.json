@@ -48031,6 +48031,435 @@
    1972
   ]
  },
+ "edu lobo": {
+  "countries": [
+   "Brazil",
+   "Brazil",
+   "Spain",
+   "Brazil",
+   "Brazil",
+   "Spain",
+   "South Africa",
+   "Brazil",
+   "Germany",
+   "Brazil",
+   "Brazil",
+   "Australia",
+   "France",
+   "Venezuela",
+   "Germany",
+   "Brazil",
+   "US",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "France",
+   "Brazil",
+   "Brazil"
+  ],
+  "genres": [
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Pop",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Pop",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Latin",
+   "Latin",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin"
+  ],
+  "pairs": [
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Jazz"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Pop"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Jazz"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Jazz"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Jazz"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Pop"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Jazz"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Norteño",
+    "Jazz"
+   ],
+   [
+    "Norteño",
+    "Latin"
+   ],
+   [
+    "Norteño",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "MPB",
+   "MPB",
+   "Bossa Nova",
+   "Bossa Nova",
+   "MPB",
+   "Bossa Nova",
+   "Samba",
+   "MPB",
+   "Bossanova",
+   "Bossanova",
+   "Samba",
+   "Bossanova",
+   "MPB",
+   "Bossa Nova",
+   "Bossanova",
+   "MPB",
+   "Samba",
+   "MPB",
+   "Samba",
+   "Bossa Nova",
+   "Bossanova",
+   "Bossanova",
+   "MPB",
+   "Samba",
+   "Bossanova",
+   "Bossa Nova",
+   "MPB",
+   "Norteño",
+   "MPB",
+   "Bossa Nova",
+   "Bossa Nova",
+   "Bossanova",
+   "MPB",
+   "MPB",
+   "MPB",
+   "MPB",
+   "Bossa Nova",
+   "Bossa Nova",
+   "MPB",
+   "MPB",
+   "Bossa Nova"
+  ],
+  "years": [
+   2023,
+   2004,
+   2003,
+   1980,
+   1979,
+   1970,
+   1970,
+   1981,
+   2026,
+   1967,
+   1994,
+   1970,
+   1998,
+   1977,
+   1998,
+   1970,
+   1979,
+   1977,
+   2014,
+   1999,
+   1994,
+   1978,
+   1974
+  ]
+ },
  "elaine delmar": {
   "countries": [
    "Bulgaria",
