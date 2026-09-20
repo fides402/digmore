@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2015,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 29,
+      "artists_found": 29,
+      "fresh_lookups": 1,
+      "styles_considered": 96
+    }
+  },
+  "results": [
+    {
+      "artist": "Willie Bobo",
+      "title": "Rescue Me",
+      "release_title": "Willie Bobo - Uno Dos Tres 1•2•3",
+      "year": "1966",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 4152852,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WzokW5jOaGykn7f6trPAJlbCMol_spHYIbzrCh0jK78/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTI4/NTItMTM1NzA1NzA4/OC00MjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy Smith",
+      "title": "Hackensack",
+      "release_title": "The Incredible Jimmy Smith* - Softly As A Summer Breeze",
+      "year": "1965",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3525683,
+      "rating_avg": 4.35,
+      "rating_count": 46,
+      "cover_image": "https://i.discogs.com/9v4g6VwvCiIj7k30Bzfbot2vqU91jMZiFm2yzT0PppA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjU2/ODMtMTM1MjU4MDUx/NS04Mzc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Astor Piazzolla",
+      "title": "La Camorra",
+      "release_title": "Various - Jazz Latino: A Collection Of Latin Inspirations",
+      "year": "2001",
+      "label": "Chesky Records",
+      "country": "US",
+      "discogs_id": 23542727,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zYFz4-x6701f8sXdB6H5sdc8Dft8I-Mz2JwYW4wwZ5Y/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQy/NzI3LTE2NTUyMzYw/NTQtNjk0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Yonemura",
+      "title": "Monterey Peninsula",
+      "release_title": "Paul Yonemura - First Flight Home",
+      "year": "1985",
+      "label": "Jazz MInd",
+      "country": "US",
+      "discogs_id": 5259065,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/_4aSwOuVTzE8_2Zj67Tn1LstFzc3r3LiNkR1kCT6X4Q/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTkw/NjUtMTYzNDE4Njcw/Mi05MTk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobby Rodriguez",
+      "title": "The Double-Up",
+      "release_title": "Bobby Rodriguez (3) - Tell An Amigo",
+      "year": "1986",
+      "label": "Sea Breeze Jazz",
+      "country": "US",
+      "discogs_id": 12069975,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8TmeokgppIpdSxhFroUr6YUeU5laaO4l5vXpOpsrYK0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY5/OTc1LTE1Mjc2ODYw/MTUtMzYzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "LAPD",
+      "title": "Compared To What",
+      "release_title": "Willie Bobo / LAPD (2) / Jimmy Witherspoon / Gene Ammons, War - Live At The Watts Jazz Festival - Volume 1",
+      "year": "1993",
+      "label": "Avenue Jazz",
+      "country": "US",
+      "discogs_id": 9476202,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/y_GxQnI-3Yef0agN1BceCz6g5Dlwc6ftYpM7cfJ31TU/rs:fit/g:sm/q:90/h:600/w:384/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzYy/MDItMTQ5MTUzODYy/My02MjQ0LnBuZw.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "All Blues (Live)",
+      "release_title": "Various - Word Of Mouth - DoubleVision Edition",
+      "year": "1994",
+      "label": "Reprise Records",
+      "country": "US",
+      "discogs_id": 10509566,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/rG5nfxvl8Cc2H7y6T9XBZALxPykbUuHqYWPtRY07Ugg/rs:fit/g:sm/q:90/h:355/w:351/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA5/NTY2LTE1NjkxNzQ2/MTktMzA4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby Rodriguez",
+      "title": "I Had The Craziest Dream",
+      "release_title": "Bobby Rodriguez (3) - Tell An Amigo",
+      "year": "1986",
+      "label": "Sea Breeze Jazz",
+      "country": "US",
+      "discogs_id": 12069975,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8TmeokgppIpdSxhFroUr6YUeU5laaO4l5vXpOpsrYK0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY5/OTc1LTE1Mjc2ODYw/MTUtMzYzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Omar Sosa",
+      "title": "Muy Solo",
+      "release_title": "Omar Sosa - Inside",
+      "year": "1999",
+      "label": "Otá Records",
+      "country": "US",
+      "discogs_id": 4780392,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/kzYAmPBmBIDYzXsk2GRZ39PNSSggOz-epvx6lPEbdPM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODAz/OTItMTM3NTI5MDUw/MS01ODU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eric Marienthal",
+      "title": "I'm Gonna Wait On Your Love",
+      "release_title": "Eric Marienthal - Round Trip",
+      "year": "1989",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 5516480,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JPHFfTIAjGyh5nE1CL7V-jkwhApSn_qAVyg-5EQVxzQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTY0/ODAtMTU3MzI3MjY2/NS0yMjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Omar Sosa",
+      "title": "Gracias Señor",
+      "release_title": "Omar Sosa - Inside",
+      "year": "1999",
+      "label": "Otá Records",
+      "country": "US",
+      "discogs_id": 4780392,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/kzYAmPBmBIDYzXsk2GRZ39PNSSggOz-epvx6lPEbdPM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODAz/OTItMTM3NTI5MDUw/MS01ODU1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paul Yonemura",
+      "title": "One For Jack",
+      "release_title": "Paul Yonemura - First Flight Home",
+      "year": "1985",
+      "label": "Jazz MInd",
+      "country": "US",
+      "discogs_id": 5259065,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/_4aSwOuVTzE8_2Zj67Tn1LstFzc3r3LiNkR1kCT6X4Q/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTkw/NjUtMTYzNDE4Njcw/Mi05MTk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Upchurch & Tennyson Stephens",
+      "title": "Evil",
+      "release_title": "Phil Upchurch / Tennyson Stephens - Upchurch/Tennyson",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 27110259,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/W5xd5_6zNiTUXoH1_5LgMGOXUbA3L02t6lFFbN_kB_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MjU5LTE2ODQzNTU5/NjAtNzE3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Willie Bobo",
+      "title": "I Remember Clifford",
+      "release_title": "Willie Bobo - Uno Dos Tres 1•2•3",
+      "year": "1966",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 4152852,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WzokW5jOaGykn7f6trPAJlbCMol_spHYIbzrCh0jK78/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTI4/NTItMTM1NzA1NzA4/OC00MjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy Smith",
+      "title": "Sometimes I'm Happy",
+      "release_title": "The Incredible Jimmy Smith* - Softly As A Summer Breeze",
+      "year": "1965",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3525683,
+      "rating_avg": 4.35,
+      "rating_count": 46,
+      "cover_image": "https://i.discogs.com/9v4g6VwvCiIj7k30Bzfbot2vqU91jMZiFm2yzT0PppA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjU2/ODMtMTM1MjU4MDUx/NS04Mzc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Freddie Roach",
+      "title": "You've Got Your Troubles",
+      "release_title": "Freddie Roach - You've Got Your Troubles",
+      "year": "1966",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 5136759,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lDwUnWD5x2wPaEev1A-VQUo3ieNKQJQVMgqXCMSlvfc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzY3/NTktMTM4NTQ4Njkz/NC0zMjk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Upchurch & Tennyson Stephens",
+      "title": "In Common",
+      "release_title": "Phil Upchurch / Tennyson Stephens - Upchurch/Tennyson",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 27110259,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/W5xd5_6zNiTUXoH1_5LgMGOXUbA3L02t6lFFbN_kB_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MjU5LTE2ODQzNTU5/NjAtNzE3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Vignola",
+      "title": "White Room",
+      "release_title": "Frank Vignola - Déjà Vu",
+      "year": "1999",
+      "label": "Concord Vista",
+      "country": "US",
+      "discogs_id": 3200545,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Hyr3w--Ertbla0-U6T-7t2QYNqhq-X46LK1Mpd6MoX4/rs:fit/g:sm/q:90/h:225/w:224/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDA1/NDUtMTMyMDIwNzg3/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby Rodriguez",
+      "title": "Lullaby",
+      "release_title": "Bobby Rodriguez (3) - Tell An Amigo",
+      "year": "1986",
+      "label": "Sea Breeze Jazz",
+      "country": "US",
+      "discogs_id": 12069975,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8TmeokgppIpdSxhFroUr6YUeU5laaO4l5vXpOpsrYK0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY5/OTc1LTE1Mjc2ODYw/MTUtMzYzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Les Gwan Jupons",
+      "title": "Jeuness Vauclin",
+      "release_title": "Les Gwan Jupons - Les Gwan Jupons",
+      "year": "2014",
+      "label": "Not On Label (Les Gwan Jupons Self-released)",
+      "country": "US",
+      "discogs_id": 35128928,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/VgyoboFH4r_oQTew8gDdpnkKTgdW1ilhyCXxi7Mzk0I/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTI4/OTI4LTE3NTgxNTA4/NjgtMjkzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Houston Person",
+      "title": "On The Avenue",
+      "release_title": "Houston Person - Truth!",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 3654083,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/bdDFW4F65iZ9Ca3IGCbkqU7VdJr0wCS_21ayHrle0Mc/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTQw/ODMtMTYyODIzNTg1/OS05ODMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Henry Threadgill Sextett",
+      "title": "Cremation",
+      "release_title": "Henry Threadgill Sextet* - Just The Facts And Pass The Bucket",
+      "year": "1983",
+      "label": "About Time Records",
+      "country": "US",
+      "discogs_id": 1089613,
+      "rating_avg": 4.63,
+      "rating_count": 41,
+      "cover_image": "https://i.discogs.com/9pl4JUW25v1mmMQvHekMK9KIDI0wXWpTmCPPebq4kus/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk2/MTMtMTQzNzAxMjEw/Ni03MDkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tango Bar",
+      "title": "Como Dos Extranos",
+      "release_title": "Various - Jazz Latino: A Collection Of Latin Inspirations",
+      "year": "2001",
+      "label": "Chesky Records",
+      "country": "US",
+      "discogs_id": 23542727,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zYFz4-x6701f8sXdB6H5sdc8Dft8I-Mz2JwYW4wwZ5Y/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQy/NzI3LTE2NTUyMzYw/NTQtNjk0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "Here's That Rainy Day",
+      "release_title": "Willie Bobo / LAPD (2) / Jimmy Witherspoon / Gene Ammons, War - Live At The Watts Jazz Festival - Volume 1",
+      "year": "1993",
+      "label": "Avenue Jazz",
+      "country": "US",
+      "discogs_id": 9476202,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/y_GxQnI-3Yef0agN1BceCz6g5Dlwc6ftYpM7cfJ31TU/rs:fit/g:sm/q:90/h:600/w:384/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzYy/MDItMTQ5MTUzODYy/My02MjQ0LnBuZw.jpeg"
+    },
+    {
+      "artist": "The Coryells",
+      "title": "Allegro",
+      "release_title": "Various - Jazz Latino: A Collection Of Latin Inspirations",
+      "year": "2001",
+      "label": "Chesky Records",
+      "country": "US",
+      "discogs_id": 23542727,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zYFz4-x6701f8sXdB6H5sdc8Dft8I-Mz2JwYW4wwZ5Y/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQy/NzI3LTE2NTUyMzYw/NTQtNjk0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Freddie Roach",
+      "title": "One Track Mind",
+      "release_title": "Freddie Roach - You've Got Your Troubles",
+      "year": "1966",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 5136759,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lDwUnWD5x2wPaEev1A-VQUo3ieNKQJQVMgqXCMSlvfc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzY3/NTktMTM4NTQ4Njkz/NC0zMjk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Milt Jackson",
+      "title": "In A Sentimental Mood",
+      "release_title": "Various - Word Of Mouth - DoubleVision Edition",
+      "year": "1994",
+      "label": "Reprise Records",
+      "country": "US",
+      "discogs_id": 10509566,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/rG5nfxvl8Cc2H7y6T9XBZALxPykbUuHqYWPtRY07Ugg/rs:fit/g:sm/q:90/h:355/w:351/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA5/NTY2LTE1NjkxNzQ2/MTktMzA4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Willie Bobo",
+      "title": "Hurt So Bad",
+      "release_title": "Willie Bobo - Spanish Grease ",
+      "year": "1965",
+      "label": "Verve Tape",
+      "country": "US",
+      "discogs_id": 14449251,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/X0m5VEMeMjdmVILVXBtNspDlGehDFw9eeIB3BhE52j8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ5/MjUxLTE1NzQ3MzI2/NDEtMTI4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Willie Bobo",
+      "title": "Elation",
+      "release_title": "Willie Bobo - Spanish Grease ",
+      "year": "1965",
+      "label": "Verve Tape",
+      "country": "US",
+      "discogs_id": 14449251,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/X0m5VEMeMjdmVILVXBtNspDlGehDFw9eeIB3BhE52j8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ5/MjUxLTE1NzQ3MzI2/NDEtMTI4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lou Donaldson",
+      "title": "I Want A Little Girl",
+      "release_title": "Lou Donaldson - Alligator Bogaloo",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 18939901,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/DErEbQqubud6-EmdMEXmP8kPM91Zqhw3rOgTipzkDiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM5/OTAxLTE2MjIzMzcx/ODEtMTU0OC5qcGVn.jpeg"
+    }
+  ]
+}

@@ -17399,6 +17399,434 @@
    1964
   ]
  },
+ "attitudes": {
+  "countries": [
+   "Australia",
+   "Canada",
+   "Canada",
+   "US",
+   "US",
+   "US",
+   "Canada",
+   "US",
+   "US",
+   "France",
+   "US",
+   "New Zealand",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "Germany",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Australia",
+   "US"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Rock"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Rock"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Rock"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Funk",
+   "Soul",
+   "Soft Rock",
+   "Pop Rock",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Pop Rock",
+   "Soul",
+   "Funk",
+   "Fusion",
+   "Jazz-Funk",
+   "Pop Rock",
+   "Funk",
+   "Disco",
+   "Pop Rock",
+   "Funk",
+   "Soul",
+   "Soft Rock",
+   "Pop Rock",
+   "Funk",
+   "Disco",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Funk",
+   "Fusion",
+   "Jazz-Funk",
+   "Funk",
+   "AOR",
+   "Soft Rock",
+   "Disco",
+   "AOR",
+   "Soft Rock",
+   "Soul",
+   "Soft Rock",
+   "Funk",
+   "Soft Rock",
+   "Disco"
+  ],
+  "years": [
+   1977,
+   1977,
+   1976,
+   1977,
+   1977,
+   1977,
+   1976,
+   1977,
+   1977,
+   1977,
+   1976,
+   1976,
+   1975,
+   1977,
+   1976,
+   1977,
+   1977,
+   1975,
+   1977,
+   1976,
+   1977,
+   1976,
+   1976,
+   1977,
+   1976
+  ]
+ },
  "azteca": {
   "countries": [
    "US",
