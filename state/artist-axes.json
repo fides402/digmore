@@ -21005,6 +21005,375 @@
    1990
   ]
  },
+ "batteaux": {
+  "countries": [
+   "UK",
+   "US",
+   "Canada",
+   "Japan",
+   "UK",
+   "US",
+   "Japan",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Canada",
+   "UK",
+   "South Korea",
+   "US"
+  ],
+  "genres": [
+   "Pop",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Rock",
+   "Rock",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Jazz"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soft Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Folk, World, & Country"
+   ],
+   [
+    "AOR",
+    "Jazz"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Funk / Soul"
+   ],
+   [
+    "AOR",
+    "Folk, World, & Country"
+   ],
+   [
+    "Country Rock",
+    "Jazz"
+   ],
+   [
+    "Country Rock",
+    "Rock"
+   ],
+   [
+    "Country Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Country Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Rock"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 16,
+  "styles": [
+   "Vocal",
+   "Soft Rock",
+   "Soul",
+   "Soul",
+   "Funk",
+   "Soft Rock",
+   "Pop Rock",
+   "Vocal",
+   "Soft Rock",
+   "Soul",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Soul",
+   "AOR",
+   "Soul",
+   "Funk",
+   "Soft Rock",
+   "Soul",
+   "Funk",
+   "Soft Rock",
+   "Soul",
+   "Soft Rock",
+   "Soul",
+   "Soft Rock",
+   "Soul",
+   "AOR",
+   "Country Rock",
+   "Soul-Jazz",
+   "Soft Rock",
+   "Pop Rock",
+   "Soft Rock",
+   "Soul",
+   "AOR",
+   "Pop Rock"
+  ],
+  "years": [
+   1973,
+   1973,
+   1973,
+   2002,
+   1973,
+   1973,
+   2002,
+   2011,
+   1973,
+   1973,
+   1973,
+   1973,
+   2018,
+   2011,
+   1973
+  ]
+ },
  "beaver & krause": {
   "countries": [
    "US",
