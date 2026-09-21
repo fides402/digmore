@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2016,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 39,
+      "fresh_lookups": 1,
+      "styles_considered": 92
+    }
+  },
+  "results": [
+    {
+      "artist": "Joe Thomas",
+      "title": "Gemini Flyin' High",
+      "release_title": "Joe Thomas - Masada",
+      "year": "1997",
+      "label": "Beast Retro",
+      "country": "US",
+      "discogs_id": 3640721,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/RKInkhQMPCW0tcmBx1RmdVIDOH-SXrTy_zymLWv166A/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA3/MjEtMTMzODQ4NjI1/OS0yNjgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Soul Children",
+      "title": "Doing Our Thang",
+      "release_title": "Soul Children - I'll Understand / Doing Our Thang",
+      "year": "1969",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 10557026,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8g2OwCtO2HlSm06kpyVQmivqSdHOovngfzDcVtiKNAI/rs:fit/g:sm/q:90/h:459/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU3/MDI2LTE0OTk4NTEy/NTYtNTAyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Soul Children",
+      "title": "The Hang Ups Of Holding On (Parts 1 And 2)",
+      "release_title": "Soul Children - Best Of Two Worlds",
+      "year": "1971",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 11666968,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GMedZJRMTGppqCJ_PtN5UYQnWlFE2fZUGGFWgFwmq-k/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY2/OTY4LTE1NTYzMzMz/MjAtNTYxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Heath Brothers",
+      "title": "Yardbird Suite",
+      "release_title": "The Heath Bros.* - Passing Thru...",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 27157656,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UtymXQaESrLVGupdl8jPKZ_ruvNAOGGEj5RsbAg_raI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTU3/NjU2LTE2ODQ3Njk1/OTItNDM3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Heath Brothers",
+      "title": "Prince Albert",
+      "release_title": "The Heath Bros.* - Passing Thru...",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 27157656,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UtymXQaESrLVGupdl8jPKZ_ruvNAOGGEj5RsbAg_raI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTU3/NjU2LTE2ODQ3Njk1/OTItNDM3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cross Fire",
+      "title": "Take Me Back",
+      "release_title": "Cross Fire / The Virtues - Take Me Back / Movies Are Groovey",
+      "year": "1974",
+      "label": "Virtue",
+      "country": "US",
+      "discogs_id": 4439244,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/OUyRW1vpgtz8gw1NhlKOWnXG9mWL1fw7MAIemGvguZo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzky/NDQtMTQ1MDg3MTQx/OC04MDkwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Watercolors (Conc.)",
+      "release_title": "Lonnie Liston Smith - Live!",
+      "year": "1977",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 5856899,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/x8IZ-r27qaWn0DHJrBJBeY3OTp8dB-MT-81IDzcBb4c/rs:fit/g:sm/q:90/h:553/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTY4/OTktMTQwNDYyMDc0/NS01NzAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ronnie Foster",
+      "title": "To See A Smile",
+      "release_title": "Ronnie Foster - On The Avenue",
+      "year": "1974",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3512377,
+      "rating_avg": 4.31,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/87va4eTPqtfjQEx1KlLk1iqKj2DLx0siqZB3tz9HUYA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTIz/NzctMTMzMzYxODYy/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard Elliot",
+      "title": "If I Kissed You",
+      "release_title": "Richard Elliot - Crush",
+      "year": "2001",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 32292792,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Te6W_WJO9RsX0Rr6ykNjhN3EGDa_vlhrNOB0u_Aj3F0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjky/NzkyLTE3MzE2NDQw/ODEtNDQyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Lloyd",
+      "title": "Forest Flower '69",
+      "release_title": "Charles Lloyd - Soundtrack",
+      "year": "2007",
+      "label": "Rhino Atlantic",
+      "country": "US",
+      "discogs_id": 15152198,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_TmkyJHcrESI7EeV7_uPPoGNx3MqOzSfYeJMj4JFYJo/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTUy/MTk4LTE1ODczNTEy/NTUtOTM5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Nature Calls",
+      "release_title": "John Scofield - Bar Talk",
+      "year": "1980",
+      "label": "Arista Novus",
+      "country": "US",
+      "discogs_id": 3050093,
+      "rating_avg": 4.44,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/aZ5ZbLUIY1VeETXgwVCamJfgwksnjrqysxrNIsHQVwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAw/OTMtMTM4NDE4Nzk1/OC04ODUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Doris Troy",
+      "title": "He Don't Belong To Me",
+      "release_title": "Doris Troy - Just One Look - The Best Of Doris Troy",
+      "year": "1994",
+      "label": "Ichiban Records",
+      "country": "US",
+      "discogs_id": 7608434,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/sthnr8pLt1itYrBsu_ApWzu0YbrHr7cyK9PKHhg-f9U/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg0/MzQtMTcxOTMzMDg2/MS0yODUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Fat Dancer",
+      "release_title": "John Scofield - Bar Talk",
+      "year": "1980",
+      "label": "Arista Novus",
+      "country": "US",
+      "discogs_id": 3050093,
+      "rating_avg": 4.44,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/aZ5ZbLUIY1VeETXgwVCamJfgwksnjrqysxrNIsHQVwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAw/OTMtMTM4NDE4Nzk1/OC04ODUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Never",
+      "release_title": "John Scofield - Bar Talk",
+      "year": "1980",
+      "label": "Arista Novus",
+      "country": "US",
+      "discogs_id": 3050093,
+      "rating_avg": 4.44,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/aZ5ZbLUIY1VeETXgwVCamJfgwksnjrqysxrNIsHQVwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAw/OTMtMTM4NDE4Nzk1/OC04ODUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Thomas",
+      "title": "Flame",
+      "release_title": "Joe Thomas - Masada",
+      "year": "1997",
+      "label": "Beast Retro",
+      "country": "US",
+      "discogs_id": 3640721,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/RKInkhQMPCW0tcmBx1RmdVIDOH-SXrTy_zymLWv166A/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA3/MjEtMTMzODQ4NjI1/OS0yNjgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Lloyd",
+      "title": "Voice In The Night",
+      "release_title": "Charles Lloyd - Soundtrack",
+      "year": "2007",
+      "label": "Rhino Atlantic",
+      "country": "US",
+      "discogs_id": 15152198,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_TmkyJHcrESI7EeV7_uPPoGNx3MqOzSfYeJMj4JFYJo/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTUy/MTk4LTE1ODczNTEy/NTUtOTM5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Pedicin, Jr",
+      "title": "Search For Peace",
+      "release_title": "Michael Pedicin* - Ballads ...Searching For Peace",
+      "year": "2011",
+      "label": "The Jazz Hut",
+      "country": "US",
+      "discogs_id": 9862733,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0aRu6_6wwq2VfW4oOvTNU62VXFBXWtXu4B5YP8lckUg/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjI3/MzMtMTQ4NzU1NTg4/Ny03MjM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Heti Lloyd",
+      "title": "Nowhere Without You",
+      "release_title": "Heti Lloyd - Baby's Gone",
+      "year": "1967",
+      "label": "Shonda Records",
+      "country": "US",
+      "discogs_id": 15151582,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XX6xJc7SfxO76Kd69Pyerct6m5CiVUOJcFU3-cVmKDQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTUx/NTgyLTE1ODczMzc0/MTAtNzc2Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Heath Brothers",
+      "title": "Changes",
+      "release_title": "The Heath Bros.* - Passing Thru...",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 27157656,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UtymXQaESrLVGupdl8jPKZ_ruvNAOGGEj5RsbAg_raI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTU3/NjU2LTE2ODQ3Njk1/OTItNDM3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Soul Children",
+      "title": "I'll Understand",
+      "release_title": "Soul Children - I'll Understand / Doing Our Thang",
+      "year": "1969",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 10557026,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8g2OwCtO2HlSm06kpyVQmivqSdHOovngfzDcVtiKNAI/rs:fit/g:sm/q:90/h:459/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU3/MDI2LTE0OTk4NTEy/NTYtNTAyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Owens",
+      "title": "Home",
+      "release_title": "Jimmy Owens - Headin' Home",
+      "year": "1978",
+      "label": "Horizon",
+      "country": "US",
+      "discogs_id": 3014030,
+      "rating_avg": 3.85,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/nyezYsFIFv3VPs18Z3qr_MDxU5j82nYP3erKtxvyvo8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQw/MzAtMTMxMjM1MzYz/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Newz",
+      "title": "I Should Have Known (Sax Mix)",
+      "release_title": "Newz (4) - I Should Have Known",
+      "year": "1991",
+      "label": "CS Records",
+      "country": "US",
+      "discogs_id": 2281194,
+      "rating_avg": 4.83,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/r5QQbYJ1b7bVDpe72H8HAeWuVHP5MDXlBfgqOdipbuU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODEx/OTQtMTQ0MDU0NjM3/OS01MjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Doris Troy",
+      "title": "One More Chance",
+      "release_title": "Doris Troy - Just One Look - The Best Of Doris Troy",
+      "year": "1994",
+      "label": "Ichiban Records",
+      "country": "US",
+      "discogs_id": 7608434,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/sthnr8pLt1itYrBsu_ApWzu0YbrHr7cyK9PKHhg-f9U/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg0/MzQtMTcxOTMzMDg2/MS0yODUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ronnie Foster",
+      "title": "On The Avenue",
+      "release_title": "Ronnie Foster - On The Avenue",
+      "year": "1974",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3512377,
+      "rating_avg": 4.31,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/87va4eTPqtfjQEx1KlLk1iqKj2DLx0siqZB3tz9HUYA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTIz/NzctMTMzMzYxODYy/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Thomas",
+      "title": "I'm Gone And I'm Glad",
+      "release_title": "Joe Thomas - Masada",
+      "year": "1997",
+      "label": "Beast Retro",
+      "country": "US",
+      "discogs_id": 3640721,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/RKInkhQMPCW0tcmBx1RmdVIDOH-SXrTy_zymLWv166A/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA3/MjEtMTMzODQ4NjI1/OS0yNjgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Pedicin, Jr",
+      "title": "Tell Me",
+      "release_title": "Michael Pedicin* - Ballads ...Searching For Peace",
+      "year": "2011",
+      "label": "The Jazz Hut",
+      "country": "US",
+      "discogs_id": 9862733,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0aRu6_6wwq2VfW4oOvTNU62VXFBXWtXu4B5YP8lckUg/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjI3/MzMtMTQ4NzU1NTg4/Ny03MjM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Beckon Call",
+      "release_title": "John Scofield - Bar Talk",
+      "year": "1980",
+      "label": "Arista Novus",
+      "country": "US",
+      "discogs_id": 3050093,
+      "rating_avg": 4.44,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/aZ5ZbLUIY1VeETXgwVCamJfgwksnjrqysxrNIsHQVwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAw/OTMtMTM4NDE4Nzk1/OC04ODUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Virtues",
+      "title": "Movies Are Groovey",
+      "release_title": "Cross Fire / The Virtues - Take Me Back / Movies Are Groovey",
+      "year": "1974",
+      "label": "Virtue",
+      "country": "US",
+      "discogs_id": 4439244,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/OUyRW1vpgtz8gw1NhlKOWnXG9mWL1fw7MAIemGvguZo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzky/NDQtMTQ1MDg3MTQx/OC04MDkwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy Owens",
+      "title": "B. S.",
+      "release_title": "Jimmy Owens - Headin' Home",
+      "year": "1978",
+      "label": "Horizon",
+      "country": "US",
+      "discogs_id": 3014030,
+      "rating_avg": 3.85,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/nyezYsFIFv3VPs18Z3qr_MDxU5j82nYP3erKtxvyvo8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQw/MzAtMTMxMjM1MzYz/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Newz",
+      "title": "Part Time Love (Extended Mix)",
+      "release_title": "Newz (4) - I Should Have Known",
+      "year": "1991",
+      "label": "CS Records",
+      "country": "US",
+      "discogs_id": 2281194,
+      "rating_avg": 4.83,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/r5QQbYJ1b7bVDpe72H8HAeWuVHP5MDXlBfgqOdipbuU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODEx/OTQtMTQ0MDU0NjM3/OS01MjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Elliot",
+      "title": "Shotgun",
+      "release_title": "Richard Elliot - Crush",
+      "year": "2001",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 32292792,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Te6W_WJO9RsX0Rr6ykNjhN3EGDa_vlhrNOB0u_Aj3F0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjky/NzkyLTE3MzE2NDQw/ODEtNDQyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Owens",
+      "title": "Never Subject To Change",
+      "release_title": "Jimmy Owens - Headin' Home",
+      "year": "1978",
+      "label": "Horizon",
+      "country": "US",
+      "discogs_id": 3014030,
+      "rating_avg": 3.85,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/nyezYsFIFv3VPs18Z3qr_MDxU5j82nYP3erKtxvyvo8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQw/MzAtMTMxMjM1MzYz/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Pedicin, Jr",
+      "title": "Home At Last",
+      "release_title": "Michael Pedicin* - Ballads ...Searching For Peace",
+      "year": "2011",
+      "label": "The Jazz Hut",
+      "country": "US",
+      "discogs_id": 9862733,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0aRu6_6wwq2VfW4oOvTNU62VXFBXWtXu4B5YP8lckUg/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjI3/MzMtMTQ4NzU1NTg4/Ny03MjM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Elliot",
+      "title": "Brand New Love Affair",
+      "release_title": "Richard Elliot - Crush",
+      "year": "2001",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 32292792,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Te6W_WJO9RsX0Rr6ykNjhN3EGDa_vlhrNOB0u_Aj3F0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjky/NzkyLTE3MzE2NDQw/ODEtNDQyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Heath Brothers",
+      "title": "In New York",
+      "release_title": "The Heath Bros.* - Passing Thru...",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 27157656,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UtymXQaESrLVGupdl8jPKZ_ruvNAOGGEj5RsbAg_raI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTU3/NjU2LTE2ODQ3Njk1/OTItNDM3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Newz",
+      "title": "I Should Have Known (Radio Mix)",
+      "release_title": "Newz (4) - I Should Have Known",
+      "year": "1991",
+      "label": "CS Records",
+      "country": "US",
+      "discogs_id": 2281194,
+      "rating_avg": 4.83,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/r5QQbYJ1b7bVDpe72H8HAeWuVHP5MDXlBfgqOdipbuU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODEx/OTQtMTQ0MDU0NjM3/OS01MjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ronnie Foster",
+      "title": "Big Farm Boy Goes To A Latin City",
+      "release_title": "Ronnie Foster - On The Avenue",
+      "year": "1974",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3512377,
+      "rating_avg": 4.31,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/87va4eTPqtfjQEx1KlLk1iqKj2DLx0siqZB3tz9HUYA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTIz/NzctMTMzMzYxODYy/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard Elliot",
+      "title": "Work All Night",
+      "release_title": "Richard Elliot - Crush",
+      "year": "2001",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 32292792,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Te6W_WJO9RsX0Rr6ykNjhN3EGDa_vlhrNOB0u_Aj3F0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjky/NzkyLTE3MzE2NDQw/ODEtNDQyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Doris Troy",
+      "title": "Time",
+      "release_title": "Doris Troy - Just One Look - The Best Of Doris Troy",
+      "year": "1994",
+      "label": "Ichiban Records",
+      "country": "US",
+      "discogs_id": 7608434,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/sthnr8pLt1itYrBsu_ApWzu0YbrHr7cyK9PKHhg-f9U/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg0/MzQtMTcxOTMzMDg2/MS0yODUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Sorceress",
+      "release_title": "Lonnie Liston Smith - Live!",
+      "year": "1977",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 5856899,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/x8IZ-r27qaWn0DHJrBJBeY3OTp8dB-MT-81IDzcBb4c/rs:fit/g:sm/q:90/h:553/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTY4/OTktMTQwNDYyMDc0/NS01NzAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Pedicin, Jr",
+      "title": "Blame It On Your Heart",
+      "release_title": "Michael Pedicin* - Ballads ...Searching For Peace",
+      "year": "2011",
+      "label": "The Jazz Hut",
+      "country": "US",
+      "discogs_id": 9862733,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/0aRu6_6wwq2VfW4oOvTNU62VXFBXWtXu4B5YP8lckUg/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjI3/MzMtMTQ4NzU1NTg4/Ny03MjM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Lloyd",
+      "title": "Pre-Dawn",
+      "release_title": "Charles Lloyd - Soundtrack",
+      "year": "2007",
+      "label": "Rhino Atlantic",
+      "country": "US",
+      "discogs_id": 15152198,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_TmkyJHcrESI7EeV7_uPPoGNx3MqOzSfYeJMj4JFYJo/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTUy/MTk4LTE1ODczNTEy/NTUtOTM5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Doris Troy",
+      "title": "But I Love Him",
+      "release_title": "Doris Troy - Just One Look - The Best Of Doris Troy",
+      "year": "1994",
+      "label": "Ichiban Records",
+      "country": "US",
+      "discogs_id": 7608434,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/sthnr8pLt1itYrBsu_ApWzu0YbrHr7cyK9PKHhg-f9U/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg0/MzQtMTcxOTMzMDg2/MS0yODUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Visions Of A New World (Phase One)",
+      "release_title": "Lonnie Liston Smith - Live!",
+      "year": "1977",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 5856899,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/x8IZ-r27qaWn0DHJrBJBeY3OTp8dB-MT-81IDzcBb4c/rs:fit/g:sm/q:90/h:553/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTY4/OTktMTQwNDYyMDc0/NS01NzAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Newz",
+      "title": "Part Time Love (Radio Mix)",
+      "release_title": "Newz (4) - I Should Have Known",
+      "year": "1991",
+      "label": "CS Records",
+      "country": "US",
+      "discogs_id": 2281194,
+      "rating_avg": 4.83,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/r5QQbYJ1b7bVDpe72H8HAeWuVHP5MDXlBfgqOdipbuU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODEx/OTQtMTQ0MDU0NjM3/OS01MjMzLmpwZWc.jpeg"
+    }
+  ]
+}
