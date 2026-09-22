@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Rock",
+        "style": "Soft Rock"
+      },
+      {
+        "genre": "Latin",
+        "style": "Bossanova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1966,
+    "year_to": 2016,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 35,
+      "artists_found": 33,
+      "fresh_lookups": 1,
+      "styles_considered": 101
+    }
+  },
+  "results": [
+    {
+      "artist": "Toto Laraque",
+      "title": "Akoustik Konpa",
+      "release_title": "Toto Laraque - Guitarement Votre II",
+      "year": "2002",
+      "label": "Geronimo Records",
+      "country": "US",
+      "discogs_id": 7561676,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/m2twVKXy4nTupaBiDMPcuF9DbVNFKroLE8bZBKp7oLs/rs:fit/g:sm/q:90/h:265/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjE2/NzYtMTQ0NDA2MTQw/MS0xNjMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Debbie Reynolds",
+      "title": "A Pied Piper (Petit Pierrot)",
+      "release_title": "Debbie Reynolds - The Singing Nun",
+      "year": "1966",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 28313023,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eGvcWr6WL1sVkgyGVjrB2CfGPAWa6lMip-tQ1m2miG8/rs:fit/g:sm/q:90/h:600/w:468/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzEz/MDIzLTE2OTUwMDM5/NTYtODI2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie \"Lockjaw\" Davis & Buddy Tate & Coleman Hawkins & Arnett Cobb",
+      "title": "Foot Pattin'",
+      "release_title": "Eddie \"Lockjaw\" Davis / Buddy Tate / Coleman Hawkins / Arnett Cobb - Very Saxy!",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 8556272,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/fFmCYHY0nKotEwkMjwUgbziItSUq69UDUhpGb_Dn_yc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTYy/NzItMTU0NDAyNjQ5/Ni02OTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Elizabeth Taylor & Richard Burton & George Segal & Sandy Dennis",
+      "title": "Who's Afraid Of Virginia Woolf?",
+      "release_title": "Elizabeth Taylor, Richard Burton (2), George Segal, Sandy Dennis (2) - Who's Afraid Of Virginia Woolf?",
+      "year": "1966",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6211858,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/xwMLnd7foBxOqgcxi0wfEnNuuzAQtCULxrRrI70kyQw/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTE4/NTgtMTQ0NTExNzEx/Ni03NDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Williams & London Symphony Orchestra",
+      "title": "The Last Battle",
+      "release_title": "John Williams (4), The London Symphony Orchestra* - Star Wars",
+      "year": "1977",
+      "label": "20th Century Records",
+      "country": "US",
+      "discogs_id": 5153120,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/qwP9wXFDBBVPVeogSlhXwl41ch2P0Hc2AIbajZ9iydM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTMx/MjAtMTM4NTkzMTQx/My04MTc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Small",
+      "title": "Bugle To The Mountains",
+      "release_title": "Michael Small - The Sporting Club",
+      "year": "1971",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 7858544,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/q1obGGZFQ4-iGctkjr9YD2EwwEfj4CQev5HN_7_hgxw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTg1/NDQtMTQ1ODU5OTcx/MS0xODcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Debbie Reynolds",
+      "title": "Dominique",
+      "release_title": "Debbie Reynolds - The Singing Nun",
+      "year": "1966",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 28313023,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eGvcWr6WL1sVkgyGVjrB2CfGPAWa6lMip-tQ1m2miG8/rs:fit/g:sm/q:90/h:600/w:468/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzEz/MDIzLTE2OTUwMDM5/NTYtODI2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kassin+2",
+      "title": "Homem Ao Mar",
+      "release_title": "Kassin+2 - Futurismo",
+      "year": "2008",
+      "label": "Luaka Bop",
+      "country": "US",
+      "discogs_id": 5124399,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/m2ZG3sBvIuFE8-Ib1VV8TqFigpInwb5Bmgx7OnrEdWY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjQz/OTktMTM4NTE1NTI0/Mi01ODQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "A Whole New World",
+      "release_title": "Various - Cassette Sampler",
+      "year": "1996",
+      "label": "Walt Disney Records",
+      "country": "US",
+      "discogs_id": 17086200,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JGsuP7SGMn-mfweV2qER8yREY8B3okOXfZuFrPLlvnQ/rs:fit/g:sm/q:90/h:425/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDg2/MjAwLTE3Mzk1NjU1/NDItMjQ0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Debbie Reynolds",
+      "title": "Avec Toi (With You I Shall Walk) / Alleluia",
+      "release_title": "Debbie Reynolds - The Singing Nun",
+      "year": "1966",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 28313023,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eGvcWr6WL1sVkgyGVjrB2CfGPAWa6lMip-tQ1m2miG8/rs:fit/g:sm/q:90/h:600/w:468/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzEz/MDIzLTE2OTUwMDM5/NTYtODI2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grassella Oliphant",
+      "title": "Cantaloupe Woman",
+      "release_title": "Grassella Oliphant - The Grass Is Greener",
+      "year": "1967",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 3074457,
+      "rating_avg": 4.9,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/b4XyT7zMaUMAt-5GZbxkaJofhGokhl2y3Un6LJm0RBw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ0/NTctMTMxNDYyNjk1/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Small",
+      "title": "Fox's Minstrel Show Part 2",
+      "release_title": "Michael Small - The Sporting Club",
+      "year": "1971",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 7858544,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/q1obGGZFQ4-iGctkjr9YD2EwwEfj4CQev5HN_7_hgxw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTg1/NDQtMTQ1ODU5OTcx/MS0xODcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kassin+2",
+      "title": "Simbióticos",
+      "release_title": "Kassin+2 - Futurismo",
+      "year": "2008",
+      "label": "Luaka Bop",
+      "country": "US",
+      "discogs_id": 5124399,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/m2ZG3sBvIuFE8-Ib1VV8TqFigpInwb5Bmgx7OnrEdWY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjQz/OTktMTM4NTE1NTI0/Mi01ODQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Clayderman",
+      "title": "O Barquinho",
+      "release_title": "Richard Clayderman - My Bossa Nova Favorites",
+      "year": "1997",
+      "label": "Delphine",
+      "country": "US",
+      "discogs_id": 29487994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SlyIhLvziKb7bjX0D4DLus0g11jsjMqzzafjH6myEwE/rs:fit/g:sm/q:90/h:524/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg3/OTk0LTE3MDUyNTUw/OTQtNDkzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Os Cariocas",
+      "title": "Sampa",
+      "release_title": "Os Cariocas - Reconquistar",
+      "year": "1991",
+      "label": "Tropical Storm",
+      "country": "US",
+      "discogs_id": 9267497,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ffcC1Ti19uMce9JzwOgtNQlh1tIZQyfFIfsUEqqBRwg/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjc0/OTctMTQ3NzY2NTE0/Ny03ODk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Small",
+      "title": "Square Dance",
+      "release_title": "Michael Small - The Sporting Club",
+      "year": "1971",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 7858544,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/q1obGGZFQ4-iGctkjr9YD2EwwEfj4CQev5HN_7_hgxw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTg1/NDQtMTQ1ODU5OTcx/MS0xODcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Os Cariocas",
+      "title": "Tarde Em Itapoã",
+      "release_title": "Os Cariocas - Reconquistar",
+      "year": "1991",
+      "label": "Tropical Storm",
+      "country": "US",
+      "discogs_id": 9267497,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ffcC1Ti19uMce9JzwOgtNQlh1tIZQyfFIfsUEqqBRwg/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjc0/OTctMTQ3NzY2NTE0/Ny03ODk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Beauty and the Beast",
+      "release_title": "Various - Cassette Sampler",
+      "year": "1996",
+      "label": "Walt Disney Records",
+      "country": "US",
+      "discogs_id": 17086200,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JGsuP7SGMn-mfweV2qER8yREY8B3okOXfZuFrPLlvnQ/rs:fit/g:sm/q:90/h:425/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDg2/MjAwLTE3Mzk1NjU1/NDItMjQ0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Colors of the Wind",
+      "release_title": "Various - Cassette Sampler",
+      "year": "1996",
+      "label": "Walt Disney Records",
+      "country": "US",
+      "discogs_id": 17086200,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JGsuP7SGMn-mfweV2qER8yREY8B3okOXfZuFrPLlvnQ/rs:fit/g:sm/q:90/h:425/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDg2/MjAwLTE3Mzk1NjU1/NDItMjQ0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie \"Lockjaw\" Davis & Buddy Tate & Coleman Hawkins & Arnett Cobb",
+      "title": "Very Saxy",
+      "release_title": "Eddie \"Lockjaw\" Davis / Buddy Tate / Coleman Hawkins / Arnett Cobb - Very Saxy!",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 8556272,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/fFmCYHY0nKotEwkMjwUgbziItSUq69UDUhpGb_Dn_yc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTYy/NzItMTU0NDAyNjQ5/Ni02OTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grassella Oliphant",
+      "title": "Peaches Are Better Down The Road",
+      "release_title": "Grassella Oliphant - The Grass Is Greener",
+      "year": "1967",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 3074457,
+      "rating_avg": 4.9,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/b4XyT7zMaUMAt-5GZbxkaJofhGokhl2y3Un6LJm0RBw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ0/NTctMTMxNDYyNjk1/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Toto Laraque",
+      "title": "Jane",
+      "release_title": "Toto Laraque - Guitarement Votre II",
+      "year": "2002",
+      "label": "Geronimo Records",
+      "country": "US",
+      "discogs_id": 7561676,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/m2twVKXy4nTupaBiDMPcuF9DbVNFKroLE8bZBKp7oLs/rs:fit/g:sm/q:90/h:265/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjE2/NzYtMTQ0NDA2MTQw/MS0xNjMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Clayderman",
+      "title": "Jet Samba",
+      "release_title": "Richard Clayderman - My Bossa Nova Favorites",
+      "year": "1997",
+      "label": "Delphine",
+      "country": "US",
+      "discogs_id": 29487994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SlyIhLvziKb7bjX0D4DLus0g11jsjMqzzafjH6myEwE/rs:fit/g:sm/q:90/h:524/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg3/OTk0LTE3MDUyNTUw/OTQtNDkzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabriela",
+      "title": "Cuando Vuelva A Tu Lado = When I Come Back To You",
+      "release_title": "Gabriela (27) - Love Songs In Modern Settings By The New Favorite Of Mexico's Jet Set...",
+      "year": "1966",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 30099575,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bzXko7_EHfKErhFSfCw-DpjlCG-_tx19MSFdNGdIh3Q/rs:fit/g:sm/q:90/h:427/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTc1LTE3MTA0NTgw/MzctMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kassin+2",
+      "title": "Mensagem",
+      "release_title": "Kassin+2 - Futurismo",
+      "year": "2008",
+      "label": "Luaka Bop",
+      "country": "US",
+      "discogs_id": 5124399,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/m2ZG3sBvIuFE8-Ib1VV8TqFigpInwb5Bmgx7OnrEdWY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjQz/OTktMTM4NTE1NTI0/Mi01ODQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Os Cariocas",
+      "title": "Reconquistar",
+      "release_title": "Os Cariocas - Reconquistar",
+      "year": "1991",
+      "label": "Tropical Storm",
+      "country": "US",
+      "discogs_id": 9267497,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ffcC1Ti19uMce9JzwOgtNQlh1tIZQyfFIfsUEqqBRwg/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjc0/OTctMTQ3NzY2NTE0/Ny03ODk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Small",
+      "title": "Nude Janie",
+      "release_title": "Michael Small - The Sporting Club",
+      "year": "1971",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 7858544,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/q1obGGZFQ4-iGctkjr9YD2EwwEfj4CQev5HN_7_hgxw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTg1/NDQtMTQ1ODU5OTcx/MS0xODcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Toto Laraque",
+      "title": "Ne Me Quittes Pas",
+      "release_title": "Toto Laraque - Guitarement Votre II",
+      "year": "2002",
+      "label": "Geronimo Records",
+      "country": "US",
+      "discogs_id": 7561676,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/m2twVKXy4nTupaBiDMPcuF9DbVNFKroLE8bZBKp7oLs/rs:fit/g:sm/q:90/h:265/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjE2/NzYtMTQ0NDA2MTQw/MS0xNjMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie \"Lockjaw\" Davis & Buddy Tate & Coleman Hawkins & Arnett Cobb",
+      "title": "Fourmost",
+      "release_title": "Eddie \"Lockjaw\" Davis / Buddy Tate / Coleman Hawkins / Arnett Cobb - Very Saxy!",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 8556272,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/fFmCYHY0nKotEwkMjwUgbziItSUq69UDUhpGb_Dn_yc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTYy/NzItMTU0NDAyNjQ5/Ni02OTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grassella Oliphant",
+      "title": "The Latter Days",
+      "release_title": "Grassella Oliphant - The Grass Is Greener",
+      "year": "1967",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 3074457,
+      "rating_avg": 4.9,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/b4XyT7zMaUMAt-5GZbxkaJofhGokhl2y3Un6LJm0RBw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ0/NTctMTMxNDYyNjk1/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Williams & London Symphony Orchestra",
+      "title": "The Return Home",
+      "release_title": "John Williams (4), The London Symphony Orchestra* - Star Wars",
+      "year": "1977",
+      "label": "20th Century Records",
+      "country": "US",
+      "discogs_id": 5153120,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/qwP9wXFDBBVPVeogSlhXwl41ch2P0Hc2AIbajZ9iydM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTMx/MjAtMTM4NTkzMTQx/My04MTc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Debbie Reynolds",
+      "title": "I'd Like To Be (Je Verdais)",
+      "release_title": "Debbie Reynolds - The Singing Nun",
+      "year": "1966",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 28313023,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eGvcWr6WL1sVkgyGVjrB2CfGPAWa6lMip-tQ1m2miG8/rs:fit/g:sm/q:90/h:600/w:468/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzEz/MDIzLTE2OTUwMDM5/NTYtODI2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grassella Oliphant",
+      "title": "Soul Woman",
+      "release_title": "Grassella Oliphant - The Grass Is Greener",
+      "year": "1967",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 3074457,
+      "rating_avg": 4.9,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/b4XyT7zMaUMAt-5GZbxkaJofhGokhl2y3Un6LJm0RBw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ0/NTctMTMxNDYyNjk1/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Os Cariocas",
+      "title": "Amei Demais",
+      "release_title": "Os Cariocas - Reconquistar",
+      "year": "1991",
+      "label": "Tropical Storm",
+      "country": "US",
+      "discogs_id": 9267497,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ffcC1Ti19uMce9JzwOgtNQlh1tIZQyfFIfsUEqqBRwg/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjc0/OTctMTQ3NzY2NTE0/Ny03ODk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Clayderman",
+      "title": "A Felicidade",
+      "release_title": "Richard Clayderman - My Bossa Nova Favorites",
+      "year": "1997",
+      "label": "Delphine",
+      "country": "US",
+      "discogs_id": 29487994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SlyIhLvziKb7bjX0D4DLus0g11jsjMqzzafjH6myEwE/rs:fit/g:sm/q:90/h:524/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg3/OTk0LTE3MDUyNTUw/OTQtNDkzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Williams & London Symphony Orchestra",
+      "title": "The Little People Work",
+      "release_title": "John Williams (4), The London Symphony Orchestra* - Star Wars",
+      "year": "1977",
+      "label": "20th Century Records",
+      "country": "US",
+      "discogs_id": 5153120,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/qwP9wXFDBBVPVeogSlhXwl41ch2P0Hc2AIbajZ9iydM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTMx/MjAtMTM4NTkzMTQx/My04MTc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Toto Laraque",
+      "title": "C'est L'amour",
+      "release_title": "Toto Laraque - Guitarement Votre II",
+      "year": "2002",
+      "label": "Geronimo Records",
+      "country": "US",
+      "discogs_id": 7561676,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/m2twVKXy4nTupaBiDMPcuF9DbVNFKroLE8bZBKp7oLs/rs:fit/g:sm/q:90/h:265/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjE2/NzYtMTQ0NDA2MTQw/MS0xNjMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Clayderman",
+      "title": "Aguas De Março (Waters Of March)",
+      "release_title": "Richard Clayderman - My Bossa Nova Favorites",
+      "year": "1997",
+      "label": "Delphine",
+      "country": "US",
+      "discogs_id": 29487994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/SlyIhLvziKb7bjX0D4DLus0g11jsjMqzzafjH6myEwE/rs:fit/g:sm/q:90/h:524/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg3/OTk0LTE3MDUyNTUw/OTQtNDkzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Up Tight",
+      "release_title": "Ramsey Lewis - Up Tight ",
+      "year": "1966",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 10093031,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/D8_3c4hfx2l-542S_8l-8SrnyrVYAUKFbYd8fWEiARw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkz/MDMxLTE0OTE0ODU2/MTUtOTE2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kassin+2",
+      "title": "Pra Lembrar",
+      "release_title": "Kassin+2 - Futurismo",
+      "year": "2008",
+      "label": "Luaka Bop",
+      "country": "US",
+      "discogs_id": 5124399,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/m2ZG3sBvIuFE8-Ib1VV8TqFigpInwb5Bmgx7OnrEdWY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjQz/OTktMTM4NTE1NTI0/Mi01ODQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie \"Lockjaw\" Davis & Buddy Tate & Coleman Hawkins & Arnett Cobb",
+      "title": "Light And Lovely",
+      "release_title": "Eddie \"Lockjaw\" Davis / Buddy Tate / Coleman Hawkins / Arnett Cobb - Very Saxy!",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 8556272,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/fFmCYHY0nKotEwkMjwUgbziItSUq69UDUhpGb_Dn_yc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTYy/NzItMTU0NDAyNjQ5/Ni02OTUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gabriela",
+      "title": "Incertidumbre = Uncertainty",
+      "release_title": "Gabriela (27) - Love Songs In Modern Settings By The New Favorite Of Mexico's Jet Set...",
+      "year": "1966",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 30099575,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bzXko7_EHfKErhFSfCw-DpjlCG-_tx19MSFdNGdIh3Q/rs:fit/g:sm/q:90/h:427/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTc1LTE3MTA0NTgw/MzctMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Williams & London Symphony Orchestra",
+      "title": "The Desert And The Robot Auction",
+      "release_title": "John Williams (4), The London Symphony Orchestra* - Star Wars",
+      "year": "1977",
+      "label": "20th Century Records",
+      "country": "US",
+      "discogs_id": 5153120,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/qwP9wXFDBBVPVeogSlhXwl41ch2P0Hc2AIbajZ9iydM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTMx/MjAtMTM4NTkzMTQx/My04MTc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gabriela",
+      "title": "Que Seas Feliz = May You Be Happy",
+      "release_title": "Gabriela (27) - Love Songs In Modern Settings By The New Favorite Of Mexico's Jet Set...",
+      "year": "1966",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 30099575,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bzXko7_EHfKErhFSfCw-DpjlCG-_tx19MSFdNGdIh3Q/rs:fit/g:sm/q:90/h:427/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTc1LTE3MTA0NTgw/MzctMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabriela",
+      "title": "Te Necesito = I Need You",
+      "release_title": "Gabriela (27) - Love Songs In Modern Settings By The New Favorite Of Mexico's Jet Set...",
+      "year": "1966",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 30099575,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bzXko7_EHfKErhFSfCw-DpjlCG-_tx19MSFdNGdIh3Q/rs:fit/g:sm/q:90/h:427/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTc1LTE3MTA0NTgw/MzctMTA3OS5qcGVn.jpeg"
+    }
+  ]
+}
