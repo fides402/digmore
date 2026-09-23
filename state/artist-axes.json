@@ -11127,6 +11127,208 @@
    2025
   ]
  },
+ "ann burton": {
+  "countries": [
+   "Netherlands",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Germany",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Netherlands",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "US",
+   "Netherlands",
+   "Netherlands",
+   "Japan",
+   "Japan",
+   "Japan"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Smooth Jazz",
+   "Smooth Jazz",
+   "Soul-Jazz",
+   "Vocal",
+   "Smooth Jazz",
+   "Bop",
+   "Smooth Jazz",
+   "Cool Jazz",
+   "Soul-Jazz",
+   "Vocal",
+   "Smooth Jazz",
+   "Vocal",
+   "Vocal",
+   "Cool Jazz",
+   "Smooth Jazz",
+   "Vocal",
+   "Smooth Jazz",
+   "Vocal",
+   "Smooth Jazz",
+   "Vocal",
+   "Smooth Jazz",
+   "Vocal",
+   "Smooth Jazz"
+  ],
+  "years": [
+   1999,
+   1977,
+   1970,
+   1980,
+   2014,
+   2011,
+   2009,
+   1993,
+   2020,
+   1993,
+   1989,
+   1980,
+   2022,
+   1985,
+   2010,
+   2021,
+   1999,
+   2002,
+   1979,
+   1981,
+   1981,
+   1979,
+   2003,
+   2003
+  ]
+ },
  "ann mortifee": {
   "countries": [
    "Canada",
@@ -23416,6 +23618,260 @@
    1989,
    1984,
    1989
+  ]
+ },
+ "bill evans trio": {
+  "countries": [
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "US",
+   "US",
+   "Europe",
+   "Europe",
+   "Israel",
+   "Japan",
+   "Italy",
+   "Japan",
+   "US",
+   "US",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Post Bop",
+   "Modal",
+   "Post Bop",
+   "Modal",
+   "Cool Jazz",
+   "Modal",
+   "Cool Jazz",
+   "Modal",
+   "Cool Jazz",
+   "Modal",
+   "Cool Jazz",
+   "Modal",
+   "Cool Jazz",
+   "Modal",
+   "Cool Jazz",
+   "Modal",
+   "Post Bop",
+   "Post Bop",
+   "Cool Jazz",
+   "Post Bop",
+   "Modal",
+   "Post Bop",
+   "Modal",
+   "Cool Jazz",
+   "Post Bop",
+   "Modal",
+   "Post Bop",
+   "Post Bop",
+   "Modal",
+   "Post Bop",
+   "Modal",
+   "Post Bop",
+   "Post Bop",
+   "Post Bop"
+  ],
+  "years": [
+   1976,
+   2015,
+   1962,
+   1974,
+   1974,
+   1962,
+   1974,
+   1974,
+   2021,
+   1966,
+   1990,
+   2015,
+   2000,
+   1983,
+   1983,
+   2009,
+   2025,
+   2025,
+   2024,
+   2012,
+   2015
   ]
  },
  "bill frisell": {
@@ -69740,6 +70196,226 @@
    1979,
    1981,
    1975
+  ]
+ },
+ "helen merrill": {
+  "countries": [
+   "USSR",
+   "USSR",
+   "USSR",
+   "Japan",
+   "USSR",
+   "Japan",
+   "USSR",
+   "Japan",
+   "USSR",
+   "Japan",
+   "Japan",
+   "Italy",
+   "Japan",
+   "France",
+   "Japan",
+   "Brazil",
+   "Japan",
+   "US",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "US",
+   "UK"
+  ],
+  "genres": [
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Stage & Screen"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Vocal",
+   "Vocal",
+   "Vocal",
+   "Vocal",
+   "Vocal",
+   "Vocal",
+   "Vocal",
+   "Vocal",
+   "Vocal",
+   "Swing",
+   "Cool Jazz",
+   "Vocal",
+   "Smooth Jazz",
+   "Bop",
+   "Cool Jazz",
+   "Vocal",
+   "Cool Jazz",
+   "Swing",
+   "Vocal"
+  ],
+  "years": [
+   1985,
+   1985,
+   1986,
+   1967,
+   1985,
+   1966,
+   1986,
+   1974,
+   2000,
+   1989,
+   1996,
+   1986,
+   1986,
+   2017,
+   1991,
+   1993,
+   2020,
+   1992,
+   1991,
+   1983,
+   1980
   ]
  },
  "henry mancini": {
