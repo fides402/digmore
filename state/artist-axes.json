@@ -38441,6 +38441,354 @@
    1959
   ]
  },
+ "daniel faure": {
+  "countries": [
+   "France",
+   "France",
+   "France",
+   "Italy",
+   "France",
+   "Italy",
+   "France",
+   "France",
+   "France",
+   "France",
+   "France",
+   "France",
+   "France",
+   "France",
+   "France",
+   "Netherlands",
+   "France",
+   "UK",
+   "US",
+   "UK",
+   "Brazil",
+   "France",
+   "Europe",
+   "France",
+   "France"
+  ],
+  "genres": [
+   "Pop",
+   "Pop",
+   "Jazz",
+   "Classical",
+   "Electronic",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Pop",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Classical",
+   "Jazz",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Classical",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Classical"
+  ],
+  "pairs": [
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Beat",
+    "Pop"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Jazz"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ],
+   [
+    "Psychedelic",
+    "Electronic"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Stage & Screen"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Funk / Soul"
+   ],
+   [
+    "Big Band",
+    "Stage & Screen"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Musical",
+    "Pop"
+   ],
+   [
+    "Musical",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Neo-Classical",
+    "Classical"
+   ],
+   [
+    "Neo-Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Classical"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Neo-Classical",
+    "Classical"
+   ],
+   [
+    "Neo-Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Classical"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Romantic",
+    "Classical"
+   ],
+   [
+    "Romantic",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Romantic",
+    "Classical"
+   ],
+   [
+    "Romantic",
+    "Classical"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Romantic",
+    "Classical"
+   ],
+   [
+    "Baroque",
+    "Classical"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Chanson",
+   "Chanson",
+   "Beat",
+   "Jazz-Rock",
+   "Baroque",
+   "Psychedelic",
+   "Disco",
+   "Funk",
+   "Soundtrack",
+   "Disco",
+   "Big Band",
+   "Experimental",
+   "Chanson",
+   "Musical",
+   "Soundtrack",
+   "Neo-Classical",
+   "Theme",
+   "Neo-Classical",
+   "Theme",
+   "Disco",
+   "Funk",
+   "Theme",
+   "Romantic",
+   "Romantic",
+   "Modern",
+   "Romantic",
+   "Romantic",
+   "Swing",
+   "Romantic",
+   "Baroque"
+  ],
+  "years": [
+   1966,
+   1966,
+   1976,
+   1979,
+   1976,
+   1964,
+   1978,
+   1979,
+   1980,
+   1981,
+   1975,
+   2024,
+   1981,
+   1972,
+   1981,
+   1992,
+   1976
+  ]
+ },
  "daniel lavoie": {
   "countries": [
    "Canada",
