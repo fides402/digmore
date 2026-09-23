@@ -1,0 +1,22 @@
+{
+  "status": "empty",
+  "spec_used": {
+    "id": "imagine-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Sophisti-Pop"
+      }
+    ],
+    "countries": [],
+    "year_from": 1971,
+    "year_to": 1992,
+    "target": 10,
+    "derived": false,
+    "widened": true,
+    "rounds": 4,
+    "obscure": true,
+    "coverage": {}
+  },
+  "results": []
+}
