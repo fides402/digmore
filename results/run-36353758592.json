@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2019,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 39,
+      "artists_found": 39,
+      "fresh_lookups": 0,
+      "styles_considered": 122
+    }
+  },
+  "results": [
+    {
+      "artist": "Eternal Wind",
+      "title": "Xingu",
+      "release_title": "Eternal Wind - Eternal Wind",
+      "year": "1984",
+      "label": "Flying Fish",
+      "country": "US",
+      "discogs_id": 3376309,
+      "rating_avg": 4.46,
+      "rating_count": 24,
+      "cover_image": "https://i.discogs.com/To54_bVFu2k0_0_pKlXDvllLxREsiA1HyuCpwx9AzPk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzYz/MDktMTY4MjI1NDI1/MS00ODM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Juan Pablo Torres",
+      "title": "Cubanacan",
+      "release_title": "Juan Pablo Torres - Identidad",
+      "year": "2004",
+      "label": "Pimenta Records",
+      "country": "US",
+      "discogs_id": 11989630,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2USc_lORnFdYNyMCF95whqgGZvMZxpl-yAox6kBZ4S0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg5/NjMwLTE1MjYxMTAz/MDktMjgzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hal Gordon",
+      "title": "Long Ago & Far Away",
+      "release_title": "Hal Gordon - Halatino",
+      "year": "1977",
+      "label": "Baby Grand",
+      "country": "US",
+      "discogs_id": 11160377,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bz5Xu6DHgnkITZcKAvR2oN6F2fxBsvKZ0WQ9ELuXPus/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYw/Mzc3LTE1MTE3NzMy/MTQtNTc0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hal Gordon",
+      "title": "Love Walked In",
+      "release_title": "Hal Gordon - Halatino",
+      "year": "1977",
+      "label": "Baby Grand",
+      "country": "US",
+      "discogs_id": 11160377,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bz5Xu6DHgnkITZcKAvR2oN6F2fxBsvKZ0WQ9ELuXPus/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYw/Mzc3LTE1MTE3NzMy/MTQtNTc0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Noel LaPierre",
+      "title": "Pump Me Up",
+      "release_title": "Noel LaPierre - Waterflow",
+      "year": "2000",
+      "label": "PGP",
+      "country": "US",
+      "discogs_id": 33783192,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9LE5moxzH3qFbDPff7k-cz5ZGbbMM53dWWRD3nhk32Q/rs:fit/g:sm/q:90/h:480/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzgz/MTkyLTE3NDUzODcx/OTktMTE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tres",
+      "title": "Hasta La Tumba",
+      "release_title": "Tres (20) - Tres",
+      "year": "2005",
+      "label": "Not On Label (Tres (20) Self-released)",
+      "country": "US",
+      "discogs_id": 32150769,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1DmWD6D8irL0hcORI3qy6m2MwS2yMlJihk4LNAVqRA0/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/NzY5LTE3MzAzMDg1/MjYtMTMyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hal Gordon",
+      "title": "What Are You Doing The Rest Of Your Life",
+      "release_title": "Hal Gordon - Halatino",
+      "year": "1977",
+      "label": "Baby Grand",
+      "country": "US",
+      "discogs_id": 11160377,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bz5Xu6DHgnkITZcKAvR2oN6F2fxBsvKZ0WQ9ELuXPus/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYw/Mzc3LTE1MTE3NzMy/MTQtNTc0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Noel LaPierre",
+      "title": "Forbidden Love",
+      "release_title": "Noel LaPierre - Waterflow",
+      "year": "2000",
+      "label": "PGP",
+      "country": "US",
+      "discogs_id": 33783192,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9LE5moxzH3qFbDPff7k-cz5ZGbbMM53dWWRD3nhk32Q/rs:fit/g:sm/q:90/h:480/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzgz/MTkyLTE3NDUzODcx/OTktMTE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pete Levin",
+      "title": "Subway",
+      "release_title": "Pete Levin - Party In The Basement",
+      "year": "1990",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 7753035,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/f7wraHGNxBpsh1xPhvTyC8Ysl7Qd-wAr5pR-5HBPm0Y/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTMw/MzUtMTY3MDQ1NDEw/NC01ODEwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Noel LaPierre",
+      "title": "High Mas (Give Praise)",
+      "release_title": "Noel LaPierre - Waterflow",
+      "year": "2000",
+      "label": "PGP",
+      "country": "US",
+      "discogs_id": 33783192,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9LE5moxzH3qFbDPff7k-cz5ZGbbMM53dWWRD3nhk32Q/rs:fit/g:sm/q:90/h:480/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzgz/MTkyLTE3NDUzODcx/OTktMTE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Under The Lake",
+      "title": "The Redhead I Know",
+      "release_title": "Under The Lake -  People Together ",
+      "year": "2017",
+      "label": "Groove",
+      "country": "US",
+      "discogs_id": 13145567,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/SbOL6oTLsOlZPqR2K7ucWMk5U0Zsztvth1ct85wfqyM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ1/NTY3LTE1NDg4NjEy/NTUtNjQzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Felipe Salles",
+      "title": "Sphere",
+      "release_title": "Felipe Salles - Timeline",
+      "year": "2009",
+      "label": "Curare Records",
+      "country": "US",
+      "discogs_id": 15886063,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zv5M2v501T2vESJ_4H7J-JfjvJoVf2HPKWTvZE87BYA/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg2/MDYzLTE1OTk1OTEx/MTctODA2OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "East Coast Offering",
+      "title": "Once Nightly",
+      "release_title": "East Coast Offering - Walkin' With You",
+      "year": "1985",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 9187614,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/6wQMOr28LaY2Sh6gxK78YTyElU4MT8UI5XBRK5VKwGQ/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODc2/MTQtMTQ3NjMyNjM5/NS03Mzk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Valentin",
+      "title": "Chris-Cross",
+      "release_title": "Dave Valentin - Light Struck",
+      "year": "2015",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 12358298,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/78g5Y4u_zy_-gWYp4FmW0QezcQ_Z9HutiPaxbDsBulM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/Mjk4LTE1NjcwNTkw/ODYtNjgzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Johnson",
+      "title": "Monsoona Montoona",
+      "release_title": "Blue Johnson - Siamese Twins",
+      "year": "1995",
+      "label": "Noteworthy Records",
+      "country": "US",
+      "discogs_id": 25835071,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/17U4saxA6NPlul2xE9vVvHoJNxo7tOzC9dKtnfieuUA/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM1/MDcxLTE2NzQyOTQz/MDUtMzczMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roy Ayers & Wayne Henderson",
+      "title": "Tell Me What You Want",
+      "release_title": "Roy Ayers - Wayne Henderson - Prime Time",
+      "year": "1980",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 499343,
+      "rating_avg": 4.07,
+      "rating_count": 54,
+      "cover_image": "https://i.discogs.com/Vz4tcg2XnBnkxH9sIXv1W_vGtkmK1rpeDPDqybQwhDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTM0/My0xNjU1NzQ5MTc4/LTc4MzUuanBlZw.jpeg"
+    },
+    {
+      "artist": "Tres",
+      "title": "Barcelona",
+      "release_title": "Tres (20) - Tres",
+      "year": "2005",
+      "label": "Not On Label (Tres (20) Self-released)",
+      "country": "US",
+      "discogs_id": 32150769,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1DmWD6D8irL0hcORI3qy6m2MwS2yMlJihk4LNAVqRA0/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/NzY5LTE3MzAzMDg1/MjYtMTMyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Don Mock",
+      "title": "Song To A Seagull",
+      "release_title": "Don Mock - Mock One",
+      "year": "1978",
+      "label": "Wolf Records",
+      "country": "US",
+      "discogs_id": 3658295,
+      "rating_avg": 4.54,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/Q7-3ZNSrWNX_l970d5k5HbtQEBeSjapOYvZwGQtAuqU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTgy/OTUtMTY2MTc0NzMx/OC04NDI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy Stewart",
+      "title": "The Touch",
+      "release_title": "Jimmy Stewart (2) - The Touch",
+      "year": "1986",
+      "label": "Blackhawk Records",
+      "country": "US",
+      "discogs_id": 7913198,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/9UhcHIBDBVIy_fV4rcMjgE5JPuaZ1v_bTWKAiPdQ5QA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTMx/OTgtMTY0MzgzOTE5/NS00MTUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Hydra",
+      "release_title": "Grover Washington, Jr. - Feels So Good",
+      "year": "1975",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 9258956,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://st.discogs.com/56f15cee30f23d8fdf3e077601339c697f31d048/images/spacer.gif"
+    },
+    {
+      "artist": "Juan Pablo Torres",
+      "title": "Ajiaco",
+      "release_title": "Juan Pablo Torres - Identidad",
+      "year": "2004",
+      "label": "Pimenta Records",
+      "country": "US",
+      "discogs_id": 11989630,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2USc_lORnFdYNyMCF95whqgGZvMZxpl-yAox6kBZ4S0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg5/NjMwLTE1MjYxMTAz/MDktMjgzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Johnson",
+      "title": "RIO-BKK",
+      "release_title": "Blue Johnson - Siamese Twins",
+      "year": "1995",
+      "label": "Noteworthy Records",
+      "country": "US",
+      "discogs_id": 25835071,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/17U4saxA6NPlul2xE9vVvHoJNxo7tOzC9dKtnfieuUA/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM1/MDcxLTE2NzQyOTQz/MDUtMzczMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Stewart",
+      "title": "Jim's Tune",
+      "release_title": "Jimmy Stewart (2) - The Touch",
+      "year": "1986",
+      "label": "Blackhawk Records",
+      "country": "US",
+      "discogs_id": 7913198,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/9UhcHIBDBVIy_fV4rcMjgE5JPuaZ1v_bTWKAiPdQ5QA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTMx/OTgtMTY0MzgzOTE5/NS00MTUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pete Levin",
+      "title": "Not While I'm Around",
+      "release_title": "Pete Levin - Party In The Basement",
+      "year": "1990",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 7753035,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/f7wraHGNxBpsh1xPhvTyC8Ysl7Qd-wAr5pR-5HBPm0Y/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTMw/MzUtMTY3MDQ1NDEw/NC01ODEwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roy Ayers & Wayne Henderson",
+      "title": "You Make Me Feel Like (Rockin' With Ya)",
+      "release_title": "Roy Ayers - Wayne Henderson - Prime Time",
+      "year": "1980",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 499343,
+      "rating_avg": 4.07,
+      "rating_count": 54,
+      "cover_image": "https://i.discogs.com/Vz4tcg2XnBnkxH9sIXv1W_vGtkmK1rpeDPDqybQwhDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTM0/My0xNjU1NzQ5MTc4/LTc4MzUuanBlZw.jpeg"
+    },
+    {
+      "artist": "Felipe Salles",
+      "title": "ORB",
+      "release_title": "Felipe Salles - Timeline",
+      "year": "2009",
+      "label": "Curare Records",
+      "country": "US",
+      "discogs_id": 15886063,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zv5M2v501T2vESJ_4H7J-JfjvJoVf2HPKWTvZE87BYA/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg2/MDYzLTE1OTk1OTEx/MTctODA2OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Felipe Salles",
+      "title": "Further South",
+      "release_title": "Felipe Salles - Timeline",
+      "year": "2009",
+      "label": "Curare Records",
+      "country": "US",
+      "discogs_id": 15886063,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zv5M2v501T2vESJ_4H7J-JfjvJoVf2HPKWTvZE87BYA/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg2/MDYzLTE1OTk1OTEx/MTctODA2OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tres",
+      "title": "The Last Picture Show (A Theme From An Imaginary Western)",
+      "release_title": "Tres (20) - Tres",
+      "year": "2005",
+      "label": "Not On Label (Tres (20) Self-released)",
+      "country": "US",
+      "discogs_id": 32150769,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1DmWD6D8irL0hcORI3qy6m2MwS2yMlJihk4LNAVqRA0/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/NzY5LTE3MzAzMDg1/MjYtMTMyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roy Ayers & Wayne Henderson",
+      "title": "Million Dollar Baby (Feel So Real)",
+      "release_title": "Roy Ayers - Wayne Henderson - Prime Time",
+      "year": "1980",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 499343,
+      "rating_avg": 4.07,
+      "rating_count": 54,
+      "cover_image": "https://i.discogs.com/Vz4tcg2XnBnkxH9sIXv1W_vGtkmK1rpeDPDqybQwhDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTM0/My0xNjU1NzQ5MTc4/LTc4MzUuanBlZw.jpeg"
+    },
+    {
+      "artist": "Jimmy Stewart",
+      "title": "Wes",
+      "release_title": "Jimmy Stewart (2) - The Touch",
+      "year": "1986",
+      "label": "Blackhawk Records",
+      "country": "US",
+      "discogs_id": 7913198,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/9UhcHIBDBVIy_fV4rcMjgE5JPuaZ1v_bTWKAiPdQ5QA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTMx/OTgtMTY0MzgzOTE5/NS00MTUyLmpwZWc.jpeg"
+    }
+  ]
+}
