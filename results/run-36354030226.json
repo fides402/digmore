@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1971,
+    "year_to": 2022,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 29,
+      "artists_found": 29,
+      "fresh_lookups": 0,
+      "styles_considered": 85
+    }
+  },
+  "results": [
+    {
+      "artist": "Charlie Haden Quartet West",
+      "title": "Moonlight Serenade",
+      "release_title": "Charlie Haden - Quartet West* - Haunted Heart",
+      "year": "1992",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 14087194,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-ReHkP0Glr2ALdA42VweI9ayl1-nqX-TZC5cSaIOFpc/rs:fit/g:sm/q:90/h:600/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg3/MTk0LTE1Njc2MDEy/ODYtNTQzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael White",
+      "title": "Commin' From",
+      "release_title": "Michael White (2) - Father Music, Mother Dance",
+      "year": "1974",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 1229362,
+      "rating_avg": 4.32,
+      "rating_count": 65,
+      "cover_image": "https://i.discogs.com/jxvfITsgn0QlrLG9X_POYtmVU477-Al3BRVNyUn3pqg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkz/NjItMTYzNTM4NTU1/MC03Njg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Haden Quartet West",
+      "title": "The Long Goodbye",
+      "release_title": "Charlie Haden - Quartet West* - Haunted Heart",
+      "year": "1992",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 14087194,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-ReHkP0Glr2ALdA42VweI9ayl1-nqX-TZC5cSaIOFpc/rs:fit/g:sm/q:90/h:600/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg3/MTk0LTE1Njc2MDEy/ODYtNTQzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "In The Middle Of The River",
+      "release_title": "The Crusaders - Unsung Heroes",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 12032954,
+      "rating_avg": 4.04,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/rVIK1nI18KFBsBS_jC3RhKbCWwAwxs0PLUt4-mYz8fw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDMy/OTU0LTE1NjY3NjQ3/MjMtNzg5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Erik Friedlander",
+      "title": "Breathing Echos",
+      "release_title": "Erik Friedlander - Breathing Echos",
+      "year": "2020",
+      "label": "Not On Label (Erik Friedlander Self-released)",
+      "country": "US",
+      "discogs_id": 14867622,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IimJxxb-ifd6Jp_5SZa5rTIQwyM-R5cRl1QSoxbjYPU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY3/NjIyLTE1ODMxMDE1/ODQtOTI3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Didier Lockwood Group",
+      "title": "Tenderly Yours",
+      "release_title": "Didier Lockwood Group - Didier Lockwood Group",
+      "year": "1985",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 1935092,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/OwmL87FP0Hs03Y5AXWk7p8iUjMrBdYeI4a10AblfxLo/rs:fit/g:sm/q:90/h:444/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzUw/OTItMTMwNDMwNzAx/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Now I Lay Me Down To Sleep",
+      "release_title": "The Crusaders - Unsung Heroes",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 12032954,
+      "rating_avg": 4.04,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/rVIK1nI18KFBsBS_jC3RhKbCWwAwxs0PLUt4-mYz8fw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDMy/OTU0LTE1NjY3NjQ3/MjMtNzg5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carmen Lundy",
+      "title": "So Beautiful",
+      "release_title": "Carmen Lundy - Changes",
+      "year": "2012",
+      "label": "Afrasia Productions",
+      "country": "US",
+      "discogs_id": 5743153,
+      "rating_avg": 4.75,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/lRAeRr7VsvB5-1E6SeAToZfoyqt0Otd6NItdjAZnyCg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDMx/NTMtMTQ2NzYxNDYz/Ny0yMzMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Binney & Alan Ferber",
+      "title": "Growin' Up",
+      "release_title": "David Binney, Alan Ferber - In The Paint",
+      "year": "2009",
+      "label": "Posi-Tone",
+      "country": "US",
+      "discogs_id": 3413707,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/U7i_-l2v5ZdgfDy08ON8Lly5p_zop6vT1-Wwvhb8TOg/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTM3/MDctMTQ3NjI3NDg1/MC03ODI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnny Hammond",
+      "title": "Smokin' Kool",
+      "release_title": "Johnny \"Hammond\" Smith* - I'll Be There / Smokin' Kool",
+      "year": "1971",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 10275458,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Cht1YaiPOoRfvKeD3ao2f_j-jJRp0jUlkUD_UOtk8fE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc1/NDU4LTE2MzI2Njg3/NTUtMzY0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Motian",
+      "title": "The Bag Man",
+      "release_title": "Paul Motian - I Have The Room Above Her",
+      "year": "2005",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 8639366,
+      "rating_avg": 4.33,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/KDT6zjY59QzXELLqUuI_TlA2N8pW-FrvAQ8Kqk4jRaw/rs:fit/g:sm/q:90/h:266/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mzkz/NjYtMTQ2NTY4ODI5/NC01NDQ4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Sample",
+      "title": "Looking Glass",
+      "release_title": "Joe Sample - Spellbound",
+      "year": "1990",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 37378302,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QwFV6i6tbMQ9aMCK25A5td8w8GBWMRaaQEGTVixNHBU/rs:fit/g:sm/q:90/h:238/w:152/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzc4/MzAyLTE3NzkxMzYy/OTQtNTQ0OS5wbmc.jpeg"
+    },
+    {
+      "artist": "Bobby Previte",
+      "title": "The King So Far",
+      "release_title": "Bobby Previte - Claude's Late Morning",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 1961711,
+      "rating_avg": 4.08,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/dq4mnqrj4fwLzOJZ6l85fIN-6Fm8InCcOVCi0uDxjEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE3/MTEtMTI4NjkwOTIy/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Owens",
+      "title": "New Tune",
+      "release_title": "Jimmy Owens - Headin' Home",
+      "year": "1978",
+      "label": "Horizon",
+      "country": "US",
+      "discogs_id": 5766059,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/qC8MRg2iy0dX5XGdO4PSqs2EhN-ekFkBSndg-07i3WY/rs:fit/g:sm/q:90/h:480/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYw/NTktMTQwMjA1NjI5/NS01MTczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnny Hammond",
+      "title": "I'll Be There",
+      "release_title": "Johnny \"Hammond\" Smith* - I'll Be There / Smokin' Kool",
+      "year": "1971",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 10275458,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Cht1YaiPOoRfvKeD3ao2f_j-jJRp0jUlkUD_UOtk8fE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc1/NDU4LTE2MzI2Njg3/NTUtMzY0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby Previte",
+      "title": "Bud",
+      "release_title": "Bobby Previte - Claude's Late Morning",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 1961711,
+      "rating_avg": 4.08,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/dq4mnqrj4fwLzOJZ6l85fIN-6Fm8InCcOVCi0uDxjEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE3/MTEtMTI4NjkwOTIy/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Owens",
+      "title": "B. S.",
+      "release_title": "Jimmy Owens - Headin' Home",
+      "year": "1978",
+      "label": "Horizon",
+      "country": "US",
+      "discogs_id": 5766059,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/qC8MRg2iy0dX5XGdO4PSqs2EhN-ekFkBSndg-07i3WY/rs:fit/g:sm/q:90/h:480/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYw/NTktMTQwMjA1NjI5/NS01MTczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "Face To Face",
+      "release_title": "Baby Face Willette* - Face To Face",
+      "year": "2007",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 5193444,
+      "rating_avg": 4.45,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/wy0BY_vOuhRTxMxO5jvtnBUU25q3Hk8-rqrH2HXU5KY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTM0/NDQtMTM4NzA3MDc1/NS00MTE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Haden Quartet West",
+      "title": "Deep Song",
+      "release_title": "Charlie Haden - Quartet West* - Haunted Heart",
+      "year": "1992",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 14087194,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-ReHkP0Glr2ALdA42VweI9ayl1-nqX-TZC5cSaIOFpc/rs:fit/g:sm/q:90/h:600/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg3/MTk0LTE1Njc2MDEy/ODYtNTQzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Unsung Heroes",
+      "release_title": "The Crusaders - Unsung Heroes",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 12032954,
+      "rating_avg": 4.04,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/rVIK1nI18KFBsBS_jC3RhKbCWwAwxs0PLUt4-mYz8fw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDMy/OTU0LTE1NjY3NjQ3/MjMtNzg5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "Something Strange",
+      "release_title": "Baby Face Willette* - Face To Face",
+      "year": "2007",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 5193444,
+      "rating_avg": 4.45,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/wy0BY_vOuhRTxMxO5jvtnBUU25q3Hk8-rqrH2HXU5KY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTM0/NDQtMTM4NzA3MDc1/NS00MTE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carmen Lundy",
+      "title": "Dance The Dance",
+      "release_title": "Carmen Lundy - Changes",
+      "year": "2012",
+      "label": "Afrasia Productions",
+      "country": "US",
+      "discogs_id": 5743153,
+      "rating_avg": 4.75,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/lRAeRr7VsvB5-1E6SeAToZfoyqt0Otd6NItdjAZnyCg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDMx/NTMtMTQ2NzYxNDYz/Ny0yMzMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Buster Williams",
+      "title": "Pinnacle",
+      "release_title": "Buster Williams - Pinnacle",
+      "year": "1998",
+      "label": "32 Jazz",
+      "country": "US",
+      "discogs_id": 2060063,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/gjQxT-Mr-wmvYfFOG2u9S7Ee3CFYAtlkaY0aibKag0o/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjAw/NjMtMTczMTA1NDE5/MC00MTkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy Owens",
+      "title": "Never Subject To Change",
+      "release_title": "Jimmy Owens - Headin' Home",
+      "year": "1978",
+      "label": "Horizon",
+      "country": "US",
+      "discogs_id": 5766059,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/qC8MRg2iy0dX5XGdO4PSqs2EhN-ekFkBSndg-07i3WY/rs:fit/g:sm/q:90/h:480/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYw/NTktMTQwMjA1NjI5/NS01MTczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael White",
+      "title": "Water Children",
+      "release_title": "Michael White (2) - Father Music, Mother Dance",
+      "year": "1974",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 1229362,
+      "rating_avg": 4.32,
+      "rating_count": 65,
+      "cover_image": "https://i.discogs.com/jxvfITsgn0QlrLG9X_POYtmVU477-Al3BRVNyUn3pqg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkz/NjItMTYzNTM4NTU1/MC03Njg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobby Previte",
+      "title": "Claude's Late Morning",
+      "release_title": "Bobby Previte - Claude's Late Morning",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 1961711,
+      "rating_avg": 4.08,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/dq4mnqrj4fwLzOJZ6l85fIN-6Fm8InCcOVCi0uDxjEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE3/MTEtMTI4NjkwOTIy/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Norsemen",
+      "title": "Something For Shelly",
+      "release_title": "Norsemen - Truckin' On",
+      "year": "1973",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 12840203,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/RZP6D8lln1rnR43xU2gG4ogiIbBWmezgmIpzp2kkQ2g/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQw/MjAzLTE1NDI5Nzk3/NTQtNTI4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "'Baby Face' Willette",
+      "title": "Face To Face (Alternate Take)",
+      "release_title": "Baby Face Willette* - Face To Face",
+      "year": "2007",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 5193444,
+      "rating_avg": 4.45,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/wy0BY_vOuhRTxMxO5jvtnBUU25q3Hk8-rqrH2HXU5KY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTM0/NDQtMTM4NzA3MDc1/NS00MTE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roy Porter Sound Machine",
+      "title": "Drums For Daryl",
+      "release_title": "Roy Porter Sound Machine - Jessica",
+      "year": "1990",
+      "label": "Vistone Records",
+      "country": "US",
+      "discogs_id": 5116442,
+      "rating_avg": 4.46,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/zR4G2q8FIEcJhcp-H7h2YA77B7pDqNYMCAeSudg3j3k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTY0/NDItMTM4NDk0NDcw/MS04NjY1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carmen Lundy",
+      "title": "Where Love Surrounds Us",
+      "release_title": "Carmen Lundy - Changes",
+      "year": "2012",
+      "label": "Afrasia Productions",
+      "country": "US",
+      "discogs_id": 5743153,
+      "rating_avg": 4.75,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/lRAeRr7VsvB5-1E6SeAToZfoyqt0Otd6NItdjAZnyCg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDMx/NTMtMTQ2NzYxNDYz/Ny0yMzMzLmpwZWc.jpeg"
+    }
+  ]
+}
