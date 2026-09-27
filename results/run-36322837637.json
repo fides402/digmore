@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Hard Bop"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2017,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 18,
+      "artists_found": 18,
+      "fresh_lookups": 0,
+      "styles_considered": 68
+    }
+  },
+  "results": [
+    {
+      "artist": "Joe Hicks",
+      "title": "Home Sweet Home - Part II",
+      "release_title": "Joe Hicks - Home Sweet Home - Part II ",
+      "year": "1969",
+      "label": "Scepter Records",
+      "country": "US",
+      "discogs_id": 9825801,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ToLY67yNJDf0lcVObAm3z9Fj7YXvcccMqfFBZ18rB3I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjU4/MDEtMTQ4NzA5Mjkx/Ni04MDI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Young & Company",
+      "title": "Strut Your Stuff",
+      "release_title": "Young & Company - Strut Your Stuff / I Like (What You're Doing To Me)",
+      "year": "1980",
+      "label": "Brunswick",
+      "country": "US",
+      "discogs_id": 4851988,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/idpheNSsqYOnexFNGW_MQ3j9MU5xi72_F1U4MVW2XFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTE5/ODgtMTM3NzQ5NDE4/OC01OTAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Do You Remember When?",
+      "release_title": "The Crusaders - The 2nd Crusade",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 10977609,
+      "rating_avg": 4.57,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/LQtJX9937i9g6i3FAXIBtM0MS3LXn_99_Of8AUekCEs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/NjA5LTE1MDc1OTgx/NTAtOTU4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bernard Purdie",
+      "title": "Changes",
+      "release_title": "Bernard Purdie - Shaft",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 1045473,
+      "rating_avg": 4.46,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/-omtxhuPZlmNNCSUePzmD0z2pG_BcUTaeDlY3TCzt0Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU0/NzMtMTU3NTgyNjM2/NS03Mzk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Melton Brothers Band & Alfie Moss",
+      "title": "Sail Away",
+      "release_title": "The Melton Brothers Band With Ms. Alfie Moss* - Livin' In The City",
+      "year": "1979",
+      "label": "MDM Communications",
+      "country": "US",
+      "discogs_id": 4356302,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/d_8_zdRiOUy__lqxKgqM186uBN0hkAX__TIlzbmUrxc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTYz/MDItMTQ5NzMxMjI5/NS0zNjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andrea True Connection",
+      "title": "Fill Me Up (Heart To Heart)",
+      "release_title": "The Andrea True Connection* - What's Your Name, What's Your Number",
+      "year": "1977",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 5255950,
+      "rating_avg": 3.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/GUsmYocymubNUzj8gcpO1LdYDu6QvlYK8INCSHhI0Yc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTU5/NTAtMTM4ODg2NDgx/Ni0yMDk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "First Choice",
+      "title": "One Step Away",
+      "release_title": "First Choice - Smarty Pants / One Step Away",
+      "year": "1973",
+      "label": "Philly Groove Records",
+      "country": "US",
+      "discogs_id": 31324344,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UT4lSP-U_eZFhYyNRCNizdnYS9qUKuySCN4MiFh6bec/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzI0/MzQ0LTE3MjIwMDg5/OTUtNTI2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Young & Company",
+      "title": "I Like (What You're Doing To Me)",
+      "release_title": "Young & Company - Strut Your Stuff / I Like (What You're Doing To Me)",
+      "year": "1980",
+      "label": "Brunswick",
+      "country": "US",
+      "discogs_id": 4851988,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/idpheNSsqYOnexFNGW_MQ3j9MU5xi72_F1U4MVW2XFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTE5/ODgtMTM3NzQ5NDE4/OC01OTAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "The Clincher",
+      "release_title": "David Newman* - Captain Buckles",
+      "year": "1971",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 3846835,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/Ryq1RdEYNWc3uls3tNhEA27mt46fqJxp73bwExlNvn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY4/MzUtMTQ3Mzg2OTQy/MS04NjY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Hodges",
+      "title": "What's Gonna Happen To Me",
+      "release_title": "Charlie Hodges - What's Gonna Happen To Me / Let's Do It Again",
+      "year": "1970",
+      "label": "Calla Records",
+      "country": "US",
+      "discogs_id": 9133884,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gaUrMtXnGKKhrqT_eS780EMt_ohpLKFiXjja2mZv0a4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM4/ODQtMTQ3NTM1MjUz/NC00ODI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Don't Let It Get You Down",
+      "release_title": "The Crusaders - The 2nd Crusade",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 10977609,
+      "rating_avg": 4.57,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/LQtJX9937i9g6i3FAXIBtM0MS3LXn_99_Of8AUekCEs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/NjA5LTE1MDc1OTgx/NTAtOTU4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "A Search For Soul",
+      "release_title": "The Crusaders - The 2nd Crusade",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 10977609,
+      "rating_avg": 4.57,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/LQtJX9937i9g6i3FAXIBtM0MS3LXn_99_Of8AUekCEs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/NjA5LTE1MDc1OTgx/NTAtOTU4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Slipping Into Darkness",
+      "release_title": "Ramsey Lewis - Slipping Into Darkness / Collage",
+      "year": "1972",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 21810172,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ShQQKr06-Pft96g2sNb_NrRhju5xKFgq1_JE-VcPncA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODEw/MTcyLTE2NDI2NTAy/NzAtMTQwNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Melton Brothers Band & Alfie Moss",
+      "title": "Willingtown",
+      "release_title": "The Melton Brothers Band With Ms. Alfie Moss* - Livin' In The City",
+      "year": "1979",
+      "label": "MDM Communications",
+      "country": "US",
+      "discogs_id": 4356302,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/d_8_zdRiOUy__lqxKgqM186uBN0hkAX__TIlzbmUrxc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTYz/MDItMTQ5NzMxMjI5/NS0zNjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bernard Purdie",
+      "title": "Way Back Home",
+      "release_title": "Bernard Purdie - Shaft",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 1045473,
+      "rating_avg": 4.46,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/-omtxhuPZlmNNCSUePzmD0z2pG_BcUTaeDlY3TCzt0Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU0/NzMtMTU3NTgyNjM2/NS03Mzk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Joel's Domain",
+      "release_title": "David Newman* - Captain Buckles",
+      "year": "1971",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 3846835,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/Ryq1RdEYNWc3uls3tNhEA27mt46fqJxp73bwExlNvn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY4/MzUtMTQ3Mzg2OTQy/MS04NjY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Esther Phillips",
+      "title": "Too Much Of A Man (To Be Tied Down)",
+      "release_title": "Esther Phillips - Too Much Of A Man (To Be Tied Down) / Nobody But You",
+      "year": "1969",
+      "label": "Roulette",
+      "country": "US",
+      "discogs_id": 6973088,
+      "rating_avg": 5.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/0oXnTeMBjBVcXmmCQP7gWsYVu62X1Q9o8l4A7zsqEps/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzMw/ODgtMTQ1ODYwNDMx/NC04OTc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Sunset",
+      "release_title": "Lonnie Liston Smith - Live!",
+      "year": "1977",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 18565357,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JBvlrajVVgJdFNYszFHGQVkwHpXBqjy-_CTwMzhLasU/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY1/MzU3LTE2MjAwNTU4/MTEtMjY2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Esther Phillips",
+      "title": "Nobody But You",
+      "release_title": "Esther Phillips - Too Much Of A Man (To Be Tied Down) / Nobody But You",
+      "year": "1969",
+      "label": "Roulette",
+      "country": "US",
+      "discogs_id": 6973088,
+      "rating_avg": 5.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/0oXnTeMBjBVcXmmCQP7gWsYVu62X1Q9o8l4A7zsqEps/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzMw/ODgtMTQ1ODYwNDMx/NC04OTc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Collage",
+      "release_title": "Ramsey Lewis - Slipping Into Darkness / Collage",
+      "year": "1972",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 21810172,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ShQQKr06-Pft96g2sNb_NrRhju5xKFgq1_JE-VcPncA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODEw/MTcyLTE2NDI2NTAy/NzAtMTQwNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Negus",
+      "release_title": "David Newman* - Captain Buckles",
+      "year": "1971",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 3846835,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/Ryq1RdEYNWc3uls3tNhEA27mt46fqJxp73bwExlNvn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY4/MzUtMTQ3Mzg2OTQy/MS04NjY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Floyd Henley",
+      "title": "Unchained Melody",
+      "release_title": "Floyd Henley - Believe In Me / Unchained Melody",
+      "year": "1968",
+      "label": "Kas-Mo",
+      "country": "US",
+      "discogs_id": 5823929,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/z8tsqk_qg2wWAZ-HGkaitHgTcXiefL8ivE4chTN8r7Q/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjM5/MjktMTcwNTI0Mzk3/MS04NjQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Melton Brothers Band & Alfie Moss",
+      "title": "The Kong Song",
+      "release_title": "The Melton Brothers Band With Ms. Alfie Moss* - Livin' In The City",
+      "year": "1979",
+      "label": "MDM Communications",
+      "country": "US",
+      "discogs_id": 4356302,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/d_8_zdRiOUy__lqxKgqM186uBN0hkAX__TIlzbmUrxc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTYz/MDItMTQ5NzMxMjI5/NS0zNjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Prelude",
+      "release_title": "Lonnie Liston Smith - Live!",
+      "year": "1977",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 18565357,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JBvlrajVVgJdFNYszFHGQVkwHpXBqjy-_CTwMzhLasU/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY1/MzU3LTE2MjAwNTU4/MTEtMjY2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David \"Fathead\" Newman",
+      "title": "Something",
+      "release_title": "David Newman* - Captain Buckles",
+      "year": "1971",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 3846835,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/Ryq1RdEYNWc3uls3tNhEA27mt46fqJxp73bwExlNvn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY4/MzUtMTQ3Mzg2OTQy/MS04NjY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Expansions",
+      "release_title": "Lonnie Liston Smith - Live!",
+      "year": "1977",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 18565357,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JBvlrajVVgJdFNYszFHGQVkwHpXBqjy-_CTwMzhLasU/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY1/MzU3LTE2MjAwNTU4/MTEtMjY2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Visions Of A New World (Phase Two)",
+      "release_title": "Lonnie Liston Smith - Live!",
+      "year": "1977",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 18565357,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JBvlrajVVgJdFNYszFHGQVkwHpXBqjy-_CTwMzhLasU/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY1/MzU3LTE2MjAwNTU4/MTEtMjY2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bernard Purdie",
+      "title": "Summer Melody",
+      "release_title": "Bernard Purdie - Shaft",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 1045473,
+      "rating_avg": 4.46,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/-omtxhuPZlmNNCSUePzmD0z2pG_BcUTaeDlY3TCzt0Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU0/NzMtMTU3NTgyNjM2/NS03Mzk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "A Message From The Inner City",
+      "release_title": "The Crusaders - The 2nd Crusade",
+      "year": "1973",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 10977609,
+      "rating_avg": 4.57,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/LQtJX9937i9g6i3FAXIBtM0MS3LXn_99_Of8AUekCEs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/NjA5LTE1MDc1OTgx/NTAtOTU4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jay & The Techniques",
+      "title": "Singles Game",
+      "release_title": "Jay & The Techniques - Singles Game",
+      "year": "1968",
+      "label": "Smash Records",
+      "country": "US",
+      "discogs_id": 2761969,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/cRX4Ty0UvQwj0BcJVNqkCO09wh6FpTrAeDeVSjv5rU0/rs:fit/g:sm/q:90/h:372/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE5/NjktMTMyNTg5NDY2/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jay & The Techniques",
+      "title": "Baby How Easy Your Heart Forgets Me",
+      "release_title": "Jay & The Techniques - Singles Game",
+      "year": "1968",
+      "label": "Smash Records",
+      "country": "US",
+      "discogs_id": 2761969,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/cRX4Ty0UvQwj0BcJVNqkCO09wh6FpTrAeDeVSjv5rU0/rs:fit/g:sm/q:90/h:372/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE5/NjktMTMyNTg5NDY2/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Hicks",
+      "title": "I'm Goin' Home",
+      "release_title": "Joe Hicks - Home Sweet Home - Part II ",
+      "year": "1969",
+      "label": "Scepter Records",
+      "country": "US",
+      "discogs_id": 9825801,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ToLY67yNJDf0lcVObAm3z9Fj7YXvcccMqfFBZ18rB3I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjU4/MDEtMTQ4NzA5Mjkx/Ni04MDI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "First Choice",
+      "title": "Smarty Pants",
+      "release_title": "First Choice - Smarty Pants / One Step Away",
+      "year": "1973",
+      "label": "Philly Groove Records",
+      "country": "US",
+      "discogs_id": 31324344,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/UT4lSP-U_eZFhYyNRCNizdnYS9qUKuySCN4MiFh6bec/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzI0/MzQ0LTE3MjIwMDg5/OTUtNTI2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Floyd Henley",
+      "title": "Believe In Me",
+      "release_title": "Floyd Henley - Believe In Me / Unchained Melody",
+      "year": "1968",
+      "label": "Kas-Mo",
+      "country": "US",
+      "discogs_id": 5823929,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/z8tsqk_qg2wWAZ-HGkaitHgTcXiefL8ivE4chTN8r7Q/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjM5/MjktMTcwNTI0Mzk3/MS04NjQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andrea True Connection",
+      "title": "What's Your Name, What's Your Number",
+      "release_title": "The Andrea True Connection* - What's Your Name, What's Your Number",
+      "year": "1977",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 5255950,
+      "rating_avg": 3.83,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/GUsmYocymubNUzj8gcpO1LdYDu6QvlYK8INCSHhI0Yc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTU5/NTAtMTM4ODg2NDgx/Ni0yMDk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Hodges",
+      "title": "Let's Do It Again",
+      "release_title": "Charlie Hodges - What's Gonna Happen To Me / Let's Do It Again",
+      "year": "1970",
+      "label": "Calla Records",
+      "country": "US",
+      "discogs_id": 9133884,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gaUrMtXnGKKhrqT_eS780EMt_ohpLKFiXjja2mZv0a4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM4/ODQtMTQ3NTM1MjUz/NC00ODI4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bernard Purdie",
+      "title": "Butterfingers",
+      "release_title": "Bernard Purdie - Shaft",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 1045473,
+      "rating_avg": 4.46,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/-omtxhuPZlmNNCSUePzmD0z2pG_BcUTaeDlY3TCzt0Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU0/NzMtMTU3NTgyNjM2/NS03Mzk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Melton Brothers Band & Alfie Moss",
+      "title": "No Regrets",
+      "release_title": "The Melton Brothers Band With Ms. Alfie Moss* - Livin' In The City",
+      "year": "1979",
+      "label": "MDM Communications",
+      "country": "US",
+      "discogs_id": 4356302,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/d_8_zdRiOUy__lqxKgqM186uBN0hkAX__TIlzbmUrxc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTYz/MDItMTQ5NzMxMjI5/NS0zNjMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hilton Ruiz",
+      "title": "Another Kind Of Blues",
+      "release_title": "Hilton Ruiz - A New York Story",
+      "year": "2004",
+      "label": "Hilton Ruiz Music Co.",
+      "country": "US",
+      "discogs_id": 30583408,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qwIzNn8wekakRrDs_XJcZsd1DIJQzrbuJAEHQeo-Jec/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTgz/NDA4LTE3MTQ4MzQ0/NjItMjE4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Leo Parker",
+      "title": "Rollin' With Leo",
+      "release_title": "Leo Parker - Rollin' With Leo",
+      "year": "1980",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 14384571,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/m5ueFsqmk0iKVMTcZtKbxWDom7H__J_Qq3UWTcbpj6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzg0/NTcxLTE1NzM0MzU0/MTYtNjg5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Denise LaSalle",
+      "title": "Married, But Not To Each Other (Stereo)",
+      "release_title": "Denise LaSalle - Married, But Not To Each Other (Short Version)",
+      "year": "1976",
+      "label": "Westbound Records",
+      "country": "US",
+      "discogs_id": 7522881,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/siZh90PiyZkapbP06CMBEiSC9whYExdvkYr1Vyh5bTs/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjI4/ODEtMTQ0MzIzNzA3/MS03NjIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Miles Davis Quartet",
+      "title": "I See Your Face Before Me",
+      "release_title": "The Miles Davis Quartet - The Musings Of Miles",
+      "year": "1997",
+      "label": "DCC Compact Classics",
+      "country": "US",
+      "discogs_id": 2303996,
+      "rating_avg": 4.1,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/QywxhBBHNebI0rvdOsllCEDyebGdyugVlxuVVvTOrEg/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDM5/OTYtMTM1NDgyNDY3/Ny0zNTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Leo Parker",
+      "title": "Stuffy",
+      "release_title": "Leo Parker - Rollin' With Leo",
+      "year": "1980",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 14384571,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/m5ueFsqmk0iKVMTcZtKbxWDom7H__J_Qq3UWTcbpj6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzg0/NTcxLTE1NzM0MzU0/MTYtNjg5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ike Porter & The Fabulations",
+      "title": "Stone Lover",
+      "release_title": "Ike Porter & The Fabulations - Stone Lover / If There's A Will There's A Way",
+      "year": "1970",
+      "label": "ANLA Records",
+      "country": "US",
+      "discogs_id": 18298825,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/KBCDFK_I9WQpoHohm_QWnkerVa0K0PmbzaycgM87aHU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk4/ODI1LTE2ODUyNjk5/NTYtNTA0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hilton Ruiz",
+      "title": "Slow And Easy",
+      "release_title": "Hilton Ruiz - A New York Story",
+      "year": "2004",
+      "label": "Hilton Ruiz Music Co.",
+      "country": "US",
+      "discogs_id": 30583408,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qwIzNn8wekakRrDs_XJcZsd1DIJQzrbuJAEHQeo-Jec/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTgz/NDA4LTE3MTQ4MzQ0/NjItMjE4MC5qcGVn.jpeg"
+    }
+  ]
+}
