@@ -64342,6 +64342,813 @@
    1970
   ]
  },
+ "gianni oddi": {
+  "countries": [
+   "Italy",
+   "Turkey",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Turkey",
+   "Italy",
+   "Italy",
+   "India",
+   "Spain",
+   "Italy",
+   "Japan",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Greece",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Pop",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Classical",
+   "Stage & Screen",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Classical",
+   "Jazz",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Pop",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Classical",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Blues",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Pop"
+   ],
+   [
+    "Soul-Jazz",
+    "Classical"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Pop"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Pop"
+   ],
+   [
+    "Latin Jazz",
+    "Classical"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Classical"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Neo-Classical",
+    "Pop"
+   ],
+   [
+    "Neo-Classical",
+    "Classical"
+   ],
+   [
+    "Italodance",
+    "Pop"
+   ],
+   [
+    "Italodance",
+    "Classical"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Classical"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Rock"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Latin"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Pop"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Latin"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Pop"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Pop"
+   ],
+   [
+    "Soul-Jazz",
+    "Classical"
+   ],
+   [
+    "Soul-Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Pop"
+   ],
+   [
+    "Latin Jazz",
+    "Classical"
+   ],
+   [
+    "Latin Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Pop"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Blues"
+   ],
+   [
+    "Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Latin Jazz",
+    "Blues"
+   ],
+   [
+    "Latin Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Chanson",
+    "Jazz"
+   ],
+   [
+    "Chanson",
+    "Latin"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Score",
+   "Jazz-Funk",
+   "Latin Jazz",
+   "Score",
+   "Jazz-Funk",
+   "Latin Jazz",
+   "Soundtrack",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Contemporary Jazz",
+   "Latin Jazz",
+   "Theme",
+   "Funk",
+   "Soundtrack",
+   "Neo-Classical",
+   "Italodance",
+   "Disco",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Funk",
+   "Disco",
+   "Latin Jazz",
+   "Score",
+   "Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Psychedelic",
+   "Bossa Nova",
+   "Psychedelic",
+   "Jazz-Funk",
+   "Score",
+   "Jazz-Funk",
+   "Latin Jazz",
+   "Soul-Jazz",
+   "Soundtrack",
+   "Latin Jazz",
+   "Contemporary Jazz",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Funk",
+   "Latin Jazz",
+   "Soundtrack",
+   "Jazz-Funk",
+   "Chanson"
+  ],
+  "years": [
+   1974,
+   1976,
+   1974,
+   1976,
+   1975,
+   2023,
+   1978,
+   1974,
+   1974,
+   1975,
+   1972,
+   1975,
+   1974,
+   2014,
+   1983,
+   1974,
+   1975,
+   1974,
+   1974,
+   1974,
+   1973,
+   1973,
+   1976,
+   1983
+  ]
+ },
  "giuliano sorgini": {
   "countries": [
    "Italy",
@@ -134847,6 +135654,380 @@
    1973,
    2014,
    2018
+  ]
+ },
+ "sven wunder": {
+  "countries": [
+   "Japan",
+   "Japan",
+   "Sweden",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "Sweden",
+   "Sweden",
+   "Europe",
+   "Sweden",
+   "US",
+   "Sweden",
+   "Sweden",
+   "Sweden",
+   "Sweden",
+   "Sweden",
+   "UK",
+   "Sweden",
+   "Sweden",
+   "Japan",
+   "Japan",
+   "Sweden",
+   "US",
+   "Sweden"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Folk, World, & Country"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Cool Jazz",
+   "Modal",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Modal",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Soul",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Jazz-Funk"
+  ],
+  "years": [
+   2023,
+   2024,
+   2020,
+   2020,
+   2020,
+   2025,
+   2020,
+   2020,
+   2025,
+   2025,
+   2022,
+   2021,
+   2023,
+   2021,
+   2021,
+   2023,
+   2021,
+   2020,
+   2020,
+   2025,
+   2025,
+   2020,
+   2020,
+   2021,
+   2019
   ]
  },
  "swamp thug": {
