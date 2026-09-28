@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Hard Bop"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1968,
+    "year_to": 2017,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 18,
+      "artists_found": 18,
+      "fresh_lookups": 0,
+      "styles_considered": 68
+    }
+  },
+  "results": [
+    {
+      "artist": "Zakir Hussain",
+      "title": "Sunjog",
+      "release_title": "Zakir Hussain - Making Music",
+      "year": "1987",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 2812538,
+      "rating_avg": 4.45,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/Yd3ifpyCxwxl2i_t_qQRH8W20RrxyI3GRyGy5ZFZtYE/rs:fit/g:sm/q:90/h:540/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI1/MzgtMTMwMjE1MjEx/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lee Konitz & The Brazilian Band",
+      "title": "Lunasea",
+      "release_title": "Lee Konitz & The Brazilian Band - Brazilian Rhapsody",
+      "year": "1996",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 9004235,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JeO4kU3rEZd6NbSJyQ4z0ElYb8GKK6Bx4wqwXM8RSEA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDQy/MzUtMTQ3MzEwMzI5/Mi04NTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rick Krive & Bob Taylor & Jim Kalamasz",
+      "title": "Beantown",
+      "release_title": "Rick Krive, Bob Taylor (2), James Kalamasz* - Smooth Jazz",
+      "year": "1997",
+      "label": "Abaco Music Library",
+      "country": "US",
+      "discogs_id": 7144035,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eFrHeJwPj2VxTRent7uFAWKwT1q4l_qtHiSBav_K1dM/rs:fit/g:sm/q:90/h:493/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDQw/MzUtMTQzNDcwNTE4/OC02MDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jiro Yoshida",
+      "title": "Stella By Starlight",
+      "release_title": "Jiro Yoshida - My Beating Heart",
+      "year": "1996",
+      "label": "Twinz Records",
+      "country": "US",
+      "discogs_id": 22365742,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pkt80s2TW2ikyofyY0Wgc_4rb1gWiMDT8mFolQn0uvM/rs:fit/g:sm/q:90/h:594/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzY1/NzQyLTE2NDYyNzQ0/MjEtOTA4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clarence Reid",
+      "title": "I'm A Man Of My Word",
+      "release_title": "Clarence Reid - I'm Gonna Tear You A New Heart / I'm A Man Of My Word",
+      "year": "1969",
+      "label": "Alston Records",
+      "country": "US",
+      "discogs_id": 2717631,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/nBW-GejIroIKBb3oX4A1tc__y2XEG5QZsbmrAxF_QKE/rs:fit/g:sm/q:90/h:594/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTc2/MzEtMTMwNzA0MTA1/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Tra-La-La Song",
+      "release_title": "Cal Tjader - Cal Tjader Plugs In",
+      "year": "1969",
+      "label": "Skye Records",
+      "country": "US",
+      "discogs_id": 6086911,
+      "rating_avg": 4.69,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/IzQ-Kn0hbYZCmuDwpo-C5zVPU7SZ_6gpxcHO81Y_PCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY5/MTEtMTY5NjE4MzA3/OS00NDE2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales Fourchestra",
+      "title": "Contortionist Ballet",
+      "release_title": "Jonathan Scales Fourchestra - Jonathan Scales Fourchestra",
+      "year": "2013",
+      "label": "Ropeadope",
+      "country": "US",
+      "discogs_id": 9677741,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cJ0143NJgv-131dwIirLMwz6tCzUr_CE9Q3Q0R6L3Vo/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzc3/NDEtMTQ4NDYxODM3/OC0xMzM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jiro Yoshida",
+      "title": "Round Midnight (On 57th St.)",
+      "release_title": "Jiro Yoshida - My Beating Heart",
+      "year": "1996",
+      "label": "Twinz Records",
+      "country": "US",
+      "discogs_id": 22365742,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pkt80s2TW2ikyofyY0Wgc_4rb1gWiMDT8mFolQn0uvM/rs:fit/g:sm/q:90/h:594/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzY1/NzQyLTE2NDYyNzQ0/MjEtOTA4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clarence Reid",
+      "title": "I'm Gonna Tear You A New Heart",
+      "release_title": "Clarence Reid - I'm Gonna Tear You A New Heart / I'm A Man Of My Word",
+      "year": "1969",
+      "label": "Alston Records",
+      "country": "US",
+      "discogs_id": 2717631,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/nBW-GejIroIKBb3oX4A1tc__y2XEG5QZsbmrAxF_QKE/rs:fit/g:sm/q:90/h:594/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTc2/MzEtMTMwNzA0MTA1/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Zakir Hussain",
+      "title": "Water Girl",
+      "release_title": "Zakir Hussain - Making Music",
+      "year": "1987",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 2812538,
+      "rating_avg": 4.45,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/Yd3ifpyCxwxl2i_t_qQRH8W20RrxyI3GRyGy5ZFZtYE/rs:fit/g:sm/q:90/h:540/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI1/MzgtMTMwMjE1MjEx/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Edmar Castaneda",
+      "title": "Afrojoropo",
+      "release_title": "Edmar Castaneda - Cuarto de Colores",
+      "year": "2005",
+      "label": "Edmar Castaneda",
+      "country": "US",
+      "discogs_id": 12565269,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Y4BvjwZwXue6KBvkpaOQ1kG0Il07e1kfkKrdanXg42c/rs:fit/g:sm/q:90/h:355/w:354/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY1/MjY5LTE1Mzc3MTU4/MDAtNzg5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mike Freeman & Spellbound",
+      "title": "Street Shuffle",
+      "release_title": "Mike Freeman & Spellbound - Street Shuffle",
+      "year": "1991",
+      "label": "Best Recordings",
+      "country": "US",
+      "discogs_id": 27509946,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2nrzdr96DLtEQTEjTyYCblFZYFtPkcEb4E86fi5Inxg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTA5/OTQ2LTE2ODc4ODgy/NjAtMTI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lee Konitz & The Brazilian Band",
+      "title": "Manha De Carnaval",
+      "release_title": "Lee Konitz & The Brazilian Band - Brazilian Rhapsody",
+      "year": "1996",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 9004235,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JeO4kU3rEZd6NbSJyQ4z0ElYb8GKK6Bx4wqwXM8RSEA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDQy/MzUtMTQ3MzEwMzI5/Mi04NTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eydie Gormé & Trio Los Panchos",
+      "title": "Cuatro Vidas",
+      "release_title": "Eydie Gorme* Y Los Panchos* - Cuatro Vidas ",
+      "year": "1987",
+      "label": "Discos CBS International",
+      "country": "US",
+      "discogs_id": 8259363,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/-lk0AQGIq1ZQwuyz-8JR-GQDHSxI6qUUjF5VnXMaBms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTkz/NjMtMTQ1ODEzODMz/MC04MTM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales Fourchestra",
+      "title": "TNFJ",
+      "release_title": "Jonathan Scales Fourchestra - Jonathan Scales Fourchestra",
+      "year": "2013",
+      "label": "Ropeadope",
+      "country": "US",
+      "discogs_id": 9677741,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cJ0143NJgv-131dwIirLMwz6tCzUr_CE9Q3Q0R6L3Vo/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzc3/NDEtMTQ4NDYxODM3/OC0xMzM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rick Krive & Bob Taylor & Jim Kalamasz",
+      "title": "Cahuenga",
+      "release_title": "Rick Krive, Bob Taylor (2), James Kalamasz* - Smooth Jazz",
+      "year": "1997",
+      "label": "Abaco Music Library",
+      "country": "US",
+      "discogs_id": 7144035,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eFrHeJwPj2VxTRent7uFAWKwT1q4l_qtHiSBav_K1dM/rs:fit/g:sm/q:90/h:493/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDQw/MzUtMTQzNDcwNTE4/OC02MDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Lanz",
+      "title": "Nightfall",
+      "release_title": "David Lanz - Nightfall",
+      "year": "1985",
+      "label": "Narada",
+      "country": "US",
+      "discogs_id": 10519251,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mr85DQ_s1wHAKhjjVokq79wpY28qPYsF7JoMHna_nbk/rs:fit/g:sm/q:90/h:600/w:394/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE5/MjUxLTE2MDc3OTc0/MDktNDIzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales Fourchestra",
+      "title": "Kiss From A Rose",
+      "release_title": "Jonathan Scales Fourchestra - Jonathan Scales Fourchestra",
+      "year": "2013",
+      "label": "Ropeadope",
+      "country": "US",
+      "discogs_id": 9677741,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cJ0143NJgv-131dwIirLMwz6tCzUr_CE9Q3Q0R6L3Vo/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzc3/NDEtMTQ4NDYxODM3/OC0xMzM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jiro Yoshida",
+      "title": "Andalucia",
+      "release_title": "Jiro Yoshida - My Beating Heart",
+      "year": "1996",
+      "label": "Twinz Records",
+      "country": "US",
+      "discogs_id": 22365742,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pkt80s2TW2ikyofyY0Wgc_4rb1gWiMDT8mFolQn0uvM/rs:fit/g:sm/q:90/h:594/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzY1/NzQyLTE2NDYyNzQ0/MjEtOTA4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby Enriquez",
+      "title": "Cherokee (Indian Love Song)",
+      "release_title": "Bobby Enriquez - Wild Piano",
+      "year": "1988",
+      "label": "Portrait",
+      "country": "US",
+      "discogs_id": 9762010,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/M0QtMU9zzJGOxNNtlpUrmynr7jpq1ffAR_mEZNA-lL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjIw/MTAtMTY0OTE2NjE4/MS05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Edmar Castaneda",
+      "title": "Madrugada Azul",
+      "release_title": "Edmar Castaneda - Cuarto de Colores",
+      "year": "2005",
+      "label": "Edmar Castaneda",
+      "country": "US",
+      "discogs_id": 12565269,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Y4BvjwZwXue6KBvkpaOQ1kG0Il07e1kfkKrdanXg42c/rs:fit/g:sm/q:90/h:355/w:354/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY1/MjY5LTE1Mzc3MTU4/MDAtNzg5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Red Garland Trio",
+      "title": "S'wonderful",
+      "release_title": "The Red Garland Trio - Manteca",
+      "year": "1990",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15671317,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B6IfDCN-auvBdlRfgmPy8uz3k3wBDrsyUGuNj5l3xL4/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/MzE3LTE1OTU2MjIz/OTUtNTQzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Red Garland Trio",
+      "title": "Mort's Report",
+      "release_title": "The Red Garland Trio - Manteca",
+      "year": "1990",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15671317,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B6IfDCN-auvBdlRfgmPy8uz3k3wBDrsyUGuNj5l3xL4/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/MzE3LTE1OTU2MjIz/OTUtNTQzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Red Garland Trio",
+      "title": "Lady Be Good",
+      "release_title": "The Red Garland Trio - Manteca",
+      "year": "1990",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15671317,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B6IfDCN-auvBdlRfgmPy8uz3k3wBDrsyUGuNj5l3xL4/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/MzE3LTE1OTU2MjIz/OTUtNTQzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Zakir Hussain",
+      "title": "Sabah",
+      "release_title": "Zakir Hussain - Making Music",
+      "year": "1987",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 2812538,
+      "rating_avg": 4.45,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/Yd3ifpyCxwxl2i_t_qQRH8W20RrxyI3GRyGy5ZFZtYE/rs:fit/g:sm/q:90/h:540/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI1/MzgtMTMwMjE1MjEx/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mike Freeman & Spellbound",
+      "title": "Serendipity",
+      "release_title": "Mike Freeman & Spellbound - Street Shuffle",
+      "year": "1991",
+      "label": "Best Recordings",
+      "country": "US",
+      "discogs_id": 27509946,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2nrzdr96DLtEQTEjTyYCblFZYFtPkcEb4E86fi5Inxg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTA5/OTQ2LTE2ODc4ODgy/NjAtMTI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Get Out Of My Way",
+      "release_title": "Cal Tjader - Cal Tjader Plugs In",
+      "year": "1969",
+      "label": "Skye Records",
+      "country": "US",
+      "discogs_id": 6086911,
+      "rating_avg": 4.69,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/IzQ-Kn0hbYZCmuDwpo-C5zVPU7SZ_6gpxcHO81Y_PCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY5/MTEtMTY5NjE4MzA3/OS00NDE2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rick Krive & Bob Taylor & Jim Kalamasz",
+      "title": "Soul Impression",
+      "release_title": "Rick Krive, Bob Taylor (2), James Kalamasz* - Smooth Jazz",
+      "year": "1997",
+      "label": "Abaco Music Library",
+      "country": "US",
+      "discogs_id": 7144035,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eFrHeJwPj2VxTRent7uFAWKwT1q4l_qtHiSBav_K1dM/rs:fit/g:sm/q:90/h:493/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDQw/MzUtMTQzNDcwNTE4/OC02MDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Lanz",
+      "title": "Water From The Moon",
+      "release_title": "David Lanz - Nightfall",
+      "year": "1985",
+      "label": "Narada",
+      "country": "US",
+      "discogs_id": 10519251,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mr85DQ_s1wHAKhjjVokq79wpY28qPYsF7JoMHna_nbk/rs:fit/g:sm/q:90/h:600/w:394/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE5/MjUxLTE2MDc3OTc0/MDktNDIzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Nica's Dream",
+      "release_title": "Cal Tjader - Cal Tjader Plugs In",
+      "year": "1969",
+      "label": "Skye Records",
+      "country": "US",
+      "discogs_id": 6086911,
+      "rating_avg": 4.69,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/IzQ-Kn0hbYZCmuDwpo-C5zVPU7SZ_6gpxcHO81Y_PCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY5/MTEtMTY5NjE4MzA3/OS00NDE2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eydie Gormé & Trio Los Panchos",
+      "title": "Flores Negras",
+      "release_title": "Eydie Gorme* Y Los Panchos* - Cuatro Vidas ",
+      "year": "1987",
+      "label": "Discos CBS International",
+      "country": "US",
+      "discogs_id": 8259363,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/-lk0AQGIq1ZQwuyz-8JR-GQDHSxI6qUUjF5VnXMaBms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTkz/NjMtMTQ1ODEzODMz/MC04MTM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eydie Gormé & Trio Los Panchos",
+      "title": "Guitarra Romana",
+      "release_title": "Eydie Gorme* Y Los Panchos* - Cuatro Vidas ",
+      "year": "1987",
+      "label": "Discos CBS International",
+      "country": "US",
+      "discogs_id": 8259363,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/-lk0AQGIq1ZQwuyz-8JR-GQDHSxI6qUUjF5VnXMaBms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTkz/NjMtMTQ1ODEzODMz/MC04MTM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Lanz",
+      "title": "Faces Of The Forest",
+      "release_title": "David Lanz - Nightfall",
+      "year": "1985",
+      "label": "Narada",
+      "country": "US",
+      "discogs_id": 10519251,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mr85DQ_s1wHAKhjjVokq79wpY28qPYsF7JoMHna_nbk/rs:fit/g:sm/q:90/h:600/w:394/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE5/MjUxLTE2MDc3OTc0/MDktNDIzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby Enriquez",
+      "title": "Bye Bye Blackbird",
+      "release_title": "Bobby Enriquez - Wild Piano",
+      "year": "1988",
+      "label": "Portrait",
+      "country": "US",
+      "discogs_id": 9762010,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/M0QtMU9zzJGOxNNtlpUrmynr7jpq1ffAR_mEZNA-lL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjIw/MTAtMTY0OTE2NjE4/MS05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Linda Jones & The Whatnauts",
+      "title": "I'm So Glad I Found You",
+      "release_title": "Linda Jones & Whatnauts* - I'm So Glad I Found You",
+      "year": "1972",
+      "label": "Stang Records",
+      "country": "US",
+      "discogs_id": 4085596,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/pPUCHyjO8zE0k0pHA-3iRGd4lwOG31TtVn2qyn2jZrU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODU1/OTYtMTc3MjM3NDk2/MS01NTM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jiro Yoshida",
+      "title": "Shorter's Mood",
+      "release_title": "Jiro Yoshida - My Beating Heart",
+      "year": "1996",
+      "label": "Twinz Records",
+      "country": "US",
+      "discogs_id": 22365742,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pkt80s2TW2ikyofyY0Wgc_4rb1gWiMDT8mFolQn0uvM/rs:fit/g:sm/q:90/h:594/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzY1/NzQyLTE2NDYyNzQ0/MjEtOTA4MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby Enriquez",
+      "title": "All Blues",
+      "release_title": "Bobby Enriquez - Wild Piano",
+      "year": "1988",
+      "label": "Portrait",
+      "country": "US",
+      "discogs_id": 9762010,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/M0QtMU9zzJGOxNNtlpUrmynr7jpq1ffAR_mEZNA-lL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjIw/MTAtMTY0OTE2NjE4/MS05NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "St. Croix",
+      "release_title": "Cal Tjader - Cal Tjader Plugs In",
+      "year": "1969",
+      "label": "Skye Records",
+      "country": "US",
+      "discogs_id": 6086911,
+      "rating_avg": 4.69,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/IzQ-Kn0hbYZCmuDwpo-C5zVPU7SZ_6gpxcHO81Y_PCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY5/MTEtMTY5NjE4MzA3/OS00NDE2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales Fourchestra",
+      "title": "Lurkin'",
+      "release_title": "Jonathan Scales Fourchestra - Jonathan Scales Fourchestra",
+      "year": "2013",
+      "label": "Ropeadope",
+      "country": "US",
+      "discogs_id": 9677741,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cJ0143NJgv-131dwIirLMwz6tCzUr_CE9Q3Q0R6L3Vo/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzc3/NDEtMTQ4NDYxODM3/OC0xMzM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lee Konitz & The Brazilian Band",
+      "title": "Insensatez",
+      "release_title": "Lee Konitz & The Brazilian Band - Brazilian Rhapsody",
+      "year": "1996",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 9004235,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JeO4kU3rEZd6NbSJyQ4z0ElYb8GKK6Bx4wqwXM8RSEA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDQy/MzUtMTQ3MzEwMzI5/Mi04NTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mike Freeman & Spellbound",
+      "title": "Spring Days/Summer Nights",
+      "release_title": "Mike Freeman & Spellbound - Street Shuffle",
+      "year": "1991",
+      "label": "Best Recordings",
+      "country": "US",
+      "discogs_id": 27509946,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2nrzdr96DLtEQTEjTyYCblFZYFtPkcEb4E86fi5Inxg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTA5/OTQ2LTE2ODc4ODgy/NjAtMTI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Zakir Hussain",
+      "title": "Anisa",
+      "release_title": "Zakir Hussain - Making Music",
+      "year": "1987",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 2812538,
+      "rating_avg": 4.45,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/Yd3ifpyCxwxl2i_t_qQRH8W20RrxyI3GRyGy5ZFZtYE/rs:fit/g:sm/q:90/h:540/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI1/MzgtMTMwMjE1MjEx/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Edmar Castaneda",
+      "title": "Ginebra",
+      "release_title": "Edmar Castaneda - Cuarto de Colores",
+      "year": "2005",
+      "label": "Edmar Castaneda",
+      "country": "US",
+      "discogs_id": 12565269,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Y4BvjwZwXue6KBvkpaOQ1kG0Il07e1kfkKrdanXg42c/rs:fit/g:sm/q:90/h:355/w:354/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY1/MjY5LTE1Mzc3MTU4/MDAtNzg5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rick Krive & Bob Taylor & Jim Kalamasz",
+      "title": "Matter Of Funk",
+      "release_title": "Rick Krive, Bob Taylor (2), James Kalamasz* - Smooth Jazz",
+      "year": "1997",
+      "label": "Abaco Music Library",
+      "country": "US",
+      "discogs_id": 7144035,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eFrHeJwPj2VxTRent7uFAWKwT1q4l_qtHiSBav_K1dM/rs:fit/g:sm/q:90/h:493/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDQw/MzUtMTQzNDcwNTE4/OC02MDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Edmar Castaneda",
+      "title": "Amen",
+      "release_title": "Edmar Castaneda - Cuarto de Colores",
+      "year": "2005",
+      "label": "Edmar Castaneda",
+      "country": "US",
+      "discogs_id": 12565269,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Y4BvjwZwXue6KBvkpaOQ1kG0Il07e1kfkKrdanXg42c/rs:fit/g:sm/q:90/h:355/w:354/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY1/MjY5LTE1Mzc3MTU4/MDAtNzg5OS5qcGVn.jpeg"
+    }
+  ]
+}
