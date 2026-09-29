@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Free Funk"
+      },
+      {
+        "genre": "Latin",
+        "style": "Samba"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1966,
+    "year_to": 2018,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 6,
+      "artists_found": 6,
+      "fresh_lookups": 0,
+      "styles_considered": 39
+    }
+  },
+  "results": [
+    {
+      "artist": "Zac Wolfe",
+      "title": "Lagrimas De Um Sonho (Tears From A Dream)",
+      "release_title": "Zac Wolfe - Hello",
+      "year": "2014",
+      "label": "Stix Hooper Enterprises",
+      "country": "US",
+      "discogs_id": 36084232,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/498MwlspwmpRHmZe60HJ8sRSGeC9ROurjCroetFuov4/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDg0/MjMyLTE3NjczODQ2/NzctNDEwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Amazing Grace",
+      "release_title": "Hubert Laws - Morning Star",
+      "year": "1972",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 19814179,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fumnpFeDXZt5HlglGCL-LbCL8GPE4wEOSWTtX9UOe4Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODE0/MTc5LTE2Mjg2MTUx/MzAtNDQ2Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roger Glenn",
+      "title": "Overtime",
+      "release_title": "Roger Glenn - Reachin'",
+      "year": "1976",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 1454122,
+      "rating_avg": 4.64,
+      "rating_count": 70,
+      "cover_image": "https://i.discogs.com/Zo-rECARO9kRs70W-4tpNPDLmI_i-poSc8FFoBRWAgk/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQx/MjItMTQxMjY5MjEz/Ny0zNzMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "In The Garden",
+      "release_title": "Bob James - In The Garden",
+      "year": "1974",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 8560619,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GppggY2wtzbmytuToq-HZ_00K3WbEDsEip7W_wie2u0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjA2/MTktMTYzNzIxMzA2/Ny05NTcxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eliane Elias",
+      "title": "Wave",
+      "release_title": "Eliane Elias - Brazilian Classics",
+      "year": "2003",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 19912987,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ySp5s7bwHQUoKIBk1pOSwIeCrgeCAACzuUfF3U6_1f4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTEy/OTg3LTE2MjkzNTA2/NjAtOTY5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Claudio Roditi",
+      "title": "Bossa De Monk",
+      "release_title": "Claudio Roditi - Bons Amigos",
+      "year": "2011",
+      "label": "Resonance Records",
+      "country": "US",
+      "discogs_id": 9997341,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GV-9n52QGIeLVcq_j5REIh5lqcx5s3lH5BHMRnDIT-c/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTcz/NDEtMTQ5MDM2MjUw/NS00MzEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Zaperoko",
+      "title": "El Zaperoko",
+      "release_title": "Zaperoko - Zaperoko",
+      "year": "1983",
+      "label": "Montuno Records",
+      "country": "US",
+      "discogs_id": 24590369,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ro9MrInYpyR_q6sNQqHjaP6LwjBX5KFfBs4hfupbWik/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTkw/MzY5LTE2NjUyNjI0/NzItNjIxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Soulive",
+      "title": "Roll The Tape",
+      "release_title": "Soulive - Doin' Something",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 11364620,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ak1X42X8Exo7Bk5lOoa1GSO6EdseA7kZ3X8G12xpXtA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY0/NjIwLTE1MTUwMDY4/MTctMzE1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mel Rhyne",
+      "title": "Things Ain't What They Used To Be",
+      "release_title": "Mel Rhyne - Organ-izing",
+      "year": "2000",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 10522991,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/-hrdX1syXZKB3aGnos-Kw6Z8zJplseSO_-vpn8NKZEc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/OTkxLTE2NDcyNDU5/NjItNjk2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Soulive",
+      "title": "Bridge To 'Bama",
+      "release_title": "Soulive - Doin' Something",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 11364620,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ak1X42X8Exo7Bk5lOoa1GSO6EdseA7kZ3X8G12xpXtA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY0/NjIwLTE1MTUwMDY4/MTctMzE1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Calvin Keys",
+      "title": "Lush Life",
+      "release_title": "Calvin Keys - Calvinesque",
+      "year": "2005",
+      "label": "Silverado Records",
+      "country": "US",
+      "discogs_id": 7899695,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/fzE42Is1OsAEWTdh23n4Tu3hWf_VwnmcmjqfjCFIPYw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTk2/OTUtMTQ1MjE4MzM1/MC02MzExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willis Jackson",
+      "title": "A Hard Day's Night",
+      "release_title": "Willis Jackson - Smoking With Willis",
+      "year": "1966",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 17557600,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PKNeE_5LiKGrpnUuEzDwNM62yJ_jjbxKu26QbS6YCOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTU3/NjAwLTE2MTQxMTU1/NTEtMzIyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eliane Elias",
+      "title": "Sambou Sambou",
+      "release_title": "Eliane Elias - Dance Of Time",
+      "year": "2017",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 10040181,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/vgMhOQWof0GGJ_OeuavQ192kfEeb18Sfd5pLaBuJ6mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQw/MTgxLTE0OTA1Njg1/MjQtODcyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mel Rhyne",
+      "title": "Blue Farouq",
+      "release_title": "Mel Rhyne - Organ-izing",
+      "year": "2000",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 10522991,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/-hrdX1syXZKB3aGnos-Kw6Z8zJplseSO_-vpn8NKZEc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/OTkxLTE2NDcyNDU5/NjItNjk2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Neckbones A La Carte",
+      "release_title": "Jimmy McGriff - McGriff's House Party",
+      "year": "2000",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 15209658,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/YrbRy3Q1GVxvaUuRqyXjSacb4ifxjYDbXkAopeWL2nw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA5/NjU4LTE1ODgxNDQx/OTAtNDE0Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Zaperoko",
+      "title": "Se Lo Que Es Rumba",
+      "release_title": "Zaperoko - Zaperoko",
+      "year": "1983",
+      "label": "Montuno Records",
+      "country": "US",
+      "discogs_id": 24590369,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ro9MrInYpyR_q6sNQqHjaP6LwjBX5KFfBs4hfupbWik/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTkw/MzY5LTE2NjUyNjI0/NzItNjIxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eliane Elias",
+      "title": "Crystal And Lace",
+      "release_title": "Eliane Elias - Brazilian Classics",
+      "year": "2003",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 19912987,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ySp5s7bwHQUoKIBk1pOSwIeCrgeCAACzuUfF3U6_1f4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTEy/OTg3LTE2MjkzNTA2/NjAtOTY5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Calvin Keys",
+      "title": "What's Go'in On",
+      "release_title": "Calvin Keys - Calvinesque",
+      "year": "2005",
+      "label": "Silverado Records",
+      "country": "US",
+      "discogs_id": 7899695,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/fzE42Is1OsAEWTdh23n4Tu3hWf_VwnmcmjqfjCFIPYw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTk2/OTUtMTQ1MjE4MzM1/MC02MzExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Roger Glenn",
+      "title": "Kick",
+      "release_title": "Roger Glenn - Reachin'",
+      "year": "1976",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 1454122,
+      "rating_avg": 4.64,
+      "rating_count": 70,
+      "cover_image": "https://i.discogs.com/Zo-rECARO9kRs70W-4tpNPDLmI_i-poSc8FFoBRWAgk/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQx/MjItMTQxMjY5MjEz/Ny0zNzMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Soulive",
+      "title": "Shaheed",
+      "release_title": "Soulive - Doin' Something",
+      "year": "2001",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 11364620,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ak1X42X8Exo7Bk5lOoa1GSO6EdseA7kZ3X8G12xpXtA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY0/NjIwLTE1MTUwMDY4/MTctMzE1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Let Her Go",
+      "release_title": "Hubert Laws - Morning Star",
+      "year": "1972",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 19814179,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fumnpFeDXZt5HlglGCL-LbCL8GPE4wEOSWTtX9UOe4Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODE0/MTc5LTE2Mjg2MTUx/MzAtNDQ2Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Zac Wolfe",
+      "title": "You Are Right",
+      "release_title": "Zac Wolfe - Hello",
+      "year": "2014",
+      "label": "Stix Hooper Enterprises",
+      "country": "US",
+      "discogs_id": 36084232,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/498MwlspwmpRHmZe60HJ8sRSGeC9ROurjCroetFuov4/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDg0/MjMyLTE3NjczODQ2/NzctNDEwNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Claudio Roditi",
+      "title": "O Sonho (The Dream)",
+      "release_title": "Claudio Roditi - Bons Amigos",
+      "year": "2011",
+      "label": "Resonance Records",
+      "country": "US",
+      "discogs_id": 9997341,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GV-9n52QGIeLVcq_j5REIh5lqcx5s3lH5BHMRnDIT-c/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTcz/NDEtMTQ5MDM2MjUw/NS00MzEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Side Effect",
+      "title": "Keep On Keepin' On",
+      "release_title": "Side Effect - Keep On Keepin' On",
+      "year": "1977",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 2617715,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/btH3mCSQ5QW51o4vXyIixGTJQOQK4b6Ydb-8DKf90pk/rs:fit/g:sm/q:90/h:300/w:287/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc3/MTUtMTMyNDk0ODQz/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "No More",
+      "release_title": "Hubert Laws - Morning Star",
+      "year": "1972",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 19814179,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fumnpFeDXZt5HlglGCL-LbCL8GPE4wEOSWTtX9UOe4Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODE0/MTc5LTE2Mjg2MTUx/MzAtNDQ2Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roger Glenn",
+      "title": "Rio",
+      "release_title": "Roger Glenn - Reachin'",
+      "year": "1976",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 1454122,
+      "rating_avg": 4.64,
+      "rating_count": 70,
+      "cover_image": "https://i.discogs.com/Zo-rECARO9kRs70W-4tpNPDLmI_i-poSc8FFoBRWAgk/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQx/MjItMTQxMjY5MjEz/Ny0zNzMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willis Jackson",
+      "title": "Who Can I Turn To (When Nobody Needs Me)",
+      "release_title": "Willis Jackson - Smoking With Willis",
+      "year": "1966",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 17557600,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PKNeE_5LiKGrpnUuEzDwNM62yJ_jjbxKu26QbS6YCOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTU3/NjAwLTE2MTQxMTU1/NTEtMzIyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Side Effect",
+      "title": "Back In Time",
+      "release_title": "Side Effect - Keep On Keepin' On",
+      "year": "1977",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 2617715,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/btH3mCSQ5QW51o4vXyIixGTJQOQK4b6Ydb-8DKf90pk/rs:fit/g:sm/q:90/h:300/w:287/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc3/MTUtMTMyNDk0ODQz/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eliane Elias",
+      "title": "Na Batucada Da Vida",
+      "release_title": "Eliane Elias - Dance Of Time",
+      "year": "2017",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 10040181,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/vgMhOQWof0GGJ_OeuavQ192kfEeb18Sfd5pLaBuJ6mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQw/MTgxLTE0OTA1Njg1/MjQtODcyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Roger Glenn",
+      "title": "Gloria",
+      "release_title": "Roger Glenn - Reachin'",
+      "year": "1976",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 1454122,
+      "rating_avg": 4.64,
+      "rating_count": 70,
+      "cover_image": "https://i.discogs.com/Zo-rECARO9kRs70W-4tpNPDLmI_i-poSc8FFoBRWAgk/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQx/MjItMTQxMjY5MjEz/Ny0zNzMwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Claudio Roditi",
+      "title": "Fantasia",
+      "release_title": "Claudio Roditi - Bons Amigos",
+      "year": "2011",
+      "label": "Resonance Records",
+      "country": "US",
+      "discogs_id": 9997341,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GV-9n52QGIeLVcq_j5REIh5lqcx5s3lH5BHMRnDIT-c/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTcz/NDEtMTQ5MDM2MjUw/NS00MzEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Calvin Keys",
+      "title": "Marela",
+      "release_title": "Calvin Keys - Calvinesque",
+      "year": "2005",
+      "label": "Silverado Records",
+      "country": "US",
+      "discogs_id": 7899695,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/fzE42Is1OsAEWTdh23n4Tu3hWf_VwnmcmjqfjCFIPYw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTk2/OTUtMTQ1MjE4MzM1/MC02MzExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Zaperoko",
+      "title": "Sigan La Clave",
+      "release_title": "Zaperoko - Zaperoko",
+      "year": "1983",
+      "label": "Montuno Records",
+      "country": "US",
+      "discogs_id": 24590369,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ro9MrInYpyR_q6sNQqHjaP6LwjBX5KFfBs4hfupbWik/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTkw/MzY5LTE2NjUyNjI0/NzItNjIxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Claudio Roditi",
+      "title": "Amandamada",
+      "release_title": "Claudio Roditi - Bons Amigos",
+      "year": "2011",
+      "label": "Resonance Records",
+      "country": "US",
+      "discogs_id": 9997341,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GV-9n52QGIeLVcq_j5REIh5lqcx5s3lH5BHMRnDIT-c/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTcz/NDEtMTQ5MDM2MjUw/NS00MzEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eliane Elias",
+      "title": "O Pato",
+      "release_title": "Eliane Elias - Dance Of Time",
+      "year": "2017",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 10040181,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/vgMhOQWof0GGJ_OeuavQ192kfEeb18Sfd5pLaBuJ6mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQw/MTgxLTE0OTA1Njg1/MjQtODcyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Calvin Keys",
+      "title": "Witchcraft",
+      "release_title": "Calvin Keys - Calvinesque",
+      "year": "2005",
+      "label": "Silverado Records",
+      "country": "US",
+      "discogs_id": 7899695,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/fzE42Is1OsAEWTdh23n4Tu3hWf_VwnmcmjqfjCFIPYw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTk2/OTUtMTQ1MjE4MzM1/MC02MzExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mel Rhyne",
+      "title": "Barefoot Sunday Blues",
+      "release_title": "Mel Rhyne - Organ-izing",
+      "year": "2000",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 10522991,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/-hrdX1syXZKB3aGnos-Kw6Z8zJplseSO_-vpn8NKZEc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/OTkxLTE2NDcyNDU5/NjItNjk2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Willis Jackson",
+      "title": "Yesterday",
+      "release_title": "Willis Jackson - Smoking With Willis",
+      "year": "1966",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 17557600,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PKNeE_5LiKGrpnUuEzDwNM62yJ_jjbxKu26QbS6YCOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTU3/NjAwLTE2MTQxMTU1/NTEtMzIyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eliane Elias",
+      "title": "Brazil (Aquarela Do Brasil)",
+      "release_title": "Eliane Elias - Brazilian Classics",
+      "year": "2003",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 19912987,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ySp5s7bwHQUoKIBk1pOSwIeCrgeCAACzuUfF3U6_1f4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTEy/OTg3LTE2MjkzNTA2/NjAtOTY5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Red Cadillac Boogaloo",
+      "release_title": "Jimmy McGriff - McGriff's House Party",
+      "year": "2000",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 15209658,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/YrbRy3Q1GVxvaUuRqyXjSacb4ifxjYDbXkAopeWL2nw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA5/NjU4LTE1ODgxNDQx/OTAtNDE0Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Blues For Stitt",
+      "release_title": "Jimmy McGriff - McGriff's House Party",
+      "year": "2000",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 15209658,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/YrbRy3Q1GVxvaUuRqyXjSacb4ifxjYDbXkAopeWL2nw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA5/NjU4LTE1ODgxNDQx/OTAtNDE0Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hubert Laws",
+      "title": "Morning Star",
+      "release_title": "Hubert Laws - Morning Star",
+      "year": "1972",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 19814179,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fumnpFeDXZt5HlglGCL-LbCL8GPE4wEOSWTtX9UOe4Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODE0/MTc5LTE2Mjg2MTUx/MzAtNDQ2Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mel Rhyne",
+      "title": "Shoo, Shoo Baby",
+      "release_title": "Mel Rhyne - Organ-izing",
+      "year": "2000",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 10522991,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/-hrdX1syXZKB3aGnos-Kw6Z8zJplseSO_-vpn8NKZEc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTIy/OTkxLTE2NDcyNDU5/NjItNjk2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "That's All",
+      "release_title": "Jimmy McGriff - McGriff's House Party",
+      "year": "2000",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 15209658,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/YrbRy3Q1GVxvaUuRqyXjSacb4ifxjYDbXkAopeWL2nw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA5/NjU4LTE1ODgxNDQx/OTAtNDE0Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Willis Jackson",
+      "title": "Doin The Mudcat",
+      "release_title": "Willis Jackson - Smoking With Willis",
+      "year": "1966",
+      "label": "Cadet",
+      "country": "US",
+      "discogs_id": 17557600,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PKNeE_5LiKGrpnUuEzDwNM62yJ_jjbxKu26QbS6YCOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTU3/NjAwLTE2MTQxMTU1/NTEtMzIyOS5qcGVn.jpeg"
+    }
+  ]
+}
