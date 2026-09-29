@@ -1285,6 +1285,403 @@
    1980
   ]
  },
+ "ahnnu": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Australia",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Australia",
+   "US"
+  ],
+  "genres": [
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic"
+  ],
+  "pairs": [
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Sound Collage",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Lo-Fi",
+    "Electronic"
+   ],
+   [
+    "Lo-Fi",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Sound Collage",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Experimental",
+   "Experimental",
+   "Ambient",
+   "Abstract",
+   "New Age",
+   "Instrumental",
+   "Abstract",
+   "Hip Hop",
+   "Abstract",
+   "Ambient",
+   "Experimental",
+   "Instrumental",
+   "Experimental",
+   "Abstract",
+   "Experimental",
+   "Instrumental",
+   "Abstract",
+   "Hip Hop",
+   "Experimental",
+   "Abstract",
+   "Ambient",
+   "Experimental",
+   "Ambient",
+   "Sound Collage",
+   "Hip Hop",
+   "Abstract",
+   "Experimental",
+   "Lo-Fi",
+   "Abstract",
+   "Hip Hop",
+   "Ambient",
+   "Sound Collage",
+   "Hip Hop",
+   "Experimental",
+   "Abstract",
+   "Ambient",
+   "Experimental",
+   "Abstract",
+   "Ambient",
+   "Experimental",
+   "Abstract",
+   "Leftfield",
+   "Experimental",
+   "Abstract",
+   "Leftfield",
+   "Abstract",
+   "Experimental",
+   "Abstract",
+   "New Age",
+   "Experimental",
+   "Hip Hop",
+   "Abstract",
+   "Leftfield"
+  ],
+  "years": [
+   2016,
+   2012,
+   2011,
+   2013,
+   2009,
+   2017,
+   2009,
+   2018,
+   2013,
+   2009,
+   2012,
+   2015,
+   2011,
+   2012,
+   2011,
+   2011,
+   2019,
+   2015,
+   2017,
+   2011,
+   2012,
+   2020,
+   2013,
+   2019,
+   2011
+  ]
+ },
  "airto moreira": {
   "countries": [
    "US",
@@ -14131,6 +14528,219 @@
    1977
   ]
  },
+ "apollo brown": {
+  "countries": [
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Instrumental",
+   "Instrumental",
+   "Boom Bap",
+   "Instrumental",
+   "Boom Bap",
+   "Conscious",
+   "Hardcore Hip-Hop",
+   "Instrumental",
+   "Boom Bap",
+   "Instrumental",
+   "Boom Bap",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Boom Bap",
+   "Boom Bap",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental"
+  ],
+  "years": [
+   2022,
+   2024,
+   2025,
+   2021,
+   2023,
+   2025,
+   2015,
+   2019,
+   2014,
+   2025,
+   2026,
+   2010,
+   2014,
+   2020,
+   2023,
+   2013,
+   2026,
+   2024,
+   2019,
+   2013,
+   2011,
+   2019,
+   2022,
+   2014,
+   2023
+  ]
+ },
  "april masten": {
   "countries": [
    "US",
@@ -25430,6 +26040,153 @@
    1974
   ]
  },
+ "black milk": {
+  "countries": [
+   "US",
+   "Czech Republic",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Czech Republic & Slovakia",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Pop",
+   "Hip Hop",
+   "Rock",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Rock",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Pop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Post-Punk",
+    "Rock"
+   ],
+   [
+    "Punk",
+    "Rock"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Europop",
+    "Electronic"
+   ],
+   [
+    "Europop",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Alternative Rock",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Hardcore Hip-Hop",
+   "Post-Punk",
+   "Punk",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Boom Bap",
+   "Europop"
+  ],
+  "years": [
+   2014,
+   2002,
+   2011,
+   1995,
+   2013,
+   2019,
+   2007,
+   2008,
+   2026,
+   2006,
+   2010,
+   2008,
+   1999,
+   2007,
+   2015,
+   2013,
+   2008,
+   2024,
+   2020,
+   2012,
+   2014,
+   2002,
+   2014,
+   2013
+  ]
+ },
  "bloodstone": {
   "countries": [
    "Japan",
@@ -33488,6 +34245,207 @@
    1989,
    1961,
    2020
+  ]
+ },
+ "chester watson": {
+  "countries": [
+   "US",
+   "US",
+   "Unknown",
+   "Unknown",
+   "Europe",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "USA & Canada",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "USA & Canada",
+   "US",
+   "North America (inc Mexico)",
+   "Unknown",
+   "Unknown"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Classical",
+   "Classical"
+  ],
+  "pairs": [
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Cloud Rap",
+    "Hip Hop"
+   ],
+   [
+    "Cloud Rap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Trip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Lo-Fi",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Cloud Rap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Cloud Rap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Cloud Rap",
+    "Hip Hop"
+   ],
+   [
+    "Cloud Rap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Trap",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Boom Bap",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Conscious",
+   "Cloud Rap",
+   "Cloud Rap",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Trip Hop",
+   "Lo-Fi",
+   "Instrumental",
+   "Conscious",
+   "Cloud Rap",
+   "Jazzy Hip-Hop",
+   "Cloud Rap",
+   "Conscious",
+   "Conscious",
+   "Cloud Rap",
+   "Cloud Rap",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Trap"
+  ],
+  "years": [
+   2018,
+   2023,
+   2016,
+   2019,
+   2023,
+   2019,
+   2023,
+   2016,
+   2014,
+   2025,
+   2012,
+   2019,
+   2021,
+   2024,
+   2016,
+   2015,
+   2020,
+   2023,
+   2025,
+   2024,
+   2025,
+   2025,
+   2016
   ]
  },
  "chet baker": {
@@ -51543,6 +52501,348 @@
    1968
   ]
  },
+ "elaquent": {
+  "countries": [
+   "US",
+   "Canada",
+   "US",
+   "Europe",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Unknown",
+   "Unknown",
+   "Canada",
+   "Canada",
+   "US",
+   "Canada",
+   "US",
+   "France",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Unknown",
+   "France",
+   "Canada",
+   "US",
+   "Canada"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Funk / Soul"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Instrumental",
+   "Boom Bap",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Downtempo",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Hip Hop",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Boom Bap",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Instrumental",
+   "Hip Hop",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Hip Hop"
+  ],
+  "years": [
+   2024,
+   2015,
+   2019,
+   2016,
+   2022,
+   2015,
+   2014,
+   2022,
+   2014,
+   2009,
+   2016,
+   2012,
+   2017,
+   2024,
+   2013,
+   2020,
+   2013,
+   2016,
+   2018,
+   2016,
+   2011,
+   2012,
+   2012,
+   2015,
+   2019
+  ]
+ },
  "ella fitzgerald": {
   "countries": [
    "Japan",
@@ -52206,6 +53506,720 @@
    1957,
    1955,
    1969
+  ]
+ },
+ "emiliana torrini": {
+  "countries": [
+   "UK",
+   "UK",
+   "US",
+   "UK",
+   "UK",
+   "Iceland",
+   "Japan",
+   "Europe",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "US",
+   "Unknown",
+   "France",
+   "UK",
+   "Denmark",
+   "UK & Europe",
+   "Europe",
+   "UK",
+   "Australia",
+   "US",
+   "UK",
+   "UK"
+  ],
+  "genres": [
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Rock",
+   "Electronic",
+   "Pop",
+   "Folk, World, & Country",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Reggae",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "UK Garage",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Pop"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Europop",
+    "Pop"
+   ],
+   [
+    "Europop",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Pop"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Breaks",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Dub",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Folk Rock",
+    "Electronic"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Folk Rock",
+    "Pop"
+   ],
+   [
+    "Acoustic",
+    "Electronic"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Rock"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Electronic"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Rock"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Pop"
+   ],
+   [
+    "Trip Hop",
+    "Folk, World, & Country"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Folk, World, & Country"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Folk Rock",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Dub",
+    "Electronic"
+   ],
+   [
+    "Dub",
+    "Reggae"
+   ],
+   [
+    "Dub",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Reggae"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "House",
+   "Abstract",
+   "UK Garage",
+   "Downtempo",
+   "Downtempo",
+   "Trip Hop",
+   "Folk Rock",
+   "Acoustic",
+   "Indie Pop",
+   "Downtempo",
+   "Europop",
+   "Folk",
+   "Folk Rock",
+   "Indie Rock",
+   "Breaks",
+   "Downtempo",
+   "House",
+   "Leftfield",
+   "Dub",
+   "Downtempo",
+   "Experimental",
+   "Ambient",
+   "Downtempo",
+   "House",
+   "Downtempo",
+   "Folk Rock",
+   "Acoustic",
+   "Downtempo",
+   "Pop Rock",
+   "Alternative Rock",
+   "Acoustic",
+   "Downtempo",
+   "Folk Rock",
+   "Acoustic",
+   "Trip Hop",
+   "Downtempo",
+   "Experimental",
+   "Folk Rock",
+   "Indie Rock",
+   "Acoustic",
+   "Indie Rock",
+   "Trip Hop",
+   "Dub",
+   "Downtempo"
+  ],
+  "years": [
+   2000,
+   2005,
+   2005,
+   1995,
+   2008,
+   1999,
+   1999,
+   2005,
+   2000,
+   1999,
+   1999,
+   2005,
+   2009,
+   2009,
+   2000,
+   2017,
+   2000,
+   2008,
+   2005,
+   2000,
+   2008
+  ]
+ },
+ "emune.": {
+  "countries": [
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Trip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Phonk",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Instrumental",
+   "Instrumental",
+   "Phonk",
+   "Boom Bap",
+   "Instrumental",
+   "Phonk",
+   "Instrumental",
+   "Phonk",
+   "Boom Bap",
+   "Instrumental",
+   "Instrumental",
+   "Boom Bap",
+   "Phonk",
+   "Phonk",
+   "Instrumental",
+   "Phonk",
+   "Instrumental",
+   "Instrumental",
+   "Boom Bap",
+   "Jazzy Hip-Hop",
+   "Trip Hop",
+   "Conscious",
+   "Phonk",
+   "Instrumental",
+   "Boom Bap",
+   "Phonk",
+   "Instrumental",
+   "Instrumental",
+   "Phonk",
+   "Instrumental",
+   "Boom Bap",
+   "Phonk",
+   "Instrumental",
+   "Boom Bap",
+   "Phonk",
+   "Phonk",
+   "Instrumental",
+   "Gangsta",
+   "Phonk",
+   "Instrumental",
+   "Instrumental",
+   "Phonk"
+  ],
+  "years": [
+   2016,
+   2016,
+   2017,
+   2020,
+   2015,
+   2018,
+   2018,
+   2020,
+   2019,
+   2016,
+   2019,
+   2015,
+   2016,
+   2020,
+   2020,
+   2015,
+   2017,
+   2014,
+   2018,
+   2020,
+   2015,
+   2017,
+   2018,
+   2021,
+   2015
   ]
  },
  "ennio morricone": {
@@ -53384,6 +55398,915 @@
   "styles": [],
   "years": []
  },
+ "fabiano do nascimento": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
+ "fka twigs": {
+  "countries": [
+   "Taiwan",
+   "Japan",
+   "US",
+   "UK",
+   "UK",
+   "US",
+   "Europe",
+   "Unknown",
+   "Worldwide",
+   "UK",
+   "US",
+   "Australia",
+   "USA & Canada",
+   "Worldwide",
+   "UK",
+   "UK",
+   "UK",
+   "Unknown",
+   "Europe",
+   "Japan",
+   "Unknown",
+   "Europe",
+   "US",
+   "Unknown",
+   "UK"
+  ],
+  "genres": [
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Funk / Soul",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Pop"
+   ],
+   [
+    "Dream Pop",
+    "Electronic"
+   ],
+   [
+    "Dream Pop",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Glitch Hop",
+    "Electronic"
+   ],
+   [
+    "Glitch Hop",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Hip Hop"
+   ],
+   [
+    "Dance-pop",
+    "Funk / Soul"
+   ],
+   [
+    "Dance-pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "RnB/Swing",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Alt-Pop",
+    "Electronic"
+   ],
+   [
+    "Alt-Pop",
+    "Pop"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Pop"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Hip Hop"
+   ],
+   [
+    "Dance-pop",
+    "Funk / Soul"
+   ],
+   [
+    "Dance-pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Rock"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Rock"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Pop"
+   ],
+   [
+    "Alt-Pop",
+    "Electronic"
+   ],
+   [
+    "Alt-Pop",
+    "Pop"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Pop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Dream Pop",
+    "Electronic"
+   ],
+   [
+    "Glitch Hop",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Pop"
+   ],
+   [
+    "Dream Pop",
+    "Electronic"
+   ],
+   [
+    "Dream Pop",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Dream Pop",
+    "Electronic"
+   ],
+   [
+    "Dream Pop",
+    "Pop"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Pop"
+   ],
+   [
+    "Glitch Hop",
+    "Electronic"
+   ],
+   [
+    "Glitch Hop",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Pop"
+   ],
+   [
+    "Alt-Pop",
+    "Electronic"
+   ],
+   [
+    "Alt-Pop",
+    "Pop"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Pop"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Hip Hop"
+   ],
+   [
+    "Dance-pop",
+    "Funk / Soul"
+   ],
+   [
+    "Dance-pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Hip Hop"
+   ],
+   [
+    "Dance-pop",
+    "Funk / Soul"
+   ],
+   [
+    "Dance-pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Alt-Pop",
+    "Electronic"
+   ],
+   [
+    "Alt-Pop",
+    "Hip Hop"
+   ],
+   [
+    "Alt-Pop",
+    "Funk / Soul"
+   ],
+   [
+    "Alt-Pop",
+    "Pop"
+   ],
+   [
+    "Avantgarde",
+    "Electronic"
+   ],
+   [
+    "Avantgarde",
+    "Hip Hop"
+   ],
+   [
+    "Avantgarde",
+    "Funk / Soul"
+   ],
+   [
+    "Avantgarde",
+    "Pop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Pop"
+   ],
+   [
+    "Dancehall",
+    "Electronic"
+   ],
+   [
+    "Dancehall",
+    "Hip Hop"
+   ],
+   [
+    "Dancehall",
+    "Funk / Soul"
+   ],
+   [
+    "Dancehall",
+    "Pop"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Hip Hop"
+   ],
+   [
+    "Bass Music",
+    "Funk / Soul"
+   ],
+   [
+    "Bass Music",
+    "Pop"
+   ],
+   [
+    "Afrobeat",
+    "Electronic"
+   ],
+   [
+    "Afrobeat",
+    "Hip Hop"
+   ],
+   [
+    "Afrobeat",
+    "Funk / Soul"
+   ],
+   [
+    "Afrobeat",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Pop"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Ethereal",
+   "Dream Pop",
+   "Downtempo",
+   "Glitch Hop",
+   "Contemporary R&B",
+   "Downtempo",
+   "Ethereal",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Dance-pop",
+   "Experimental",
+   "RnB/Swing",
+   "Dance-pop",
+   "Alt-Pop",
+   "Dance-pop",
+   "Trip Hop",
+   "Downtempo",
+   "Contemporary R&B",
+   "Downtempo",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Dance-pop",
+   "Experimental",
+   "Trip Hop",
+   "Downtempo",
+   "Ethereal",
+   "Electro",
+   "Alt-Pop",
+   "Dance-pop",
+   "Electro",
+   "Downtempo",
+   "Leftfield",
+   "Ethereal",
+   "Dubstep",
+   "Electro",
+   "Downtempo",
+   "Ethereal",
+   "Dream Pop",
+   "Glitch Hop",
+   "Contemporary R&B",
+   "Downtempo",
+   "Leftfield",
+   "Dream Pop",
+   "Contemporary R&B",
+   "Experimental",
+   "Dream Pop",
+   "Ethereal",
+   "Glitch Hop",
+   "Contemporary R&B",
+   "Downtempo",
+   "Electro",
+   "Alt-Pop",
+   "Dance-pop",
+   "Downtempo",
+   "Ethereal",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Downtempo",
+   "Bass Music",
+   "Ethereal",
+   "Experimental",
+   "Leftfield",
+   "Contemporary R&B",
+   "Dance-pop",
+   "Experimental",
+   "Contemporary R&B",
+   "Dance-pop",
+   "Experimental",
+   "Alt-Pop",
+   "Avantgarde",
+   "Hip Hop",
+   "Dancehall",
+   "Bass Music",
+   "Afrobeat",
+   "Contemporary R&B",
+   "Downtempo",
+   "Bass Music",
+   "Ethereal",
+   "Experimental",
+   "Leftfield"
+  ],
+  "years": [
+   2014,
+   2019,
+   2022,
+   2014,
+   2022,
+   2025,
+   2015,
+   2022,
+   2019,
+   2022,
+   2015,
+   2014,
+   2025,
+   2024,
+   2013,
+   2024,
+   2014,
+   2021,
+   2014,
+   2025,
+   2021,
+   2016,
+   2022,
+   2022,
+   2016
+  ]
+ },
  "floating points": {
   "countries": [
    "Japan",
@@ -54449,6 +57372,864 @@
    1976,
    1974,
    1977
+  ]
+ },
+ "flying lotus": {
+  "countries": [
+   "Japan",
+   "Japan",
+   "Unknown",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "Unknown",
+   "UK",
+   "UK",
+   "Japan",
+   "UK & Europe",
+   "UK",
+   "UK",
+   "UK & US",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "US",
+   "USA, Canada & UK",
+   "UK",
+   "UK",
+   "UK & Europe",
+   "UK"
+  ],
+  "genres": [
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Chiptune",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Hip Hop"
+   ],
+   [
+    "Jungle",
+    "Electronic"
+   ],
+   [
+    "Jungle",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Jazz"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Hip Hop"
+   ],
+   [
+    "IDM",
+    "Jazz"
+   ],
+   [
+    "IDM",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Jazz"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Jazz"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Hip Hop"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Hip Hop"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Hip Hop"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Glitch",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Jazz"
+   ],
+   [
+    "Drum n Bass",
+    "Electronic"
+   ],
+   [
+    "Drum n Bass",
+    "Hip Hop"
+   ],
+   [
+    "Drum n Bass",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Abstract",
+   "IDM",
+   "Hip Hop",
+   "Downtempo",
+   "Experimental",
+   "Glitch",
+   "Trip Hop",
+   "Instrumental",
+   "Bass Music",
+   "Abstract",
+   "Experimental",
+   "Hip Hop",
+   "Chiptune",
+   "Dubstep",
+   "Instrumental",
+   "Abstract",
+   "Dubstep",
+   "Jungle",
+   "Experimental",
+   "Downtempo",
+   "Future Jazz",
+   "Abstract",
+   "Future Jazz",
+   "Downtempo",
+   "Hip Hop",
+   "Experimental",
+   "Trip Hop",
+   "Instrumental",
+   "Abstract",
+   "Experimental",
+   "IDM",
+   "Downtempo",
+   "Future Jazz",
+   "Instrumental",
+   "Downtempo",
+   "Hip Hop",
+   "Experimental",
+   "Abstract",
+   "Future Jazz",
+   "IDM",
+   "Hip Hop",
+   "Downtempo",
+   "Experimental",
+   "Future Jazz",
+   "Abstract",
+   "Future Jazz",
+   "IDM",
+   "Hip Hop",
+   "Downtempo",
+   "Experimental",
+   "Downtempo",
+   "Future Jazz",
+   "Abstract",
+   "Jazzy Hip-Hop",
+   "Fusion",
+   "Hip Hop",
+   "Instrumental",
+   "Downtempo",
+   "Hip Hop",
+   "Experimental",
+   "IDM",
+   "Downtempo",
+   "Abstract",
+   "Jazzy Hip-Hop",
+   "Fusion",
+   "Abstract",
+   "Future Jazz",
+   "IDM",
+   "Hip Hop",
+   "Downtempo",
+   "Experimental",
+   "Abstract",
+   "Abstract",
+   "Future Jazz",
+   "Instrumental",
+   "IDM",
+   "Hip Hop",
+   "Downtempo",
+   "Experimental",
+   "Instrumental",
+   "Experimental",
+   "Downtempo",
+   "IDM",
+   "Trip Hop",
+   "Abstract",
+   "Future Jazz",
+   "IDM",
+   "Downtempo",
+   "Experimental",
+   "Glitch",
+   "Future Jazz",
+   "Drum n Bass",
+   "Jazzy Hip-Hop",
+   "Experimental",
+   "Instrumental",
+   "Downtempo",
+   "Experimental"
+  ],
+  "years": [
+   2008,
+   2009,
+   2008,
+   2019,
+   2011,
+   2014,
+   2007,
+   2012,
+   2021,
+   2008,
+   2010,
+   2014,
+   2010,
+   2019,
+   2019,
+   2008,
+   2010,
+   2020,
+   2010,
+   2012,
+   2012,
+   2014,
+   2014,
+   2008
   ]
  },
  "francesco de masi": {
@@ -56125,6 +59906,545 @@
    2015,
    1985,
    1987
+  ]
+ },
+ "franco battiato": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Europe",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Spain",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Europe",
+   "Italy",
+   "Italy",
+   "Spain"
+  ],
+  "genres": [
+   "Electronic",
+   "Pop",
+   "Folk, World, & Country",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Classical",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Classical",
+   "Stage & Screen",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Classical",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Latin",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Classical",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Folk, World, & Country"
+   ],
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Modern Classical",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Electronic"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Electronic"
+   ],
+   [
+    "Vocal",
+    "Rock"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Rock"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "New Wave",
+    "Electronic"
+   ],
+   [
+    "New Wave",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Neo-Classical",
+    "Electronic"
+   ],
+   [
+    "Neo-Classical",
+    "Classical"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Opera",
+    "Classical"
+   ],
+   [
+    "Europop",
+    "Pop"
+   ],
+   [
+    "Europop",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Pop"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Classical"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Rock"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Rock"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Rock"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Classic Rock",
+    "Rock"
+   ],
+   [
+    "Classic Rock",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Stage & Screen"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Neo-Classical",
+    "Rock"
+   ],
+   [
+    "Neo-Classical",
+    "Pop"
+   ],
+   [
+    "Neo-Classical",
+    "Classical"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Classical"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Latin"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Rock"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Neo-Classical",
+    "Rock"
+   ],
+   [
+    "Neo-Classical",
+    "Classical"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Classical"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Electronic"
+   ],
+   [
+    "Ballad",
+    "Rock"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Modern Classical",
+   "Chanson",
+   "Ballad",
+   "Modern Classical",
+   "Pop Rock",
+   "Synth-pop",
+   "Art Rock",
+   "Pop Rock",
+   "Vocal",
+   "Ballad",
+   "New Wave",
+   "Vocal",
+   "Neo-Classical",
+   "Experimental",
+   "Contemporary",
+   "Opera",
+   "Europop",
+   "Classical",
+   "Ballad",
+   "Pop Rock",
+   "Vocal",
+   "Chanson",
+   "Pop Rock",
+   "Vocal",
+   "Classic Rock",
+   "Soundtrack",
+   "Contemporary",
+   "Vocal",
+   "Neo-Classical",
+   "Pop Rock",
+   "Experimental",
+   "Ballad",
+   "Pop Rock",
+   "Synth-pop",
+   "Pop Rock",
+   "Vocal",
+   "Neo-Classical",
+   "Pop Rock",
+   "Pop Rock",
+   "Pop Rock",
+   "Synth-pop",
+   "Ballad",
+   "Prog Rock",
+   "Pop Rock",
+   "Synth-pop"
+  ],
+  "years": [
+   2018,
+   2010,
+   2018,
+   2001,
+   2011,
+   2004,
+   1987,
+   2022,
+   2019,
+   2009,
+   2006,
+   1999,
+   2021,
+   1972,
+   2020,
+   2020,
+   2019,
+   2021,
+   2008,
+   2017,
+   2010,
+   1984
   ]
  },
  "franco bixio": {
@@ -59158,6 +63478,652 @@
    2021
   ]
  },
+ "freddie gibbs": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "Worldwide",
+   "US",
+   "Worldwide",
+   "Worldwide",
+   "US",
+   "Worldwide",
+   "Worldwide",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Trap",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Gangsta",
+   "Conscious",
+   "Gangsta",
+   "Hardcore Hip-Hop",
+   "Gangsta",
+   "Gangsta",
+   "Boom Bap",
+   "Trap",
+   "Gangsta",
+   "Gangsta",
+   "Gangsta",
+   "Gangsta",
+   "Gangsta",
+   "Gangsta",
+   "Gangsta",
+   "Hardcore Hip-Hop",
+   "Gangsta"
+  ],
+  "years": [
+   2011,
+   2010,
+   2012,
+   2021,
+   2023,
+   2016,
+   2024,
+   2023,
+   2021,
+   2005,
+   2016,
+   2017,
+   2018,
+   2016,
+   2010,
+   2018,
+   2017,
+   2015,
+   2017,
+   2021,
+   2022,
+   2011,
+   2012,
+   2018,
+   2022
+  ]
+ },
+ "freddie joachim": {
+  "countries": [
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "Unknown",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Jazz"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Jazz"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Soul-Jazz",
+   "Soul",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Soul",
+   "Hip Hop",
+   "Instrumental",
+   "Instrumental",
+   "Soul",
+   "Hip Hop",
+   "Soul",
+   "Hip Hop",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Soul",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Soul-Jazz",
+   "Soul",
+   "Jazzy Hip-Hop",
+   "Hip Hop",
+   "Conscious",
+   "Instrumental",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Soul-Jazz",
+   "Soul",
+   "Instrumental",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Hip Hop",
+   "Conscious"
+  ],
+  "years": [
+   2008,
+   2012,
+   2010,
+   2015,
+   2010,
+   2009,
+   2013,
+   2010,
+   2010,
+   2015,
+   2012,
+   2009,
+   2009,
+   2016,
+   2010,
+   2010,
+   2009,
+   2010,
+   2018,
+   2010,
+   2016,
+   2008,
+   2012,
+   2009,
+   2017
+  ]
+ },
  "frederick knight": {
   "countries": [
    "US",
@@ -59643,6 +64609,455 @@
    2010,
    1965,
    1995
+  ]
+ },
+ "fredfades": {
+  "countries": [
+   "Europe",
+   "Europe",
+   "Norway",
+   "UK",
+   "UK",
+   "Norway",
+   "US",
+   "Europe",
+   "Norway",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "Europe",
+   "Norway",
+   "Norway",
+   "Norway",
+   "UK",
+   "Norway",
+   "Europe",
+   "Europe",
+   "Norway",
+   "Norway",
+   "Europe"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Jazz"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Electronic"
+   ],
+   [
+    "Jazz-Funk",
+    "Hip Hop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Deep House",
+    "Electronic"
+   ],
+   [
+    "Deep House",
+    "Funk / Soul"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hands Up",
+    "Electronic"
+   ],
+   [
+    "Hands Up",
+    "Funk / Soul"
+   ],
+   [
+    "Free Funk",
+    "Electronic"
+   ],
+   [
+    "Free Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Balearic",
+    "Electronic"
+   ],
+   [
+    "Ambient House",
+    "Electronic"
+   ],
+   [
+    "Deep House",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Deep House",
+    "Electronic"
+   ],
+   [
+    "Jazz-Funk",
+    "Electronic"
+   ],
+   [
+    "Deep House",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Free Jazz",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Free Jazz",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Hip Hop",
+   "Jazz-Funk",
+   "Soul",
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Deep House",
+   "House",
+   "Soul",
+   "Hands Up",
+   "Free Funk",
+   "Instrumental",
+   "House",
+   "Balearic",
+   "Ambient House",
+   "Deep House",
+   "IDM",
+   "Breakbeat",
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Deep House",
+   "Jazz-Funk",
+   "Deep House",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Ambient",
+   "Free Jazz",
+   "Neo Soul",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Boom Bap",
+   "Ambient",
+   "Free Jazz",
+   "Neo Soul",
+   "Instrumental",
+   "Jazzy Hip-Hop"
+  ],
+  "years": [
+   2017,
+   2017,
+   2017,
+   2014,
+   2014,
+   2017,
+   2017,
+   2017,
+   2023,
+   2015,
+   2014,
+   2016,
+   2018,
+   2014,
+   2015,
+   2008,
+   2019,
+   2020,
+   2015,
+   2018,
+   2018,
+   2015,
+   2023,
+   2018,
+   2015
   ]
  },
  "friday": {
@@ -73311,6 +78726,803 @@
    1981
   ]
  },
+ "hiatus kaiyote": {
+  "countries": [
+   "US",
+   "Japan",
+   "Europe",
+   "Europe",
+   "Japan",
+   "US",
+   "Unknown",
+   "Australia",
+   "Europe",
+   "US",
+   "Europe",
+   "UK & Europe",
+   "Europe",
+   "Unknown",
+   "France",
+   "France",
+   "Europe",
+   "US",
+   "Japan",
+   "Europe",
+   "Europe",
+   "Australia",
+   "Japan",
+   "Japan",
+   "Europe"
+  ],
+  "genres": [
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Jazz"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Jazz"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Jazz"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Jazz"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Jazz"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Jazz"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Jazz"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Jazz"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Hip Hop"
+   ],
+   [
+    "Alternative Rock",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Neo Soul",
+   "Neo Soul",
+   "Contemporary R&B",
+   "Neo Soul",
+   "Neo Soul",
+   "Contemporary R&B",
+   "Neo Soul",
+   "Contemporary R&B",
+   "Neo Soul",
+   "Neo Soul",
+   "Neo Soul",
+   "Neo Soul",
+   "Neo Soul",
+   "Hip Hop",
+   "Alternative Rock",
+   "Neo Soul",
+   "Hip Hop",
+   "Alternative Rock",
+   "Neo Soul",
+   "Hip Hop",
+   "Alternative Rock",
+   "Neo Soul",
+   "Neo Soul",
+   "Alternative Rock",
+   "Neo Soul",
+   "Hip Hop",
+   "Alternative Rock",
+   "Neo Soul",
+   "Neo Soul",
+   "Hip Hop",
+   "Alternative Rock",
+   "Neo Soul",
+   "Hip Hop",
+   "Alternative Rock",
+   "Neo Soul",
+   "Neo Soul",
+   "Hip Hop",
+   "Alternative Rock",
+   "Neo Soul",
+   "Neo Soul",
+   "Neo Soul",
+   "Hip Hop",
+   "Alternative Rock",
+   "Neo Soul",
+   "Neo Soul",
+   "Hip Hop",
+   "Alternative Rock"
+  ],
+  "years": [
+   2013,
+   2024,
+   2021,
+   2024,
+   2024,
+   2013,
+   2021,
+   2012,
+   2021,
+   2015,
+   2020,
+   2015,
+   2021,
+   2015,
+   2015,
+   2013,
+   2020,
+   2015,
+   2016,
+   2015,
+   2013,
+   2012,
+   2015,
+   2021,
+   2015
+  ]
+ },
  "horace silver": {
   "countries": [
    "US",
@@ -78827,6 +85039,371 @@
    1987
   ]
  },
+ "jmsn": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "France",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "France",
+   "US",
+   "US",
+   "UK",
+   "US"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Pop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Pop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "RnB/Swing",
+    "Electronic"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "RnB/Swing",
+    "Funk / Soul"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Leftfield",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Hip Hop"
+   ],
+   [
+    "Broken Beat",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Rhythm & Blues",
+   "Rhythm & Blues",
+   "Rhythm & Blues",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "Disco",
+   "RnB/Swing",
+   "Leftfield",
+   "Experimental",
+   "Broken Beat",
+   "Hip Hop",
+   "Rhythm & Blues",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "Disco",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B"
+  ],
+  "years": [
+   2013,
+   2013,
+   2013,
+   2025,
+   2014,
+   2017,
+   2017,
+   2023,
+   2018,
+   2013,
+   2023,
+   2012,
+   2022,
+   2021,
+   2021,
+   2020,
+   2018,
+   2016,
+   2023,
+   2016,
+   2016,
+   2016,
+   2012,
+   2018,
+   2014
+  ]
+ },
  "joan armatrading": {
   "countries": [
    "Japan",
@@ -79930,6 +86507,14 @@
    1971,
    2012
   ]
+ },
+ "joey bada$$": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
  },
  "joey scarbury": {
   "countries": [
@@ -84546,6 +91131,277 @@
    1975
   ]
  },
+ "jono das": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
+ "jonwayne": {
+  "countries": [
+   "UK",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "Unknown",
+   "US"
+  ],
+  "genres": [
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Holiday",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Illbient",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Abstract",
+   "Ambient",
+   "Hip Hop",
+   "New Age",
+   "Hip Hop",
+   "Hip Hop",
+   "Experimental",
+   "Instrumental",
+   "Holiday",
+   "Conscious",
+   "Conscious",
+   "Instrumental",
+   "Conscious",
+   "Hip Hop",
+   "Instrumental",
+   "Hip Hop",
+   "Ambient",
+   "Illbient",
+   "Instrumental",
+   "Hip Hop",
+   "Instrumental",
+   "Conscious",
+   "Hip Hop",
+   "Instrumental",
+   "Hip Hop",
+   "Abstract",
+   "Experimental"
+  ],
+  "years": [
+   2012,
+   2013,
+   2017,
+   2012,
+   2018,
+   2016,
+   2008,
+   2009,
+   2013,
+   2012,
+   2011,
+   2009,
+   2013,
+   2011,
+   2013,
+   2016,
+   2013,
+   2009,
+   2008,
+   2012,
+   2012,
+   2013,
+   2010,
+   2022,
+   2011
+  ]
+ },
  "josh johnson": {
   "countries": [
    "Japan",
@@ -85914,6 +92770,1593 @@
    1991,
    1989,
    1990
+  ]
+ },
+ "julia holter": {
+  "countries": [
+   "US",
+   "Worldwide",
+   "Europe",
+   "UK, Europe & US",
+   "US",
+   "UK",
+   "UK, Europe & US",
+   "Australia",
+   "UK",
+   "UK",
+   "Unknown",
+   "US",
+   "US",
+   "Europe",
+   "UK",
+   "UK",
+   "UK",
+   "Europe",
+   "Unknown",
+   "UK",
+   "UK & Europe",
+   "UK",
+   "USA & Europe",
+   "UK, Europe & US",
+   "UK & US"
+  ],
+  "genres": [
+   "Electronic",
+   "Classical",
+   "Stage & Screen",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Classical",
+   "Stage & Screen",
+   "Electronic",
+   "Stage & Screen",
+   "Electronic",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Classical",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Classical"
+   ],
+   [
+    "Ambient",
+    "Stage & Screen"
+   ],
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Modern Classical",
+    "Classical"
+   ],
+   [
+    "Modern Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Alt-Pop",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Art Rock",
+    "Pop"
+   ],
+   [
+    "Avantgarde",
+    "Electronic"
+   ],
+   [
+    "Avantgarde",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Art Rock",
+    "Pop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Rock"
+   ],
+   [
+    "Electro",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Rock"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Acoustic",
+    "Electronic"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Electronic"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Classical"
+   ],
+   [
+    "Ambient",
+    "Stage & Screen"
+   ],
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Modern Classical",
+    "Classical"
+   ],
+   [
+    "Modern Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Stage & Screen"
+   ],
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Modern Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Musique Concrète",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Pop"
+   ],
+   [
+    "Avantgarde",
+    "Electronic"
+   ],
+   [
+    "Avantgarde",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Contemporary",
+    "Electronic"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Classical"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Classical"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Alt-Pop",
+    "Electronic"
+   ],
+   [
+    "Alt-Pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Indie Pop",
+    "Electronic"
+   ],
+   [
+    "Indie Pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Rock"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Rock"
+   ],
+   [
+    "Avantgarde",
+    "Electronic"
+   ],
+   [
+    "Avantgarde",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soundtrack",
+   "Ambient",
+   "Modern Classical",
+   "Alt-Pop",
+   "Indie Pop",
+   "Indie Pop",
+   "Experimental",
+   "Art Rock",
+   "Avantgarde",
+   "Experimental",
+   "Indie Pop",
+   "Experimental",
+   "Art Rock",
+   "Electro",
+   "Downtempo",
+   "Acoustic",
+   "Indie Pop",
+   "Experimental",
+   "Vocal",
+   "Vocal",
+   "Indie Pop",
+   "Soundtrack",
+   "Ambient",
+   "Modern Classical",
+   "Soundtrack",
+   "Ambient",
+   "Modern Classical",
+   "Abstract",
+   "Musique Concrète",
+   "Experimental",
+   "Indie Pop",
+   "Electro",
+   "Avantgarde",
+   "Experimental",
+   "Contemporary",
+   "Experimental",
+   "Ambient",
+   "Experimental",
+   "Experimental",
+   "Indie Pop",
+   "Indie Pop",
+   "Experimental",
+   "Alt-Pop",
+   "Experimental",
+   "Electro",
+   "Downtempo",
+   "Experimental",
+   "Art Rock",
+   "Experimental",
+   "Indie Pop",
+   "Experimental",
+   "Electro",
+   "Downtempo",
+   "Avantgarde",
+   "Experimental"
+  ],
+  "years": [
+   2024,
+   2020,
+   2015,
+   2017,
+   2011,
+   2015,
+   2017,
+   2012,
+   2013,
+   2014,
+   2020,
+   2024,
+   2008,
+   2012,
+   2012,
+   2015,
+   2015,
+   2015,
+   2013,
+   2015,
+   2024,
+   2012,
+   2018,
+   2017,
+   2012
+  ]
+ },
+ "kamasi washington": {
+  "countries": [
+   "Japan",
+   "US",
+   "Unknown",
+   "Worldwide",
+   "Europe",
+   "UK",
+   "Japan",
+   "US",
+   "Europe",
+   "Worldwide",
+   "US",
+   "Japan",
+   "Worldwide",
+   "Europe",
+   "Worldwide",
+   "Worldwide",
+   "Europe",
+   "UK",
+   "Europe",
+   "US",
+   "Worldwide",
+   "Europe",
+   "Unknown",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Spiritual Jazz",
+    "Jazz"
+   ],
+   [
+    "Spiritual Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Contemporary Jazz",
+   "Soundtrack",
+   "Contemporary Jazz",
+   "Fusion",
+   "Fusion",
+   "Contemporary Jazz",
+   "Psychedelic",
+   "Soul-Jazz",
+   "Spiritual Jazz",
+   "Contemporary Jazz",
+   "Soundtrack",
+   "Fusion",
+   "Contemporary Jazz",
+   "Psychedelic",
+   "Soul-Jazz",
+   "Contemporary Jazz",
+   "Soundtrack",
+   "Contemporary Jazz",
+   "Soul-Jazz",
+   "Fusion",
+   "Psychedelic",
+   "Fusion",
+   "Contemporary Jazz",
+   "Psychedelic",
+   "Soul-Jazz",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Psychedelic",
+   "Soul-Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Soul-Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Soul-Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Psychedelic",
+   "Soul-Jazz",
+   "Contemporary Jazz",
+   "Soul-Jazz",
+   "Fusion",
+   "Psychedelic",
+   "Contemporary Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Psychedelic",
+   "Soul-Jazz",
+   "Contemporary Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Psychedelic",
+   "Soul-Jazz",
+   "Contemporary Jazz",
+   "Soundtrack"
+  ],
+  "years": [
+   2020,
+   2018,
+   2017,
+   2015,
+   2020,
+   2015,
+   2020,
+   2015,
+   2015,
+   2024,
+   2018,
+   2024,
+   2024,
+   2021,
+   2025,
+   2024,
+   2018,
+   2017,
+   2018,
+   2015,
+   2017,
+   2020,
+   2018,
+   2015,
+   2020
+  ]
+ },
+ "karas": {
+  "countries": [
+   "US",
+   "France",
+   "France",
+   "France",
+   "Czech Republic",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Europe",
+   "Netherlands",
+   "US",
+   "US",
+   "Germany",
+   "Germany",
+   "Italy",
+   "Unknown",
+   "Australia",
+   "Netherlands",
+   "UK",
+   "Austria",
+   "Poland",
+   "UK"
+  ],
+  "genres": [
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country",
+   "Classical",
+   "Folk, World, & Country",
+   "Pop",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Pop",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Pop",
+   "Folk, World, & Country"
+  ],
+  "pairs": [
+   [
+    "Post-Metal",
+    "Rock"
+   ],
+   [
+    "Black Metal",
+    "Rock"
+   ],
+   [
+    "Progressive Metal",
+    "Rock"
+   ],
+   [
+    "Death Metal",
+    "Rock"
+   ],
+   [
+    "Grindcore",
+    "Rock"
+   ],
+   [
+    "Black Metal",
+    "Rock"
+   ],
+   [
+    "Hardcore",
+    "Rock"
+   ],
+   [
+    "Death Metal",
+    "Rock"
+   ],
+   [
+    "Grindcore",
+    "Rock"
+   ],
+   [
+    "Black Metal",
+    "Rock"
+   ],
+   [
+    "Hardcore",
+    "Rock"
+   ],
+   [
+    "Death Metal",
+    "Rock"
+   ],
+   [
+    "Grindcore",
+    "Rock"
+   ],
+   [
+    "Black Metal",
+    "Rock"
+   ],
+   [
+    "Hardcore",
+    "Rock"
+   ],
+   [
+    "Freetekno",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Folk, World, & Country"
+   ],
+   [
+    "Music Hall",
+    "Pop"
+   ],
+   [
+    "Music Hall",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Volksmusik",
+    "Folk, World, & Country"
+   ],
+   [
+    "Polka",
+    "Pop"
+   ],
+   [
+    "Polka",
+    "Folk, World, & Country"
+   ],
+   [
+    "Score",
+    "Pop"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Polka",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Volksmusik",
+    "Folk, World, & Country"
+   ],
+   [
+    "Alt-Pop",
+    "Electronic"
+   ],
+   [
+    "Alt-Pop",
+    "Rock"
+   ],
+   [
+    "Alt-Pop",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Post-Metal",
+   "Black Metal",
+   "Progressive Metal",
+   "Death Metal",
+   "Grindcore",
+   "Black Metal",
+   "Hardcore",
+   "Death Metal",
+   "Grindcore",
+   "Black Metal",
+   "Hardcore",
+   "Death Metal",
+   "Grindcore",
+   "Black Metal",
+   "Hardcore",
+   "Freetekno",
+   "Alternative Rock",
+   "Pop Rock",
+   "Soundtrack",
+   "Theme",
+   "Soundtrack",
+   "Score",
+   "Soundtrack",
+   "Theme",
+   "Soundtrack",
+   "Theme",
+   "Alternative Rock",
+   "Pop Rock",
+   "Vocal",
+   "Schlager",
+   "Modern",
+   "Music Hall",
+   "Theme",
+   "Volksmusik",
+   "Polka",
+   "Score",
+   "Theme",
+   "Polka",
+   "Folk",
+   "Volksmusik",
+   "Alt-Pop",
+   "Schlager"
+  ],
+  "years": [
+   2018,
+   2012,
+   2010,
+   2013,
+   2011,
+   1997,
+   1966,
+   1963,
+   1976,
+   1997,
+   2018,
+   1981,
+   1963,
+   1958,
+   1988,
+   2024,
+   1963
   ]
  },
  "karin krog": {
@@ -90561,6 +99004,599 @@
   "releases": 0,
   "styles": [],
   "years": []
+ },
+ "knxwledge": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "UK",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "Ireland",
+   "US",
+   "Ireland",
+   "US",
+   "US",
+   "Worldwide"
+  ],
+  "genres": [
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Hip Hop"
+   ],
+   [
+    "Deep House",
+    "Electronic"
+   ],
+   [
+    "Deep House",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Electronic"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Plunderphonics",
+    "Electronic"
+   ],
+   [
+    "Plunderphonics",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Instrumental",
+   "Abstract",
+   "Downtempo",
+   "Experimental",
+   "Instrumental",
+   "House",
+   "Deep House",
+   "Instrumental",
+   "Leftfield",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Instrumental",
+   "Leftfield",
+   "Instrumental",
+   "Leftfield",
+   "Hip Hop",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Jazzy Hip-Hop",
+   "Abstract",
+   "Electro",
+   "Instrumental",
+   "Hip Hop",
+   "Boom Bap",
+   "Electro",
+   "Instrumental",
+   "Instrumental",
+   "Abstract",
+   "Downtempo",
+   "Experimental",
+   "Instrumental",
+   "Plunderphonics"
+  ],
+  "years": [
+   2010,
+   2015,
+   2021,
+   2026,
+   2016,
+   2023,
+   2014,
+   2024,
+   2018,
+   2013,
+   2020,
+   2021,
+   2012,
+   2015,
+   2020,
+   2020,
+   2022,
+   2020,
+   2020,
+   2013,
+   2011,
+   2017,
+   2015,
+   2009,
+   2022
+  ]
+ },
+ "la batteria": {
+  "countries": [
+   "Europe",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Europe",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Europe",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Stage & Screen",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Hip Hop"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Electronic"
+   ],
+   [
+    "Psychedelic Rock",
+    "Hip Hop"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Alternative Rock",
+    "Jazz"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Jazz"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Hip Hop"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Hip Hop"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 14,
+  "styles": [
+   "Soundtrack",
+   "Prog Rock",
+   "Psychedelic Rock",
+   "Soundtrack",
+   "Alternative Rock",
+   "Prog Rock",
+   "Psychedelic Rock",
+   "Theme",
+   "Soundtrack",
+   "Funk",
+   "Jazzy Hip-Hop",
+   "Funk",
+   "Jazzy Hip-Hop"
+  ],
+  "years": [
+   2016,
+   2020,
+   2016,
+   2019,
+   2020,
+   2015,
+   2016,
+   2019,
+   2026,
+   2015,
+   2019,
+   2023,
+   2016,
+   2016
+  ]
  },
  "labelle": {
   "countries": [
@@ -103609,6 +112645,471 @@
    1994
   ]
  },
+ "mild high club": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "North America (inc Mexico)",
+   "US",
+   "US",
+   "UK & Europe",
+   "US",
+   "Australia",
+   "US",
+   "Europe",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Pop",
+   "Electronic",
+   "Jazz",
+   "Rock",
+   "Electronic",
+   "Jazz",
+   "Rock",
+   "Rock",
+   "Electronic",
+   "Jazz",
+   "Rock",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Pop",
+   "Rock",
+   "Electronic",
+   "Jazz",
+   "Rock",
+   "Electronic",
+   "Jazz",
+   "Rock",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Alternative Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Jazz"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Jazz"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Jazz"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Electronic"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Jazz"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Electronic"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Jazz"
+   ],
+   [
+    "Ambient",
+    "Funk / Soul"
+   ],
+   [
+    "Cool Jazz",
+    "Electronic"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Indie Rock",
+    "Pop"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Pop"
+   ],
+   [
+    "Lo-Fi",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Indie Rock",
+    "Pop"
+   ],
+   [
+    "Psychedelic Rock",
+    "Pop"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Jazz"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Electronic"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Jazz"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Electronic"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Rock"
+   ],
+   [
+    "Soft Rock",
+    "Jazz"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Avantgarde",
+    "Jazz"
+   ],
+   [
+    "Avantgarde",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Alternative Rock",
+   "Pop Rock",
+   "Synth-pop",
+   "Fusion",
+   "Alternative Rock",
+   "Psychedelic Rock",
+   "Indie Rock",
+   "Alternative Rock",
+   "Psychedelic Rock",
+   "Ambient",
+   "Cool Jazz",
+   "Indie Rock",
+   "Alternative Rock",
+   "Indie Rock",
+   "Indie Rock",
+   "Psychedelic Rock",
+   "Lo-Fi",
+   "Indie Rock",
+   "Psychedelic Rock",
+   "Indie Rock",
+   "Alternative Rock",
+   "Psychedelic Rock",
+   "Alternative Rock",
+   "Psychedelic Rock",
+   "Indie Rock",
+   "Psychedelic Rock",
+   "Lounge",
+   "Smooth Jazz",
+   "Soft Rock",
+   "Psychedelic Rock",
+   "Avantgarde",
+   "Psychedelic Rock",
+   "Jazz-Rock",
+   "Jazz-Rock",
+   "Psychedelic Rock",
+   "Jazz-Rock"
+  ],
+  "years": [
+   2016,
+   2015,
+   2021,
+   2022,
+   2015,
+   2021,
+   2021,
+   2018,
+   2018,
+   2023,
+   2016,
+   2015,
+   2023,
+   2015,
+   2023,
+   2021,
+   2021,
+   2016,
+   2015,
+   2023,
+   2018,
+   2017,
+   2024,
+   2020,
+   2017
+  ]
+ },
  "miles davis": {
   "countries": [
    "Japan",
@@ -105128,6 +114629,444 @@
    1975
   ]
  },
+ "mndsgn": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "USA & Canada",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Electronic",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Chillwave",
+    "Electronic"
+   ],
+   [
+    "Chillwave",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Glitch",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boogie",
+    "Hip Hop"
+   ],
+   [
+    "Boogie",
+    "Jazz"
+   ],
+   [
+    "Boogie",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Contemporary R&B",
+   "Instrumental",
+   "House",
+   "Experimental",
+   "Chillwave",
+   "Instrumental",
+   "Glitch",
+   "Instrumental",
+   "Instrumental",
+   "Abstract",
+   "Downtempo",
+   "Experimental",
+   "Downtempo",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Instrumental",
+   "Abstract",
+   "Experimental",
+   "Experimental",
+   "Experimental",
+   "Instrumental",
+   "Experimental",
+   "Downtempo",
+   "Abstract",
+   "Experimental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Experimental",
+   "Downtempo",
+   "Abstract",
+   "Experimental",
+   "Instrumental",
+   "Boogie",
+   "Contemporary R&B",
+   "Instrumental",
+   "Experimental"
+  ],
+  "years": [
+   2018,
+   2013,
+   2013,
+   2025,
+   2010,
+   2020,
+   2009,
+   2022,
+   2016,
+   2019,
+   2014,
+   2023,
+   2013,
+   2020,
+   2020,
+   2025,
+   2012,
+   2021,
+   2014,
+   2013,
+   2019,
+   2021,
+   2018,
+   2012,
+   2014
+  ]
+ },
  "monk higgins": {
   "countries": [
    "US",
@@ -105534,6 +115473,627 @@
    1972,
    2018,
    1970
+  ]
+ },
+ "mount kimbie": {
+  "countries": [
+   "Unknown",
+   "Europe",
+   "Europe",
+   "UK",
+   "UK",
+   "Europe",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "Worldwide",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK, Europe & US",
+   "UK",
+   "Europe",
+   "Japan",
+   "UK",
+   "UK",
+   "UK"
+  ],
+  "genres": [
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Folk, World, & Country",
+   "Rock",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Tech House",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Leftfield",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Jazz"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "Breakbeat",
+    "Hip Hop"
+   ],
+   [
+    "Breakbeat",
+    "Jazz"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Leftfield",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Jazz"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "Breakbeat",
+    "Hip Hop"
+   ],
+   [
+    "Breakbeat",
+    "Jazz"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Tech House",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Tech House",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "UK Garage",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Electronic"
+   ],
+   [
+    "Rhythm & Blues",
+    "Hip Hop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Hip Hop"
+   ],
+   [
+    "Techno",
+    "Funk / Soul"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "Tech House",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Rock"
+   ],
+   [
+    "Techno",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Folk, World, & Country"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Rock"
+   ],
+   [
+    "IDM",
+    "Folk, World, & Country"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Rock"
+   ],
+   [
+    "Dubstep",
+    "Folk, World, & Country"
+   ],
+   [
+    "African",
+    "Electronic"
+   ],
+   [
+    "African",
+    "Rock"
+   ],
+   [
+    "African",
+    "Folk, World, & Country"
+   ],
+   [
+    "Acoustic",
+    "Electronic"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Folk, World, & Country"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Leftfield",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Jazz"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "Breakbeat",
+    "Hip Hop"
+   ],
+   [
+    "Breakbeat",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Rock"
+   ],
+   [
+    "Indie Rock",
+    "Electronic"
+   ],
+   [
+    "Indie Rock",
+    "Rock"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Tech House",
+   "Techno",
+   "Leftfield",
+   "Abstract",
+   "Breakbeat",
+   "Indie Rock",
+   "Bass Music",
+   "Ambient",
+   "Experimental",
+   "IDM",
+   "IDM",
+   "Leftfield",
+   "Abstract",
+   "Breakbeat",
+   "Downtempo",
+   "Dubstep",
+   "Experimental",
+   "Ambient",
+   "Leftfield",
+   "Abstract",
+   "Breakbeat",
+   "Leftfield",
+   "House",
+   "Breakbeat",
+   "IDM",
+   "Dubstep",
+   "Experimental",
+   "Ambient",
+   "Techno",
+   "Abstract",
+   "IDM",
+   "Dubstep",
+   "Tech House",
+   "Ambient",
+   "Experimental",
+   "House",
+   "Tech House",
+   "Bass Music",
+   "Dubstep",
+   "UK Garage",
+   "Bass Music",
+   "Ambient",
+   "Downtempo",
+   "Experimental",
+   "Dubstep",
+   "IDM",
+   "Dubstep",
+   "Downtempo",
+   "Experimental",
+   "Ambient",
+   "Hip Hop",
+   "Rhythm & Blues",
+   "Techno",
+   "Leftfield",
+   "House",
+   "Techno",
+   "Tech House",
+   "IDM",
+   "Experimental",
+   "Techno",
+   "Ambient",
+   "IDM",
+   "Dubstep",
+   "African",
+   "Acoustic",
+   "Indie Rock",
+   "Leftfield",
+   "Abstract",
+   "Breakbeat",
+   "Abstract",
+   "Techno",
+   "House",
+   "Dance-pop",
+   "Indie Rock"
+  ],
+  "years": [
+   2018,
+   2017,
+   2024,
+   2022,
+   2013,
+   2017,
+   2010,
+   2019,
+   2013,
+   2009,
+   2018,
+   2011,
+   2017,
+   2009,
+   2010,
+   2010,
+   2022,
+   2018,
+   2018,
+   2010,
+   2024,
+   2017,
+   2022,
+   2013,
+   2018
   ]
  },
  "nala sinephro": {
@@ -109131,6 +119691,336 @@
   "years": [
    1971,
    1970
+  ]
+ },
+ "nxworries": {
+  "countries": [
+   "Belgium",
+   "Japan",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "USA & Europe",
+   "Worldwide",
+   "US",
+   "UK",
+   "US",
+   "UK & US",
+   "UK",
+   "Europe",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "RnB/Swing",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "RnB/Swing",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soul",
+   "Soul",
+   "Soul",
+   "RnB/Swing",
+   "Jazzy Hip-Hop",
+   "Contemporary R&B",
+   "Soul",
+   "Jazzy Hip-Hop",
+   "Contemporary R&B",
+   "RnB/Swing",
+   "Contemporary R&B",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Jazzy Hip-Hop",
+   "Contemporary R&B",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Jazzy Hip-Hop",
+   "Contemporary R&B",
+   "Soul",
+   "Soul",
+   "Jazzy Hip-Hop",
+   "Contemporary R&B"
+  ],
+  "years": [
+   2016,
+   2016,
+   2025,
+   2023,
+   2017,
+   2024,
+   2017,
+   2024,
+   2016,
+   2017,
+   2016,
+   2024,
+   2015,
+   2024,
+   2024,
+   2022,
+   2016,
+   2024,
+   2016,
+   2016,
+   2016,
+   2017,
+   2024,
+   2024,
+   2017
   ]
  },
  "onaje allan gumbs": {
@@ -115382,6 +126272,14 @@
    1967
   ]
  },
+ "principal dean": {
+  "countries": [],
+  "genres": [],
+  "pairs": [],
+  "releases": 0,
+  "styles": [],
+  "years": []
+ },
  "quarteto em cy": {
   "countries": [
    "Brazil",
@@ -117167,6 +128065,577 @@
    1984,
    1983,
    1990
+  ]
+ },
+ "ras g": {
+  "countries": [
+   "Japan",
+   "US",
+   "France",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Rock",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Folk, World, & Country",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Jazz",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic"
+  ],
+  "pairs": [
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Dub",
+    "Electronic"
+   ],
+   [
+    "Dub",
+    "Hip Hop"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Electronic"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Dub",
+    "Electronic"
+   ],
+   [
+    "Dub",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Dub",
+    "Electronic"
+   ],
+   [
+    "Dub",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Folk, World, & Country"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Folk, World, & Country"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Abstract",
+   "Instrumental",
+   "Future Jazz",
+   "Experimental",
+   "Downtempo",
+   "Dub",
+   "Funk",
+   "Boom Bap",
+   "Hip Hop",
+   "Instrumental",
+   "Abstract",
+   "Instrumental",
+   "Abstract",
+   "Dub",
+   "Hip Hop",
+   "Future Jazz",
+   "Hip Hop",
+   "Abstract",
+   "Dub",
+   "Abstract",
+   "House",
+   "Hip Hop",
+   "Instrumental",
+   "Abstract",
+   "Instrumental",
+   "Instrumental",
+   "Abstract",
+   "Dubstep",
+   "Experimental",
+   "Experimental",
+   "Instrumental",
+   "Hip Hop",
+   "Abstract",
+   "Hip Hop",
+   "Hip Hop",
+   "Abstract",
+   "Hip Hop",
+   "Abstract",
+   "Abstract",
+   "Experimental",
+   "Abstract",
+   "Experimental",
+   "Leftfield",
+   "Instrumental",
+   "Abstract",
+   "Instrumental",
+   "Boom Bap",
+   "Hip Hop",
+   "Abstract",
+   "Instrumental",
+   "Abstract",
+   "Experimental",
+   "Glitch",
+   "Abstract",
+   "Experimental"
+  ],
+  "years": [
+   2008,
+   2020,
+   2016,
+   2005,
+   2014,
+   2019,
+   2018,
+   2014,
+   2015,
+   2009,
+   2006,
+   2025,
+   2017,
+   2015,
+   2013,
+   2011,
+   2013,
+   2015,
+   2017,
+   2016,
+   2014,
+   2019,
+   2016,
+   2010
   ]
  },
  "ray bryant": {
@@ -127621,6 +139090,1549 @@
    2013
   ]
  },
+ "shigeto": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "Japan",
+   "US",
+   "Japan",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic"
+  ],
+  "pairs": [
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Hip Hop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "Breakbeat",
+    "Jazz"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Jazz"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Jazz"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Jazz"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Jazz"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Hip Hop"
+   ],
+   [
+    "House",
+    "Jazz"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Trip Hop",
+    "Jazz"
+   ],
+   [
+    "Gangsta",
+    "Electronic"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Jazz"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Hip Hop"
+   ],
+   [
+    "Bass Music",
+    "Jazz"
+   ],
+   [
+    "Electro House",
+    "Electronic"
+   ],
+   [
+    "Electro House",
+    "Hip Hop"
+   ],
+   [
+    "Electro House",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Techno",
+    "Electronic"
+   ],
+   [
+    "Techno",
+    "Hip Hop"
+   ],
+   [
+    "Techno",
+    "Jazz"
+   ],
+   [
+    "Drum n Bass",
+    "Electronic"
+   ],
+   [
+    "Drum n Bass",
+    "Hip Hop"
+   ],
+   [
+    "Drum n Bass",
+    "Jazz"
+   ],
+   [
+    "Acid House",
+    "Electronic"
+   ],
+   [
+    "Acid House",
+    "Hip Hop"
+   ],
+   [
+    "Acid House",
+    "Jazz"
+   ],
+   [
+    "Acid House",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Jazz"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Acid House",
+    "Electronic"
+   ],
+   [
+    "Acid House",
+    "Hip Hop"
+   ],
+   [
+    "Acid House",
+    "Jazz"
+   ],
+   [
+    "Acid House",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Jazz"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Acid House",
+    "Electronic"
+   ],
+   [
+    "Acid House",
+    "Hip Hop"
+   ],
+   [
+    "Acid House",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Electronic"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "RnB/Swing",
+    "Electronic"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "RnB/Swing",
+    "Jazz"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Ambient",
+   "Abstract",
+   "Future Jazz",
+   "Downtempo",
+   "Experimental",
+   "Ambient",
+   "House",
+   "Electro",
+   "IDM",
+   "Future Jazz",
+   "Experimental",
+   "IDM",
+   "Abstract",
+   "IDM",
+   "Experimental",
+   "Glitch",
+   "Downtempo",
+   "Abstract",
+   "Experimental",
+   "Hip Hop",
+   "IDM",
+   "Future Jazz",
+   "Downtempo",
+   "Abstract",
+   "Experimental",
+   "Hip Hop",
+   "IDM",
+   "Dubstep",
+   "Experimental",
+   "Downtempo",
+   "IDM",
+   "Dubstep",
+   "Experimental",
+   "Electro",
+   "Ambient",
+   "Techno",
+   "Electro",
+   "Breakbeat",
+   "IDM",
+   "House",
+   "Downtempo",
+   "IDM",
+   "Dubstep",
+   "Experimental",
+   "Electro",
+   "Downtempo",
+   "Future Jazz",
+   "House",
+   "Trip Hop",
+   "Gangsta",
+   "Bass Music",
+   "Electro House",
+   "Contemporary Jazz",
+   "Techno",
+   "Drum n Bass",
+   "Acid House",
+   "Jazzy Hip-Hop",
+   "Contemporary R&B",
+   "Downtempo",
+   "Acid House",
+   "Jazzy Hip-Hop",
+   "Contemporary R&B",
+   "Acid House",
+   "Jazzy Hip-Hop",
+   "RnB/Swing",
+   "IDM",
+   "Dubstep",
+   "Experimental",
+   "IDM",
+   "Future Jazz",
+   "Leftfield",
+   "Abstract",
+   "Future Jazz",
+   "Downtempo",
+   "Experimental",
+   "Ambient",
+   "Downtempo",
+   "Abstract",
+   "Experimental",
+   "Hip Hop"
+  ],
+  "years": [
+   2011,
+   2012,
+   2016,
+   2013,
+   2015,
+   2010,
+   2012,
+   2017,
+   2013,
+   2017,
+   2010,
+   2024,
+   2020,
+   2019,
+   2019,
+   2017,
+   2024,
+   2008,
+   2019,
+   2024,
+   2024,
+   2010,
+   2015,
+   2023,
+   2013
+  ]
+ },
+ "shlohmo": {
+  "countries": [
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "US",
+   "Taiwan"
+  ],
+  "genres": [
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Electronic",
+   "Hip Hop",
+   "Electronic"
+  ],
+  "pairs": [
+   [
+    "Trap",
+    "Electronic"
+   ],
+   [
+    "Grime",
+    "Electronic"
+   ],
+   [
+    "Darkwave",
+    "Electronic"
+   ],
+   [
+    "Shoegaze",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Glitch",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Glitch",
+    "Hip Hop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Dark Ambient",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Bassline",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Hip Hop"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Glitch",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Glitch",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Glitch",
+    "Electronic"
+   ],
+   [
+    "Glitch",
+    "Hip Hop"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Trap",
+    "Electronic"
+   ],
+   [
+    "Grime",
+    "Electronic"
+   ],
+   [
+    "Darkwave",
+    "Electronic"
+   ],
+   [
+    "Shoegaze",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Hip Hop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Hip Hop"
+   ],
+   [
+    "Trap",
+    "Electronic"
+   ],
+   [
+    "Darkwave",
+    "Electronic"
+   ],
+   [
+    "Shoegaze",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Trap",
+   "Grime",
+   "Darkwave",
+   "Shoegaze",
+   "Bass Music",
+   "Leftfield",
+   "Downtempo",
+   "Downtempo",
+   "Abstract",
+   "Hip Hop",
+   "Abstract",
+   "Future Jazz",
+   "Downtempo",
+   "Broken Beat",
+   "Ambient",
+   "Abstract",
+   "Instrumental",
+   "Glitch",
+   "Hip Hop",
+   "Ambient",
+   "Downtempo",
+   "Experimental",
+   "Experimental",
+   "Downtempo",
+   "Instrumental",
+   "Glitch",
+   "Electro",
+   "Downtempo",
+   "Experimental",
+   "Abstract",
+   "Future Jazz",
+   "Downtempo",
+   "Broken Beat",
+   "Ambient",
+   "Instrumental",
+   "Abstract",
+   "Experimental",
+   "Abstract",
+   "Future Jazz",
+   "Downtempo",
+   "Broken Beat",
+   "Ambient",
+   "Abstract",
+   "Leftfield",
+   "Ambient",
+   "Abstract",
+   "Ambient",
+   "Downtempo",
+   "Dark Ambient",
+   "Downtempo",
+   "Electro",
+   "Abstract",
+   "Future Jazz",
+   "Downtempo",
+   "Broken Beat",
+   "Ambient",
+   "Experimental",
+   "Downtempo",
+   "Experimental",
+   "Downtempo",
+   "Experimental",
+   "Bassline",
+   "House",
+   "Leftfield",
+   "Glitch",
+   "Abstract",
+   "Downtempo",
+   "Ambient",
+   "Glitch",
+   "Experimental",
+   "Instrumental",
+   "Glitch",
+   "Electro",
+   "Downtempo",
+   "Experimental",
+   "Trap",
+   "Grime",
+   "Darkwave",
+   "Shoegaze",
+   "Bass Music",
+   "Abstract",
+   "Future Jazz",
+   "Downtempo",
+   "Broken Beat",
+   "Ambient",
+   "Trap",
+   "Darkwave",
+   "Shoegaze",
+   "Bass Music"
+  ],
+  "years": [
+   2015,
+   2013,
+   2020,
+   2010,
+   2011,
+   2011,
+   2021,
+   2010,
+   2025,
+   2010,
+   2011,
+   2016,
+   2016,
+   2013,
+   2019,
+   2011,
+   2021,
+   2021,
+   2015,
+   2012,
+   2010,
+   2010,
+   2015,
+   2011,
+   2015
+  ]
+ },
  "shuggie otis": {
   "countries": [
    "Japan",
@@ -128457,6 +141469,320 @@
    1984,
    1979,
    1979
+  ]
+ },
+ "snka": {
+  "countries": [
+   "UK",
+   "Germany"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 2,
+  "styles": [
+   "Instrumental",
+   "Jazzy Hip-Hop"
+  ],
+  "years": [
+   2015,
+   2015
+  ]
+ },
+ "snoh aalegra": {
+  "countries": [
+   "Worldwide",
+   "Worldwide",
+   "Worldwide",
+   "Unknown",
+   "Australia",
+   "Worldwide",
+   "US",
+   "US",
+   "US",
+   "Europe",
+   "Worldwide",
+   "Unknown",
+   "Worldwide",
+   "US",
+   "Unknown",
+   "Sweden",
+   "US",
+   "Worldwide",
+   "Worldwide",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "Worldwide",
+   "UK"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "RnB/Swing",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "RnB/Swing",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "RnB/Swing",
+   "Vocal",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Neo Soul",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Soul",
+   "Contemporary R&B",
+   "RnB/Swing",
+   "Vocal",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Neo Soul",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B",
+   "Contemporary R&B"
+  ],
+  "years": [
+   2017,
+   2020,
+   2017,
+   2015,
+   2019,
+   2020,
+   2022,
+   2025,
+   2021,
+   2021,
+   2015,
+   2016,
+   2020,
+   2016,
+   2015,
+   2021,
+   2019,
+   2019,
+   2021,
+   2019,
+   2020,
+   2014,
+   2019
   ]
  },
  "sonny rollins": {
@@ -132462,6 +145788,335 @@
    1971
   ]
  },
+ "stev": {
+  "countries": [
+   "Unknown",
+   "Bulgaria",
+   "Bulgaria",
+   "Unknown",
+   "Unknown",
+   "Unknown",
+   "US",
+   "Unknown",
+   "Italy",
+   "Unknown",
+   "Italy",
+   "Unknown",
+   "Italy",
+   "Germany",
+   "Italy",
+   "Italy",
+   "France",
+   "Italy",
+   "Slovenia",
+   "Italy",
+   "Italy",
+   "Italy",
+   "US",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Folk, World, & Country",
+   "Electronic",
+   "Electronic"
+  ],
+  "pairs": [
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Electroacoustic",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Electroacoustic",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Bass Music",
+    "Electronic"
+   ],
+   [
+    "Dubstep",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "Tech House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Tech House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Tech House",
+    "Electronic"
+   ],
+   [
+    "Minimal",
+    "Electronic"
+   ],
+   [
+    "Electro House",
+    "Electronic"
+   ],
+   [
+    "Tech House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Dubstep",
+   "Electroacoustic",
+   "IDM",
+   "Trip Hop",
+   "IDM",
+   "Downtempo",
+   "Experimental",
+   "IDM",
+   "Downtempo",
+   "Experimental",
+   "Abstract",
+   "Downtempo",
+   "Experimental",
+   "Bass Music",
+   "Dubstep",
+   "Experimental",
+   "Downtempo",
+   "Abstract",
+   "Downtempo",
+   "Abstract",
+   "Dubstep",
+   "Electroacoustic",
+   "IDM",
+   "Trip Hop",
+   "Downtempo",
+   "Ambient",
+   "Broken Beat",
+   "Downtempo",
+   "Abstract",
+   "Downtempo",
+   "Bass Music",
+   "Dubstep",
+   "Experimental",
+   "Downtempo",
+   "Ambient",
+   "Broken Beat",
+   "Tech House",
+   "House",
+   "House",
+   "Tech House",
+   "House",
+   "Tech House",
+   "Minimal",
+   "Electro House",
+   "Tech House",
+   "House",
+   "House",
+   "House"
+  ],
+  "years": [
+   2011,
+   2011,
+   2011,
+   2012,
+   2019,
+   2015,
+   2015,
+   2011,
+   2017,
+   2013,
+   2019,
+   2019,
+   2017,
+   2021,
+   2018,
+   2022,
+   2018,
+   2024,
+   2015,
+   2015,
+   2022,
+   2018,
+   1985,
+   2025,
+   2023
+  ]
+ },
  "steve swallow": {
   "countries": [
    "US",
@@ -136188,6 +149843,313 @@
    2023
   ]
  },
+ "swarvy": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "Switzerland",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Reggae",
+   "Electronic",
+   "Hip Hop",
+   "Electronic",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Electronic",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Hip Hop"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Hip Hop",
+    "Electronic"
+   ],
+   [
+    "Hip Hop",
+    "Hip Hop"
+   ],
+   [
+    "Hip Hop",
+    "Jazz"
+   ],
+   [
+    "Hip Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Dub",
+    "Reggae"
+   ],
+   [
+    "Breaks",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Jazz"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Electronic"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Hip Hop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Jazz"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Hip Hop"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Funk",
+   "Hip Hop",
+   "Instrumental",
+   "Abstract",
+   "Instrumental",
+   "Dub",
+   "Breaks",
+   "Funk",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Downtempo",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Abstract",
+   "Experimental",
+   "Rhythm & Blues",
+   "Downtempo",
+   "Downtempo"
+  ],
+  "years": [
+   2016,
+   2011,
+   2015,
+   2022,
+   2025,
+   2016,
+   2016,
+   2018,
+   2014,
+   2025,
+   2017,
+   2019,
+   2016,
+   2020,
+   2017,
+   2016,
+   2012,
+   2018,
+   2017,
+   2018,
+   2020,
+   2026,
+   2014,
+   2016
+  ]
+ },
  "sérgio mendes": {
   "countries": [
    "Japan",
@@ -137452,6 +151414,434 @@
    1976,
    2023,
    1977
+  ]
+ },
+ "tennyson": {
+  "countries": [
+   "Canada",
+   "Canada",
+   "Unknown",
+   "Unknown",
+   "US",
+   "US",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Unknown",
+   "Canada",
+   "US",
+   "USA & Canada",
+   "Unknown",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "US",
+   "Bolivia",
+   "Bolivia",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Pop",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Rock",
+   "Latin",
+   "Rock",
+   "Latin",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Blues"
+  ],
+  "pairs": [
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Jazz"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Electronic"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Rock"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Rock"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "Breakbeat",
+    "Rock"
+   ],
+   [
+    "Footwork",
+    "Electronic"
+   ],
+   [
+    "Footwork",
+    "Rock"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Rock"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Electronic"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Dance-pop",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Beat",
+    "Rock"
+   ],
+   [
+    "Beat",
+    "Latin"
+   ],
+   [
+    "Garage Rock",
+    "Rock"
+   ],
+   [
+    "Garage Rock",
+    "Latin"
+   ],
+   [
+    "Beat",
+    "Rock"
+   ],
+   [
+    "Beat",
+    "Latin"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Latin"
+   ],
+   [
+    "Garage Rock",
+    "Rock"
+   ],
+   [
+    "Garage Rock",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Blues"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Blues"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Ambient",
+   "Abstract",
+   "Cool Jazz",
+   "Downtempo",
+   "IDM",
+   "Downtempo",
+   "Electro",
+   "Breakbeat",
+   "Footwork",
+   "Leftfield",
+   "Synth-pop",
+   "Alternative Rock",
+   "Experimental",
+   "Future Jazz",
+   "Downtempo",
+   "Dance-pop",
+   "Downtempo",
+   "IDM",
+   "Dance-pop",
+   "Experimental",
+   "Future Jazz",
+   "Experimental",
+   "Downtempo",
+   "Experimental",
+   "Future Jazz",
+   "Downtempo",
+   "IDM",
+   "Downtempo",
+   "Dance-pop",
+   "Experimental",
+   "Downtempo",
+   "Experimental",
+   "Experimental",
+   "Downtempo",
+   "Downtempo",
+   "IDM",
+   "Dance-pop",
+   "Future Jazz",
+   "Soul",
+   "Beat",
+   "Garage Rock",
+   "Beat",
+   "Psychedelic Rock",
+   "Garage Rock",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk"
+  ],
+  "years": [
+   2018,
+   2019,
+   2022,
+   2017,
+   2014,
+   2017,
+   2012,
+   2019,
+   2017,
+   2019,
+   2015,
+   2015,
+   2017,
+   2014,
+   2022,
+   2025,
+   2012,
+   2019,
+   2017,
+   1969,
+   1969,
+   1958,
+   1969
   ]
  },
  "terje rypdal": {
@@ -145695,6 +160085,138 @@
    2004
   ]
  },
+ "ugly heroes": {
+  "countries": [
+   "US",
+   "USA & Europe",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "US",
+   "US",
+   "USA & Europe",
+   "US",
+   "USA & Europe",
+   "US",
+   "USA & Europe",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 18,
+  "styles": [
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Boom Bap",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Boom Bap",
+   "Conscious",
+   "Conscious"
+  ],
+  "years": [
+   2016,
+   2022,
+   2013,
+   2013,
+   2013,
+   2004,
+   2016,
+   2013,
+   2022,
+   2014,
+   2022,
+   2016,
+   2022,
+   2013,
+   2014,
+   2014,
+   2013,
+   2013
+  ]
+ },
  "ugo calise": {
   "countries": [
    "Italy",
@@ -149506,6 +164028,279 @@
    1985,
    2022,
    1980
+  ]
+ },
+ "wun two": {
+  "countries": [
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "US",
+   "Germany"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Lo-Fi",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Lo-Fi",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Low Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Lo-Fi",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Lo-Fi",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Experimental",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul-Jazz",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Lo-Fi",
+   "Instrumental",
+   "Lo-Fi",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Low Bap",
+   "Instrumental",
+   "Boom Bap",
+   "Instrumental",
+   "Lo-Fi",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Boom Bap",
+   "Instrumental",
+   "Lo-Fi",
+   "Instrumental",
+   "Instrumental",
+   "Experimental",
+   "Soul",
+   "Soul-Jazz",
+   "Instrumental",
+   "Instrumental",
+   "Boom Bap",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental"
+  ],
+  "years": [
+   2022,
+   2013,
+   2024,
+   2023,
+   2020,
+   2019,
+   2014,
+   2014,
+   2021,
+   2024,
+   2023,
+   2020,
+   2013,
+   2019,
+   2026,
+   2023,
+   2021,
+   2017,
+   2018,
+   2022,
+   2023,
+   2019,
+   2017,
+   2016,
+   2021
   ]
  },
  "yusef lateef": {
