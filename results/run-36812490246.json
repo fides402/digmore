@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Hard Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Afro-Cuban Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Avant-garde Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2018,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 11,
+      "artists_found": 11,
+      "fresh_lookups": 0,
+      "styles_considered": 59
+    }
+  },
+  "results": [
+    {
+      "artist": "Art Pepper",
+      "title": "Straight Life",
+      "release_title": "Art Pepper - Landscape",
+      "year": "1980",
+      "label": "Galaxy",
+      "country": "US",
+      "discogs_id": 34373359,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_WqRI2nETRnQvza_iOP3Hq7G4LrWdm26EuPoDMaeVJs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzcz/MzU5LTE3NTA4OTcy/MjgtOTY2Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Connie Crothers",
+      "title": "How Deep Is The Ocean",
+      "release_title": "Connie Crothers - Solo",
+      "year": "1980",
+      "label": "Jazz Records",
+      "country": "US",
+      "discogs_id": 3531401,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/EIPJyqoytZOV-yUHflxl4uX4Utrvt1K556e2SFN7tgM/rs:fit/g:sm/q:90/h:253/w:248/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzE0/MDEtMTMzNDExMjg3/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Vlatkovich & Chris Lee & Kent McLagan",
+      "title": "Neighborhood Breasts Let Down Her Hair",
+      "release_title": "Michael Vlatkovich, Chris Lee (5), Kent McLagen* - Three3",
+      "year": "2007",
+      "label": "Thankyou Records",
+      "country": "US",
+      "discogs_id": 10863852,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GnREWT3NTAOoKSuVELrZAdsgJTehJCfX21TGQB7KONQ/rs:fit/g:sm/q:90/h:227/w:222/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODYz/ODUyLTE1MzU1OTU2/OTAtMzU3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Giants Of Jazz",
+      "title": "Allen's Alley",
+      "release_title": "Various - Bebop",
+      "year": "1986",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5774156,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/1Ml33ZolzoF7UIRJF6qh0mUkBp9KXZAMNv8egZ0KBlM/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQx/NTYtMTc4MzM2NTcx/OS04ODk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mary Lou Williams Trio",
+      "title": "Temptation",
+      "release_title": "Mary Lou Williams Trio - Free Spirits",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2746386,
+      "rating_avg": 4.73,
+      "rating_count": 40,
+      "cover_image": "https://i.discogs.com/qv8xqopSJsCFLraSPKK6X5g3eErNnmRLu08Of2gaYOg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDYz/ODYtMTY3MDMyMzM0/Ni04ODA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The David Bond Trio",
+      "title": "Anthem",
+      "release_title": "The David Bond Trio - Odyssey",
+      "year": "1980",
+      "label": "Vineyard Record Company",
+      "country": "US",
+      "discogs_id": 3150837,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/SnkntUsuaChkfVv4VEV5wUDXrFoglpGcu3Rto5dW-6k/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTA4/MzctMTMxODk2MjI3/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joan Wildman Trio",
+      "title": "First Day Tune",
+      "release_title": "Joan Wildman Trio - Orphan Folk Music",
+      "year": "1987",
+      "label": "Joan Wildman",
+      "country": "US",
+      "discogs_id": 16083965,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tbhu4qFdHblEZaNU_wXXx-qOZN4-alLJqbdVWp61S4A/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgz/OTY1LTE2MDMxMzcx/ODgtMTY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "That Ole Bach Magic",
+      "release_title": "Ramsey Lewis - Tequila Mockingbird",
+      "year": "1977",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 21577315,
+      "rating_avg": 4.46,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/x31tst84BSd-QSQSvR8XG2gRLvaX_wYkwFP9prOZudY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTc3/MzE1LTE2NDEyMzIy/MTUtODM1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joan Wildman Trio",
+      "title": "Orphan Folk Music",
+      "release_title": "Joan Wildman Trio - Orphan Folk Music",
+      "year": "1987",
+      "label": "Joan Wildman",
+      "country": "US",
+      "discogs_id": 16083965,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tbhu4qFdHblEZaNU_wXXx-qOZN4-alLJqbdVWp61S4A/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgz/OTY1LTE2MDMxMzcx/ODgtMTY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boston Improvisors' Collective",
+      "title": "To Something Like A Star",
+      "release_title": "Boston Improvisors' Collective - Goat Song",
+      "year": "2014",
+      "label": "Evil Clown",
+      "country": "US",
+      "discogs_id": 6744838,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ABY2rPq3yBYxDmg64y2X4B7hzTqdMY9Xf-SCpRxgEEQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDQ4/MzgtMTQyNTc0MjM2/OC0yMTAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mary Lou Williams Trio",
+      "title": "Dat Dere",
+      "release_title": "Mary Lou Williams Trio - Free Spirits",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2746386,
+      "rating_avg": 4.73,
+      "rating_count": 40,
+      "cover_image": "https://i.discogs.com/qv8xqopSJsCFLraSPKK6X5g3eErNnmRLu08Of2gaYOg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDYz/ODYtMTY3MDMyMzM0/Ni04ODA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Art Pepper",
+      "title": "Landscape",
+      "release_title": "Art Pepper - Landscape",
+      "year": "1980",
+      "label": "Galaxy",
+      "country": "US",
+      "discogs_id": 34373359,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_WqRI2nETRnQvza_iOP3Hq7G4LrWdm26EuPoDMaeVJs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzcz/MzU5LTE3NTA4OTcy/MjgtOTY2Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lew Tabackin",
+      "title": "Let The Tape Roll",
+      "release_title": "Lew Tabackin - Tabackin",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2912604,
+      "rating_avg": 4.45,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/UrCPN2WZrayQEuzYif0rV8aObn56wjDh8dFKsGPWc60/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI2/MDQtMTQ2NzM2ODUz/Mi00NTM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Max Roach",
+      "title": "Almost Like Me",
+      "release_title": "Various - Bebop",
+      "year": "1986",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5774156,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/1Ml33ZolzoF7UIRJF6qh0mUkBp9KXZAMNv8egZ0KBlM/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQx/NTYtMTc4MzM2NTcx/OS04ODk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Vlatkovich & Chris Lee & Kent McLagan",
+      "title": "Somehow We Can't Find A Glimpse Of Our Future In A Passing Train Window Train Window",
+      "release_title": "Michael Vlatkovich, Chris Lee (5), Kent McLagen* - Three3",
+      "year": "2007",
+      "label": "Thankyou Records",
+      "country": "US",
+      "discogs_id": 10863852,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GnREWT3NTAOoKSuVELrZAdsgJTehJCfX21TGQB7KONQ/rs:fit/g:sm/q:90/h:227/w:222/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODYz/ODUyLTE1MzU1OTU2/OTAtMzU3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boston Improvisors' Collective",
+      "title": "October",
+      "release_title": "Boston Improvisors' Collective - Goat Song",
+      "year": "2014",
+      "label": "Evil Clown",
+      "country": "US",
+      "discogs_id": 6744838,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ABY2rPq3yBYxDmg64y2X4B7hzTqdMY9Xf-SCpRxgEEQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDQ4/MzgtMTQyNTc0MjM2/OC0yMTAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Vlatkovich & Chris Lee & Kent McLagan",
+      "title": "Length Of The Tail Doesn't Really Matter But It Does Have To Be Bushy",
+      "release_title": "Michael Vlatkovich, Chris Lee (5), Kent McLagen* - Three3",
+      "year": "2007",
+      "label": "Thankyou Records",
+      "country": "US",
+      "discogs_id": 10863852,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GnREWT3NTAOoKSuVELrZAdsgJTehJCfX21TGQB7KONQ/rs:fit/g:sm/q:90/h:227/w:222/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODYz/ODUyLTE1MzU1OTU2/OTAtMzU3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Connie Crothers",
+      "title": "Drums-Piano",
+      "release_title": "Connie Crothers - Solo",
+      "year": "1980",
+      "label": "Jazz Records",
+      "country": "US",
+      "discogs_id": 3531401,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/EIPJyqoytZOV-yUHflxl4uX4Utrvt1K556e2SFN7tgM/rs:fit/g:sm/q:90/h:253/w:248/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzE0/MDEtMTMzNDExMjg3/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Horn",
+      "title": "Dida",
+      "release_title": "Paul Horn - Visions",
+      "year": "1974",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 28664164,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/G5fpSPi3D85_gOApeAt1p3EPMHfX_TA-1d9JPN-A5jk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/MTY0LTE2OTc5MTcw/NDYtOTEwNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joan Wildman Trio",
+      "title": "Pharygidair",
+      "release_title": "Joan Wildman Trio - Orphan Folk Music",
+      "year": "1987",
+      "label": "Joan Wildman",
+      "country": "US",
+      "discogs_id": 16083965,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tbhu4qFdHblEZaNU_wXXx-qOZN4-alLJqbdVWp61S4A/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgz/OTY1LTE2MDMxMzcx/ODgtMTY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Connie Crothers",
+      "title": "All About Love",
+      "release_title": "Connie Crothers - Solo",
+      "year": "1980",
+      "label": "Jazz Records",
+      "country": "US",
+      "discogs_id": 3531401,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/EIPJyqoytZOV-yUHflxl4uX4Utrvt1K556e2SFN7tgM/rs:fit/g:sm/q:90/h:253/w:248/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzE0/MDEtMTMzNDExMjg3/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "For Your Life",
+      "release_title": "Eddie Harris - The Real Electrifying Eddie Harris",
+      "year": "1983",
+      "label": "Mutt & Jeff Records",
+      "country": "US",
+      "discogs_id": 1498928,
+      "rating_avg": 4.18,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/EOBhAyC5xakZPx_-C0CmQqoRhp4fGUDYTMrudBV48Fw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg5/MjgtMTQ1MjQzMTU3/Ny04NzcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Let The Healing Begin",
+      "release_title": "Eddie Harris - The Real Electrifying Eddie Harris",
+      "year": "1983",
+      "label": "Mutt & Jeff Records",
+      "country": "US",
+      "discogs_id": 1498928,
+      "rating_avg": 4.18,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/EOBhAyC5xakZPx_-C0CmQqoRhp4fGUDYTMrudBV48Fw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg5/MjgtMTQ1MjQzMTU3/Ny04NzcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Theme In Search Of A Movie",
+      "release_title": "Eddie Harris - The Real Electrifying Eddie Harris",
+      "year": "1983",
+      "label": "Mutt & Jeff Records",
+      "country": "US",
+      "discogs_id": 1498928,
+      "rating_avg": 4.18,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/EOBhAyC5xakZPx_-C0CmQqoRhp4fGUDYTMrudBV48Fw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg5/MjgtMTQ1MjQzMTU3/Ny04NzcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sonny Stitt",
+      "title": "Ko-Ko",
+      "release_title": "Various - Bebop",
+      "year": "1986",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 5774156,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/1Ml33ZolzoF7UIRJF6qh0mUkBp9KXZAMNv8egZ0KBlM/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQx/NTYtMTc4MzM2NTcx/OS04ODk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "Together Again",
+      "release_title": "Stanley Clarke - I Wanna Play For You",
+      "year": "1994",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 6819928,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/CR6o1K0wm7nMGmsx6ZvBZ1BxMJp5mEljuEmJVpzNpuQ/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTk5/MjgtMTQyNzMwMTg2/Ny03Njc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Marc Jordan",
+      "title": "Lost Because You Can't Be Found",
+      "release_title": "Marc Jordan - Mannequin",
+      "year": "2014",
+      "label": "Culture Factory USA, Inc.",
+      "country": "US",
+      "discogs_id": 8357322,
+      "rating_avg": 4.33,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/I_rZkWyPzwPablKiIMaIwWtyGNKNO1w6K6M43YL4W1g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTcz/MjItMTQ2MDAzNDM4/Ny04MjgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lew Tabackin",
+      "title": "Morning",
+      "release_title": "Lew Tabackin - Tabackin",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2912604,
+      "rating_avg": 4.45,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/UrCPN2WZrayQEuzYif0rV8aObn56wjDh8dFKsGPWc60/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI2/MDQtMTQ2NzM2ODUz/Mi00NTM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Boston Improvisors' Collective",
+      "title": "Goat Song",
+      "release_title": "Boston Improvisors' Collective - Goat Song",
+      "year": "2014",
+      "label": "Evil Clown",
+      "country": "US",
+      "discogs_id": 6744838,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ABY2rPq3yBYxDmg64y2X4B7hzTqdMY9Xf-SCpRxgEEQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDQ4/MzgtMTQyNTc0MjM2/OC0yMTAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Marc Jordan",
+      "title": "Only Fools",
+      "release_title": "Marc Jordan - Mannequin",
+      "year": "2014",
+      "label": "Culture Factory USA, Inc.",
+      "country": "US",
+      "discogs_id": 8357322,
+      "rating_avg": 4.33,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/I_rZkWyPzwPablKiIMaIwWtyGNKNO1w6K6M43YL4W1g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTcz/MjItMTQ2MDAzNDM4/Ny04MjgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Boston Improvisors' Collective",
+      "title": "The Road Not Taken",
+      "release_title": "Boston Improvisors' Collective - Goat Song",
+      "year": "2014",
+      "label": "Evil Clown",
+      "country": "US",
+      "discogs_id": 6744838,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ABY2rPq3yBYxDmg64y2X4B7hzTqdMY9Xf-SCpRxgEEQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDQ4/MzgtMTQyNTc0MjM2/OC0yMTAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lew Tabackin",
+      "title": "How Deep Is The Ocean",
+      "release_title": "Lew Tabackin - Tabackin",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2912604,
+      "rating_avg": 4.45,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/UrCPN2WZrayQEuzYif0rV8aObn56wjDh8dFKsGPWc60/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI2/MDQtMTQ2NzM2ODUz/Mi00NTM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The David Bond Trio",
+      "title": "Illusion",
+      "release_title": "The David Bond Trio - Odyssey",
+      "year": "1980",
+      "label": "Vineyard Record Company",
+      "country": "US",
+      "discogs_id": 3150837,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/SnkntUsuaChkfVv4VEV5wUDXrFoglpGcu3Rto5dW-6k/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTA4/MzctMTMxODk2MjI3/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jim Hartog Quintet",
+      "title": "I Hear A Rhapsody",
+      "release_title": "Jim Hartog Quintet - Time And The City.",
+      "year": "1997",
+      "label": "Planet X",
+      "country": "US",
+      "discogs_id": 11099379,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/r1087IdkmQEPMNp2Q6Phhu_bYZAWwZ4UzOMK11-7vN0/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk5/Mzc5LTE1MTQ5MzEx/OTYtOTYxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Horn",
+      "title": "Long Time Gone",
+      "release_title": "Paul Horn - Visions",
+      "year": "1974",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 28664164,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/G5fpSPi3D85_gOApeAt1p3EPMHfX_TA-1d9JPN-A5jk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY0/MTY0LTE2OTc5MTcw/NDYtOTEwNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marc Jordan",
+      "title": "Dancing On The Boardwalk",
+      "release_title": "Marc Jordan - Mannequin",
+      "year": "2014",
+      "label": "Culture Factory USA, Inc.",
+      "country": "US",
+      "discogs_id": 8357322,
+      "rating_avg": 4.33,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/I_rZkWyPzwPablKiIMaIwWtyGNKNO1w6K6M43YL4W1g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTcz/MjItMTQ2MDAzNDM4/Ny04MjgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "Jamaican Boy",
+      "release_title": "Stanley Clarke - I Wanna Play For You",
+      "year": "1994",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 6819928,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/CR6o1K0wm7nMGmsx6ZvBZ1BxMJp5mEljuEmJVpzNpuQ/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTk5/MjgtMTQyNzMwMTg2/Ny03Njc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Art Pepper",
+      "title": "Over The Rainbow",
+      "release_title": "Art Pepper - Landscape",
+      "year": "1980",
+      "label": "Galaxy",
+      "country": "US",
+      "discogs_id": 34373359,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_WqRI2nETRnQvza_iOP3Hq7G4LrWdm26EuPoDMaeVJs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzcz/MzU5LTE3NTA4OTcy/MjgtOTY2Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jim Hartog Quintet",
+      "title": "No Excuse",
+      "release_title": "Jim Hartog Quintet - Time And The City.",
+      "year": "1997",
+      "label": "Planet X",
+      "country": "US",
+      "discogs_id": 11099379,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/r1087IdkmQEPMNp2Q6Phhu_bYZAWwZ4UzOMK11-7vN0/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk5/Mzc5LTE1MTQ5MzEx/OTYtOTYxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tisziji Muñoz & Bernie Senensky & Greg Pilo & George Koller",
+      "title": "Visiting This Planet (Tisziji Muñoz, Anami Music Inc.)",
+      "release_title": "Tisziji Muñoz, Bernie Senensky, Greg Pilo, George Koller - Space of Fire",
+      "year": "2013",
+      "label": "Anami Music",
+      "country": "US",
+      "discogs_id": 20391703,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/s2zRyCP3ydl5gTC4I18ffdfdsZG9IJJl5-Kfyc_OHGs/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NzAzLTE2MzI3NzQ5/NDItMTAzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Essence Of Matter",
+      "release_title": "Eddie Harris - The Real Electrifying Eddie Harris",
+      "year": "1983",
+      "label": "Mutt & Jeff Records",
+      "country": "US",
+      "discogs_id": 1498928,
+      "rating_avg": 4.18,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/EOBhAyC5xakZPx_-C0CmQqoRhp4fGUDYTMrudBV48Fw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg5/MjgtMTQ1MjQzMTU3/Ny04NzcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joan Wildman Trio",
+      "title": "Disintegration (Of A Pitch)",
+      "release_title": "Joan Wildman Trio - Orphan Folk Music",
+      "year": "1987",
+      "label": "Joan Wildman",
+      "country": "US",
+      "discogs_id": 16083965,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tbhu4qFdHblEZaNU_wXXx-qOZN4-alLJqbdVWp61S4A/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgz/OTY1LTE2MDMxMzcx/ODgtMTY3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The David Bond Trio",
+      "title": "Glide",
+      "release_title": "The David Bond Trio - Odyssey",
+      "year": "1980",
+      "label": "Vineyard Record Company",
+      "country": "US",
+      "discogs_id": 3150837,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/SnkntUsuaChkfVv4VEV5wUDXrFoglpGcu3Rto5dW-6k/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTA4/MzctMTMxODk2MjI3/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tisziji Muñoz & Bernie Senensky & Greg Pilo & George Koller",
+      "title": "God-Fire (Pyramid) (Tisziji Muñoz, Anami Music Inc.)",
+      "release_title": "Tisziji Muñoz, Bernie Senensky, Greg Pilo, George Koller - Space of Fire",
+      "year": "2013",
+      "label": "Anami Music",
+      "country": "US",
+      "discogs_id": 20391703,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/s2zRyCP3ydl5gTC4I18ffdfdsZG9IJJl5-Kfyc_OHGs/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NzAzLTE2MzI3NzQ5/NDItMTAzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mary Lou Williams Trio",
+      "title": "All Blues",
+      "release_title": "Mary Lou Williams Trio - Free Spirits",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 2746386,
+      "rating_avg": 4.73,
+      "rating_count": 40,
+      "cover_image": "https://i.discogs.com/qv8xqopSJsCFLraSPKK6X5g3eErNnmRLu08Of2gaYOg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDYz/ODYtMTY3MDMyMzM0/Ni04ODA2LmpwZWc.jpeg"
+    }
+  ]
+}
