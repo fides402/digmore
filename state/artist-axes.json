@@ -95273,6 +95273,424 @@
    2012
   ]
  },
+ "justo almario": {
+  "countries": [
+   "Europe",
+   "Japan",
+   "US",
+   "Canada",
+   "UK",
+   "Malaysia",
+   "US",
+   "US",
+   "US",
+   "Germany",
+   "US",
+   "UK",
+   "US",
+   "Germany",
+   "US",
+   "USA & Canada",
+   "USA & Canada",
+   "USA & Canada",
+   "US",
+   "US",
+   "USA & Canada",
+   "Mexico",
+   "US",
+   "US",
+   "Germany"
+  ],
+  "genres": [
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin"
+  ],
+  "pairs": [
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Funk",
+   "Fusion",
+   "Latin Jazz",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Fusion",
+   "Smooth Jazz",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Smooth Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Fusion",
+   "Smooth Jazz",
+   "Fusion",
+   "Smooth Jazz",
+   "Fusion",
+   "Smooth Jazz",
+   "Fusion",
+   "Smooth Jazz",
+   "Funk",
+   "Smooth Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Smooth Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Smooth Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Latin Jazz",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Cool Jazz",
+   "Contemporary Jazz",
+   "Latin Jazz",
+   "Latin Jazz",
+   "Jazz-Funk",
+   "Fusion",
+   "Smooth Jazz",
+   "Fusion",
+   "Smooth Jazz"
+  ],
+  "years": [
+   1995,
+   1992,
+   1989,
+   1987,
+   1993,
+   1989,
+   2002,
+   1981,
+   1990,
+   2004,
+   1987,
+   1987,
+   1987,
+   1991,
+   1985,
+   1985,
+   1989,
+   2004,
+   1992,
+   1981,
+   1987,
+   2004
+  ]
+ },
  "kamasi washington": {
   "countries": [
    "Japan",
