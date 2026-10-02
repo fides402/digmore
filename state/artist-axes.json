@@ -158858,6 +158858,244 @@
    1989
   ]
  },
+ "the natural four": {
+  "countries": [
+   "US",
+   "Japan",
+   "Canada",
+   "US",
+   "US",
+   "US",
+   "US",
+   "UK",
+   "Germany",
+   "Japan",
+   "US",
+   "US",
+   "Japan",
+   "UK",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Austria",
+   "US",
+   "UK"
+  ],
+  "genres": [
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soul",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul",
+   "Soul"
+  ],
+  "years": [
+   1973,
+   1995,
+   1974,
+   1969,
+   1975,
+   1974,
+   1970,
+   1995,
+   1973,
+   1975,
+   1972,
+   1975,
+   2001,
+   1996,
+   1973,
+   1969,
+   1974,
+   1969,
+   1976,
+   1969,
+   1969,
+   1976,
+   2016,
+   1971,
+   1975
+  ]
+ },
  "the originals": {
   "countries": [
    "US",
