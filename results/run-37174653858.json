@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1972,
+    "year_to": 2020,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 36,
+      "artists_found": 36,
+      "fresh_lookups": 1,
+      "styles_considered": 96
+    }
+  },
+  "results": [
+    {
+      "artist": "Jean Carn",
+      "title": "Make Love (Trip Hop Mix)",
+      "release_title": "Jean Carn - Make Love",
+      "year": "1998",
+      "label": "Place One Entertainment",
+      "country": "US",
+      "discogs_id": 2089572,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/B34iFXFt8ksp_WYzh5OBg23pAHWn43LGox1G33PX-1c/rs:fit/g:sm/q:90/h:486/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk1/NzItMTY1MDcxNTUw/My0xNTcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Michael Zager Band",
+      "title": "You Don't Know A Good Thing",
+      "release_title": "Michael Zager Band* - You Don't Know A Good Thing",
+      "year": "1978",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 6675713,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-1OLHtOaKifDd1Yk0oa3--JFa8a4vIeKRLi5tfCWqMk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzU3/MTMtMTQ3MTE4OTgz/MC02ODUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jean Carn",
+      "title": "Make Love (Kenny B Steppin' Mix)",
+      "release_title": "Jean Carn - Make Love",
+      "year": "1998",
+      "label": "Place One Entertainment",
+      "country": "US",
+      "discogs_id": 2089572,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/B34iFXFt8ksp_WYzh5OBg23pAHWn43LGox1G33PX-1c/rs:fit/g:sm/q:90/h:486/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk1/NzItMTY1MDcxNTUw/My0xNTcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Hudson",
+      "title": "Too Late (Bonus Beats)",
+      "release_title": "Michael Hudson - Too Late",
+      "year": "1987",
+      "label": "Ola Records",
+      "country": "US",
+      "discogs_id": 2686710,
+      "rating_avg": 4.55,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/pGDJHDDvUMQLbO0cWaxhk96u_G78nNbXe2J3QVjCAmI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY3/MTAtMTI5NjU2NDQy/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Groundhog",
+      "title": "Roll With The Punches - Part II",
+      "release_title": "Groundhog (3) - Roll With The Punches",
+      "year": "1975",
+      "label": "Gemigo Records",
+      "country": "US",
+      "discogs_id": 6945732,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/a8AsF692dFAM252C1QfDnBhEQjzblJ-dLAo-JjCZPUE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDU3/MzItMTQzMTEzMDE3/Mi01Njc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Originals",
+      "title": "Once I Have You (I Will Never Let Go)",
+      "release_title": "The Originals - I'm Someone Who Cares / Once I Have You (I Will Never Let Go)",
+      "year": "1972",
+      "label": "Soul",
+      "country": "US",
+      "discogs_id": 11884563,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_E_j-dN1fnmFTCtKyrnTuoDIfETZ4tinHFXX5f_Je6c/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg0/NTYzLTE1MjQwODQ4/NDMtNTY1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Faith, Hope & Charity",
+      "title": "To Each His Own",
+      "release_title": "Faith Hope & Charity* - To Each His Own / Find A Way",
+      "year": "1975",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 3300987,
+      "rating_avg": 4.0,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/fntl9WFlNznL0qN7zrecUF2lWWb1IO_Q42N98RZG-Pw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA5/ODctMTUyMjM2MjY4/Mi00NTAyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maria Howell",
+      "title": "Somethin' You Got",
+      "release_title": "Various - Soul Project // Reconnection",
+      "year": "2005",
+      "label": "Spirit Records",
+      "country": "US",
+      "discogs_id": 15763328,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3mR-PES_LvX5yCnowQDoe5tutKb0U0qMEXhyU2Vb3PQ/rs:fit/g:sm/q:90/h:578/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/MzI4LTE1OTc0MDgx/NDEtMzA1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Originals",
+      "title": "I'm Someone Who Cares",
+      "release_title": "The Originals - I'm Someone Who Cares / Once I Have You (I Will Never Let Go)",
+      "year": "1972",
+      "label": "Soul",
+      "country": "US",
+      "discogs_id": 11884563,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_E_j-dN1fnmFTCtKyrnTuoDIfETZ4tinHFXX5f_Je6c/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg0/NTYzLTE1MjQwODQ4/NDMtNTY1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Linda Jones",
+      "title": "Don't Go (I Can't Bear To Be Alone)",
+      "release_title": "Linda Jones - Let It Be Me / Don't Go (I Can't Bear To Be Alone)",
+      "year": "1972",
+      "label": "Turbo Records",
+      "country": "US",
+      "discogs_id": 1782074,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://st.discogs.com/b1505996697e54467fe6dc3530507fbb57f616e0/images/spacer.gif"
+    },
+    {
+      "artist": "Michael Hudson",
+      "title": "Too Late (Instrumental)",
+      "release_title": "Michael Hudson - Too Late",
+      "year": "1987",
+      "label": "Ola Records",
+      "country": "US",
+      "discogs_id": 2686710,
+      "rating_avg": 4.55,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/pGDJHDDvUMQLbO0cWaxhk96u_G78nNbXe2J3QVjCAmI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY3/MTAtMTI5NjU2NDQy/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "George Fischoff & Peppers",
+      "title": "For Gladys",
+      "release_title": "George Fischoff & Peppers (2) - That Summer Night",
+      "year": "1973",
+      "label": "Avalanche",
+      "country": "US",
+      "discogs_id": 14453464,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/r45Ovvy1UOXmRgCwHwSWI1b0ajxPnzRo2oD5a24LdXA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUz/NDY0LTE1NzY4NDIy/MTYtOTc1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Time",
+      "title": "Mo' Jerk Out",
+      "release_title": "The Time - Jerk Out",
+      "year": "1990",
+      "label": "Paisley Park",
+      "country": "US",
+      "discogs_id": 4852109,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5tMjHLHLQbHVgMNJHDhe_JG4rfXSuN5otGOoVbOly-Y/rs:fit/g:sm/q:90/h:600/w:387/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTIx/MDktMTYwNTA0Mzg3/OC00NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Time",
+      "title": "Jerk Out (Edit)",
+      "release_title": "The Time - Jerk Out",
+      "year": "1990",
+      "label": "Paisley Park",
+      "country": "US",
+      "discogs_id": 4852109,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5tMjHLHLQbHVgMNJHDhe_JG4rfXSuN5otGOoVbOly-Y/rs:fit/g:sm/q:90/h:600/w:387/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTIx/MDktMTYwNTA0Mzg3/OC00NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dynasty",
+      "title": "It's Still A Thrill",
+      "release_title": "Dynasty - When You Feel Like Giving Love (Dial My Number)",
+      "year": "1979",
+      "label": "Solar",
+      "country": "US",
+      "discogs_id": 9624830,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/b1505996697e54467fe6dc3530507fbb57f616e0/images/spacer.gif"
+    },
+    {
+      "artist": "Jean Carn",
+      "title": "Make Love (Radio Edit)",
+      "release_title": "Jean Carn - Make Love",
+      "year": "1998",
+      "label": "Place One Entertainment",
+      "country": "US",
+      "discogs_id": 2089572,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/B34iFXFt8ksp_WYzh5OBg23pAHWn43LGox1G33PX-1c/rs:fit/g:sm/q:90/h:486/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk1/NzItMTY1MDcxNTUw/My0xNTcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "George Fischoff & Peppers",
+      "title": "That Summer Night",
+      "release_title": "George Fischoff & Peppers (2) - That Summer Night",
+      "year": "1973",
+      "label": "Avalanche",
+      "country": "US",
+      "discogs_id": 14453464,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/r45Ovvy1UOXmRgCwHwSWI1b0ajxPnzRo2oD5a24LdXA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUz/NDY0LTE1NzY4NDIy/MTYtOTc1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Linda Jones",
+      "title": "Let It Be Me",
+      "release_title": "Linda Jones - Let It Be Me / Don't Go (I Can't Bear To Be Alone)",
+      "year": "1972",
+      "label": "Turbo Records",
+      "country": "US",
+      "discogs_id": 1782074,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://st.discogs.com/b1505996697e54467fe6dc3530507fbb57f616e0/images/spacer.gif"
+    },
+    {
+      "artist": "Groundhog",
+      "title": "Roll With The Punches - Part I",
+      "release_title": "Groundhog (3) - Roll With The Punches",
+      "year": "1975",
+      "label": "Gemigo Records",
+      "country": "US",
+      "discogs_id": 6945732,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/a8AsF692dFAM252C1QfDnBhEQjzblJ-dLAo-JjCZPUE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDU3/MzItMTQzMTEzMDE3/Mi01Njc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dynasty",
+      "title": "When You Feel Like Giving Love (Dial My Number) (Stereo)",
+      "release_title": "Dynasty - When You Feel Like Giving Love (Dial My Number)",
+      "year": "1979",
+      "label": "Solar",
+      "country": "US",
+      "discogs_id": 9624830,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/b1505996697e54467fe6dc3530507fbb57f616e0/images/spacer.gif"
+    },
+    {
+      "artist": "MFSB",
+      "title": "Love Is The Message",
+      "release_title": "Various - The Philadelphia Classics",
+      "year": "2007",
+      "label": "The Philadelphia Classics",
+      "country": "US",
+      "discogs_id": 1200193,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Tl0dKBGpsRpzeIpGJkT_sFGF14M08Sj5NbMcM9WIs5c/rs:fit/g:sm/q:90/h:408/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAx/OTMtMTIwMDI0NjEx/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Hudson",
+      "title": "Too Late (Club Mix)",
+      "release_title": "Michael Hudson - Too Late",
+      "year": "1987",
+      "label": "Ola Records",
+      "country": "US",
+      "discogs_id": 2686710,
+      "rating_avg": 4.55,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/pGDJHDDvUMQLbO0cWaxhk96u_G78nNbXe2J3QVjCAmI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY3/MTAtMTI5NjU2NDQy/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pervis Lee",
+      "title": "Cover Me",
+      "release_title": "Various - Soul Project // Reconnection",
+      "year": "2005",
+      "label": "Spirit Records",
+      "country": "US",
+      "discogs_id": 15763328,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3mR-PES_LvX5yCnowQDoe5tutKb0U0qMEXhyU2Vb3PQ/rs:fit/g:sm/q:90/h:578/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/MzI4LTE1OTc0MDgx/NDEtMzA1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Cook",
+      "title": "Law Of Love (Es La Ley)",
+      "release_title": "Various - Soul Project // Reconnection",
+      "year": "2005",
+      "label": "Spirit Records",
+      "country": "US",
+      "discogs_id": 15763328,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3mR-PES_LvX5yCnowQDoe5tutKb0U0qMEXhyU2Vb3PQ/rs:fit/g:sm/q:90/h:578/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/MzI4LTE1OTc0MDgx/NDEtMzA1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Faith, Hope & Charity",
+      "title": "Find A Way",
+      "release_title": "Faith Hope & Charity* - To Each His Own / Find A Way",
+      "year": "1975",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 3300987,
+      "rating_avg": 4.0,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/fntl9WFlNznL0qN7zrecUF2lWWb1IO_Q42N98RZG-Pw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA5/ODctMTUyMjM2MjY4/Mi00NTAyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Hudson",
+      "title": "Too Late (Radio Edition)",
+      "release_title": "Michael Hudson - Too Late",
+      "year": "1987",
+      "label": "Ola Records",
+      "country": "US",
+      "discogs_id": 2686710,
+      "rating_avg": 4.55,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/pGDJHDDvUMQLbO0cWaxhk96u_G78nNbXe2J3QVjCAmI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY3/MTAtMTI5NjU2NDQy/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maria Howell",
+      "title": "Optical Illusion",
+      "release_title": "Various - Soul Project // Reconnection",
+      "year": "2005",
+      "label": "Spirit Records",
+      "country": "US",
+      "discogs_id": 15763328,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3mR-PES_LvX5yCnowQDoe5tutKb0U0qMEXhyU2Vb3PQ/rs:fit/g:sm/q:90/h:578/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/MzI4LTE1OTc0MDgx/NDEtMzA1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean Carn",
+      "title": "Make Love (Trunk Funk Mix)",
+      "release_title": "Jean Carn - Make Love",
+      "year": "1998",
+      "label": "Place One Entertainment",
+      "country": "US",
+      "discogs_id": 2089572,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/B34iFXFt8ksp_WYzh5OBg23pAHWn43LGox1G33PX-1c/rs:fit/g:sm/q:90/h:486/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk1/NzItMTY1MDcxNTUw/My0xNTcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gato Barbieri",
+      "title": "Ruby",
+      "release_title": "Gato Barbieri - Ruby, Ruby",
+      "year": "1977",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 10901197,
+      "rating_avg": 4.09,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/zAWihpSAb8b1cpN5UaTK9jdsDfDLi43Nz1PsqhXlmL0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/MTk3LTE1MDYyMTQ2/NDItNjQyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Kardas Band",
+      "title": "Sunshower",
+      "release_title": "Dave Kardas Band - Fire And Ice",
+      "year": "2010",
+      "label": "Not On Label (Dave Kardas Band Self-released)",
+      "country": "US",
+      "discogs_id": 13074580,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ON3u5aeLbSCMJCb2nTkcFiNw_6FH28-qLWGHBx_ecAI/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc0/NTgwLTE1NDc1OTE1/MTktOTQ0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Bromberg",
+      "title": "Isn't It Beautiful",
+      "release_title": "Brian Bromberg - Magic Rain",
+      "year": "1989",
+      "label": "Intima Records",
+      "country": "US",
+      "discogs_id": 3332845,
+      "rating_avg": 4.22,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/cu7El3n19z8doczn1xbz9x8urjhlJ95vWjfps4eFvkY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI4/NDUtMTUxNjQ5MDkx/MC03MTg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kevin Toney",
+      "title": "Kings",
+      "release_title": "Kevin Toney - Smooth Jazz Love Songs",
+      "year": "2001",
+      "label": "Ichiban International",
+      "country": "US",
+      "discogs_id": 22452364,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/fkcYXNKhQM2PCbO_4BuubyjlXfGRZ9MFsuDtNZvQghA/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUy/MzY0LTE2NDY4NzQz/MTItMjUyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bebo Valdés",
+      "title": "Anda",
+      "release_title": "Bebo Valdés - Bebo Rides Again",
+      "year": "2004",
+      "label": "Universal Music Latino",
+      "country": "US",
+      "discogs_id": 7337668,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/b9vQ9sHvLoRPwNMPn0vIWuWSX2zpYudCy-c2KqND1pI/rs:fit/g:sm/q:90/h:448/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzc2/NjgtMTQzOTIzMDIx/NC00MDM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lin Rountree",
+      "title": "Get Away",
+      "release_title": "Lin Rountree - Sumthin' Good",
+      "year": "2008",
+      "label": "bdk Production",
+      "country": "US",
+      "discogs_id": 23550203,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://st.discogs.com/b1505996697e54467fe6dc3530507fbb57f616e0/images/spacer.gif"
+    },
+    {
+      "artist": "David Sanborn",
+      "title": "When You Smile At Me",
+      "release_title": "David Sanborn - Backstreet",
+      "year": "1983",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 18083269,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/EvVQI8NVgVbdn76buQpQe2hQOK2tMOJ9uL2E2v8roXs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgz/MjY5LTE2MTcxMzk4/ODQtOTcwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Zweebop",
+      "title": "Shita",
+      "release_title": "Zweebop - Recital",
+      "year": "1977",
+      "label": "Baby Grand",
+      "country": "US",
+      "discogs_id": 32650344,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Nk7pzUjFnkRayCw1D2qdWde8yTpIcprFai4ApY2yKb4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjUw/MzQ0LTE3MzUwMDYy/MTEtNDMwMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Zweebop",
+      "title": "Aixa",
+      "release_title": "Zweebop - Recital",
+      "year": "1977",
+      "label": "Baby Grand",
+      "country": "US",
+      "discogs_id": 32650344,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Nk7pzUjFnkRayCw1D2qdWde8yTpIcprFai4ApY2yKb4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjUw/MzQ0LTE3MzUwMDYy/MTEtNDMwMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe McBride",
+      "title": "Lake O'The Pines",
+      "release_title": "Joe McBride - Texas Rhythm Club",
+      "year": "2000",
+      "label": "Heads Up International",
+      "country": "US",
+      "discogs_id": 11409142,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/yod7hx4_XVsua1lLnajHoLCBmS4KlQyK6yefcSNB4oQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA5/MTQyLTE1MTU4MzE4/MTMtMTkxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe McBride",
+      "title": "On The Money",
+      "release_title": "Joe McBride - Texas Rhythm Club",
+      "year": "2000",
+      "label": "Heads Up International",
+      "country": "US",
+      "discogs_id": 11409142,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/yod7hx4_XVsua1lLnajHoLCBmS4KlQyK6yefcSNB4oQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA5/MTQyLTE1MTU4MzE4/MTMtMTkxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Caribbean Jazz Project & Dave Samuels & Dave Valentin & Steve Khan",
+      "title": "Maluco",
+      "release_title": "Caribbean Jazz Project, Dave Samuels, Dave Valentin, Steve Khan - Paraiso",
+      "year": "2001",
+      "label": "Concord Records",
+      "country": "US",
+      "discogs_id": 8665003,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2trB4o1qSQdD1ykkmdRtEXdbiBjuac0EjhOXzW0uXQ8/rs:fit/g:sm/q:90/h:491/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjUw/MDMtMTY2MDMyNzg0/My0yMzM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lin Rountree",
+      "title": "You Will Always",
+      "release_title": "Lin Rountree - Sumthin' Good",
+      "year": "2008",
+      "label": "bdk Production",
+      "country": "US",
+      "discogs_id": 23550203,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://st.discogs.com/b1505996697e54467fe6dc3530507fbb57f616e0/images/spacer.gif"
+    },
+    {
+      "artist": "Dave Kardas Band",
+      "title": "Lady Honey",
+      "release_title": "Dave Kardas Band - Fire And Ice",
+      "year": "2010",
+      "label": "Not On Label (Dave Kardas Band Self-released)",
+      "country": "US",
+      "discogs_id": 13074580,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ON3u5aeLbSCMJCb2nTkcFiNw_6FH28-qLWGHBx_ecAI/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc0/NTgwLTE1NDc1OTE1/MTktOTQ0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Bromberg",
+      "title": "Blues For Fabian",
+      "release_title": "Brian Bromberg - Magic Rain",
+      "year": "1989",
+      "label": "Intima Records",
+      "country": "US",
+      "discogs_id": 3332845,
+      "rating_avg": 4.22,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/cu7El3n19z8doczn1xbz9x8urjhlJ95vWjfps4eFvkY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI4/NDUtMTUxNjQ5MDkx/MC03MTg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kevin Toney",
+      "title": "Someone",
+      "release_title": "Kevin Toney - Smooth Jazz Love Songs",
+      "year": "2001",
+      "label": "Ichiban International",
+      "country": "US",
+      "discogs_id": 22452364,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/fkcYXNKhQM2PCbO_4BuubyjlXfGRZ9MFsuDtNZvQghA/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUy/MzY0LTE2NDY4NzQz/MTItMjUyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Alberto Favero",
+      "title": "Nocturno (Nocturne)",
+      "release_title": "Alberto Favero - Classical Tropico",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 36955590,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zV_Ly_dDxSV_xSS6CuSafTMA9gaAteeLzEkjqQop_pA/rs:fit/g:sm/q:90/h:385/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTU1/NTkwLTE3NzY2MzAy/NTUtOTE3NS5qcGVn.jpeg"
+    }
+  ]
+}
