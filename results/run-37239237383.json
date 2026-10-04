@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1962,
+    "year_to": 2014,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 24,
+      "artists_found": 24,
+      "fresh_lookups": 0,
+      "styles_considered": 82
+    }
+  },
+  "results": [
+    {
+      "artist": "Steve Allen",
+      "title": "Sweet Georgia Brown",
+      "release_title": "Steve Allen (3) - Steve Allen Plays Bossa Nova Jazz",
+      "year": "1963",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 3666857,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Q8PgcxJ3MoGfoPd1JBhugV49NouadeN0LpRQ3Q5UOYA/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjY4/NTctMTMzOTUzNDEy/OC0xMDE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Steve Allen",
+      "title": "Let's Fall In Love",
+      "release_title": "Steve Allen (3) - Steve Allen Plays Bossa Nova Jazz",
+      "year": "1963",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 3666857,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Q8PgcxJ3MoGfoPd1JBhugV49NouadeN0LpRQ3Q5UOYA/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjY4/NTctMTMzOTUzNDEy/OC0xMDE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shirley Scott & Stanley Turrentine",
+      "title": "The Soul Is Willing",
+      "release_title": "Shirley Scott With Stanley Turrentine - The Soul Is Willing",
+      "year": "1970",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 11187460,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/FFD2yfRgWOFUmjJLYeaAxDA2_JjBKQy2UasrsRjxu-8/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg3/NDYwLTE1MTE0OTMw/MDgtNjkyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "João Gilberto",
+      "title": "Desafinado",
+      "release_title": "João Gilberto - The Warm World Of João Gilberto",
+      "year": "1966",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 13088543,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/qivpW4O_j5JlwPezcnbGbBqVXWtKSg_sCA7CBKiNsGg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg4/NTQzLTE1NDc4NTE3/MTEtODc3Ny5wbmc.jpeg"
+    },
+    {
+      "artist": "Hixson High School Jazz Band",
+      "title": "Wave",
+      "release_title": "Hixson High School Jazz Band - Hixson High School Jazz Band",
+      "year": "1980",
+      "label": "The Sound Room, Inc., Fort Oglethorpe, GA",
+      "country": "US",
+      "discogs_id": 23361299,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3Kq54HvnOVkQ693fwMMJJmo-1qfCTggBqE_g6-VS13c/rs:fit/g:sm/q:90/h:456/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzYx/Mjk5LTE2NTM1NzI5/OTQtMjIwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Heartbeat",
+      "release_title": "Herbie Hancock - Man-Child",
+      "year": "1975",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 14712215,
+      "rating_avg": 4.46,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/dWe7_C7tCAG8WnIlcKl2xq34wPgxbWjRo7UAfteX7iU/rs:fit/g:sm/q:90/h:592/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzEy/MjE1LTE1ODAxMzU4/MjUtMzQ1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jude Bowerman",
+      "title": "All Your Love I Miss Loving",
+      "release_title": "Jude Bowerman - Can't Help Myself",
+      "year": "1998",
+      "label": "Eduj Music",
+      "country": "US",
+      "discogs_id": 5613089,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bI_eu12U5Eo2hyfVQqlQW26QamknS9rDI7MUE6OvIZU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTMw/ODktMTM5Nzk5MzYx/NS02MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Harnell & His Orchestra",
+      "title": "Harlem Nocturne",
+      "release_title": "Joe Harnell And His Orchestra* - Fly Me To The Moon - Bossa Nova / Harlem Nocturne",
+      "year": "1962",
+      "label": "Kapp Records",
+      "country": "US",
+      "discogs_id": 26068054,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wI6gIx6b1EhjbMJ8JrCrcrANB_svVyPxcLA3slYpC8E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY4/MDU0LTE3MDE2NTA3/MjYtNzAwOC5wbmc.jpeg"
+    },
+    {
+      "artist": "Shirley Scott & Stanley Turrentine",
+      "title": "Remember",
+      "release_title": "Shirley Scott With Stanley Turrentine - The Soul Is Willing",
+      "year": "1970",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 11187460,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/FFD2yfRgWOFUmjJLYeaAxDA2_JjBKQy2UasrsRjxu-8/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg3/NDYwLTE1MTE0OTMw/MDgtNjkyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Dukes & The Brother Jack McDuff Quartet",
+      "title": "Soulful Drums",
+      "release_title": "Joe Dukes With The Brother Jack McDuff Quartet - The Soulful Drums Of Joe Dukes With The Brother Jack McDuff Quartet",
+      "year": "1964",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 5414338,
+      "rating_avg": 4.67,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/Foaa_cObrOYaQC4cnC1ajn05owz9OHqD1nyhzrBxSDc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTQz/MzgtMTUyNzUyNjQ2/Ni01MjAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Amber Whitlock",
+      "title": "Lay Your Hands on Me",
+      "release_title": "Amber Whitlock - The Colours of Life",
+      "year": "2005",
+      "label": "Sketchin' Records",
+      "country": "US",
+      "discogs_id": 15372858,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bmh26z6bULuE4LECjVhcOtNQopnEwSzeR2FMK0hmIio/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcy/ODU4LTE1OTA0ODAy/ODItNTE2Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Kynard",
+      "title": "Stomp",
+      "release_title": "Charles Kynard - The Soul Brotherhood",
+      "year": "2001",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 479601,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/LzX67XMmGNGIJeIxsQmwXvW3ZnOMwCvB0Vi2lz-0Yzc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTYw/MS0xNjExOTY5Mzk3/LTExOTIuanBlZw.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Sun Touch",
+      "release_title": "Herbie Hancock - Man-Child",
+      "year": "1975",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 14712215,
+      "rating_avg": 4.46,
+      "rating_count": 28,
+      "cover_image": "https://i.discogs.com/dWe7_C7tCAG8WnIlcKl2xq34wPgxbWjRo7UAfteX7iU/rs:fit/g:sm/q:90/h:592/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzEy/MjE1LTE1ODAxMzU4/MjUtMzQ1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charlie Byrd",
+      "title": "Work Song",
+      "release_title": "Charlie Byrd - Byrdland",
+      "year": "1966",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 11629783,
+      "rating_avg": 4.14,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/NVEYCK3nwmXKZDavc9IOHe2o7TTvFip5MET0uw0_XtM/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI5/NzgzLTE1MTk2OTA5/NDItMzczMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Why Don't You Quit",
+      "release_title": "Eddie Harris - Why Don't You Quit / Foolish",
+      "year": "1970",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 14687767,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/h_tSLHP1wkmSVIKknK7ndbv_Zka7r8Z8XWkE6PRd_Vc/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/NzY3LTE1Nzk2NDIw/NTQtOTgzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "João Gilberto",
+      "title": "Aos Pes Da Cruz",
+      "release_title": "João Gilberto - The Warm World Of João Gilberto",
+      "year": "1966",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 13088543,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/qivpW4O_j5JlwPezcnbGbBqVXWtKSg_sCA7CBKiNsGg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg4/NTQzLTE1NDc4NTE3/MTEtODc3Ny5wbmc.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Movin' On Out",
+      "release_title": "Eddie Harris - Movin' On Out / Funky Doo",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 14438307,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6b4we9rpi_aD7vDVy3QpKa_pSJ_DJSpBW3XWRvTPrQY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM4/MzA3LTE1NzQ1MzE2/OTUtMzY2MC5tcG8.jpeg"
+    },
+    {
+      "artist": "Charles Kynard",
+      "title": "The Soul Brotherhood",
+      "release_title": "Charles Kynard - The Soul Brotherhood",
+      "year": "2001",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 479601,
+      "rating_avg": 4.6,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/LzX67XMmGNGIJeIxsQmwXvW3ZnOMwCvB0Vi2lz-0Yzc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTYw/MS0xNjExOTY5Mzk3/LTExOTIuanBlZw.jpeg"
+    },
+    {
+      "artist": "Joe Dukes & The Brother Jack McDuff Quartet",
+      "title": "Greasy Drums",
+      "release_title": "Joe Dukes With The Brother Jack McDuff Quartet - The Soulful Drums Of Joe Dukes With The Brother Jack McDuff Quartet",
+      "year": "1964",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 5414338,
+      "rating_avg": 4.67,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/Foaa_cObrOYaQC4cnC1ajn05owz9OHqD1nyhzrBxSDc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTQz/MzgtMTUyNzUyNjQ2/Ni01MjAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "João Gilberto",
+      "title": "Lobo Bobo",
+      "release_title": "João Gilberto - The Warm World Of João Gilberto",
+      "year": "1966",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 13088543,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/qivpW4O_j5JlwPezcnbGbBqVXWtKSg_sCA7CBKiNsGg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg4/NTQzLTE1NDc4NTE3/MTEtODc3Ny5wbmc.jpeg"
+    },
+    {
+      "artist": "Jude Bowerman",
+      "title": "You Brought The Sunshine Inside",
+      "release_title": "Jude Bowerman - Can't Help Myself",
+      "year": "1998",
+      "label": "Eduj Music",
+      "country": "US",
+      "discogs_id": 5613089,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bI_eu12U5Eo2hyfVQqlQW26QamknS9rDI7MUE6OvIZU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTMw/ODktMTM5Nzk5MzYx/NS02MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Amber Whitlock",
+      "title": "The Colours of Life",
+      "release_title": "Amber Whitlock - The Colours of Life",
+      "year": "2005",
+      "label": "Sketchin' Records",
+      "country": "US",
+      "discogs_id": 15372858,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bmh26z6bULuE4LECjVhcOtNQopnEwSzeR2FMK0hmIio/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcy/ODU4LTE1OTA0ODAy/ODItNTE2Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Allen",
+      "title": "The One I Love Belongs To Somebody Else",
+      "release_title": "Steve Allen (3) - Steve Allen Plays Bossa Nova Jazz",
+      "year": "1963",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 3666857,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Q8PgcxJ3MoGfoPd1JBhugV49NouadeN0LpRQ3Q5UOYA/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjY4/NTctMTMzOTUzNDEy/OC0xMDE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hixson High School Jazz Band",
+      "title": "Day In, Day Out",
+      "release_title": "Hixson High School Jazz Band - Hixson High School Jazz Band",
+      "year": "1980",
+      "label": "The Sound Room, Inc., Fort Oglethorpe, GA",
+      "country": "US",
+      "discogs_id": 23361299,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3Kq54HvnOVkQ693fwMMJJmo-1qfCTggBqE_g6-VS13c/rs:fit/g:sm/q:90/h:456/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzYx/Mjk5LTE2NTM1NzI5/OTQtMjIwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Allen",
+      "title": "This Could Be The Start Of Something",
+      "release_title": "Steve Allen (3) - Steve Allen Plays Bossa Nova Jazz",
+      "year": "1963",
+      "label": "Dot Records",
+      "country": "US",
+      "discogs_id": 3666857,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Q8PgcxJ3MoGfoPd1JBhugV49NouadeN0LpRQ3Q5UOYA/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjY4/NTctMTMzOTUzNDEy/OC0xMDE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jude Bowerman",
+      "title": "The Fever",
+      "release_title": "Jude Bowerman - Can't Help Myself",
+      "year": "1998",
+      "label": "Eduj Music",
+      "country": "US",
+      "discogs_id": 5613089,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bI_eu12U5Eo2hyfVQqlQW26QamknS9rDI7MUE6OvIZU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTMw/ODktMTM5Nzk5MzYx/NS02MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Dukes & The Brother Jack McDuff Quartet",
+      "title": "My Three Sons",
+      "release_title": "Joe Dukes With The Brother Jack McDuff Quartet - The Soulful Drums Of Joe Dukes With The Brother Jack McDuff Quartet",
+      "year": "1964",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 5414338,
+      "rating_avg": 4.67,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/Foaa_cObrOYaQC4cnC1ajn05owz9OHqD1nyhzrBxSDc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTQz/MzgtMTUyNzUyNjQ2/Ni01MjAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shirley Scott & Stanley Turrentine",
+      "title": "Yes Indeed",
+      "release_title": "Shirley Scott With Stanley Turrentine - The Soul Is Willing",
+      "year": "1970",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 11187460,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/FFD2yfRgWOFUmjJLYeaAxDA2_JjBKQy2UasrsRjxu-8/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg3/NDYwLTE1MTE0OTMw/MDgtNjkyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Fooltish",
+      "release_title": "Eddie Harris - Why Don't You Quit / Foolish",
+      "year": "1970",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 14687767,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/h_tSLHP1wkmSVIKknK7ndbv_Zka7r8Z8XWkE6PRd_Vc/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg3/NzY3LTE1Nzk2NDIw/NTQtOTgzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Funky Doo",
+      "release_title": "Eddie Harris - Movin' On Out / Funky Doo",
+      "year": "1969",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 14438307,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6b4we9rpi_aD7vDVy3QpKa_pSJ_DJSpBW3XWRvTPrQY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM4/MzA3LTE1NzQ1MzE2/OTUtMzY2MC5tcG8.jpeg"
+    }
+  ]
+}
