@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2019,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 35,
+      "artists_found": 31,
+      "fresh_lookups": 0,
+      "styles_considered": 95
+    }
+  },
+  "results": [
+    {
+      "artist": "The Beginning Of The End",
+      "title": "Fishman",
+      "release_title": "The Beginning Of The End - Doin' The Funky Do ",
+      "year": "1972",
+      "label": "Alston Records",
+      "country": "US",
+      "discogs_id": 4250042,
+      "rating_avg": 4.91,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/1zVxHOLqvsQOpVklv4ViFX87kkARDnGdRJwrvQHm2LQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTAw/NDItMTY0MjcwMjg5/NS0zMDYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Moment Of Truth",
+      "title": "Your Love (Long Version)",
+      "release_title": "The Moment Of Truth* - Your Love",
+      "year": "1974",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 11061546,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Qiy1wkKDipQM8xhtb0n4rNLSkkycONdVHspWw2cr-kA/rs:fit/g:sm/q:90/h:535/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYx/NTQ2LTE1MDkxMzI2/NzAtNzY2Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Beginning Of The End",
+      "title": "Doin' The Funky Do",
+      "release_title": "The Beginning Of The End - Doin' The Funky Do ",
+      "year": "1972",
+      "label": "Alston Records",
+      "country": "US",
+      "discogs_id": 4250042,
+      "rating_avg": 4.91,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/1zVxHOLqvsQOpVklv4ViFX87kkARDnGdRJwrvQHm2LQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTAw/NDItMTY0MjcwMjg5/NS0zMDYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "High Inergy",
+      "title": "Lovin' Fever",
+      "release_title": "High Inergy - Lovin' Fever",
+      "year": "1978",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 9695190,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/M9ktbCjkmkrLoIEsa5QSJaPKqqsjtti1BwojIpE5xV0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTUx/OTAtMTQ4NDkxMTM0/OC0xNTczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Soul Surfers",
+      "title": "Jam Session",
+      "release_title": "The Soul Surfers (2) - Soul Power (Alternative Mix)",
+      "year": "2017",
+      "label": "Fnr",
+      "country": "US",
+      "discogs_id": 15596946,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TNJ9P4wOKjGQSzK6rCx4i4Wf3HRb1uhw0b9j7_L22QI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk2/OTQ2LTE1OTQ2NzA0/NjMtMzY3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Face The Funk",
+      "title": "If You Got The Time",
+      "release_title": "Face The Funk - Somebody's Gotta Do It",
+      "year": "2016",
+      "label": "Not On Label (Frank Klepacki Self-Released)",
+      "country": "US",
+      "discogs_id": 15364911,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/LcnmFAgRShQzs6Qq_iOqKDjg3GQCDgZMSLAD8oACyeI/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/OTExLTE2MTAyMzE1/MjctMzM5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Jackson & The Jackson 5",
+      "title": "Ben",
+      "release_title": "Michael Jackson & The Jackson 5 - Great Songs And Performances That Inspired The  Motown 25th Anniversary T.V. Special",
+      "year": "1983",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 2188725,
+      "rating_avg": 4.44,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/DLy-Bsc3SZ99XDsRDVRlnyP4NA4vV3Mnscf57enIv8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg3/MjUtMTQ5MzIyMDM5/My00NjA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Face The Funk",
+      "title": "Fire It Up",
+      "release_title": "Face The Funk - Somebody's Gotta Do It",
+      "year": "2016",
+      "label": "Not On Label (Frank Klepacki Self-Released)",
+      "country": "US",
+      "discogs_id": 15364911,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/LcnmFAgRShQzs6Qq_iOqKDjg3GQCDgZMSLAD8oACyeI/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/OTExLTE2MTAyMzE1/MjctMzM5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Penny McLean",
+      "title": "1-2-3-4...Fire!",
+      "release_title": "Penny McLean - Lady Bump",
+      "year": "1976",
+      "label": "ATCO Records",
+      "country": "US",
+      "discogs_id": 750933,
+      "rating_avg": 3.95,
+      "rating_count": 38,
+      "cover_image": "https://i.discogs.com/HjaErNfclN1lCuPrN5zBkM1Tu9us1qVrWS7WODF0NGM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDkz/My0xMjMyOTEzNjM1/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Graham Central Station",
+      "title": "'Tis Your Kind Of Music",
+      "release_title": "Graham Central Station - Release Yourself",
+      "year": "1974",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 8579266,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/b1505996697e54467fe6dc3530507fbb57f616e0/images/spacer.gif"
+    },
+    {
+      "artist": "High Inergy",
+      "title": "Come And Get It",
+      "release_title": "High Inergy - Come And Get It",
+      "year": "1980",
+      "label": "Gordy",
+      "country": "US",
+      "discogs_id": 5044025,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sVpDOKXDBon-b_M99QCp82IIV-vMdcMHrzC2mDN-sqA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDQw/MjUtMTQ0NzIyMzU3/Ny0yNjI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Jackson & The Jackson 5",
+      "title": "I'll Be There",
+      "release_title": "Michael Jackson & The Jackson 5 - Great Songs And Performances That Inspired The  Motown 25th Anniversary T.V. Special",
+      "year": "1983",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 2188725,
+      "rating_avg": 4.44,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/DLy-Bsc3SZ99XDsRDVRlnyP4NA4vV3Mnscf57enIv8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg3/MjUtMTQ5MzIyMDM5/My00NjA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carol Douglas",
+      "title": "Come Into My Life",
+      "release_title": "Carol Douglas - Baby Don’t Let This Good Love Die",
+      "year": "1981",
+      "label": "Koala",
+      "country": "US",
+      "discogs_id": 33352973,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nfKoSqGnVaMHhBD3fGQ_Dp-JvSTGFMt4ssA3td2L_2M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzUy/OTczLTE3NDE0ODE0/MTktODAxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lenn Starwood",
+      "title": "Tomorrow (From The Broadway Musical \"Annie\")",
+      "release_title": "Lenn Starwood - Lenn... Two Sides Of Starwood",
+      "year": "1979",
+      "label": "D-V-X International Records",
+      "country": "US",
+      "discogs_id": 11034179,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/b9-f6evi22sUJR54CzgSj2G2OwPDBFJYVAUw1Yxq2Cw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM0/MTc5LTE1MDg2Mjk4/NTQtODYyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Papa's Results",
+      "title": "Love Makes The World Go Round",
+      "release_title": "Papa's Results - Love Makes The World Go Round",
+      "year": "1976",
+      "label": "ATCO Records",
+      "country": "US",
+      "discogs_id": 30494434,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B9mluZe0U2sP7s0fEc3BSZtY3XBfpOSwXVzaumZ8IfE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDk0/NDM0LTE3MTM5ODE2/OTYtMzI3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Whispers",
+      "title": "I Can't See Myself Leaving You",
+      "release_title": "The Whispers - Great Day / I Can't See Myself Leaving You",
+      "year": "1969",
+      "label": "Soul Clock",
+      "country": "US",
+      "discogs_id": 8778681,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/jF3Y7rs-HCsm4JZrIrSQzRBlvTSEnrK_YWo7OlWMwAU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg2/ODEtMTQ4MDI2Mjg3/MC01MjQ4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "High Inergy",
+      "title": "Midnight Music Man",
+      "release_title": "High Inergy - Come And Get It",
+      "year": "1980",
+      "label": "Gordy",
+      "country": "US",
+      "discogs_id": 5044025,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sVpDOKXDBon-b_M99QCp82IIV-vMdcMHrzC2mDN-sqA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDQw/MjUtMTQ0NzIyMzU3/Ny0yNjI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lenn Starwood",
+      "title": "Just Look What Love Has Done To Me",
+      "release_title": "Lenn Starwood - Lenn... Two Sides Of Starwood",
+      "year": "1979",
+      "label": "D-V-X International Records",
+      "country": "US",
+      "discogs_id": 11034179,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/b9-f6evi22sUJR54CzgSj2G2OwPDBFJYVAUw1Yxq2Cw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM0/MTc5LTE1MDg2Mjk4/NTQtODYyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carol Douglas",
+      "title": "I Got The Answer",
+      "release_title": "Carol Douglas - Baby Don’t Let This Good Love Die",
+      "year": "1981",
+      "label": "Koala",
+      "country": "US",
+      "discogs_id": 33352973,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nfKoSqGnVaMHhBD3fGQ_Dp-JvSTGFMt4ssA3td2L_2M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzUy/OTczLTE3NDE0ODE0/MTktODAxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Cornelius",
+      "title": "This Groove Is Bad (Short Version)",
+      "release_title": "Frank Cornelius - This Groove Is Bad",
+      "year": "1982",
+      "label": "Red Rooster Records",
+      "country": "US",
+      "discogs_id": 8639002,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/jnjee7EQtrCO6FqUX09EPrPkAUfCIYdIIE6gxqDybWo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mzkw/MDItMTQ2NTY4MTEx/OS0zMDY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lenn Starwood",
+      "title": "Do I Love You",
+      "release_title": "Lenn Starwood - Lenn... Two Sides Of Starwood",
+      "year": "1979",
+      "label": "D-V-X International Records",
+      "country": "US",
+      "discogs_id": 11034179,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/b9-f6evi22sUJR54CzgSj2G2OwPDBFJYVAUw1Yxq2Cw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM0/MTc5LTE1MDg2Mjk4/NTQtODYyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carol Douglas",
+      "title": "You Ain’t Said Nothing",
+      "release_title": "Carol Douglas - Baby Don’t Let This Good Love Die",
+      "year": "1981",
+      "label": "Koala",
+      "country": "US",
+      "discogs_id": 33352973,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nfKoSqGnVaMHhBD3fGQ_Dp-JvSTGFMt4ssA3td2L_2M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzUy/OTczLTE3NDE0ODE0/MTktODAxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Penny McLean",
+      "title": "Smoke Gets In Your Eyes",
+      "release_title": "Penny McLean - Lady Bump",
+      "year": "1976",
+      "label": "ATCO Records",
+      "country": "US",
+      "discogs_id": 750933,
+      "rating_avg": 3.95,
+      "rating_count": 38,
+      "cover_image": "https://i.discogs.com/HjaErNfclN1lCuPrN5zBkM1Tu9us1qVrWS7WODF0NGM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDkz/My0xMjMyOTEzNjM1/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Jackson & The Jackson 5",
+      "title": "Maybe Tomorrow",
+      "release_title": "Michael Jackson & The Jackson 5 - Great Songs And Performances That Inspired The  Motown 25th Anniversary T.V. Special",
+      "year": "1983",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 2188725,
+      "rating_avg": 4.44,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/DLy-Bsc3SZ99XDsRDVRlnyP4NA4vV3Mnscf57enIv8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg3/MjUtMTQ5MzIyMDM5/My00NjA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Earth, Wind & Fire",
+      "title": "Power",
+      "release_title": "Earth, Wind & Fire - Mom",
+      "year": "1972",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3345178,
+      "rating_avg": 4.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/HD8jzYZZaLWflnFs-cx1ATgKX5tkQyP906YLbfUyhYs/rs:fit/g:sm/q:90/h:223/w:226/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDUx/NzgtMTM5ODYxOTIz/My01NzQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Graham Central Station",
+      "title": "Release Yourself",
+      "release_title": "Graham Central Station - Release Yourself",
+      "year": "1974",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 8579266,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/b1505996697e54467fe6dc3530507fbb57f616e0/images/spacer.gif"
+    },
+    {
+      "artist": "Face The Funk",
+      "title": "Chasing A Feeling",
+      "release_title": "Face The Funk - Somebody's Gotta Do It",
+      "year": "2016",
+      "label": "Not On Label (Frank Klepacki Self-Released)",
+      "country": "US",
+      "discogs_id": 15364911,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/LcnmFAgRShQzs6Qq_iOqKDjg3GQCDgZMSLAD8oACyeI/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/OTExLTE2MTAyMzE1/MjctMzM5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Earth, Wind & Fire",
+      "title": "Mom",
+      "release_title": "Earth, Wind & Fire - Mom",
+      "year": "1972",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3345178,
+      "rating_avg": 4.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/HD8jzYZZaLWflnFs-cx1ATgKX5tkQyP906YLbfUyhYs/rs:fit/g:sm/q:90/h:223/w:226/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDUx/NzgtMTM5ODYxOTIz/My01NzQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobbi Lynn",
+      "title": "So In Love With You",
+      "release_title": "Bobbi Lynn - Jump Back In The Arms Of Love",
+      "year": "1969",
+      "label": "Look Records",
+      "country": "US",
+      "discogs_id": 2769897,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/s8JZVaUiezmMIRxMMqEUicRxGMOnSodKBHSZEaqgOps/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk4/OTctMTQ1NDA3NzUz/OS04NzUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Jackson & The Jackson 5",
+      "title": "Got To Be There",
+      "release_title": "Michael Jackson & The Jackson 5 - Great Songs And Performances That Inspired The  Motown 25th Anniversary T.V. Special",
+      "year": "1983",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 2188725,
+      "rating_avg": 4.44,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/DLy-Bsc3SZ99XDsRDVRlnyP4NA4vV3Mnscf57enIv8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg3/MjUtMTQ5MzIyMDM5/My00NjA3LmpwZWc.jpeg"
+    }
+  ]
+}
