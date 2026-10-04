@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2017,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 40,
+      "fresh_lookups": 0,
+      "styles_considered": 99
+    }
+  },
+  "results": [
+    {
+      "artist": "Thelonious Monk",
+      "title": "Between The Devil And The Deep Blue Sea",
+      "release_title": "Monk* - Straight, No Chaser",
+      "year": "1967",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 13940946,
+      "rating_avg": 4.5,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/tY4RdzWlV48j07gG7jBcAgL1dJe_EZsaBVjqUuXV8Yo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQw/OTQ2LTE1NjQ1MzI0/MjQtNTY4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Oliver",
+      "title": "Horizon (Reprise)",
+      "release_title": "Steve Oliver (4) - Positive + Energy",
+      "year": "2009",
+      "label": "Native Language Music",
+      "country": "US",
+      "discogs_id": 32223465,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lxsJKDHrVFgCJoslNbMmUneFb4E3VRzgPU1lOiigJcE/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjIz/NDY1LTE3MzEwMDEx/NzMtNTA0NC5wbmc.jpeg"
+    },
+    {
+      "artist": "Jerald Daemyon",
+      "title": "You Make Me Feel Brand New (Old School Remix)",
+      "release_title": "Jerald Daemyon - You Make Me Feel Brand New",
+      "year": "1996",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 15828273,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zRuRBllH-AjJPyeqCR9PVNHcRHv_2XoRYgqcsw_vy-I/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI4/MjczLTE1OTg1NDY1/MzctMTUwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Morgan Allstars",
+      "title": "Reflections",
+      "release_title": "Frank Morgan Allstars - Reflections ",
+      "year": "2000",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 11218577,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fJcuuNdTPZyfgJmiJwYapq6mI5s7NXdT2YRcNQPks7Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE4/NTc3LTE1Nzk4MzUy/NjgtNDAyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Cohn",
+      "title": "When Your Lover Has Gone",
+      "release_title": "Al Cohn - Standards Of Excellence",
+      "year": "1984",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 650868,
+      "rating_avg": 3.94,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/0M9UDfFVE4sOmMa7VtDPkaNkrayoLyyaRW6gqab356g/rs:fit/g:sm/q:90/h:496/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDg2/OC0xMzkzNTM0NTQ4/LTM1NzEuanBlZw.jpeg"
+    },
+    {
+      "artist": "Boney James",
+      "title": "Are You Ready? (Edit)",
+      "release_title": "Boney James - Are You Ready?",
+      "year": "1999",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 18010438,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bzJuMiD4W56hJgmnr8gTfv4rPH_cC5yDaRyy5yK2Zmc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDEw/NDM4LTE2MTY3MDk1/MTgtNjQzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Earl Klugh",
+      "title": "Heart String",
+      "release_title": "Earl Klugh - Heart String",
+      "year": "1979",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 14293129,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3zdMgYENv4FjeKqLl5gEqrePB8gRNzXXaMsC4u6tt-8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjkz/MTI5LTE1NzE2MDUw/MTYtOTYyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Peter Leitch Quartet",
+      "title": "Virgo",
+      "release_title": "The Peter Leitch Quartet - Mean What You Say",
+      "year": "1990",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 11792311,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/m-i4bIWCOL5xp9B3FoESWkT0XQFmHJnchwzLx69fYTA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzky/MzExLTE1MjI1MDQw/NDQtMzc3Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Whoopgnash",
+      "title": "Tweezed Hat Brimmed High Rider",
+      "release_title": "Whoopgnash - Unclear Channel - Live 2004",
+      "year": "2004",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 22758098,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cfLXCXeFI9wadFsVqEfDkkuz3L9y0vGTkyOHeAOVBn4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU4/MDk4LTE2NDkwNjQ1/MDEtMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Cohn",
+      "title": "When Day Is Done",
+      "release_title": "Al Cohn - Standards Of Excellence",
+      "year": "1984",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 650868,
+      "rating_avg": 3.94,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/0M9UDfFVE4sOmMa7VtDPkaNkrayoLyyaRW6gqab356g/rs:fit/g:sm/q:90/h:496/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDg2/OC0xMzkzNTM0NTQ4/LTM1NzEuanBlZw.jpeg"
+    },
+    {
+      "artist": "Max Lässer's Ark",
+      "title": "Earthwalk",
+      "release_title": "Max Lässer's Ark - Earthwalk",
+      "year": "1987",
+      "label": "CBS",
+      "country": "US",
+      "discogs_id": 2688457,
+      "rating_avg": 4.17,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/W2pBeh4AQNMV3mfa4fEKPd3Gy3Bs3-Hhv1n70ODklQg/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODg0/NTctMTMxNTE2MjMw/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Max Lässer's Ark",
+      "title": "Light Flight - A Birds-Eye View",
+      "release_title": "Max Lässer's Ark - Earthwalk",
+      "year": "1987",
+      "label": "CBS",
+      "country": "US",
+      "discogs_id": 2688457,
+      "rating_avg": 4.17,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/W2pBeh4AQNMV3mfa4fEKPd3Gy3Bs3-Hhv1n70ODklQg/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODg0/NTctMTMxNTE2MjMw/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Steve Oliver",
+      "title": "Come On Home",
+      "release_title": "Steve Oliver (4) - Positive + Energy",
+      "year": "2009",
+      "label": "Native Language Music",
+      "country": "US",
+      "discogs_id": 32223465,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/lxsJKDHrVFgCJoslNbMmUneFb4E3VRzgPU1lOiigJcE/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjIz/NDY1LTE3MzEwMDEx/NzMtNTA0NC5wbmc.jpeg"
+    },
+    {
+      "artist": "Ben Azar",
+      "title": "Bombs",
+      "release_title": "Ben Azar - Organized Memories",
+      "year": "2012",
+      "label": "Inner Circle Music",
+      "country": "US",
+      "discogs_id": 10732624,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/I5SiOxLiQdzC8w1J1I28yBHHJsh0MsTgkGGEAmzGsZc/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMy/NjI0LTE1MDMyODQz/ODQtNTMzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Whoopgnash",
+      "title": "Eine Kleine Gnash Music",
+      "release_title": "Whoopgnash - Unclear Channel - Live 2004",
+      "year": "2004",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 22758098,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cfLXCXeFI9wadFsVqEfDkkuz3L9y0vGTkyOHeAOVBn4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU4/MDk4LTE2NDkwNjQ1/MDEtMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boney James",
+      "title": "Are You Ready? (Funk Version)",
+      "release_title": "Boney James - Are You Ready?",
+      "year": "1999",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 18010438,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bzJuMiD4W56hJgmnr8gTfv4rPH_cC5yDaRyy5yK2Zmc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDEw/NDM4LTE2MTY3MDk1/MTgtNjQzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Mingus",
+      "title": "Goodbye, Porkie Hat",
+      "release_title": "Charles Mingus - Passions Of A Man: An Anthology Of His Atlantic Recordings",
+      "year": "1979",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 36148543,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QLhoAd1LfpChcIadLdNvzGY0Q457R5pxjgQcpshsN04/rs:fit/g:sm/q:90/h:435/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQ4/NTQzLTE3Njc5ODY4/OTAtOTYzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Honor",
+      "title": "Close To You",
+      "release_title": "Gary Honor - Heads & Tales",
+      "year": "2012",
+      "label": "Trippin 'N' Rhythm Records",
+      "country": "US",
+      "discogs_id": 18895567,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cOTxo0HECaBKeKUzI5iaanWOA0djSguOH8m17R9Iqi0/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk1/NTY3LTE2MjIwNTcw/MzUtNzUxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Mingus",
+      "title": "Canon",
+      "release_title": "Charles Mingus - Passions Of A Man: An Anthology Of His Atlantic Recordings",
+      "year": "1979",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 36148543,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QLhoAd1LfpChcIadLdNvzGY0Q457R5pxjgQcpshsN04/rs:fit/g:sm/q:90/h:435/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQ4/NTQzLTE3Njc5ODY4/OTAtOTYzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Max Lässer's Ark",
+      "title": "Prayer",
+      "release_title": "Max Lässer's Ark - Earthwalk",
+      "year": "1987",
+      "label": "CBS",
+      "country": "US",
+      "discogs_id": 2688457,
+      "rating_avg": 4.17,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/W2pBeh4AQNMV3mfa4fEKPd3Gy3Bs3-Hhv1n70ODklQg/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODg0/NTctMTMxNTE2MjMw/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Whoopgnash",
+      "title": "There's No Sound In Flutes",
+      "release_title": "Whoopgnash - Unclear Channel - Live 2004",
+      "year": "2004",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 22758098,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cfLXCXeFI9wadFsVqEfDkkuz3L9y0vGTkyOHeAOVBn4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU4/MDk4LTE2NDkwNjQ1/MDEtMTA3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Honor",
+      "title": "Dreamweaver",
+      "release_title": "Gary Honor - Heads & Tales",
+      "year": "2012",
+      "label": "Trippin 'N' Rhythm Records",
+      "country": "US",
+      "discogs_id": 18895567,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cOTxo0HECaBKeKUzI5iaanWOA0djSguOH8m17R9Iqi0/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk1/NTY3LTE2MjIwNTcw/MzUtNzUxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frank Morgan Allstars",
+      "title": "Sonnymoon For Two",
+      "release_title": "Frank Morgan Allstars - Reflections ",
+      "year": "2000",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 11218577,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/fJcuuNdTPZyfgJmiJwYapq6mI5s7NXdT2YRcNQPks7Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE4/NTc3LTE1Nzk4MzUy/NjgtNDAyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ben Azar",
+      "title": "Temporary Feelings",
+      "release_title": "Ben Azar - Organized Memories",
+      "year": "2012",
+      "label": "Inner Circle Music",
+      "country": "US",
+      "discogs_id": 10732624,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/I5SiOxLiQdzC8w1J1I28yBHHJsh0MsTgkGGEAmzGsZc/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMy/NjI0LTE1MDMyODQz/ODQtNTMzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Cohn & Dexter Gordon & Barry Harris & Louis Hayes & Sam Jones & Blue Mitchell & Sam Noto",
+      "title": "Lady Bird",
+      "release_title": "Al Cohn, Dexter Gordon, Barry Harris (2), Louis Hayes, Sam Jones, Blue Mitchell, Sam Noto - True Blue",
+      "year": "1977",
+      "label": "Xanadu Records",
+      "country": "US",
+      "discogs_id": 2633702,
+      "rating_avg": 4.4,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/rOZECnRfjvwLFrcGVEOZHR9A1XeLCcFa6i4Fw-Oqe3g/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzM3/MDItMTYwOTM0NDIx/Ny04MzAyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jay Rowe",
+      "title": "The Reunion",
+      "release_title": "Jay Rowe (2) - Smooth Ride",
+      "year": "2016",
+      "label": "Jay Rowes Funhouse Of Music",
+      "country": "US",
+      "discogs_id": 32531091,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jH3atBwqKoCkFSmrCTH6k7T2aVHhgexB8nIzH3pdrkA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTMx/MDkxLTE3MzM4NjY3/NjAtNDIwNy5wbmc.jpeg"
+    },
+    {
+      "artist": "Gary Honor",
+      "title": "Don't Push It",
+      "release_title": "Gary Honor - Heads & Tales",
+      "year": "2012",
+      "label": "Trippin 'N' Rhythm Records",
+      "country": "US",
+      "discogs_id": 18895567,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cOTxo0HECaBKeKUzI5iaanWOA0djSguOH8m17R9Iqi0/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODk1/NTY3LTE2MjIwNTcw/MzUtNzUxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jef Lee Johnson",
+      "title": "Brass Monkey 2",
+      "release_title": "Jef Lee Johnson - Monkey Zero",
+      "year": "2001",
+      "label": "Dreambox Media",
+      "country": "US",
+      "discogs_id": 10483949,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LVu1afcyriHaFP3T-O2TOu54cP2s3_8sVJ0X_btvKTE/rs:fit/g:sm/q:90/h:152/w:157/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgz/OTQ5LTE0OTgzOTQ2/NjgtMjQwNi5naWY.jpeg"
+    },
+    {
+      "artist": "Al Cohn",
+      "title": "O Grande Amor",
+      "release_title": "Al Cohn - Standards Of Excellence",
+      "year": "1984",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 650868,
+      "rating_avg": 3.94,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/0M9UDfFVE4sOmMa7VtDPkaNkrayoLyyaRW6gqab356g/rs:fit/g:sm/q:90/h:496/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDg2/OC0xMzkzNTM0NTQ4/LTM1NzEuanBlZw.jpeg"
+    },
+    {
+      "artist": "Boney James",
+      "title": "Are You Ready? (Bedroom Version)",
+      "release_title": "Boney James - Are You Ready?",
+      "year": "1999",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 18010438,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bzJuMiD4W56hJgmnr8gTfv4rPH_cC5yDaRyy5yK2Zmc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDEw/NDM4LTE2MTY3MDk1/MTgtNjQzMS5qcGVn.jpeg"
+    }
+  ]
+}
