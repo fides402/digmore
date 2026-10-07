@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1972,
+    "year_to": 2020,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 31,
+      "artists_found": 31,
+      "fresh_lookups": 0,
+      "styles_considered": 84
+    }
+  },
+  "results": [
+    {
+      "artist": "Blue Magic",
+      "title": "Teach Me (It's Something About Love)",
+      "release_title": "Blue Magic - Spark Of Love",
+      "year": "1976",
+      "label": "ATCO Records",
+      "country": "US",
+      "discogs_id": 2413511,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/nu_dEMgfcjDw1g7WhyBlr7xN5lpBiRhgKtka8XZfZPg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTM1/MTEtMTU3Njg1MzI1/MS0yMjc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clusone 3",
+      "title": "Introduction",
+      "release_title": "Clusone Trio* - Love Henry",
+      "year": "1997",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 5787582,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HdGpwXuxcA_sIxigyTPPr4V69bMOAc1-65pnrnTYVsg/rs:fit/g:sm/q:90/h:599/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODc1/ODItMTQwMjY2NTYx/My03MDQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Montclairs",
+      "title": "Dreaming Out Of Season",
+      "release_title": "The Montclairs - Dreaming Out Of Season / I Just Can't Get Away",
+      "year": "1972",
+      "label": "Paula Records",
+      "country": "US",
+      "discogs_id": 6267368,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/6O1ZUur36R0M9XYADyDk9ZQKkWEVG2qJMSl4GBmUoqY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjcz/NjgtMTU3NTk2Mzg2/OS0yMDY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kurt Rosenwinkel",
+      "title": "Minor Blues",
+      "release_title": "Kurt Rosenwinkel - The Next Step",
+      "year": "2000",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 7219921,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/eb4b8870539b42165ba177efc085d981ebaec6df/images/spacer.gif"
+    },
+    {
+      "artist": "Louis van Dijk",
+      "title": "What The World Needs Now Is Love",
+      "release_title": "Louis Van Dyke* - 'Round Midnight",
+      "year": "1977",
+      "label": "Columbia Masterworks",
+      "country": "US",
+      "discogs_id": 3563000,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/hK2yfgJnw-oDv1BuZi9ZMy1VmvZFzqw04AHfDYa3RoI/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjMw/MDAtMTMzNTM5NzU3/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "First Choice",
+      "title": "Double Cross",
+      "release_title": "First Choice - Hold Your Horses",
+      "year": "1979",
+      "label": "Gold Mind Records",
+      "country": "US",
+      "discogs_id": 15202303,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LAmfuLj-f-xez9PmaAX2Ok2AkDe8HJu_tv08Hq8Jvps/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAy/MzAzLTE2ODI1Mjk5/NTItOTExOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Douglas",
+      "title": "Colonial Cubism",
+      "release_title": "Dave Douglas - Little Giant Still Life",
+      "year": "2017",
+      "label": "Greenleaf Music",
+      "country": "US",
+      "discogs_id": 11125644,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/HWloE-ZhXRFTU0BxtZlwg-wzt1Owi8z6lOVKto_8yMU/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTI1/NjQ0LTE1MTAzMzA0/MDEtOTU5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kurt Rosenwinkel",
+      "title": "A Shifting Design",
+      "release_title": "Kurt Rosenwinkel - The Next Step",
+      "year": "2000",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 7219921,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/eb4b8870539b42165ba177efc085d981ebaec6df/images/spacer.gif"
+    },
+    {
+      "artist": "Clusone 3",
+      "title": "Uninhabited Island",
+      "release_title": "Clusone Trio* - Love Henry",
+      "year": "1997",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 5787582,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HdGpwXuxcA_sIxigyTPPr4V69bMOAc1-65pnrnTYVsg/rs:fit/g:sm/q:90/h:599/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODc1/ODItMTQwMjY2NTYx/My03MDQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Simon",
+      "title": "Glad To Be Your Lover",
+      "release_title": "Joe Simon - Pool Of Bad Luck / Glad To Be Your Lover",
+      "year": "1972",
+      "label": "Spring Records",
+      "country": "US",
+      "discogs_id": 1074332,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/zlbrZiJU5NLzJNQfb2gP18GTgseNSW5GjL_CuVutke4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQz/MzItMTE5MTcxNDMz/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Moment Of Truth",
+      "title": "Your Love (Disco Version)",
+      "release_title": "Moment Of Truth - Your Love",
+      "year": "1974",
+      "label": "Mediasound",
+      "country": "US",
+      "discogs_id": 2161917,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VRXSiCkNmhaKDJYeECiR0D3cflKut8O7venZS3LBcoE/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjE5/MTctMTI2NzM1MDcy/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Douglas",
+      "title": "Champion",
+      "release_title": "Dave Douglas - Little Giant Still Life",
+      "year": "2017",
+      "label": "Greenleaf Music",
+      "country": "US",
+      "discogs_id": 11125644,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/HWloE-ZhXRFTU0BxtZlwg-wzt1Owi8z6lOVKto_8yMU/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTI1/NjQ0LTE1MTAzMzA0/MDEtOTU5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Love Love Love",
+      "release_title": "Eddie Kendricks - Ain't No Smoke Without Fire",
+      "year": "1978",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 12735520,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/74kuScDjvXwkieVm5mFmSebAGVSUBdXJqhkxKnB1Xi8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM1/NTIwLTE1NDA5NTYz/NzMtMjQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chairmen Of The Board",
+      "title": "Carolina Girls",
+      "release_title": "Various - Beach Classics",
+      "year": "1982",
+      "label": "Surfside Records",
+      "country": "US",
+      "discogs_id": 14318760,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tmLi1uIVZWz5vCFShvLXNiFCKlZEh9GVHj3S5vg4u1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE4/NzYwLTE1ODQ3NDYw/MzUtOTcxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Band Of Oz",
+      "title": "Ocean Boulevard",
+      "release_title": "Various - Beach Classics",
+      "year": "1982",
+      "label": "Surfside Records",
+      "country": "US",
+      "discogs_id": 14318760,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tmLi1uIVZWz5vCFShvLXNiFCKlZEh9GVHj3S5vg4u1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE4/NzYwLTE1ODQ3NDYw/MzUtOTcxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kurt Rosenwinkel",
+      "title": "Filters",
+      "release_title": "Kurt Rosenwinkel - The Next Step",
+      "year": "2000",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 7219921,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/eb4b8870539b42165ba177efc085d981ebaec6df/images/spacer.gif"
+    },
+    {
+      "artist": "Blue Magic",
+      "title": "Spark Of Love",
+      "release_title": "Blue Magic - Spark Of Love",
+      "year": "1976",
+      "label": "ATCO Records",
+      "country": "US",
+      "discogs_id": 2413511,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/nu_dEMgfcjDw1g7WhyBlr7xN5lpBiRhgKtka8XZfZPg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTM1/MTEtMTU3Njg1MzI1/MS0yMjc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Showmen",
+      "title": "39-21-40",
+      "release_title": "Various - Beach Classics",
+      "year": "1982",
+      "label": "Surfside Records",
+      "country": "US",
+      "discogs_id": 14318760,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tmLi1uIVZWz5vCFShvLXNiFCKlZEh9GVHj3S5vg4u1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE4/NzYwLTE1ODQ3NDYw/MzUtOTcxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Louis van Dijk",
+      "title": "'Round Midnight",
+      "release_title": "Louis Van Dyke* - 'Round Midnight",
+      "year": "1977",
+      "label": "Columbia Masterworks",
+      "country": "US",
+      "discogs_id": 3563000,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/hK2yfgJnw-oDv1BuZi9ZMy1VmvZFzqw04AHfDYa3RoI/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjMw/MDAtMTMzNTM5NzU3/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Simon",
+      "title": "Pool Of Bad Luck",
+      "release_title": "Joe Simon - Pool Of Bad Luck / Glad To Be Your Lover",
+      "year": "1972",
+      "label": "Spring Records",
+      "country": "US",
+      "discogs_id": 1074332,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/zlbrZiJU5NLzJNQfb2gP18GTgseNSW5GjL_CuVutke4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQz/MzItMTE5MTcxNDMz/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Douglas",
+      "title": "Men And Machine",
+      "release_title": "Dave Douglas - Little Giant Still Life",
+      "year": "2017",
+      "label": "Greenleaf Music",
+      "country": "US",
+      "discogs_id": 11125644,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/HWloE-ZhXRFTU0BxtZlwg-wzt1Owi8z6lOVKto_8yMU/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTI1/NjQ0LTE1MTAzMzA0/MDEtOTU5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Ain't No Smoke Without Fire",
+      "release_title": "Eddie Kendricks - Ain't No Smoke Without Fire",
+      "year": "1978",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 12735520,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/74kuScDjvXwkieVm5mFmSebAGVSUBdXJqhkxKnB1Xi8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM1/NTIwLTE1NDA5NTYz/NzMtMjQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jason Moran",
+      "title": "Snake Stance",
+      "release_title": "Jason Moran - Soundtrack To Human Motion",
+      "year": "2015",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 6646933,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/fMXVmC54wMFGyl7h49B6KD6jk6NOqbIgnjIz23tnDTU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDY5/MzMtMTQyNDg0NTY2/OC05Mjg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jason Moran",
+      "title": "JAMO Meets SAMO",
+      "release_title": "Jason Moran - Soundtrack To Human Motion",
+      "year": "2015",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 6646933,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/fMXVmC54wMFGyl7h49B6KD6jk6NOqbIgnjIz23tnDTU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDY5/MzMtMTQyNDg0NTY2/OC05Mjg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "First Choice",
+      "title": "Good Morning Midnight",
+      "release_title": "First Choice - Hold Your Horses",
+      "year": "1979",
+      "label": "Gold Mind Records",
+      "country": "US",
+      "discogs_id": 15202303,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LAmfuLj-f-xez9PmaAX2Ok2AkDe8HJu_tv08Hq8Jvps/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAy/MzAzLTE2ODI1Mjk5/NTItOTExOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Clusone 3",
+      "title": "White Spots",
+      "release_title": "Clusone Trio* - Love Henry",
+      "year": "1997",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 5787582,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HdGpwXuxcA_sIxigyTPPr4V69bMOAc1-65pnrnTYVsg/rs:fit/g:sm/q:90/h:599/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODc1/ODItMTQwMjY2NTYx/My03MDQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Louis van Dijk",
+      "title": "Sweet Georgie Fame",
+      "release_title": "Louis Van Dyke* - 'Round Midnight",
+      "year": "1977",
+      "label": "Columbia Masterworks",
+      "country": "US",
+      "discogs_id": 3563000,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/hK2yfgJnw-oDv1BuZi9ZMy1VmvZFzqw04AHfDYa3RoI/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjMw/MDAtMTMzNTM5NzU3/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Montclairs",
+      "title": "I Just Can't Get Away",
+      "release_title": "The Montclairs - Dreaming Out Of Season / I Just Can't Get Away",
+      "year": "1972",
+      "label": "Paula Records",
+      "country": "US",
+      "discogs_id": 6267368,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/6O1ZUur36R0M9XYADyDk9ZQKkWEVG2qJMSl4GBmUoqY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjcz/NjgtMTU3NTk2Mzg2/OS0yMDY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "First Choice",
+      "title": "Hold Your Horses",
+      "release_title": "First Choice - Hold Your Horses",
+      "year": "1979",
+      "label": "Gold Mind Records",
+      "country": "US",
+      "discogs_id": 15202303,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LAmfuLj-f-xez9PmaAX2Ok2AkDe8HJu_tv08Hq8Jvps/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAy/MzAzLTE2ODI1Mjk5/NTItOTExOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richmond Extension",
+      "title": "Everything's Coming Up Love",
+      "release_title": "Richmond Extension - Everything's Coming Up Love",
+      "year": "1974",
+      "label": "Silver Blue Records",
+      "country": "US",
+      "discogs_id": 2272669,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/0jwLrIq8YmaEXMaKhrM1a1tBBaJLR-p7DJiEIbfbArE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzI2/NjktMTUyMTA1NjA4/MS00NjQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Band Of Oz",
+      "title": "Shaggin",
+      "release_title": "Various - Beach Classics",
+      "year": "1982",
+      "label": "Surfside Records",
+      "country": "US",
+      "discogs_id": 14318760,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tmLi1uIVZWz5vCFShvLXNiFCKlZEh9GVHj3S5vg4u1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE4/NzYwLTE1ODQ3NDYw/MzUtOTcxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richmond Extension",
+      "title": "Girls Were Made To Love",
+      "release_title": "Richmond Extension - Everything's Coming Up Love",
+      "year": "1974",
+      "label": "Silver Blue Records",
+      "country": "US",
+      "discogs_id": 2272669,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/0jwLrIq8YmaEXMaKhrM1a1tBBaJLR-p7DJiEIbfbArE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzI2/NjktMTUyMTA1NjA4/MS00NjQ2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kurt Rosenwinkel",
+      "title": "Path Of The Heart",
+      "release_title": "Kurt Rosenwinkel - The Next Step",
+      "year": "2000",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 7219921,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/eb4b8870539b42165ba177efc085d981ebaec6df/images/spacer.gif"
+    },
+    {
+      "artist": "First Choice",
+      "title": "Great Expectations",
+      "release_title": "First Choice - Hold Your Horses",
+      "year": "1979",
+      "label": "Gold Mind Records",
+      "country": "US",
+      "discogs_id": 15202303,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LAmfuLj-f-xez9PmaAX2Ok2AkDe8HJu_tv08Hq8Jvps/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAy/MzAzLTE2ODI1Mjk5/NTItOTExOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jason Moran",
+      "title": "Aquanaut",
+      "release_title": "Jason Moran - Soundtrack To Human Motion",
+      "year": "2015",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 6646933,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/fMXVmC54wMFGyl7h49B6KD6jk6NOqbIgnjIz23tnDTU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDY5/MzMtMTQyNDg0NTY2/OC05Mjg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clusone 3",
+      "title": "Red Hot",
+      "release_title": "Clusone Trio* - Love Henry",
+      "year": "1997",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 5787582,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HdGpwXuxcA_sIxigyTPPr4V69bMOAc1-65pnrnTYVsg/rs:fit/g:sm/q:90/h:599/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODc1/ODItMTQwMjY2NTYx/My03MDQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jason Moran",
+      "title": "Kinesics",
+      "release_title": "Jason Moran - Soundtrack To Human Motion",
+      "year": "2015",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 6646933,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/fMXVmC54wMFGyl7h49B6KD6jk6NOqbIgnjIz23tnDTU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDY5/MzMtMTQyNDg0NTY2/OC05Mjg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Douglas",
+      "title": "Little Giant Still Life",
+      "release_title": "Dave Douglas - Little Giant Still Life",
+      "year": "2017",
+      "label": "Greenleaf Music",
+      "country": "US",
+      "discogs_id": 11125644,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/HWloE-ZhXRFTU0BxtZlwg-wzt1Owi8z6lOVKto_8yMU/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTI1/NjQ0LTE1MTAzMzA0/MDEtOTU5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Louis van Dijk",
+      "title": "Triologie",
+      "release_title": "Louis Van Dyke* - 'Round Midnight",
+      "year": "1977",
+      "label": "Columbia Masterworks",
+      "country": "US",
+      "discogs_id": 3563000,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/hK2yfgJnw-oDv1BuZi9ZMy1VmvZFzqw04AHfDYa3RoI/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjMw/MDAtMTMzNTM5NzU3/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Woody Herman",
+      "title": "Corazon (Mono)",
+      "release_title": "Woody Herman - Corazon",
+      "year": "1974",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 6584576,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/cwuAuzI37TZytlauI6nMDvbSzqadlEWbBVbe6_yC104/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODQ1/NzYtMTQyMjU3MDk4/OS0zNzM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Stegner Trio",
+      "title": "March Of The Introspective Anteaters",
+      "release_title": "Michael Stegner Trio - The Fantastic Adventures Of An Amphibian Named Jamal",
+      "year": "2007",
+      "label": "CMA Records",
+      "country": "US",
+      "discogs_id": 20627488,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/75vwoXpJ2Ox5Ho_YywJCxZcu1Rb6FjplEwE06sXR0CE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI3/NDg4LTE3NDc0NjQx/MjAtNTc1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pucho & His Latin Soul Brothers",
+      "title": "Slow Hot Wind",
+      "release_title": "Pucho And His Latin Soul Brothers* - Groovin' High",
+      "year": "1997",
+      "label": "Cannonball Records",
+      "country": "US",
+      "discogs_id": 8959439,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/eb4b8870539b42165ba177efc085d981ebaec6df/images/spacer.gif"
+    },
+    {
+      "artist": "Michael Stegner Trio",
+      "title": "These Legs Are Made For Walkin'",
+      "release_title": "Michael Stegner Trio - The Fantastic Adventures Of An Amphibian Named Jamal",
+      "year": "2007",
+      "label": "CMA Records",
+      "country": "US",
+      "discogs_id": 20627488,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/75vwoXpJ2Ox5Ho_YywJCxZcu1Rb6FjplEwE06sXR0CE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI3/NDg4LTE3NDc0NjQx/MjAtNTc1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chris Rottmayer Quintet",
+      "title": "Hopeful",
+      "release_title": "Chris Rottmayer Quintet - Reactive Synthesis",
+      "year": "2013",
+      "label": "Timucua Records",
+      "country": "US",
+      "discogs_id": 32874513,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Et0XsklNw8UZoSDlEB4L2-EkKSwgIiRrSutesYM1dY4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc0/NTEzLTE3MzcxNTk3/NDAtNjIzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Characteristic Pitches & Robin Eubanks",
+      "title": "A White Page",
+      "release_title": "Characteristic Pitches Featuring Robin Eubanks - Multitude",
+      "year": "2009",
+      "label": "Silta Records",
+      "country": "US",
+      "discogs_id": 15421476,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/qRhPZOXq8OrdZAw1FSlWYolmX0KQqzPTUT9v3xEbHRE/rs:fit/g:sm/q:90/h:450/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIx/NDc2LTE1OTEyODEy/NjQtNzg0NC5qcGVn.jpeg"
+    }
+  ]
+}
