@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2014,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 39,
+      "artists_found": 37,
+      "fresh_lookups": 0,
+      "styles_considered": 93
+    }
+  },
+  "results": [
+    {
+      "artist": "Zapp",
+      "title": "I Can Make You Dance",
+      "release_title": "Zapp - Zapp III",
+      "year": "1983",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6050606,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PHNGDFGAnhoruygcVdU6ziLlJWQG5WcMqkERTZWIAW8/rs:fit/g:sm/q:90/h:600/w:379/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTA2/MDYtMTQwOTc4NTQ5/OC0xOTc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Loleatta Holloway",
+      "title": "Catch Me On The Rebound",
+      "release_title": "Loleatta Holloway - Catch Me On The Rebound",
+      "year": "1978",
+      "label": "Gold Mind Records",
+      "country": "US",
+      "discogs_id": 7979214,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/mD_5QPtheaA2aU_92XIZq_ZFTR9Fn_oxrJnHLd1TJ3Y/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Nzky/MTQtMTQ4MDMxMjU0/NC03NTAyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jesse T. Dodson Jr.",
+      "title": "Get It Together (Vocal)",
+      "release_title": "Jesse T. Dodson Jr. - Get It Together",
+      "year": "1985",
+      "label": "J.D. Enterprises Records",
+      "country": "US",
+      "discogs_id": 7914346,
+      "rating_avg": 4.57,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/-DdlYs-vs2p8kaUHYPZNEZ_ICmQ8OblvcZpnV-sAprI/rs:fit/g:sm/q:90/h:500/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTQz/NDYtMTQ1MTU1NDQz/OS00NDA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Super Disco Band",
+      "title": "Super Disco",
+      "release_title": "The Super Disco Band - The Super Disco Band",
+      "year": "1996",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 977451,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/on69wgZzc3bGG48qKquptjn-DA4MB48jKxxaGfYaA2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzQ1/MS0xNDg5NjkzNTM1/LTgxMDQuanBlZw.jpeg"
+    },
+    {
+      "artist": "7th Wonder",
+      "title": "The Tilt",
+      "release_title": "7th Wonder - The Tilt / Missin' Out",
+      "year": "1980",
+      "label": "Chocolate City",
+      "country": "US",
+      "discogs_id": 21508696,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KbOliwjVc9p6OvEurSTmbC_YREafLKaYjNlpAUXmzK8/rs:fit/g:sm/q:90/h:445/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTA4/Njk2LTE2NDIxOTQ1/MjAtMTU1Mi5wbmc.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty",
+      "title": "Lonely Among All",
+      "release_title": "Jean-Luc Ponty - Life Enigma",
+      "year": "2007",
+      "label": "Koch Records",
+      "country": "US",
+      "discogs_id": 9886589,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/R9fMOjiXRaazcr1vqPJZYSKMV3sbTC-qzGkM2bijZcE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODY1/ODktMTQ4Nzk2NzIx/OS01NzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paul Humphrey & His Cool Aid Chemists",
+      "title": "Cool Aid",
+      "release_title": "Paul Humphrey & His Cool Aid Chemists - Cool Aid / Detroit",
+      "year": "1971",
+      "label": "Lizard",
+      "country": "US",
+      "discogs_id": 9603568,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/pGZIZTXWfDYwsJ1fhwyVgee9kkFyakKzni3AqFqHHio/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDM1/NjgtMTc4OTk0MDA2/Ny0xMzMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Tinseltown",
+      "release_title": "Billy Cobham - Powerplay",
+      "year": "1999",
+      "label": "Eagle Records",
+      "country": "US",
+      "discogs_id": 10409514,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jJy-_fJ8UbdnnxlSqoGBAIy-Gz0S25-A-mtLEFJHT4s/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA5/NTE0LTE0OTY4NTgz/NjEtOTE5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Super Disco Band",
+      "title": "Clear Water",
+      "release_title": "The Super Disco Band - The Super Disco Band",
+      "year": "1996",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 977451,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/on69wgZzc3bGG48qKquptjn-DA4MB48jKxxaGfYaA2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzQ1/MS0xNDg5NjkzNTM1/LTgxMDQuanBlZw.jpeg"
+    },
+    {
+      "artist": "The Super Disco Band",
+      "title": "Private Party",
+      "release_title": "The Super Disco Band - The Super Disco Band",
+      "year": "1996",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 977451,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/on69wgZzc3bGG48qKquptjn-DA4MB48jKxxaGfYaA2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzQ1/MS0xNDg5NjkzNTM1/LTgxMDQuanBlZw.jpeg"
+    },
+    {
+      "artist": "Zapp",
+      "title": "We Need The Buck",
+      "release_title": "Zapp - Zapp III",
+      "year": "1983",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6050606,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PHNGDFGAnhoruygcVdU6ziLlJWQG5WcMqkERTZWIAW8/rs:fit/g:sm/q:90/h:600/w:379/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTA2/MDYtMTQwOTc4NTQ5/OC0xOTc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Dance Of The Blue Men / The Nomads",
+      "release_title": "Billy Cobham - Powerplay",
+      "year": "1999",
+      "label": "Eagle Records",
+      "country": "US",
+      "discogs_id": 10409514,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jJy-_fJ8UbdnnxlSqoGBAIy-Gz0S25-A-mtLEFJHT4s/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA5/NTE0LTE0OTY4NTgz/NjEtOTE5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chick Corea & Return To Forever",
+      "title": "500 Miles High",
+      "release_title": "Chick Corea And Return To Forever - Light As A Feather",
+      "year": "1973",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 10906219,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/kF9e1HrQJ8df6DM2hfL0XchL8p0_ZI86SVUOyvdZ6e0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA2/MjE5LTE1MDYyOTM2/NjAtMzg2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chick Corea & Return To Forever",
+      "title": "Captain Marvel",
+      "release_title": "Chick Corea And Return To Forever - Light As A Feather",
+      "year": "1973",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 10906219,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/kF9e1HrQJ8df6DM2hfL0XchL8p0_ZI86SVUOyvdZ6e0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA2/MjE5LTE1MDYyOTM2/NjAtMzg2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Chick Corea Elektric Band",
+      "title": "Side Walk",
+      "release_title": "The Chick Corea Elektric Band - The Chick Corea Elektric Band",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 5455318,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/U5LXO0IYKd7IMGDsKqaarLXrI1k8Nwu2VYCrv8W-B9o/rs:fit/g:sm/q:90/h:600/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTUz/MTgtMTM5Mzc5MDYy/Mi01NzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chick Corea & Return To Forever",
+      "title": "You're Everything",
+      "release_title": "Chick Corea And Return To Forever - Light As A Feather",
+      "year": "1973",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 10906219,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/kF9e1HrQJ8df6DM2hfL0XchL8p0_ZI86SVUOyvdZ6e0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA2/MjE5LTE1MDYyOTM2/NjAtMzg2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Omni",
+      "title": "Warriors",
+      "release_title": "Omni (2) - Let Me Run It / Warriors",
+      "year": "1984",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 12079275,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BahcP_KdgKGxLUfIbiwdHZcaFIwJ3Xn_QrLlrMECC-4/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc5/Mjc1LTE1Mjc4NzM1/ODktNjkwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nytro",
+      "title": "Nitro Express",
+      "release_title": "Nytro - Return to Nytropolis",
+      "year": "1979",
+      "label": "Whitfield Records",
+      "country": "US",
+      "discogs_id": 26987052,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZrpH0Xff_xK0Ov0iKGUYB1QE754YKDhKvTjoy8CAEpE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg3/MDUyLTE2ODM1ODIz/MjYtNTQ1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Omni",
+      "title": "Let Me Run It",
+      "release_title": "Omni (2) - Let Me Run It / Warriors",
+      "year": "1984",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 12079275,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BahcP_KdgKGxLUfIbiwdHZcaFIwJ3Xn_QrLlrMECC-4/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc5/Mjc1LTE1Mjc4NzM1/ODktNjkwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nytro",
+      "title": "High On Disco",
+      "release_title": "Nytro - Return to Nytropolis",
+      "year": "1979",
+      "label": "Whitfield Records",
+      "country": "US",
+      "discogs_id": 26987052,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZrpH0Xff_xK0Ov0iKGUYB1QE754YKDhKvTjoy8CAEpE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg3/MDUyLTE2ODM1ODIz/MjYtNTQ1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jesse T. Dodson Jr.",
+      "title": "Get It Together (Instrumental)",
+      "release_title": "Jesse T. Dodson Jr. - Get It Together",
+      "year": "1985",
+      "label": "J.D. Enterprises Records",
+      "country": "US",
+      "discogs_id": 7914346,
+      "rating_avg": 4.57,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/-DdlYs-vs2p8kaUHYPZNEZ_ICmQ8OblvcZpnV-sAprI/rs:fit/g:sm/q:90/h:500/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTQz/NDYtMTQ1MTU1NDQz/OS00NDA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Chick Corea Elektric Band",
+      "title": "Elektric City",
+      "release_title": "The Chick Corea Elektric Band - The Chick Corea Elektric Band",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 5455318,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/U5LXO0IYKd7IMGDsKqaarLXrI1k8Nwu2VYCrv8W-B9o/rs:fit/g:sm/q:90/h:600/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTUz/MTgtMTM5Mzc5MDYy/Mi01NzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty",
+      "title": "Pizzy Cat",
+      "release_title": "Jean-Luc Ponty - Life Enigma",
+      "year": "2007",
+      "label": "Koch Records",
+      "country": "US",
+      "discogs_id": 9886589,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/R9fMOjiXRaazcr1vqPJZYSKMV3sbTC-qzGkM2bijZcE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODY1/ODktMTQ4Nzk2NzIx/OS01NzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The J.B.'s",
+      "title": "My Brother Pt. 1",
+      "release_title": "The J.B.'s - My Brother",
+      "year": "1971",
+      "label": "People",
+      "country": "US",
+      "discogs_id": 556166,
+      "rating_avg": 4.43,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/VYVRcEzLj552pG9PT1bn3DUAnZFeHOE6H9U3J3jAqWA/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjE2/Ni0xMTMxMDcxNzI0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "KC & The Sunshine Band",
+      "title": "I'm Gonna Do Something Good To You",
+      "release_title": "K.C. & The Sunshine Junkanoo Band* - Blow Your Whistle / I'm Gonna Do Something Good To You",
+      "year": "1973",
+      "label": "T.K. Records",
+      "country": "US",
+      "discogs_id": 2005765,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yuuwpqSg2bjnDiV-WugXUGv17CsGJ-11BpuBTAFpr_E/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDU3/NjUtMTI3ODcyODYx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "KC & The Sunshine Band",
+      "title": "Blow Your Whistle",
+      "release_title": "K.C. & The Sunshine Junkanoo Band* - Blow Your Whistle / I'm Gonna Do Something Good To You",
+      "year": "1973",
+      "label": "T.K. Records",
+      "country": "US",
+      "discogs_id": 2005765,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yuuwpqSg2bjnDiV-WugXUGv17CsGJ-11BpuBTAFpr_E/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDU3/NjUtMTI3ODcyODYx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "The J.B.'s",
+      "title": "My Brother Pt. 2",
+      "release_title": "The J.B.'s - My Brother",
+      "year": "1971",
+      "label": "People",
+      "country": "US",
+      "discogs_id": 556166,
+      "rating_avg": 4.43,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/VYVRcEzLj552pG9PT1bn3DUAnZFeHOE6H9U3J3jAqWA/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjE2/Ni0xMTMxMDcxNzI0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paul Humphrey & His Cool Aid Chemists",
+      "title": "Detroit",
+      "release_title": "Paul Humphrey & His Cool Aid Chemists - Cool Aid / Detroit",
+      "year": "1971",
+      "label": "Lizard",
+      "country": "US",
+      "discogs_id": 9603568,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/pGZIZTXWfDYwsJ1fhwyVgee9kkFyakKzni3AqFqHHio/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDM1/NjgtMTc4OTk0MDA2/Ny0xMzMyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Zapp",
+      "title": "Play Some Blues",
+      "release_title": "Zapp - Zapp III",
+      "year": "1983",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6050606,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PHNGDFGAnhoruygcVdU6ziLlJWQG5WcMqkERTZWIAW8/rs:fit/g:sm/q:90/h:600/w:379/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTA2/MDYtMTQwOTc4NTQ5/OC0xOTc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "The Promise....Unity (\"Isithembiso....Umanyano\"",
+      "release_title": "Billy Cobham - Powerplay",
+      "year": "1999",
+      "label": "Eagle Records",
+      "country": "US",
+      "discogs_id": 10409514,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jJy-_fJ8UbdnnxlSqoGBAIy-Gz0S25-A-mtLEFJHT4s/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA5/NTE0LTE0OTY4NTgz/NjEtOTE5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty",
+      "title": "Love At Last Sight",
+      "release_title": "Jean-Luc Ponty - Life Enigma",
+      "year": "2007",
+      "label": "Koch Records",
+      "country": "US",
+      "discogs_id": 9886589,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/R9fMOjiXRaazcr1vqPJZYSKMV3sbTC-qzGkM2bijZcE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODY1/ODktMTQ4Nzk2NzIx/OS01NzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Super Disco Band",
+      "title": "Disco Symphony",
+      "release_title": "The Super Disco Band - The Super Disco Band",
+      "year": "1996",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 977451,
+      "rating_avg": 3.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/on69wgZzc3bGG48qKquptjn-DA4MB48jKxxaGfYaA2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzQ1/MS0xNDg5NjkzNTM1/LTgxMDQuanBlZw.jpeg"
+    },
+    {
+      "artist": "Zapp",
+      "title": "Heartbreaker (Part I, Part II)",
+      "release_title": "Zapp - Zapp III",
+      "year": "1983",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6050606,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/PHNGDFGAnhoruygcVdU6ziLlJWQG5WcMqkERTZWIAW8/rs:fit/g:sm/q:90/h:600/w:379/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTA2/MDYtMTQwOTc4NTQ5/OC0xOTc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Chick Corea Elektric Band",
+      "title": "Rumble",
+      "release_title": "The Chick Corea Elektric Band - The Chick Corea Elektric Band",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 5455318,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/U5LXO0IYKd7IMGDsKqaarLXrI1k8Nwu2VYCrv8W-B9o/rs:fit/g:sm/q:90/h:600/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTUz/MTgtMTM5Mzc5MDYy/Mi01NzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chick Corea & Return To Forever",
+      "title": "Light As A Feather",
+      "release_title": "Chick Corea And Return To Forever - Light As A Feather",
+      "year": "1973",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 10906219,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/kF9e1HrQJ8df6DM2hfL0XchL8p0_ZI86SVUOyvdZ6e0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA2/MjE5LTE1MDYyOTM2/NjAtMzg2MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Chick Corea Elektric Band",
+      "title": "Got A Match?",
+      "release_title": "The Chick Corea Elektric Band - The Chick Corea Elektric Band",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 5455318,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/U5LXO0IYKd7IMGDsKqaarLXrI1k8Nwu2VYCrv8W-B9o/rs:fit/g:sm/q:90/h:600/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTUz/MTgtMTM5Mzc5MDYy/Mi01NzgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nytro",
+      "title": "Orbit Of The Sun",
+      "release_title": "Nytro - Return to Nytropolis",
+      "year": "1979",
+      "label": "Whitfield Records",
+      "country": "US",
+      "discogs_id": 26987052,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZrpH0Xff_xK0Ov0iKGUYB1QE754YKDhKvTjoy8CAEpE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg3/MDUyLTE2ODM1ODIz/MjYtNTQ1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "7th Wonder",
+      "title": "Missin' Out",
+      "release_title": "7th Wonder - The Tilt / Missin' Out",
+      "year": "1980",
+      "label": "Chocolate City",
+      "country": "US",
+      "discogs_id": 21508696,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KbOliwjVc9p6OvEurSTmbC_YREafLKaYjNlpAUXmzK8/rs:fit/g:sm/q:90/h:445/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTA4/Njk2LTE2NDIxOTQ1/MjAtMTU1Mi5wbmc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Zanzibar Breeze",
+      "release_title": "Billy Cobham - Powerplay",
+      "year": "1999",
+      "label": "Eagle Records",
+      "country": "US",
+      "discogs_id": 10409514,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jJy-_fJ8UbdnnxlSqoGBAIy-Gz0S25-A-mtLEFJHT4s/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA5/NTE0LTE0OTY4NTgz/NjEtOTE5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty",
+      "title": "Life Enigma",
+      "release_title": "Jean-Luc Ponty - Life Enigma",
+      "year": "2007",
+      "label": "Koch Records",
+      "country": "US",
+      "discogs_id": 9886589,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/R9fMOjiXRaazcr1vqPJZYSKMV3sbTC-qzGkM2bijZcE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODY1/ODktMTQ4Nzk2NzIx/OS01NzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nytro",
+      "title": "Return To Nytropolis",
+      "release_title": "Nytro - Return to Nytropolis",
+      "year": "1979",
+      "label": "Whitfield Records",
+      "country": "US",
+      "discogs_id": 26987052,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ZrpH0Xff_xK0Ov0iKGUYB1QE754YKDhKvTjoy8CAEpE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg3/MDUyLTE2ODM1ODIz/MjYtNTQ1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Halverson",
+      "title": "Olivine",
+      "release_title": "Dave Halverson - Apothecary Charms",
+      "year": "2008",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 33827940,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/B8tymiK1yaJoX2eeZVtmAE0JkIRyaMFocb4mj7QW7xM/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODI3/OTQwLTE3NDU3Nzgx/MTEtOTcyMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carne Cruda",
+      "title": "The Squid",
+      "release_title": "Carne Cruda - Spicy Sea Adventures",
+      "year": "2005",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 4081139,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eXbTa3o1PkI_KQXTYxfC_qFh8Sa_zIQikrMzRvuR5PA/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODEx/MzktMTM1NDYwNzY1/Ny00MDY0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peaches & Herb",
+      "title": "Keep On Smiling",
+      "release_title": "Peaches & Herb - Remember",
+      "year": "1983",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 1095342,
+      "rating_avg": 4.0,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/RwEgA7ZxmPMYJPpIU8za-6Jcj_wNtRy4ig8OxYGBJJA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUz/NDItMTQ1OTcxNDM2/Ny04NjIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peaches & Herb",
+      "title": "I Got A Groove On",
+      "release_title": "Peaches & Herb - Remember",
+      "year": "1983",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 1095342,
+      "rating_avg": 4.0,
+      "rating_count": 27,
+      "cover_image": "https://i.discogs.com/RwEgA7ZxmPMYJPpIU8za-6Jcj_wNtRy4ig8OxYGBJJA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUz/NDItMTQ1OTcxNDM2/Ny04NjIyLmpwZWc.jpeg"
+    }
+  ]
+}
