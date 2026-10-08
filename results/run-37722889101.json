@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Latin",
+        "style": "MPB"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Theme"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2020,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 27,
+      "artists_found": 25,
+      "fresh_lookups": 1,
+      "styles_considered": 83
+    }
+  },
+  "results": [
+    {
+      "artist": "Robert J. Walsh & William Ashford",
+      "title": "Witch Ceremony",
+      "release_title": "Robert J. Walsh, William Ashford - Mystery - Horror",
+      "year": "1989",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26859332,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aZ_CaLniXsMEAsp1KRwQ1L_4v_9rqlhN9dt6cNyeh9g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU5/MzMyLTE2ODIyODA1/MTMtNzA0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antena",
+      "title": "Spiral Staircase",
+      "release_title": "Antena - Camino Del Sol",
+      "year": "2004",
+      "label": "Numero Group",
+      "country": "US",
+      "discogs_id": 27355596,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3zmj7b881VjGbJoxHyvoMJ_viL4Pt8ckh9ceLxSTW_o/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU1/NTk2LTE2ODY1MDUy/MTUtNjg0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh",
+      "title": "Wistful Mood 1)",
+      "release_title": "Robert J. Walsh - Pop Rock - Sports",
+      "year": "1989",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26860442,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-lvNN0ZJLESkl87KiqDTTkBPrURmghKmaFKF6vZVQI0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/NDQyLTE3OTExNDc4/MDUtNzYxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Milton Nascimento & Lo Borges",
+      "title": "Nada Será Como Antes",
+      "release_title": "Milton Nascimento / Lô Borges* - Clube Da Esquina",
+      "year": "1995",
+      "label": "World Pacific",
+      "country": "US",
+      "discogs_id": 12520837,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/_lfpJbR4YG2_fMBS3RsJ3TZ2rHqInlrz_vMXzZZALHk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIw/ODM3LTE1MzY4OTE0/MjQtNTg5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Craig Palmer",
+      "title": "Breaking The Tape",
+      "release_title": "Craig Palmer (4) - Specialty - Volume 31",
+      "year": "1982",
+      "label": "Network Production Music",
+      "country": "US",
+      "discogs_id": 11917293,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QIOyvyYwZIOU24dCqUoFy0Ng1yvPDAS2XsrWKATq4Ek/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTE3/MjkzLTE1MjUwNTc0/MjEtMjMxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Milton Nascimento & Lo Borges",
+      "title": "O Trem Azul",
+      "release_title": "Milton Nascimento / Lô Borges* - Clube Da Esquina",
+      "year": "1995",
+      "label": "World Pacific",
+      "country": "US",
+      "discogs_id": 12520837,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/_lfpJbR4YG2_fMBS3RsJ3TZ2rHqInlrz_vMXzZZALHk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIw/ODM3LTE1MzY4OTE0/MjQtNTg5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Manfredo Fest",
+      "title": "Arigo",
+      "release_title": "Manfredo Fest - Manifestations",
+      "year": "1979",
+      "label": "Tabu Records",
+      "country": "US",
+      "discogs_id": 1010497,
+      "rating_avg": 4.5,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/LTNx4xsz9-TzsGJMOkGOLfDmR-ZRzBW9I730pq8v8X4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA0/OTctMTU3ODMyNTU2/MS0yMDI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Manfredo Fest",
+      "title": "Slaughter On Tenth Avenue",
+      "release_title": "Manfredo Fest - Manifestations",
+      "year": "1979",
+      "label": "Tabu Records",
+      "country": "US",
+      "discogs_id": 1010497,
+      "rating_avg": 4.5,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/LTNx4xsz9-TzsGJMOkGOLfDmR-ZRzBW9I730pq8v8X4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA0/OTctMTU3ODMyNTU2/MS0yMDI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Studio \"E\" Band",
+      "title": "Superman II Theme",
+      "release_title": "The Studio \"E\" Band - Great Movie Themes",
+      "year": "1994",
+      "label": "Essex Entertainment",
+      "country": "US",
+      "discogs_id": 3876152,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wI_DVbmZlcw9gy5JsVbhsFgUgkx5yS_qP46AsxpP4FM/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzYx/NTItMTM0Nzc0MzU5/My03NTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Antena",
+      "title": "Ingenuous",
+      "release_title": "Antena - Camino Del Sol",
+      "year": "2004",
+      "label": "Numero Group",
+      "country": "US",
+      "discogs_id": 27355596,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3zmj7b881VjGbJoxHyvoMJ_viL4Pt8ckh9ceLxSTW_o/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU1/NTk2LTE2ODY1MDUy/MTUtNjg0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ahmoudou Madassane",
+      "title": "Zerzura Theme II",
+      "release_title": "Ahmoudou Madassane - Zerzura",
+      "year": "2018",
+      "label": "Sahel Sounds",
+      "country": "US",
+      "discogs_id": 12845843,
+      "rating_avg": 4.36,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/DtCvK9_AphKUHycz1h7NrO4eTu00-PW_zYc4aAv12zE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ1/ODQzLTE1NDMwODA0/NDEtNjgyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh",
+      "title": "Skippin' Along 6)",
+      "release_title": "Robert J. Walsh - Pop Rock - Sports",
+      "year": "1989",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26860442,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-lvNN0ZJLESkl87KiqDTTkBPrURmghKmaFKF6vZVQI0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/NDQyLTE3OTExNDc4/MDUtNzYxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Ray Hamilton Orchestra",
+      "title": "Live And Let Die",
+      "release_title": "The Ray Hamilton Orchestra - A New Recording Of Theme Songs From James Bond",
+      "year": "1997",
+      "label": "Mastertone USA, Inc.",
+      "country": "US",
+      "discogs_id": 9960991,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/T4VDV9fVlpSy1MOR9lgF8Qw47X7oVeTi3JHJd4XwHcc/rs:fit/g:sm/q:90/h:466/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjA5/OTEtMTUzNzcxODM0/OS05MzE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Milton Nascimento & Lo Borges",
+      "title": "Lilia",
+      "release_title": "Milton Nascimento / Lô Borges* - Clube Da Esquina",
+      "year": "1995",
+      "label": "World Pacific",
+      "country": "US",
+      "discogs_id": 12520837,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/_lfpJbR4YG2_fMBS3RsJ3TZ2rHqInlrz_vMXzZZALHk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIw/ODM3LTE1MzY4OTE0/MjQtNTg5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ed Ames",
+      "title": "Angelica",
+      "release_title": "Ed Ames - He Gives Us All His Love / Angelica",
+      "year": "1971",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 33218883,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/84IqjHBtBYFMCsw8LzC3ggNNxeugZQ6_Q-C6wx9wH6w/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjE4/ODgzLTE3NDAyNTEx/NTMtNDIxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh & William Ashford",
+      "title": "Night Feelings",
+      "release_title": "Robert J. Walsh, William Ashford - Mystery - Horror",
+      "year": "1989",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26859332,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aZ_CaLniXsMEAsp1KRwQ1L_4v_9rqlhN9dt6cNyeh9g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU5/MzMyLTE2ODIyODA1/MTMtNzA0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ahmoudou Madassane",
+      "title": "Imejar",
+      "release_title": "Ahmoudou Madassane - Zerzura",
+      "year": "2018",
+      "label": "Sahel Sounds",
+      "country": "US",
+      "discogs_id": 12845843,
+      "rating_avg": 4.36,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/DtCvK9_AphKUHycz1h7NrO4eTu00-PW_zYc4aAv12zE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ1/ODQzLTE1NDMwODA0/NDEtNjgyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh & William Ashford",
+      "title": "Mystery Sketch",
+      "release_title": "Robert J. Walsh, William Ashford - Mystery - Horror",
+      "year": "1989",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26859332,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aZ_CaLniXsMEAsp1KRwQ1L_4v_9rqlhN9dt6cNyeh9g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU5/MzMyLTE2ODIyODA1/MTMtNzA0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Studio \"E\" Band",
+      "title": "Ragtime",
+      "release_title": "The Studio \"E\" Band - Great Movie Themes",
+      "year": "1994",
+      "label": "Essex Entertainment",
+      "country": "US",
+      "discogs_id": 3876152,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wI_DVbmZlcw9gy5JsVbhsFgUgkx5yS_qP46AsxpP4FM/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzYx/NTItMTM0Nzc0MzU5/My03NTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Studio \"E\" Band",
+      "title": "Redemption (Rocky II)",
+      "release_title": "The Studio \"E\" Band - Great Movie Themes",
+      "year": "1994",
+      "label": "Essex Entertainment",
+      "country": "US",
+      "discogs_id": 3876152,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wI_DVbmZlcw9gy5JsVbhsFgUgkx5yS_qP46AsxpP4FM/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzYx/NTItMTM0Nzc0MzU5/My03NTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Manfredo Fest",
+      "title": "Koko And Leeroe",
+      "release_title": "Manfredo Fest - Manifestations",
+      "year": "1979",
+      "label": "Tabu Records",
+      "country": "US",
+      "discogs_id": 1010497,
+      "rating_avg": 4.5,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/LTNx4xsz9-TzsGJMOkGOLfDmR-ZRzBW9I730pq8v8X4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA0/OTctMTU3ODMyNTU2/MS0yMDI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh & William Ashford",
+      "title": "Angels' Haircut",
+      "release_title": "Robert J. Walsh, William Ashford - Mystery - Horror",
+      "year": "1989",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26859332,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aZ_CaLniXsMEAsp1KRwQ1L_4v_9rqlhN9dt6cNyeh9g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU5/MzMyLTE2ODIyODA1/MTMtNzA0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Elmer Bernstein",
+      "title": "Fun And Games",
+      "release_title": "Elmer Bernstein - Amazing Grace And Chuck",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 8293066,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rj7hKjwMaLKRd-EdGxvBCFlVw4V0b0t0Uf1xlqdUVJI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTMw/NjYtMTcwOTQ4MTgz/My0zMjk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Craig Palmer",
+      "title": "Stride For Stride",
+      "release_title": "Craig Palmer (4) - Specialty - Volume 31",
+      "year": "1982",
+      "label": "Network Production Music",
+      "country": "US",
+      "discogs_id": 11917293,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QIOyvyYwZIOU24dCqUoFy0Ng1yvPDAS2XsrWKATq4Ek/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTE3/MjkzLTE1MjUwNTc0/MjEtMjMxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Elmer Bernstein",
+      "title": "Good An Bad Guys",
+      "release_title": "Elmer Bernstein - Amazing Grace And Chuck",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 8293066,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rj7hKjwMaLKRd-EdGxvBCFlVw4V0b0t0Uf1xlqdUVJI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTMw/NjYtMTcwOTQ4MTgz/My0zMjk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Ray Hamilton Orchestra",
+      "title": "Thunderball",
+      "release_title": "The Ray Hamilton Orchestra - A New Recording Of Theme Songs From James Bond",
+      "year": "1997",
+      "label": "Mastertone USA, Inc.",
+      "country": "US",
+      "discogs_id": 9960991,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/T4VDV9fVlpSy1MOR9lgF8Qw47X7oVeTi3JHJd4XwHcc/rs:fit/g:sm/q:90/h:466/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjA5/OTEtMTUzNzcxODM0/OS05MzE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh",
+      "title": "We Can Make It 3)",
+      "release_title": "Robert J. Walsh - Pop Rock - Sports",
+      "year": "1989",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26860442,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-lvNN0ZJLESkl87KiqDTTkBPrURmghKmaFKF6vZVQI0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/NDQyLTE3OTExNDc4/MDUtNzYxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Elmer Bernstein",
+      "title": "Final Victory",
+      "release_title": "Elmer Bernstein - Amazing Grace And Chuck",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 8293066,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rj7hKjwMaLKRd-EdGxvBCFlVw4V0b0t0Uf1xlqdUVJI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTMw/NjYtMTcwOTQ4MTgz/My0zMjk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Antena",
+      "title": "Noelle A Hawai",
+      "release_title": "Antena - Camino Del Sol",
+      "year": "2004",
+      "label": "Numero Group",
+      "country": "US",
+      "discogs_id": 27355596,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3zmj7b881VjGbJoxHyvoMJ_viL4Pt8ckh9ceLxSTW_o/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU1/NTk2LTE2ODY1MDUy/MTUtNjg0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Studio \"E\" Band",
+      "title": "Delilah",
+      "release_title": "The Studio \"E\" Band - Great Movie Themes",
+      "year": "1994",
+      "label": "Essex Entertainment",
+      "country": "US",
+      "discogs_id": 3876152,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wI_DVbmZlcw9gy5JsVbhsFgUgkx5yS_qP46AsxpP4FM/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzYx/NTItMTM0Nzc0MzU5/My03NTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ed Ames",
+      "title": "He Gives Us All His Love",
+      "release_title": "Ed Ames - He Gives Us All His Love / Angelica",
+      "year": "1971",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 33218883,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/84IqjHBtBYFMCsw8LzC3ggNNxeugZQ6_Q-C6wx9wH6w/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjE4/ODgzLTE3NDAyNTEx/NTMtNDIxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Elmer Bernstein",
+      "title": "Steamroom",
+      "release_title": "Elmer Bernstein - Amazing Grace And Chuck",
+      "year": "1987",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 8293066,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rj7hKjwMaLKRd-EdGxvBCFlVw4V0b0t0Uf1xlqdUVJI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTMw/NjYtMTcwOTQ4MTgz/My0zMjk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Craig Palmer",
+      "title": "Chariots",
+      "release_title": "Craig Palmer (4) - Specialty - Volume 31",
+      "year": "1982",
+      "label": "Network Production Music",
+      "country": "US",
+      "discogs_id": 11917293,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/QIOyvyYwZIOU24dCqUoFy0Ng1yvPDAS2XsrWKATq4Ek/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTE3/MjkzLTE1MjUwNTc0/MjEtMjMxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Robert J. Walsh",
+      "title": "Whine Not 2)",
+      "release_title": "Robert J. Walsh - Pop Rock - Sports",
+      "year": "1989",
+      "label": "Hollywood Film Music Library",
+      "country": "US",
+      "discogs_id": 26860442,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-lvNN0ZJLESkl87KiqDTTkBPrURmghKmaFKF6vZVQI0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/NDQyLTE3OTExNDc4/MDUtNzYxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ahmoudou Madassane",
+      "title": "Azal N'emgre",
+      "release_title": "Ahmoudou Madassane - Zerzura",
+      "year": "2018",
+      "label": "Sahel Sounds",
+      "country": "US",
+      "discogs_id": 12845843,
+      "rating_avg": 4.36,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/DtCvK9_AphKUHycz1h7NrO4eTu00-PW_zYc4aAv12zE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ1/ODQzLTE1NDMwODA0/NDEtNjgyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antena",
+      "title": "Les Demoiselles De Rochefort",
+      "release_title": "Antena - Camino Del Sol",
+      "year": "2004",
+      "label": "Numero Group",
+      "country": "US",
+      "discogs_id": 27355596,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/3zmj7b881VjGbJoxHyvoMJ_viL4Pt8ckh9ceLxSTW_o/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU1/NTk2LTE2ODY1MDUy/MTUtNjg0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Ray Hamilton Orchestra",
+      "title": "Living Daylights",
+      "release_title": "The Ray Hamilton Orchestra - A New Recording Of Theme Songs From James Bond",
+      "year": "1997",
+      "label": "Mastertone USA, Inc.",
+      "country": "US",
+      "discogs_id": 9960991,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/T4VDV9fVlpSy1MOR9lgF8Qw47X7oVeTi3JHJd4XwHcc/rs:fit/g:sm/q:90/h:466/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjA5/OTEtMTUzNzcxODM0/OS05MzE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Ray Hamilton Orchestra",
+      "title": "Goldfinger",
+      "release_title": "The Ray Hamilton Orchestra - A New Recording Of Theme Songs From James Bond",
+      "year": "1997",
+      "label": "Mastertone USA, Inc.",
+      "country": "US",
+      "discogs_id": 9960991,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/T4VDV9fVlpSy1MOR9lgF8Qw47X7oVeTi3JHJd4XwHcc/rs:fit/g:sm/q:90/h:466/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjA5/OTEtMTUzNzcxODM0/OS05MzE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ahmoudou Madassane",
+      "title": "Igrawahi Assouf Reprise",
+      "release_title": "Ahmoudou Madassane - Zerzura",
+      "year": "2018",
+      "label": "Sahel Sounds",
+      "country": "US",
+      "discogs_id": 12845843,
+      "rating_avg": 4.36,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/DtCvK9_AphKUHycz1h7NrO4eTu00-PW_zYc4aAv12zE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ1/ODQzLTE1NDMwODA0/NDEtNjgyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Milton Nascimento & Lo Borges",
+      "title": "Ao Que Vai Nascer",
+      "release_title": "Milton Nascimento / Lô Borges* - Clube Da Esquina",
+      "year": "1995",
+      "label": "World Pacific",
+      "country": "US",
+      "discogs_id": 12520837,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/_lfpJbR4YG2_fMBS3RsJ3TZ2rHqInlrz_vMXzZZALHk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIw/ODM3LTE1MzY4OTE0/MjQtNTg5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Manfredo Fest",
+      "title": "Who Needs It",
+      "release_title": "Manfredo Fest - Manifestations",
+      "year": "1979",
+      "label": "Tabu Records",
+      "country": "US",
+      "discogs_id": 1010497,
+      "rating_avg": 4.5,
+      "rating_count": 52,
+      "cover_image": "https://i.discogs.com/LTNx4xsz9-TzsGJMOkGOLfDmR-ZRzBW9I730pq8v8X4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA0/OTctMTU3ODMyNTU2/MS0yMDI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Leo Gandelman",
+      "title": "Sidewalk (Sunday Afternoon In Rio)",
+      "release_title": "Leo Gandelman - Made In Rio",
+      "year": "1993",
+      "label": "Verve Forecast",
+      "country": "US",
+      "discogs_id": 14742669,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TcGi0MMJAO7y9EqkH4Tif2n-T4orZaIRh5YqogzRIQE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQy/NjY5LTE1ODA2OTM0/MjEtNDU2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kellee Patterson",
+      "title": "Don't Misunderstand",
+      "release_title": "Kellee Patterson - Maiden Voyage",
+      "year": "1973",
+      "label": "Black Jazz Records",
+      "country": "US",
+      "discogs_id": 34384855,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/X1n_bS5EmsniooYQTZIEtKzvMNDQgOJw7cOuIKqdJ7s/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg0/ODU1LTE3NTEwMTU1/NjAtNzA4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Simone",
+      "title": "Povo Da Raça Brasil / People Of The Brazilian Race",
+      "release_title": "Simone (3) - The EMI Years",
+      "year": "1997",
+      "label": "Hemisphere",
+      "country": "US",
+      "discogs_id": 24770996,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/EL7l3SsFvcDEkPO8jVXUH4yZJ-qFyQH3CY9znr5MM14/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcw/OTk2LTE2NjUzMzcy/MjEtMzg3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mark James",
+      "title": "If I'm Where You Want To Be Tonight",
+      "release_title": "Mark James (4) - Everybody Loves A Rain Song",
+      "year": "1977",
+      "label": "Private Stock",
+      "country": "US",
+      "discogs_id": 15356556,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/L-iUaIrvQQFTL8ZcZHkPlV3CcBIocZzdOytz4CloIi8/rs:fit/g:sm/q:90/h:422/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzU2/NTU2LTE1OTAyNDAw/OTgtNzQxMy5qcGVn.jpeg"
+    }
+  ]
+}

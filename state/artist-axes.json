@@ -95828,6 +95828,529 @@
    2011
   ]
  },
+ "jose mauro": {
+  "countries": [
+   "Brazil",
+   "UK",
+   "UK",
+   "Europe",
+   "Brazil",
+   "Europe",
+   "Brazil",
+   "Japan",
+   "Brazil",
+   "Europe",
+   "UK",
+   "UK",
+   "Europe",
+   "UK",
+   "Brazil",
+   "Japan",
+   "Spain",
+   "Brazil",
+   "Brazil",
+   "Italy",
+   "Czechoslovakia",
+   "Czechoslovakia",
+   "Unknown"
+  ],
+  "genres": [
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Folk, World, & Country",
+   "Folk, World, & Country",
+   "Classical",
+   "Pop",
+   "Classical",
+   "Classical",
+   "Latin",
+   "Classical",
+   "Classical"
+  ],
+  "pairs": [
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Latin"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Latin"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Latin"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Soul-Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Soul-Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Jazz"
+   ],
+   [
+    "Folk",
+    "Latin"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Latin"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Latin"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Vocal",
+    "Folk, World, & Country"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Romantic",
+    "Classical"
+   ],
+   [
+    "Concerto",
+    "Classical"
+   ],
+   [
+    "Prelude",
+    "Classical"
+   ],
+   [
+    "String Ensemble",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Latin"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Romantic",
+    "Latin"
+   ],
+   [
+    "Romantic",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Latin"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Opera",
+    "Classical"
+   ]
+  ],
+  "releases": 23,
+  "styles": [
+   "Samba",
+   "MPB",
+   "Folk",
+   "MPB",
+   "Latin Jazz",
+   "MPB",
+   "Latin Jazz",
+   "MPB",
+   "Samba",
+   "MPB",
+   "Folk",
+   "MPB",
+   "Samba",
+   "MPB",
+   "Folk",
+   "MPB",
+   "MPB",
+   "MPB",
+   "Latin Jazz",
+   "Soul-Jazz",
+   "MPB",
+   "Latin Jazz",
+   "Soul-Jazz",
+   "MPB",
+   "Latin Jazz",
+   "Folk",
+   "Samba",
+   "MPB",
+   "Folk",
+   "MPB",
+   "Latin Jazz",
+   "Samba",
+   "MPB",
+   "Folk",
+   "MPB",
+   "Vocal",
+   "Classical",
+   "Romantic",
+   "Concerto",
+   "Prelude",
+   "String Ensemble",
+   "Classical",
+   "Romantic",
+   "Modern",
+   "Opera"
+  ],
+  "years": [
+   1970,
+   2021,
+   1995,
+   2016,
+   1970,
+   1995,
+   1976,
+   2016,
+   1970,
+   1995,
+   2016,
+   2016,
+   2021,
+   2021,
+   1970,
+   2021,
+   2006,
+   1997,
+   2023,
+   1966,
+   1963
+  ]
+ },
  "josh johnson": {
   "countries": [
    "Japan",
