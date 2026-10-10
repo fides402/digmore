@@ -69184,6 +69184,370 @@
    2022
   ]
  },
+ "garoto": {
+  "countries": [
+   "Brazil",
+   "Brazil",
+   "Worldwide",
+   "Brazil",
+   "US",
+   "Brazil",
+   "UK",
+   "Worldwide",
+   "Portugal",
+   "Brazil",
+   "Brazil",
+   "US",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil"
+  ],
+  "genres": [
+   "Latin",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Classical",
+   "Folk, World, & Country",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin"
+  ],
+  "pairs": [
+   [
+    "Baião",
+    "Latin"
+   ],
+   [
+    "Choro",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Choro",
+    "Jazz"
+   ],
+   [
+    "Choro",
+    "Latin"
+   ],
+   [
+    "Choro",
+    "Jazz"
+   ],
+   [
+    "Choro",
+    "Latin"
+   ],
+   [
+    "Choro",
+    "Folk, World, & Country"
+   ],
+   [
+    "Baião",
+    "Jazz"
+   ],
+   [
+    "Baião",
+    "Latin"
+   ],
+   [
+    "Baião",
+    "Folk, World, & Country"
+   ],
+   [
+    "Polka",
+    "Jazz"
+   ],
+   [
+    "Polka",
+    "Latin"
+   ],
+   [
+    "Polka",
+    "Folk, World, & Country"
+   ],
+   [
+    "Choro",
+    "Latin"
+   ],
+   [
+    "Choro",
+    "Classical"
+   ],
+   [
+    "Choro",
+    "Folk, World, & Country"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Folk, World, & Country"
+   ],
+   [
+    "Choro",
+    "Latin"
+   ],
+   [
+    "Choro",
+    "Folk, World, & Country"
+   ],
+   [
+    "Choro",
+    "Jazz"
+   ],
+   [
+    "Choro",
+    "Latin"
+   ],
+   [
+    "Choro",
+    "Folk, World, & Country"
+   ],
+   [
+    "Baião",
+    "Jazz"
+   ],
+   [
+    "Baião",
+    "Latin"
+   ],
+   [
+    "Baião",
+    "Folk, World, & Country"
+   ],
+   [
+    "Polka",
+    "Jazz"
+   ],
+   [
+    "Polka",
+    "Latin"
+   ],
+   [
+    "Polka",
+    "Folk, World, & Country"
+   ],
+   [
+    "Forró",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Latin"
+   ],
+   [
+    "Big Band",
+    "Funk / Soul"
+   ],
+   [
+    "Bossanova",
+    "Jazz"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Samba",
+    "Jazz"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Choro",
+    "Jazz"
+   ],
+   [
+    "Choro",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Caipira",
+    "Folk, World, & Country"
+   ],
+   [
+    "Sertanejo",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Baião",
+   "Choro",
+   "Samba",
+   "Choro",
+   "Choro",
+   "Baião",
+   "Polka",
+   "Choro",
+   "Samba",
+   "Choro",
+   "Choro",
+   "Baião",
+   "Polka",
+   "Forró",
+   "Bossa Nova",
+   "Big Band",
+   "Bossanova",
+   "Jazz-Funk",
+   "Fusion",
+   "Samba",
+   "Choro",
+   "Bossa Nova",
+   "Bossa Nova",
+   "Latin Jazz",
+   "MPB",
+   "Caipira",
+   "Sertanejo",
+   "MPB"
+  ],
+  "years": [
+   1952,
+   2012,
+   1979,
+   1955,
+   2003,
+   2024,
+   2006,
+   1957,
+   1953,
+   1955,
+   1965,
+   1976,
+   2013,
+   1991,
+   1996,
+   1966,
+   1992,
+   1974,
+   1993
+  ]
+ },
  "gary bartz": {
   "countries": [
    "Japan",
