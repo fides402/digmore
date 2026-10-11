@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2020,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 40,
+      "fresh_lookups": 0,
+      "styles_considered": 100
+    }
+  },
+  "results": [
+    {
+      "artist": "John Stubblefield & Superfriends",
+      "title": "It's Time",
+      "release_title": "John Stubblefield, Superfriends (2) - Sophisticated Funk",
+      "year": "1990",
+      "label": "Cheetah Records",
+      "country": "US",
+      "discogs_id": 6017945,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7wb_sNzrQFll9_tWC68cRWwcU4gxaAwH_0gyYzps0NQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTc5/NDUtMTc4MzE2ODgx/MC02OTY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Orphanos",
+      "title": "Blues For You's",
+      "release_title": "Peter Orphanos - With Open Eyes",
+      "year": "2002",
+      "label": "Orphan Records Company",
+      "country": "US",
+      "discogs_id": 10920071,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wjVseZrmyz7iNI7RkY6CrovPa9fAHde7QszXEtvIDE8/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDcxLTE1MDY1Mzgx/ODQtNjI0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "The Mean Machine",
+      "release_title": "Jimmy McGriff - The Mean Machine",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3155713,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Siiz5wXZBP4XlUMo5c-peub_8yUIeFRtyX-MeVee2HA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/MTMtMTMyNTA3NTY4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peter Orphanos",
+      "title": "4 U Blues",
+      "release_title": "Peter Orphanos - With Open Eyes",
+      "year": "2002",
+      "label": "Orphan Records Company",
+      "country": "US",
+      "discogs_id": 10920071,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wjVseZrmyz7iNI7RkY6CrovPa9fAHde7QszXEtvIDE8/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDcxLTE1MDY1Mzgx/ODQtNjI0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuchito",
+      "title": "Bossa Para Ti",
+      "release_title": "Chuchito Valdes* - Herencia",
+      "year": "2004",
+      "label": "J&N Records",
+      "country": "US",
+      "discogs_id": 17090727,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NgERvIffQDmiJ7YugHiYhj7uwEgP9WB2FL04W-4DBBU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDkw/NzI3LTE2MTE1MzQ2/NTAtNDA4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Get Back",
+      "release_title": "Jimmy McGriff - The Mean Machine",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3155713,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/Siiz5wXZBP4XlUMo5c-peub_8yUIeFRtyX-MeVee2HA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/MTMtMTMyNTA3NTY4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "I Love Wastin' Time With You",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 18030067,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/64ec852f256ace10053c3527bd1ce99c912c5680/images/spacer.gif"
+    },
+    {
+      "artist": "Cal Tjader's Modern Mambo Quintet",
+      "title": "Midnight Sun",
+      "release_title": "Cal Tjader's Modern Mambo Quintet - Mambo With Tjader",
+      "year": "1992",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 612822,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/TU8ftZCoaWjHJrOZ24tPB0AZXUSVkmMpww4sZjKnrW4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjgy/Mi0xMjU2MjE1ODgw/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Dig A Little Deeper",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 18030067,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/64ec852f256ace10053c3527bd1ce99c912c5680/images/spacer.gif"
+    },
+    {
+      "artist": "Herbie Hancock & Freddie Hubbard & Stanley Turrentine & Ron Carter & Jack DeJohnette & Eric Gale",
+      "title": "Hornets (Detroit)",
+      "release_title": "Herbie Hancock / Freddie Hubbard / Stanley Turrentine / Ron Carter / Jack DeJohnette / Eric Gale - In Concert Volume 2",
+      "year": "1974",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 15212626,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/giRXwzTfr3_Svtrf0Ka_ab6TMAuYKpIzAG_q35oBJaE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjEy/NjI2LTE1ODgxNzk2/OTEtNDA1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Try A Little Harder",
+      "release_title": "The Crusaders - Hollywood",
+      "year": "1972",
+      "label": "MoWest",
+      "country": "US",
+      "discogs_id": 9812666,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/Z90tpfJXC7zSftEK0-5AzcKs994SFPQk-LEjD1ispQY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTI2/NjYtMTQ4NjcyNDA4/NC01NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herbie Hancock & Freddie Hubbard & Stanley Turrentine & Ron Carter & Jack DeJohnette & Eric Gale",
+      "title": "Interlude",
+      "release_title": "Herbie Hancock / Freddie Hubbard / Stanley Turrentine / Ron Carter / Jack DeJohnette / Eric Gale - In Concert Volume 2",
+      "year": "1974",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 15212626,
+      "rating_avg": 4.11,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/giRXwzTfr3_Svtrf0Ka_ab6TMAuYKpIzAG_q35oBJaE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjEy/NjI2LTE1ODgxNzk2/OTEtNDA1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Doc Powell",
+      "title": "For Old Time' Sake",
+      "release_title": "Doc Powell - Inner City Blues",
+      "year": "1994",
+      "label": "West Coast Records",
+      "country": "US",
+      "discogs_id": 7603862,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/0GPvENySUDcbm_DquJMUbtzCjYQILzQ6HOF-pw95XZo/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM4/NjItMTQ0NjE0OTU5/NC00MTExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rohan Reid",
+      "title": "Song For Ivy",
+      "release_title": "Rohan Reid - Song For Ivy",
+      "year": "2018",
+      "label": "Goin' Native Records",
+      "country": "US",
+      "discogs_id": 22946822,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6K3aTo5gkBuoiJgyIsapV05jbKS34f5kH4U8XFCx5R4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTQ2/ODIyLTE2NTA0NjY1/MjUtNTg0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo & Charles Lloyd",
+      "title": "People",
+      "release_title": "Gabor Szabo Live With Charles Lloyd - Gabor Szabo Live With Charles Lloyd (Featuring Spellbinder)",
+      "year": "1974",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 28954213,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/W-ZwmTJR1lHrZlHy-fkaHJk2qagM2yXBhPAN810trO0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU0/MjEzLTE3MDAzMzYz/MTUtODg0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Alexander Zonjic",
+      "title": "Oblivion",
+      "release_title": "Alexander Zonjic - Passion",
+      "year": "1993",
+      "label": "Reprise Records",
+      "country": "US",
+      "discogs_id": 5903618,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JRSnEq4218ElOsUHp_l85E_nJHtY-3dsmbHihFCoMKc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDM2/MTgtMTQwNTg5MjI4/MC0xNDI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Keep It Steady (Brecker Bump)",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 18030067,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/64ec852f256ace10053c3527bd1ce99c912c5680/images/spacer.gif"
+    },
+    {
+      "artist": "Doc Powell",
+      "title": "On The Other Side",
+      "release_title": "Doc Powell - Inner City Blues",
+      "year": "1994",
+      "label": "West Coast Records",
+      "country": "US",
+      "discogs_id": 7603862,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/0GPvENySUDcbm_DquJMUbtzCjYQILzQ6HOF-pw95XZo/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDM4/NjItMTQ0NjE0OTU5/NC00MTExLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Orphanos",
+      "title": "Beautiful Love",
+      "release_title": "Peter Orphanos - With Open Eyes",
+      "year": "2002",
+      "label": "Orphan Records Company",
+      "country": "US",
+      "discogs_id": 10920071,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wjVseZrmyz7iNI7RkY6CrovPa9fAHde7QszXEtvIDE8/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDcxLTE1MDY1Mzgx/ODQtNjI0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione & Hamilton Philharmonic Orchestra",
+      "title": "El Gato Triste",
+      "release_title": "Chuck Mangione With The Hamilton Philharmonic Orchestra* - Land Of Make Believe... A Chuck Mangione Concert",
+      "year": "1978",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 13032169,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/aP5kdK1XKVofXTWr0ybKrJONaOMjuxannVN3aJ1GkrU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDMy/MTY5LTE1NjA5MTU1/NTEtNzQ3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader's Modern Mambo Quintet",
+      "title": "Autumn Leaves",
+      "release_title": "Cal Tjader's Modern Mambo Quintet - Mambo With Tjader",
+      "year": "1992",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 612822,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/TU8ftZCoaWjHJrOZ24tPB0AZXUSVkmMpww4sZjKnrW4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjgy/Mi0xMjU2MjE1ODgw/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Alekesam",
+      "release_title": "The Crusaders - Hollywood",
+      "year": "1972",
+      "label": "MoWest",
+      "country": "US",
+      "discogs_id": 9812666,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/Z90tpfJXC7zSftEK0-5AzcKs994SFPQk-LEjD1ispQY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTI2/NjYtMTQ4NjcyNDA4/NC01NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Guarabe",
+      "release_title": "Cal Tjader - Cuban Fantasy",
+      "year": "2003",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 11721045,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/l8jQTLapGY4qN3iyiYoTeP2axkfTmuRwr_K40ldRGac/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIx/MDQ1LTE1MjEyNDQ5/NzctMzczNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader's Modern Mambo Quintet",
+      "title": "Bye Bye Blues",
+      "release_title": "Cal Tjader's Modern Mambo Quintet - Mambo With Tjader",
+      "year": "1992",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 612822,
+      "rating_avg": 4.73,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/TU8ftZCoaWjHJrOZ24tPB0AZXUSVkmMpww4sZjKnrW4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjgy/Mi0xMjU2MjE1ODgw/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Orphanos",
+      "title": "Half Mast",
+      "release_title": "Peter Orphanos - With Open Eyes",
+      "year": "2002",
+      "label": "Orphan Records Company",
+      "country": "US",
+      "discogs_id": 10920071,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wjVseZrmyz7iNI7RkY6CrovPa9fAHde7QszXEtvIDE8/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MDcxLTE1MDY1Mzgx/ODQtNjI0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Stubblefield & Superfriends",
+      "title": "Together",
+      "release_title": "John Stubblefield, Superfriends (2) - Sophisticated Funk",
+      "year": "1990",
+      "label": "Cheetah Records",
+      "country": "US",
+      "discogs_id": 6017945,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7wb_sNzrQFll9_tWC68cRWwcU4gxaAwH_0gyYzps0NQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTc5/NDUtMTc4MzE2ODgx/MC02OTY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Cold Duck Eddie",
+      "release_title": "The Crusaders - Hollywood",
+      "year": "1972",
+      "label": "MoWest",
+      "country": "US",
+      "discogs_id": 9812666,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/Z90tpfJXC7zSftEK0-5AzcKs994SFPQk-LEjD1ispQY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTI2/NjYtMTQ4NjcyNDA4/NC01NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Stubblefield & Superfriends",
+      "title": "Highway To Your Love",
+      "release_title": "John Stubblefield, Superfriends (2) - Sophisticated Funk",
+      "year": "1990",
+      "label": "Cheetah Records",
+      "country": "US",
+      "discogs_id": 6017945,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7wb_sNzrQFll9_tWC68cRWwcU4gxaAwH_0gyYzps0NQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTc5/NDUtMTc4MzE2ODgx/MC02OTY2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Tamanco No Samba (Samba Blim)",
+      "release_title": "Cal Tjader - Cuban Fantasy",
+      "year": "2003",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 11721045,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/l8jQTLapGY4qN3iyiYoTeP2axkfTmuRwr_K40ldRGac/rs:fit/g:sm/q:90/h:299/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIx/MDQ1LTE1MjEyNDQ5/NzctMzczNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gabor Szabo & Charles Lloyd",
+      "title": "Stormy",
+      "release_title": "Gabor Szabo Live With Charles Lloyd - Gabor Szabo Live With Charles Lloyd (Featuring Spellbinder)",
+      "year": "1974",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 28954213,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/W-ZwmTJR1lHrZlHy-fkaHJk2qagM2yXBhPAN810trO0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU0/MjEzLTE3MDAzMzYz/MTUtODg0Ny5qcGVn.jpeg"
+    }
+  ]
+}
