@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 32,
+      "artists_found": 28,
+      "fresh_lookups": 0,
+      "styles_considered": 87
+    }
+  },
+  "results": [
+    {
+      "artist": "Sam Cooke",
+      "title": "Having A Party",
+      "release_title": "Sam Cooke - Live At The Harlem Square Club 1963",
+      "year": "1985",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 5059877,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/QHd3jpF8TPJVOMYjYTDr56H85Afz0YUYZ1MCn96MTZA/rs:fit/g:sm/q:90/h:600/w:372/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTk4/NzctMTQwMzA1NTIx/Ny05NjU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Moore Brothers Band",
+      "title": "A Salute To Roots",
+      "release_title": "The Moore Brothers Band - A Salute To Roots",
+      "year": "1977",
+      "label": "AMG",
+      "country": "US",
+      "discogs_id": 2917860,
+      "rating_avg": 5.0,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/cT92piN0Gu3pFmjQGMravSCsJz03SfCeqjcIXCS4RGo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTc4/NjAtMTM2ODgwMzA4/NS01Njc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Moore Brothers Band",
+      "title": "A Salute To Roots (Inst.)",
+      "release_title": "The Moore Brothers Band - A Salute To Roots",
+      "year": "1977",
+      "label": "AMG",
+      "country": "US",
+      "discogs_id": 2917860,
+      "rating_avg": 5.0,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/cT92piN0Gu3pFmjQGMravSCsJz03SfCeqjcIXCS4RGo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTc4/NjAtMTM2ODgwMzA4/NS01Njc2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fenoms",
+      "title": "Menace",
+      "release_title": "Fenoms - El Gato",
+      "year": "2015",
+      "label": "Fraternity Music Group",
+      "country": "US",
+      "discogs_id": 8064075,
+      "rating_avg": 4.8,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/SGLa35aq8NSRBQ7BoTA1juiY4ItckxdmkU4aVQJuSwc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjQw/NzUtMTQ1NDQ0MzMw/Ny02NzM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Soul Expedition Band",
+      "title": "Get Down On It",
+      "release_title": "Freddie Terrell's Soul Expedition* - Soul Expedition",
+      "year": "1972",
+      "label": "Lefevre Sound",
+      "country": "US",
+      "discogs_id": 4154945,
+      "rating_avg": 4.37,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/Y3n70B4THa6ie_qLdQexieM3gEgic41CrSCO08gMMwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTQ5/NDUtMTQxOTAzNzUw/My01MTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sam Cooke",
+      "title": "Bring It On Home To Me",
+      "release_title": "Sam Cooke - Live At The Harlem Square Club 1963",
+      "year": "1985",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 5059877,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/QHd3jpF8TPJVOMYjYTDr56H85Afz0YUYZ1MCn96MTZA/rs:fit/g:sm/q:90/h:600/w:372/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTk4/NzctMTQwMzA1NTIx/Ny05NjU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tyrone Barkley",
+      "title": "Some Kind Of Wonderful",
+      "release_title": "Tyrone Barkley - Man Of Value / Some Kind Of Wonderful",
+      "year": "1979",
+      "label": "Midsong International",
+      "country": "US",
+      "discogs_id": 16247799,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Jl9nou3FnZQYKcVQC1iffjiZEgGL3uZHAid74u9AZPU/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ3/Nzk5LTE2MDU5NTM4/MzctMTEwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dennis Coffey And The Detroit Guitar Band",
+      "title": "Lonely Moon Child",
+      "release_title": "Dennis Coffey And The Detroit Guitar Band - Capricorn's Thing / Lonely Moon Child",
+      "year": "1973",
+      "label": "Sussex",
+      "country": "US",
+      "discogs_id": 785987,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/XNhRxwykZQvKb3hK9_cLO5xzjqObOZBidgj8nxw-IPQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTk4/Ny0xNTc4ODMxODM5/LTM2NjkuanBlZw.jpeg"
+    },
+    {
+      "artist": "The Soul Expedition Band",
+      "title": "Itching",
+      "release_title": "Freddie Terrell's Soul Expedition* - Soul Expedition",
+      "year": "1972",
+      "label": "Lefevre Sound",
+      "country": "US",
+      "discogs_id": 4154945,
+      "rating_avg": 4.37,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/Y3n70B4THa6ie_qLdQexieM3gEgic41CrSCO08gMMwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTQ5/NDUtMTQxOTAzNzUw/My01MTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sam Cooke",
+      "title": "Medley (It's All Right / For Sentimental Reasons)",
+      "release_title": "Sam Cooke - Live At The Harlem Square Club 1963",
+      "year": "1985",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 5059877,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/QHd3jpF8TPJVOMYjYTDr56H85Afz0YUYZ1MCn96MTZA/rs:fit/g:sm/q:90/h:600/w:372/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTk4/NzctMTQwMzA1NTIx/Ny05NjU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "LaBelle",
+      "title": "Lady Marmalade",
+      "release_title": "Various - Funky 70s Party Playlist",
+      "year": "2010",
+      "label": "Compass Productions",
+      "country": "US",
+      "discogs_id": 14730996,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_GeG25_qjvAUL5HlFoCbQ3bn7WcT-k3X8RaNl7Sxr3w/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMw/OTk2LTE3NTI0Mjc3/ODktNjUzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fever",
+      "title": "The One Tonight",
+      "release_title": "Fever (3) - The One Tonight / Dreams And Desire",
+      "year": "1980",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 160243,
+      "rating_avg": 4.38,
+      "rating_count": 24,
+      "cover_image": "https://i.discogs.com/404ObBVlLQNJL8deSbNKbVE0Lm8CteMtkKNOXhmTesc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI0/My0xMjY2MDI4OTI0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jerline & Friends",
+      "title": "A Country Party (Stereo)",
+      "release_title": "Jerline & Friends - A Country Party",
+      "year": "1977",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 1968247,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AIakv1fMrrIIJLMHDJnOMw3lh4YKg0_UOF7Z1eWHR-s/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njgy/NDctMTI4MDMzOTk1/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Isley Brothers",
+      "title": "If He Can, You Can",
+      "release_title": "The Isley Brothers - If He Can, You Can",
+      "year": "1970",
+      "label": "T-Neck",
+      "country": "US",
+      "discogs_id": 3721409,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eKAoBMFt-LriKl8uwx6vh_QqdKN9z4y-zxVHfQ6wykY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjE0/MDktMTM0MTcyMTA3/Ni05MDE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eddie Floyd",
+      "title": "Yum Yum Yum (I Want Some)",
+      "release_title": "Eddie Floyd - Yum Yum Yum (I Want Some) ",
+      "year": "1972",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 8011090,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OtvK-8g55VIkrJW8RC5-1cDOAKkDXUCtkJtYNCUS1M8/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTEw/OTAtMTUyMTgxNjMx/Mi03Mzk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Soul Expedition Band",
+      "title": "Take It From The Top",
+      "release_title": "Freddie Terrell's Soul Expedition* - Soul Expedition",
+      "year": "1972",
+      "label": "Lefevre Sound",
+      "country": "US",
+      "discogs_id": 4154945,
+      "rating_avg": 4.37,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/Y3n70B4THa6ie_qLdQexieM3gEgic41CrSCO08gMMwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTQ5/NDUtMTQxOTAzNzUw/My01MTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fenoms",
+      "title": "El Gato",
+      "release_title": "Fenoms - El Gato",
+      "year": "2015",
+      "label": "Fraternity Music Group",
+      "country": "US",
+      "discogs_id": 8064075,
+      "rating_avg": 4.8,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/SGLa35aq8NSRBQ7BoTA1juiY4ItckxdmkU4aVQJuSwc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjQw/NzUtMTQ1NDQ0MzMw/Ny02NzM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sam Cooke",
+      "title": "Twistin' The Night Away",
+      "release_title": "Sam Cooke - Live At The Harlem Square Club 1963",
+      "year": "1985",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 5059877,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/QHd3jpF8TPJVOMYjYTDr56H85Afz0YUYZ1MCn96MTZA/rs:fit/g:sm/q:90/h:600/w:372/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTk4/NzctMTQwMzA1NTIx/Ny05NjU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lizz",
+      "title": "God Is Love",
+      "release_title": "Lizz (5) - Have A Good Day (Part II)",
+      "year": "1981",
+      "label": "Phase II Records Ltd.",
+      "country": "US",
+      "discogs_id": 13334914,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XmPzyu-U_z53qA9Ihtw1kSpN6eTBPotNdufq0WxbDqs/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzM0/OTE0LTE1NTIyNzQw/MjktMTUxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tyrone Barkley",
+      "title": "Man Of Value",
+      "release_title": "Tyrone Barkley - Man Of Value / Some Kind Of Wonderful",
+      "year": "1979",
+      "label": "Midsong International",
+      "country": "US",
+      "discogs_id": 16247799,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Jl9nou3FnZQYKcVQC1iffjiZEgGL3uZHAid74u9AZPU/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ3/Nzk5LTE2MDU5NTM4/MzctMTEwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sun",
+      "title": "Radiation Level",
+      "release_title": "Sun (7) - Radiation Level",
+      "year": "1979",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 6273637,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/v4ruBXPEtKwHGZz6T7wlizUwrqLxkLQ98P_N-o1GEWg/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzM2/MzctMTQ5NjI1NDY0/NS02MzIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Isley Brothers",
+      "title": "Holdin' On",
+      "release_title": "The Isley Brothers - If He Can, You Can",
+      "year": "1970",
+      "label": "T-Neck",
+      "country": "US",
+      "discogs_id": 3721409,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eKAoBMFt-LriKl8uwx6vh_QqdKN9z4y-zxVHfQ6wykY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjE0/MDktMTM0MTcyMTA3/Ni05MDE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jerline & Friends",
+      "title": "A Country Party (Mono)",
+      "release_title": "Jerline & Friends - A Country Party",
+      "year": "1977",
+      "label": "United Artists Records",
+      "country": "US",
+      "discogs_id": 1968247,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AIakv1fMrrIIJLMHDJnOMw3lh4YKg0_UOF7Z1eWHR-s/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njgy/NDctMTI4MDMzOTk1/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "Hitch Hike",
+      "release_title": "Marvin Gaye - Stubborn Kind Of Fellow / Hitch Hike",
+      "year": "1988",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 5116997,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/6FJT88_mZG-A2oAwEBNjjP6oO-npzK7Bl8YNe1iEEro/rs:fit/g:sm/q:90/h:380/w:356/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTY5/OTctMTM4NDk1NzA5/Mi0xNzA4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Parliament",
+      "title": "Flash Light",
+      "release_title": "Various - Funky 70s Party Playlist",
+      "year": "2010",
+      "label": "Compass Productions",
+      "country": "US",
+      "discogs_id": 14730996,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_GeG25_qjvAUL5HlFoCbQ3bn7WcT-k3X8RaNl7Sxr3w/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMw/OTk2LTE3NTI0Mjc3/ODktNjUzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fever",
+      "title": "Dreams And Desire",
+      "release_title": "Fever (3) - The One Tonight / Dreams And Desire",
+      "year": "1980",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 160243,
+      "rating_avg": 4.38,
+      "rating_count": 24,
+      "cover_image": "https://i.discogs.com/404ObBVlLQNJL8deSbNKbVE0Lm8CteMtkKNOXhmTesc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI0/My0xMjY2MDI4OTI0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rick James",
+      "title": "Give It To Me Baby",
+      "release_title": "Various - Funky 70s Party Playlist",
+      "year": "2010",
+      "label": "Compass Productions",
+      "country": "US",
+      "discogs_id": 14730996,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_GeG25_qjvAUL5HlFoCbQ3bn7WcT-k3X8RaNl7Sxr3w/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMw/OTk2LTE3NTI0Mjc3/ODktNjUzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Natural Four",
+      "title": "Message From A Black Man",
+      "release_title": "The Natural Four - Message From A Black Man",
+      "year": "1970",
+      "label": "ABC Records",
+      "country": "US",
+      "discogs_id": 4415566,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/ko3mAE0rtYs2DNmGX3D4UvBrVr1sDXNrB6f6idk-3xQ/rs:fit/g:sm/q:90/h:558/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTU1/NjYtMTM4NjQwNjE3/My0yNTM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Natural Four",
+      "title": "Stepping On Up",
+      "release_title": "The Natural Four - Message From A Black Man",
+      "year": "1970",
+      "label": "ABC Records",
+      "country": "US",
+      "discogs_id": 4415566,
+      "rating_avg": 4.5,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/ko3mAE0rtYs2DNmGX3D4UvBrVr1sDXNrB6f6idk-3xQ/rs:fit/g:sm/q:90/h:558/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTU1/NjYtMTM4NjQwNjE3/My0yNTM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Soul Expedition Band",
+      "title": "I Don't Know What This World Is Coming To",
+      "release_title": "Freddie Terrell's Soul Expedition* - Soul Expedition",
+      "year": "1972",
+      "label": "Lefevre Sound",
+      "country": "US",
+      "discogs_id": 4154945,
+      "rating_avg": 4.37,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/Y3n70B4THa6ie_qLdQexieM3gEgic41CrSCO08gMMwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTQ5/NDUtMTQxOTAzNzUw/My01MTg0LmpwZWc.jpeg"
+    }
+  ]
+}
