@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2015,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 35,
+      "artists_found": 33,
+      "fresh_lookups": 0,
+      "styles_considered": 120
+    }
+  },
+  "results": [
+    {
+      "artist": "Ahmad Jamal",
+      "title": "Don't Misunderstand",
+      "release_title": "Ahmad Jamal - Jamalca",
+      "year": "1974",
+      "label": "20th Century Records",
+      "country": "US",
+      "discogs_id": 23811923,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0w12LaeW2txv0vWLpABHHqVJ-QmSCzoHMNRzVHvSl8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEx/OTIzLTE2NTcyMDY1/MTQtMjI4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kent Jordan",
+      "title": "Stablemates",
+      "release_title": "Kent Jordan - Essence",
+      "year": "1988",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 21890908,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PHh26wT9b59CMUvw2BqC2NZ1dNzFBV9Io-H6SutPRB8/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODkw/OTA4LTE2NDMxNTc3/MTgtOTAyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mendoza/Mardin Project",
+      "title": "El Vito en Gran Tamaño",
+      "release_title": "The Mendoza/Mardin Project - Jazzpaña",
+      "year": "1993",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 7636551,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/kKM8P66BwiUSsdyVrdafoBxTnHcacyENmrWTpLPdtiA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzY1/NTEtMTQ0NTY0MTU5/Ny05MDM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pete Robbins",
+      "title": "But If It's Empty",
+      "release_title": "Pete Robbins - Silent Z Live",
+      "year": "2009",
+      "label": "Hate Laugh Music",
+      "country": "US",
+      "discogs_id": 24007550,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Md1zXmltQL7ZrytUS1jf0VR4JL-gYxU8vVj4lJLYpPk/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDA3/NTUwLTE2NTg4NjU0/NzgtMTA0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Mustang",
+      "release_title": "Jeff Lorber Fusion* - Step It Up",
+      "year": "2015",
+      "label": "Heads Up International",
+      "country": "US",
+      "discogs_id": 8137852,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/OrdQt9Zbu0hDp9Y0rIfsJjIJMaVyN0I5ak_FNfLaDmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzc4/NTItMTQ1NTg1MTYy/Mi01NTE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gary Thomas",
+      "title": "Blues On The Corner",
+      "release_title": "Gary Thomas - Exile's Gate",
+      "year": "1993",
+      "label": "JMT",
+      "country": "US",
+      "discogs_id": 12776348,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5eGVGpvXv1y3RcMGNZ2CE_UO9cphlkTRXoRbCjZtLkE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/MzQ4LTE1NDE3MjU2/NDEtMTM5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Thomas",
+      "title": "No Mercy Rule",
+      "release_title": "Gary Thomas - Exile's Gate",
+      "year": "1993",
+      "label": "JMT",
+      "country": "US",
+      "discogs_id": 12776348,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5eGVGpvXv1y3RcMGNZ2CE_UO9cphlkTRXoRbCjZtLkE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/MzQ4LTE1NDE3MjU2/NDEtMTM5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Henry Threadgill Very Very Circus",
+      "title": "Make Hot And Give",
+      "release_title": "Henry Threadgill - Makin' A Move",
+      "year": "1995",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 13725612,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yUpXZuGa89DWivUxIYa8eZZzj2OTpF3m9GRpLvZx_94/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI1/NjEyLTE1NTk4Mjgy/NzItOTgzMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lee Konitz & The Brazilian Band",
+      "title": "Insensatez",
+      "release_title": "Lee Konitz & The Brazilian Band - Brazilian Rhapsody",
+      "year": "1996",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 9004235,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JeO4kU3rEZd6NbSJyQ4z0ElYb8GKK6Bx4wqwXM8RSEA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDQy/MzUtMTQ3MzEwMzI5/Mi04NTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rusty Bryant",
+      "title": "Fire Eater",
+      "release_title": "Rusty Bryant - Fire Eater",
+      "year": "1971",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 14624403,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/H-M46rUs3PnqvIJRHPPfJXkoYPqiBJzGUinskJgCpQY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI0/NDAzLTE1Nzg0ODI0/MjYtMzU3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jane Bunnett & The Spirits Of Havana",
+      "title": "Santos Suarez",
+      "release_title": "Jane Bunnett & The Spirits Of Havana - Ritmo + Soul",
+      "year": "2000",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 18476812,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/64ec852f256ace10053c3527bd1ce99c912c5680/images/spacer.gif"
+    },
+    {
+      "artist": "Aja West & Cheeba",
+      "title": "Christmas Tinsel",
+      "release_title": "Aja West & Cheeba - Flash & Snowball",
+      "year": "2005",
+      "label": "Mackrosoft Records",
+      "country": "US",
+      "discogs_id": 32330157,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7InxOZMO5QKLroV7C6k5AswHep0i1GRa6S5PvmwtSyc/rs:fit/g:sm/q:90/h:309/w:322/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzMw/MTU3LTE3MzE5NzMz/NzktMjM3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stan Getz",
+      "title": "Eu E Voce (Me And You)",
+      "release_title": "Stan Getz - Getz Plays Jobim: The Girl From Ipanema",
+      "year": "2002",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 18180397,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3q-akjmue1Qe5tF5O2Wr4rQ4fhB4baCaG9iceUk755I/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTgw/Mzk3LTE2MTgwMDgz/OTUtNTY1Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "So Far Away",
+      "release_title": "The Crusaders - Scratch",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 10610090,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/xjMoq6YtZVHubNiKQ-R1_Li9VQFK4dsOEAvMc0L6A4c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjEw/MDkwLTE1MDA4OTgx/NjAtNTEyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jane Bunnett & The Spirits Of Havana",
+      "title": "Hebioso",
+      "release_title": "Jane Bunnett & The Spirits Of Havana - Ritmo + Soul",
+      "year": "2000",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 18476812,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/64ec852f256ace10053c3527bd1ce99c912c5680/images/spacer.gif"
+    },
+    {
+      "artist": "Pete Robbins",
+      "title": "Some Southern Anthem",
+      "release_title": "Pete Robbins - Silent Z Live",
+      "year": "2009",
+      "label": "Hate Laugh Music",
+      "country": "US",
+      "discogs_id": 24007550,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Md1zXmltQL7ZrytUS1jf0VR4JL-gYxU8vVj4lJLYpPk/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDA3/NTUwLTE2NTg4NjU0/NzgtMTA0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mendoza/Mardin Project",
+      "title": "Buleria",
+      "release_title": "The Mendoza/Mardin Project - Jazzpaña",
+      "year": "1993",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 7636551,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/kKM8P66BwiUSsdyVrdafoBxTnHcacyENmrWTpLPdtiA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzY1/NTEtMTQ0NTY0MTU5/Ny05MDM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Fire Spirit",
+      "release_title": "Jeff Lorber Fusion* - Step It Up",
+      "year": "2015",
+      "label": "Heads Up International",
+      "country": "US",
+      "discogs_id": 8137852,
+      "rating_avg": 4.0,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/OrdQt9Zbu0hDp9Y0rIfsJjIJMaVyN0I5ak_FNfLaDmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzc4/NTItMTQ1NTg1MTYy/Mi01NTE5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "In The Garden",
+      "release_title": "Bob James - In The Garden/ Soulero",
+      "year": "1974",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 3463588,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/beChBAE_AM3MITLwMTC8SWoo3U68za9FlZdbcoDQeXk/rs:fit/g:sm/q:90/h:504/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjM1/ODgtMTMzODE1NDEx/Ny05OTI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ahmad Jamal",
+      "title": "Along The Nile",
+      "release_title": "Ahmad Jamal - Jamalca",
+      "year": "1974",
+      "label": "20th Century Records",
+      "country": "US",
+      "discogs_id": 23811923,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0w12LaeW2txv0vWLpABHHqVJ-QmSCzoHMNRzVHvSl8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEx/OTIzLTE2NTcyMDY1/MTQtMjI4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stan Getz",
+      "title": "The Girl From Ipanema",
+      "release_title": "Stan Getz - Getz Plays Jobim: The Girl From Ipanema",
+      "year": "2002",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 18180397,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3q-akjmue1Qe5tF5O2Wr4rQ4fhB4baCaG9iceUk755I/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTgw/Mzk3LTE2MTgwMDgz/OTUtNTY1Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Henry Threadgill",
+      "title": "The Mockingbird Sin",
+      "release_title": "Henry Threadgill - Makin' A Move",
+      "year": "1995",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 13725612,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yUpXZuGa89DWivUxIYa8eZZzj2OTpF3m9GRpLvZx_94/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI1/NjEyLTE1NTk4Mjgy/NzItOTgzMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Klemmer",
+      "title": "Glass And Dolphins",
+      "release_title": "John Klemmer - Touch",
+      "year": "1975",
+      "label": "ABC Records",
+      "country": "US",
+      "discogs_id": 5806169,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3Yvpb892up4d9NWrCRiVyq4y6la_4BCMJHXGgwTq5bU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDYx/NjktMTU2Nzg3NTUw/OS00ODQ3Lm1wbw.jpeg"
+    },
+    {
+      "artist": "Stan Getz",
+      "title": "Chega De Saudade (No More Blues)",
+      "release_title": "Stan Getz - Getz Plays Jobim: The Girl From Ipanema",
+      "year": "2002",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 18180397,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3q-akjmue1Qe5tF5O2Wr4rQ4fhB4baCaG9iceUk755I/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTgw/Mzk3LTE2MTgwMDgz/OTUtNTY1Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Thomas",
+      "title": "Exile's Gate",
+      "release_title": "Gary Thomas - Exile's Gate",
+      "year": "1993",
+      "label": "JMT",
+      "country": "US",
+      "discogs_id": 12776348,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/5eGVGpvXv1y3RcMGNZ2CE_UO9cphlkTRXoRbCjZtLkE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/MzQ4LTE1NDE3MjU2/NDEtMTM5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pete Robbins",
+      "title": "Eliotsong",
+      "release_title": "Pete Robbins - Silent Z Live",
+      "year": "2009",
+      "label": "Hate Laugh Music",
+      "country": "US",
+      "discogs_id": 24007550,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Md1zXmltQL7ZrytUS1jf0VR4JL-gYxU8vVj4lJLYpPk/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDA3/NTUwLTE2NTg4NjU0/NzgtMTA0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Eleanor Rigby",
+      "release_title": "The Crusaders - Scratch",
+      "year": "1980",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 10610090,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/xjMoq6YtZVHubNiKQ-R1_Li9VQFK4dsOEAvMc0L6A4c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjEw/MDkwLTE1MDA4OTgx/NjAtNTEyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jane Bunnett & The Spirits Of Havana",
+      "title": "Journey Back",
+      "release_title": "Jane Bunnett & The Spirits Of Havana - Ritmo + Soul",
+      "year": "2000",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 18476812,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/64ec852f256ace10053c3527bd1ce99c912c5680/images/spacer.gif"
+    },
+    {
+      "artist": "Pete Robbins",
+      "title": "His Life, For All Its Waywardness",
+      "release_title": "Pete Robbins - Silent Z Live",
+      "year": "2009",
+      "label": "Hate Laugh Music",
+      "country": "US",
+      "discogs_id": 24007550,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Md1zXmltQL7ZrytUS1jf0VR4JL-gYxU8vVj4lJLYpPk/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDA3/NTUwLTE2NTg4NjU0/NzgtMTA0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Mendoza/Mardin Project",
+      "title": "Tanguillo",
+      "release_title": "The Mendoza/Mardin Project - Jazzpaña",
+      "year": "1993",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 7636551,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/kKM8P66BwiUSsdyVrdafoBxTnHcacyENmrWTpLPdtiA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzY1/NTEtMTQ0NTY0MTU5/Ny05MDM1LmpwZWc.jpeg"
+    }
+  ]
+}
