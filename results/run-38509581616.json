@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Post Bop"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Modal"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2015,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 40,
+      "fresh_lookups": 0,
+      "styles_considered": 93
+    }
+  },
+  "results": [
+    {
+      "artist": "Pablo Ablanedo Octet",
+      "title": "Las Buenas Nuevas/ Pablo Ablenedo",
+      "release_title": "Pablo Ablanedo Octet - ReContraDoble",
+      "year": "2012",
+      "label": "Creative Nation Music",
+      "country": "US",
+      "discogs_id": 17072613,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0Ud0ifgxtoVIfK8xKhOG4BFXy8IJXbJ1Mem-0XzscnU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcy/NjEzLTE2MTE0NDM0/MzItNDI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Wojciechowski",
+      "title": "Call Of The Kingdom",
+      "release_title": "John Wojciechowski - Focus",
+      "year": "2015",
+      "label": "Origin Records",
+      "country": "US",
+      "discogs_id": 14027987,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/06FUz7HnRVU6fV0Qj6uGP-lEeuqxeJ09O8fdcyfk5Dg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI3/OTg3LTE1NjYzODc0/NzMtNzk2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Barry Ries",
+      "title": "Hormone Derange",
+      "release_title": "Barry Ries - Solitude In The Crowd",
+      "year": "1998",
+      "label": "Double-Time Records",
+      "country": "US",
+      "discogs_id": 5529388,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yNlCiF9bqRrkzyUqSnFfk8xd53YVmaJ0ApWY9Ml2U_E/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjkz/ODgtMTM5NTcyOTk1/OC01MTI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rusty Burge & Steve Allee",
+      "title": "Goodbye Pork Pie Hat",
+      "release_title": "Rusty Burge, Steve Allee - Faraway",
+      "year": "2015",
+      "label": "Broken Music",
+      "country": "US",
+      "discogs_id": 30519736,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/arvNUWuSW5xtOj7yP9PF6jkSDzoEE7qnFOiNJb5Sd5Y/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTE5/NzM2LTE3MTQyMjIz/MjctMTIxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Harris & The Three Sounds",
+      "title": "Book Of Slim",
+      "release_title": "Gene Harris And His Three Sounds* - Elegant Soul",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 8890611,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/CzOv4UJbxQu6vGd0jgMZ7CGFB--AK1hrEiNQydkC4Ns/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTA2/MTEtMTQ3MzQyNjI4/MC0yNjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Valentin",
+      "title": "Little Sunflower",
+      "release_title": "Dave Valentin - Red Sun",
+      "year": "1993",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 33196080,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OHwybkPDkv6LX1SRIbqxRazQbvdPJZj2ziqQVJQ0M0g/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTk2/MDgwLTE3NDAwNTky/MzItNDQ4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pablo Ablanedo Octet",
+      "title": "Antiphona/ Pablo Ablenedo",
+      "release_title": "Pablo Ablanedo Octet - ReContraDoble",
+      "year": "2012",
+      "label": "Creative Nation Music",
+      "country": "US",
+      "discogs_id": 17072613,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0Ud0ifgxtoVIfK8xKhOG4BFXy8IJXbJ1Mem-0XzscnU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcy/NjEzLTE2MTE0NDM0/MzItNDI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Harris & The Three Sounds",
+      "title": "African Sweets",
+      "release_title": "Gene Harris And His Three Sounds* - Elegant Soul",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 8890611,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/CzOv4UJbxQu6vGd0jgMZ7CGFB--AK1hrEiNQydkC4Ns/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTA2/MTEtMTQ3MzQyNjI4/MC0yNjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Noel LaPierre",
+      "title": "Pump Me Up",
+      "release_title": "Noel LaPierre - Waterflow",
+      "year": "2000",
+      "label": "PGP",
+      "country": "US",
+      "discogs_id": 33783192,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9LE5moxzH3qFbDPff7k-cz5ZGbbMM53dWWRD3nhk32Q/rs:fit/g:sm/q:90/h:480/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzgz/MTkyLTE3NDUzODcx/OTktMTE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Barry Ries",
+      "title": "Myrrh",
+      "release_title": "Barry Ries - Solitude In The Crowd",
+      "year": "1998",
+      "label": "Double-Time Records",
+      "country": "US",
+      "discogs_id": 5529388,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yNlCiF9bqRrkzyUqSnFfk8xd53YVmaJ0ApWY9Ml2U_E/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjkz/ODgtMTM5NTcyOTk1/OC01MTI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Noel LaPierre",
+      "title": "Waiting In Vain",
+      "release_title": "Noel LaPierre - Waterflow",
+      "year": "2000",
+      "label": "PGP",
+      "country": "US",
+      "discogs_id": 33783192,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9LE5moxzH3qFbDPff7k-cz5ZGbbMM53dWWRD3nhk32Q/rs:fit/g:sm/q:90/h:480/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzgz/MTkyLTE3NDUzODcx/OTktMTE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Monty Alexander",
+      "title": "The Rivers Rolls On",
+      "release_title": "Monty Alexander - Harlem-Kingston Express Vol. 2: The River Rolls On",
+      "year": "2014",
+      "label": "Motéma",
+      "country": "US",
+      "discogs_id": 6024930,
+      "rating_avg": 4.29,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/52xdLtC1G4aqySev_OYG56iKTyEUjjB1RPUtwl-qvWU/rs:fit/g:sm/q:90/h:452/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjQ5/MzAtMTQwOTExNjQ0/OC0zMzQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '77",
+      "title": "Zanzibar",
+      "release_title": "Sergio Mendes & Brasil '77* - País Tropical",
+      "year": "1971",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 17100345,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OoK8qoBgcuRLxL6zU1dV_O6ZU0qtivo1_xVcNGXmUyM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAw/MzQ1LTE2MTE2MTI4/MjEtNTY5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Noel LaPierre",
+      "title": "Iron Bazodee",
+      "release_title": "Noel LaPierre - Waterflow",
+      "year": "2000",
+      "label": "PGP",
+      "country": "US",
+      "discogs_id": 33783192,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9LE5moxzH3qFbDPff7k-cz5ZGbbMM53dWWRD3nhk32Q/rs:fit/g:sm/q:90/h:480/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzgz/MTkyLTE3NDUzODcx/OTktMTE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Woods & Tommy Flanagan & Red Mitchell",
+      "title": "Three For All",
+      "release_title": "Phil Woods / Tommy Flanagan / Red Mitchell - Three For All",
+      "year": "1981",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 5529000,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/JkL1bUIc2ZGaZWJci7XK1NJYva2U59lTpsUUkTdJRh8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjkw/MDAtMTM5NTg2MDg4/NC0zNTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Monty Alexander",
+      "title": "The Harder They Come",
+      "release_title": "Monty Alexander - Harlem-Kingston Express Vol. 2: The River Rolls On",
+      "year": "2014",
+      "label": "Motéma",
+      "country": "US",
+      "discogs_id": 6024930,
+      "rating_avg": 4.29,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/52xdLtC1G4aqySev_OYG56iKTyEUjjB1RPUtwl-qvWU/rs:fit/g:sm/q:90/h:452/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjQ5/MzAtMTQwOTExNjQ0/OC0zMzQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '77",
+      "title": "Gone Forever",
+      "release_title": "Sergio Mendes & Brasil '77* - País Tropical",
+      "year": "1971",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 17100345,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OoK8qoBgcuRLxL6zU1dV_O6ZU0qtivo1_xVcNGXmUyM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAw/MzQ1LTE2MTE2MTI4/MjEtNTY5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Monty Alexander",
+      "title": "Skamento",
+      "release_title": "Monty Alexander - Harlem-Kingston Express Vol. 2: The River Rolls On",
+      "year": "2014",
+      "label": "Motéma",
+      "country": "US",
+      "discogs_id": 6024930,
+      "rating_avg": 4.29,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/52xdLtC1G4aqySev_OYG56iKTyEUjjB1RPUtwl-qvWU/rs:fit/g:sm/q:90/h:452/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjQ5/MzAtMTQwOTExNjQ0/OC0zMzQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Love And Peace",
+      "release_title": "The Jazz Crusaders* - Love And Peace / Hey Jude",
+      "year": "1969",
+      "label": "Pacific Jazz",
+      "country": "US",
+      "discogs_id": 23056925,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zhKrzjuutG16IEKg9JdwxsPtHTfGiWSKfxCN_F9DkZw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU2/OTI1LTE2NTEyNjEz/MDUtODkxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Barry Ries",
+      "title": "Summer",
+      "release_title": "Barry Ries - Solitude In The Crowd",
+      "year": "1998",
+      "label": "Double-Time Records",
+      "country": "US",
+      "discogs_id": 5529388,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yNlCiF9bqRrkzyUqSnFfk8xd53YVmaJ0ApWY9Ml2U_E/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjkz/ODgtMTM5NTcyOTk1/OC01MTI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Noel LaPierre",
+      "title": "What A Friend In Jesus",
+      "release_title": "Noel LaPierre - Waterflow",
+      "year": "2000",
+      "label": "PGP",
+      "country": "US",
+      "discogs_id": 33783192,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9LE5moxzH3qFbDPff7k-cz5ZGbbMM53dWWRD3nhk32Q/rs:fit/g:sm/q:90/h:480/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzgz/MTkyLTE3NDUzODcx/OTktMTE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Barry Ries",
+      "title": "Akasha",
+      "release_title": "Barry Ries - Solitude In The Crowd",
+      "year": "1998",
+      "label": "Double-Time Records",
+      "country": "US",
+      "discogs_id": 5529388,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yNlCiF9bqRrkzyUqSnFfk8xd53YVmaJ0ApWY9Ml2U_E/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjkz/ODgtMTM5NTcyOTk1/OC01MTI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '77",
+      "title": "País Tropical",
+      "release_title": "Sergio Mendes & Brasil '77* - País Tropical",
+      "year": "1971",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 17100345,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OoK8qoBgcuRLxL6zU1dV_O6ZU0qtivo1_xVcNGXmUyM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAw/MzQ1LTE2MTE2MTI4/MjEtNTY5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pablo Ablanedo Octet",
+      "title": "Silence/ Charlie Haden",
+      "release_title": "Pablo Ablanedo Octet - ReContraDoble",
+      "year": "2012",
+      "label": "Creative Nation Music",
+      "country": "US",
+      "discogs_id": 17072613,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0Ud0ifgxtoVIfK8xKhOG4BFXy8IJXbJ1Mem-0XzscnU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcy/NjEzLTE2MTE0NDM0/MzItNDI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Wojciechowski",
+      "title": "Elegy",
+      "release_title": "John Wojciechowski - Focus",
+      "year": "2015",
+      "label": "Origin Records",
+      "country": "US",
+      "discogs_id": 14027987,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/06FUz7HnRVU6fV0Qj6uGP-lEeuqxeJ09O8fdcyfk5Dg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI3/OTg3LTE1NjYzODc0/NzMtNzk2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Wojciechowski",
+      "title": "In Your Own Sweet Way",
+      "release_title": "John Wojciechowski - Focus",
+      "year": "2015",
+      "label": "Origin Records",
+      "country": "US",
+      "discogs_id": 14027987,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/06FUz7HnRVU6fV0Qj6uGP-lEeuqxeJ09O8fdcyfk5Dg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI3/OTg3LTE1NjYzODc0/NzMtNzk2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rusty Burge & Steve Allee",
+      "title": "What About Me?",
+      "release_title": "Rusty Burge, Steve Allee - Faraway",
+      "year": "2015",
+      "label": "Broken Music",
+      "country": "US",
+      "discogs_id": 30519736,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/arvNUWuSW5xtOj7yP9PF6jkSDzoEE7qnFOiNJb5Sd5Y/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTE5/NzM2LTE3MTQyMjIz/MjctMTIxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Wojciechowski",
+      "title": "Divided Man",
+      "release_title": "John Wojciechowski - Focus",
+      "year": "2015",
+      "label": "Origin Records",
+      "country": "US",
+      "discogs_id": 14027987,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/06FUz7HnRVU6fV0Qj6uGP-lEeuqxeJ09O8fdcyfk5Dg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI3/OTg3LTE1NjYzODc0/NzMtNzk2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Valentin",
+      "title": "Pensativa",
+      "release_title": "Dave Valentin - Red Sun",
+      "year": "1993",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 33196080,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OHwybkPDkv6LX1SRIbqxRazQbvdPJZj2ziqQVJQ0M0g/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTk2/MDgwLTE3NDAwNTky/MzItNDQ4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rusty Burge & Steve Allee",
+      "title": "Faraway",
+      "release_title": "Rusty Burge, Steve Allee - Faraway",
+      "year": "2015",
+      "label": "Broken Music",
+      "country": "US",
+      "discogs_id": 30519736,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/arvNUWuSW5xtOj7yP9PF6jkSDzoEE7qnFOiNJb5Sd5Y/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTE5/NzM2LTE3MTQyMjIz/MjctMTIxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Harris & The Three Sounds",
+      "title": "Sittin' Duck",
+      "release_title": "Gene Harris And His Three Sounds* - Elegant Soul",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 8890611,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/CzOv4UJbxQu6vGd0jgMZ7CGFB--AK1hrEiNQydkC4Ns/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTA2/MTEtMTQ3MzQyNjI4/MC0yNjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Look Around",
+      "release_title": "Sergio Mendes & Brasil '66* - With A Little Help From My Friends / Look Around",
+      "year": "1968",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 7493471,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yc3XSvOKP5FRfkuqb7acnYbGYGIg9ORvMyoKA8Mlr84/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTM0/NzEtMTY1NDU1NDk1/Mi00NDQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Hey Jude",
+      "release_title": "The Jazz Crusaders* - Love And Peace / Hey Jude",
+      "year": "1969",
+      "label": "Pacific Jazz",
+      "country": "US",
+      "discogs_id": 23056925,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zhKrzjuutG16IEKg9JdwxsPtHTfGiWSKfxCN_F9DkZw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU2/OTI1LTE2NTEyNjEz/MDUtODkxNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Monty Alexander",
+      "title": "Redemption Song",
+      "release_title": "Monty Alexander - Harlem-Kingston Express Vol. 2: The River Rolls On",
+      "year": "2014",
+      "label": "Motéma",
+      "country": "US",
+      "discogs_id": 6024930,
+      "rating_avg": 4.29,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/52xdLtC1G4aqySev_OYG56iKTyEUjjB1RPUtwl-qvWU/rs:fit/g:sm/q:90/h:452/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjQ5/MzAtMTQwOTExNjQ0/OC0zMzQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rusty Burge & Steve Allee",
+      "title": "Isfahan",
+      "release_title": "Rusty Burge, Steve Allee - Faraway",
+      "year": "2015",
+      "label": "Broken Music",
+      "country": "US",
+      "discogs_id": 30519736,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/arvNUWuSW5xtOj7yP9PF6jkSDzoEE7qnFOiNJb5Sd5Y/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTE5/NzM2LTE3MTQyMjIz/MjctMTIxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '77",
+      "title": "So Many People",
+      "release_title": "Sergio Mendes & Brasil '77* - País Tropical",
+      "year": "1971",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 17100345,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OoK8qoBgcuRLxL6zU1dV_O6ZU0qtivo1_xVcNGXmUyM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAw/MzQ1LTE2MTE2MTI4/MjEtNTY5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pablo Ablanedo Octet",
+      "title": "ReContraDoble/ Pablo Ablenedo",
+      "release_title": "Pablo Ablanedo Octet - ReContraDoble",
+      "year": "2012",
+      "label": "Creative Nation Music",
+      "country": "US",
+      "discogs_id": 17072613,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0Ud0ifgxtoVIfK8xKhOG4BFXy8IJXbJ1Mem-0XzscnU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcy/NjEzLTE2MTE0NDM0/MzItNDI3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Valentin",
+      "title": "Loco Motion",
+      "release_title": "Dave Valentin - Red Sun",
+      "year": "1993",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 33196080,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OHwybkPDkv6LX1SRIbqxRazQbvdPJZj2ziqQVJQ0M0g/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTk2/MDgwLTE3NDAwNTky/MzItNDQ4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Woods & Tommy Flanagan & Red Mitchell",
+      "title": "Goodbye Mr. Evans",
+      "release_title": "Phil Woods / Tommy Flanagan / Red Mitchell - Three For All",
+      "year": "1981",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 5529000,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/JkL1bUIc2ZGaZWJci7XK1NJYva2U59lTpsUUkTdJRh8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjkw/MDAtMTM5NTg2MDg4/NC0zNTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Woods & Tommy Flanagan & Red Mitchell",
+      "title": "It's Time To Emulate The Japanese",
+      "release_title": "Phil Woods / Tommy Flanagan / Red Mitchell - Three For All",
+      "year": "1981",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 5529000,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/JkL1bUIc2ZGaZWJci7XK1NJYva2U59lTpsUUkTdJRh8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjkw/MDAtMTM5NTg2MDg4/NC0zNTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Woods & Tommy Flanagan & Red Mitchell",
+      "title": "You're Me",
+      "release_title": "Phil Woods / Tommy Flanagan / Red Mitchell - Three For All",
+      "year": "1981",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 5529000,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/JkL1bUIc2ZGaZWJci7XK1NJYva2U59lTpsUUkTdJRh8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjkw/MDAtMTM5NTg2MDg4/NC0zNTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "With A Little Help From My Friends",
+      "release_title": "Sergio Mendes & Brasil '66* - With A Little Help From My Friends / Look Around",
+      "year": "1968",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 7493471,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/yc3XSvOKP5FRfkuqb7acnYbGYGIg9ORvMyoKA8Mlr84/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTM0/NzEtMTY1NDU1NDk1/Mi00NDQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Valentin",
+      "title": "Beyond The Ridge",
+      "release_title": "Dave Valentin - Red Sun",
+      "year": "1993",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 33196080,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OHwybkPDkv6LX1SRIbqxRazQbvdPJZj2ziqQVJQ0M0g/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTk2/MDgwLTE3NDAwNTky/MzItNDQ4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Harris & The Three Sounds",
+      "title": "Sugar Hill",
+      "release_title": "Gene Harris And His Three Sounds* - Elegant Soul",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 8890611,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/CzOv4UJbxQu6vGd0jgMZ7CGFB--AK1hrEiNQydkC4Ns/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTA2/MTEtMTQ3MzQyNjI4/MC0yNjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gene Ammons",
+      "title": "Lucille",
+      "release_title": "Gene Ammons - Big Bad Jug",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 7241195,
+      "rating_avg": 4.71,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/nD68hN-7pLPcb056US3uz899l7VYguwh4OkFUvltwBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDEx/OTUtMTQzNjk2MDIx/NS05Mjk4LmpwZWc.jpeg"
+    }
+  ]
+}
