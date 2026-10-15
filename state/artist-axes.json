@@ -84891,6 +84891,1399 @@
    1978
   ]
  },
+ "i marc 4": {
+  "countries": [
+   "Worldwide",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Spain",
+   "Worldwide",
+   "Italy",
+   "Spain",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Jazz",
+   "Rock",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Lounge",
+    "Latin"
+   ],
+   [
+    "Lounge",
+    "Funk / Soul"
+   ],
+   [
+    "Lounge",
+    "Pop"
+   ],
+   [
+    "Lounge",
+    "Stage & Screen"
+   ],
+   [
+    "Beat",
+    "Jazz"
+   ],
+   [
+    "Beat",
+    "Rock"
+   ],
+   [
+    "Beat",
+    "Latin"
+   ],
+   [
+    "Beat",
+    "Funk / Soul"
+   ],
+   [
+    "Beat",
+    "Pop"
+   ],
+   [
+    "Beat",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Latin"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Pop"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Latin"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Pop"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Rock"
+   ],
+   [
+    "Space-Age",
+    "Latin"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Pop"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Lounge",
+    "Latin"
+   ],
+   [
+    "Lounge",
+    "Funk / Soul"
+   ],
+   [
+    "Lounge",
+    "Pop"
+   ],
+   [
+    "Lounge",
+    "Folk, World, & Country"
+   ],
+   [
+    "Lounge",
+    "Stage & Screen"
+   ],
+   [
+    "Beat",
+    "Jazz"
+   ],
+   [
+    "Beat",
+    "Rock"
+   ],
+   [
+    "Beat",
+    "Latin"
+   ],
+   [
+    "Beat",
+    "Funk / Soul"
+   ],
+   [
+    "Beat",
+    "Pop"
+   ],
+   [
+    "Beat",
+    "Folk, World, & Country"
+   ],
+   [
+    "Beat",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Latin"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Pop"
+   ],
+   [
+    "Psychedelic",
+    "Folk, World, & Country"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Rock"
+   ],
+   [
+    "Space-Age",
+    "Latin"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Pop"
+   ],
+   [
+    "Space-Age",
+    "Folk, World, & Country"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Rock"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Rock"
+   ],
+   [
+    "Latin Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Rock"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Rock"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Beat",
+    "Jazz"
+   ],
+   [
+    "Beat",
+    "Rock"
+   ],
+   [
+    "Beat",
+    "Funk / Soul"
+   ],
+   [
+    "Beat",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Rock"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Beat",
+    "Jazz"
+   ],
+   [
+    "Beat",
+    "Rock"
+   ],
+   [
+    "Beat",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Rock"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Electronic"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Electronic"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Electronic"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Electronic"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Rock"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Lounge",
+    "Funk / Soul"
+   ],
+   [
+    "Lounge",
+    "Pop"
+   ],
+   [
+    "Beat",
+    "Jazz"
+   ],
+   [
+    "Beat",
+    "Rock"
+   ],
+   [
+    "Beat",
+    "Funk / Soul"
+   ],
+   [
+    "Beat",
+    "Pop"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Rock"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Pop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Rock"
+   ],
+   [
+    "Instrumental",
+    "Funk / Soul"
+   ],
+   [
+    "Instrumental",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Folk, World, & Country"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Folk",
+    "Rock"
+   ],
+   [
+    "Folk",
+    "Pop"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Stage & Screen"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Prog Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Beat",
+    "Jazz"
+   ],
+   [
+    "Beat",
+    "Pop"
+   ],
+   [
+    "Beat",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Lounge",
+    "Funk / Soul"
+   ],
+   [
+    "Lounge",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Rock"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Electronic"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Electronic"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Electronic"
+   ],
+   [
+    "Psychedelic",
+    "Jazz"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Electronic"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Latin"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Rock"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Electronic"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Beat",
+    "Jazz"
+   ],
+   [
+    "Beat",
+    "Funk / Soul"
+   ],
+   [
+    "Beat",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Lounge",
+   "Beat",
+   "Psychedelic",
+   "Psychedelic Rock",
+   "Space-Age",
+   "Lounge",
+   "Beat",
+   "Psychedelic",
+   "Space-Age",
+   "Theme",
+   "Psychedelic Rock",
+   "Jazz-Funk",
+   "Bossa Nova",
+   "Psychedelic",
+   "Jazz-Funk",
+   "Latin Jazz",
+   "Soul-Jazz",
+   "Space-Age",
+   "Beat",
+   "Psychedelic",
+   "Bossa Nova",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Psychedelic Rock",
+   "Beat",
+   "Jazz-Funk",
+   "Psychedelic",
+   "Bossa Nova",
+   "Psychedelic Rock",
+   "Theme",
+   "Jazz-Funk",
+   "Score",
+   "Theme",
+   "Jazz-Funk",
+   "Experimental",
+   "Space-Age",
+   "Psychedelic",
+   "Bossa Nova",
+   "Lounge",
+   "Beat",
+   "Psychedelic",
+   "Instrumental",
+   "Funk",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Soundtrack",
+   "Theme",
+   "Theme",
+   "Folk",
+   "Prog Rock",
+   "Beat",
+   "Jazz-Funk",
+   "Theme",
+   "Bossa Nova",
+   "Psychedelic Rock",
+   "Theme",
+   "Lounge",
+   "Space-Age",
+   "Theme",
+   "Theme",
+   "Jazz-Funk",
+   "Psychedelic",
+   "Space-Age",
+   "Experimental",
+   "Jazz-Funk",
+   "Latin Jazz",
+   "Soul-Jazz",
+   "Space-Age",
+   "Latin Jazz",
+   "Jazz-Funk",
+   "Theme",
+   "Jazz-Funk",
+   "Experimental",
+   "Soundtrack",
+   "Beat",
+   "Funk"
+  ],
+  "years": [
+   2018,
+   2017,
+   1977,
+   2011,
+   1970,
+   2017,
+   2022,
+   2019,
+   1976,
+   1977,
+   2000,
+   2013,
+   1974,
+   1974,
+   1968,
+   1971,
+   1971,
+   2000,
+   1968,
+   1970,
+   1970,
+   1969
+  ]
+ },
  "iblss": {
   "countries": [
    "Canada",
