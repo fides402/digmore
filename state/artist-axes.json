@@ -141183,6 +141183,480 @@
    2002
   ]
  },
+ "roberto di gioia": {
+  "countries": [
+   "Germany",
+   "Germany",
+   "Austria",
+   "Europe",
+   "Europe",
+   "Europe",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Japan",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Europe"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Classical",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Jazz"
+   ],
+   [
+    "House",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Electronic"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Jazz"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Dub",
+    "Electronic"
+   ],
+   [
+    "Dub",
+    "Jazz"
+   ],
+   [
+    "Dub",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Rock"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "New Wave",
+    "Electronic"
+   ],
+   [
+    "New Wave",
+    "Rock"
+   ],
+   [
+    "New Wave",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Jazz"
+   ],
+   [
+    "Schlager",
+    "Rock"
+   ],
+   [
+    "Schlager",
+    "Funk / Soul"
+   ],
+   [
+    "Schlager",
+    "Pop"
+   ],
+   [
+    "Schlager",
+    "Classical"
+   ],
+   [
+    "Schlager",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ragtime",
+    "Jazz"
+   ],
+   [
+    "Ragtime",
+    "Rock"
+   ],
+   [
+    "Ragtime",
+    "Funk / Soul"
+   ],
+   [
+    "Ragtime",
+    "Pop"
+   ],
+   [
+    "Ragtime",
+    "Classical"
+   ],
+   [
+    "Ragtime",
+    "Folk, World, & Country"
+   ],
+   [
+    "Parody",
+    "Jazz"
+   ],
+   [
+    "Parody",
+    "Rock"
+   ],
+   [
+    "Parody",
+    "Funk / Soul"
+   ],
+   [
+    "Parody",
+    "Pop"
+   ],
+   [
+    "Parody",
+    "Classical"
+   ],
+   [
+    "Parody",
+    "Folk, World, & Country"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Rock"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Classical"
+   ],
+   [
+    "Disco",
+    "Folk, World, & Country"
+   ],
+   [
+    "Classical",
+    "Jazz"
+   ],
+   [
+    "Classical",
+    "Rock"
+   ],
+   [
+    "Classical",
+    "Funk / Soul"
+   ],
+   [
+    "Classical",
+    "Pop"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Indian Classical",
+    "Jazz"
+   ],
+   [
+    "Indian Classical",
+    "Rock"
+   ],
+   [
+    "Indian Classical",
+    "Funk / Soul"
+   ],
+   [
+    "Indian Classical",
+    "Pop"
+   ],
+   [
+    "Indian Classical",
+    "Classical"
+   ],
+   [
+    "Indian Classical",
+    "Folk, World, & Country"
+   ],
+   [
+    "Punk",
+    "Jazz"
+   ],
+   [
+    "Punk",
+    "Rock"
+   ],
+   [
+    "Punk",
+    "Funk / Soul"
+   ],
+   [
+    "Punk",
+    "Pop"
+   ],
+   [
+    "Punk",
+    "Classical"
+   ],
+   [
+    "Punk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Prog Rock",
+    "Jazz"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Classical"
+   ],
+   [
+    "Prog Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "New Wave",
+    "Jazz"
+   ],
+   [
+    "New Wave",
+    "Rock"
+   ],
+   [
+    "New Wave",
+    "Funk / Soul"
+   ],
+   [
+    "New Wave",
+    "Pop"
+   ],
+   [
+    "New Wave",
+    "Classical"
+   ],
+   [
+    "New Wave",
+    "Folk, World, & Country"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ]
+  ],
+  "releases": 16,
+  "styles": [
+   "Jazz-Rock",
+   "Modal",
+   "Ambient",
+   "Leftfield",
+   "Ambient",
+   "Leftfield",
+   "Ambient",
+   "Leftfield",
+   "House",
+   "Smooth Jazz",
+   "Disco",
+   "Downtempo",
+   "Dub",
+   "Funk",
+   "Disco",
+   "New Wave",
+   "Schlager",
+   "Ragtime",
+   "Parody",
+   "Disco",
+   "Classical",
+   "Indian Classical",
+   "Punk",
+   "Prog Rock",
+   "New Wave",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Post Bop",
+   "Hard Bop",
+   "Contemporary Jazz",
+   "Post Bop",
+   "Hard Bop"
+  ],
+  "years": [
+   2006,
+   1995,
+   2023,
+   2023,
+   2023,
+   2011,
+   2014,
+   2013,
+   2006,
+   1996,
+   1987,
+   2009,
+   1995,
+   1995,
+   1992,
+   2006
+  ]
+ },
  "roger webb": {
   "countries": [
    "UK",
