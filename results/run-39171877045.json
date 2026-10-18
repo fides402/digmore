@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2020,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 32,
+      "artists_found": 29,
+      "fresh_lookups": 0,
+      "styles_considered": 80
+    }
+  },
+  "results": [
+    {
+      "artist": "John Patton",
+      "title": "Man From Tanganyika",
+      "release_title": "John Patton - Memphis To New York Spirit",
+      "year": "1996",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 4403527,
+      "rating_avg": 4.0,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/5O7kopAV4HAjH57GUiDmvqsfbuQDDgPKHqfey_bb-kU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDM1/MjctMTM2Mzk3NDM5/MC04MTQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hamilton Bohannon",
+      "title": "Let's Start The Dance",
+      "release_title": "Hamilton Bohannon - Let's Start The Dance / I Wonder Why",
+      "year": "1978",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 24281558,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/spZ9CQvEv4-OuwzE0ldFzwVDIYX0On8D-ABtfLMXbn8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgx/NTU4LTE2NzA2NTIy/OTgtOTAyNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Bobby Timmons Trio",
+      "title": "If I Should Lose You",
+      "release_title": "Bobby Timmons Trio* - From The Bottom",
+      "year": "1970",
+      "label": "Riverside Records",
+      "country": "US",
+      "discogs_id": 2132141,
+      "rating_avg": 4.2,
+      "rating_count": 44,
+      "cover_image": "https://i.discogs.com/shzonOWWSjH--CHRhH5BJ0EGP_3h89PszodSU5emn2w/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIx/NDEtMTI4OTYxNjgx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brother Jack McDuff",
+      "title": "Sunny",
+      "release_title": "Brother Jack McDuff - A Change Is Gonna Come / Double Barrelled Soul",
+      "year": "1999",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 1463959,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/1WWUEePSmtCx7Ed8pgicF4vwkRuZRfjuKXV73wgQ_Uk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM5/NTktMTUxODYwMzYx/OC0xMjM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ben Tankard",
+      "title": "A Guitar For Christmas",
+      "release_title": "Ben Tankard - Christmas Love",
+      "year": "2000",
+      "label": "Verity",
+      "country": "US",
+      "discogs_id": 10866448,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tleOnhg2YodJYuE8FcomLkm-CpB7CUbsYP1ZLPURDm4/rs:fit/g:sm/q:90/h:257/w:255/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY2/NDQ4LTE1MDU2MTQ1/MzEtNDMyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rufus Thomas",
+      "title": "(Do The) Push And Pull, Part I",
+      "release_title": "Various - Top Of The Stax - Twenty Greatest Hits",
+      "year": "1988",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 2871770,
+      "rating_avg": 4.64,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/1dRv87IIzR5ROl8KqN2sO3myw5LUCenQdEjjCeOV83g/rs:fit/g:sm/q:90/h:431/w:431/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE3/NzAtMTMyNjc0Mjk2/NC5naWY.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "You Been Talkin' 'Bout Me Baby",
+      "release_title": "Ramsey Lewis - Wade In The Water",
+      "year": "1987",
+      "label": "Garland",
+      "country": "US",
+      "discogs_id": 29897677,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BqTFat3dU8xEB6G5KGBBRxXPrmMjMjs49iGuX6XDYD8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODk3/Njc3LTE3MDg3ODUz/OTQtNTgyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ben Tankard",
+      "title": "Melody Of Bethlehem",
+      "release_title": "Ben Tankard - Christmas Love",
+      "year": "2000",
+      "label": "Verity",
+      "country": "US",
+      "discogs_id": 10866448,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tleOnhg2YodJYuE8FcomLkm-CpB7CUbsYP1ZLPURDm4/rs:fit/g:sm/q:90/h:257/w:255/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY2/NDQ4LTE1MDU2MTQ1/MzEtNDMyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Kelly",
+      "title": "Hooked, Hogtied And Collared",
+      "release_title": "Paul Kelly (3) - Hooked, Hogtied & Collared",
+      "year": "1974",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 2699214,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/erctNzNtnGtXdvgf6mIbZJLmNR3DNtNG-i27MG-DFtM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTky/MTQtMTM1OTA2MTk5/NS0yNjQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kathy Collier",
+      "title": "Nasty (Short Version)",
+      "release_title": "Kathy Collier - Nasty",
+      "year": "1976",
+      "label": "Greedy Records Ltd.",
+      "country": "US",
+      "discogs_id": 9350188,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/_uLNPjXUzDrb2fu8UDexPryGDZtMTAR32ZpZH7CMx9M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTAx/ODgtMTQ3OTA1ODE5/Ny01MDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brother Jack McDuff",
+      "title": "Esperanto",
+      "release_title": "Brother Jack McDuff - A Change Is Gonna Come / Double Barrelled Soul",
+      "year": "1999",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 1463959,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/1WWUEePSmtCx7Ed8pgicF4vwkRuZRfjuKXV73wgQ_Uk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM5/NTktMTUxODYwMzYx/OC0xMjM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Friends Of Distinction",
+      "title": "Grazing In The Grass",
+      "release_title": "The Friends Of Distinction - Grazing In The Grass",
+      "year": "1969",
+      "label": "RCA Victor",
+      "country": "US",
+      "discogs_id": 5900402,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Ot3QdmDb79qEW2pn4kC3BNvSP4EVsgBG1Lr_Vure8IA/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDA0/MDItMTQwNTgwNTU3/OC0xMzg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Patton",
+      "title": "Memphis",
+      "release_title": "John Patton - Memphis To New York Spirit",
+      "year": "1996",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 4403527,
+      "rating_avg": 4.0,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/5O7kopAV4HAjH57GUiDmvqsfbuQDDgPKHqfey_bb-kU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDM1/MjctMTM2Mzk3NDM5/MC04MTQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Bobby Timmons Trio",
+      "title": "Someone To Watch Over Me",
+      "release_title": "Bobby Timmons Trio* - From The Bottom",
+      "year": "1970",
+      "label": "Riverside Records",
+      "country": "US",
+      "discogs_id": 2132141,
+      "rating_avg": 4.2,
+      "rating_count": 44,
+      "cover_image": "https://i.discogs.com/shzonOWWSjH--CHRhH5BJ0EGP_3h89PszodSU5emn2w/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIx/NDEtMTI4OTYxNjgx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shirley Scott",
+      "title": "It Don't Mean A Thing",
+      "release_title": "Shirley Scott - Satin Doll",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 6759358,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/FpsoeF9ttIIXltZlNcLnh5wVVkBbBzlqaMIjsBBscTg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTkz/NTgtMTQyNjAyNzQ0/MC04Mjk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Love Unlimited",
+      "title": "Yes, We Finally Made It",
+      "release_title": "Love Unlimited - Oh Love, Well We Finally Made It",
+      "year": "1973",
+      "label": "20th Century Records",
+      "country": "US",
+      "discogs_id": 3140115,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/0KKTsjqy4OLZFnTQIboIdVx0whasaIWrMGi1DrpTpJQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDAx/MTUtMTQwNTI2NTQ2/Ny0yMTU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paul Kelly",
+      "title": "I Wanna Get Next Tot You",
+      "release_title": "Paul Kelly (3) - Hooked, Hogtied & Collared",
+      "year": "1974",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 2699214,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/erctNzNtnGtXdvgf6mIbZJLmNR3DNtNG-i27MG-DFtM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTky/MTQtMTM1OTA2MTk5/NS0yNjQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Patton",
+      "title": "Cissy Strut",
+      "release_title": "John Patton - Memphis To New York Spirit",
+      "year": "1996",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 4403527,
+      "rating_avg": 4.0,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/5O7kopAV4HAjH57GUiDmvqsfbuQDDgPKHqfey_bb-kU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDM1/MjctMTM2Mzk3NDM5/MC04MTQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tenderness",
+      "title": "Telly Love",
+      "release_title": "Tenderness - Gotta Keep On Trying",
+      "year": "1978",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 2285831,
+      "rating_avg": 4.53,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/spm7olElx1liYA2h4GUg6W-EKha4Jjy57sBhONQOtDo/rs:fit/g:sm/q:90/h:587/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODU4/MzEtMTI3NDQ4MDEx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "New Xperience",
+      "title": "Frisco Dancin",
+      "release_title": "New Xperience - Chance With You",
+      "year": "1979",
+      "label": "Joy Ride Records",
+      "country": "US",
+      "discogs_id": 12206695,
+      "rating_avg": 4.88,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/4BhuqWmpOTOIvnz5JlssKStanPjAjmn-tKrlcI_CXgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjA2/Njk1LTE1MzA0NzYx/MjctNTcwNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Since I Fell For You",
+      "release_title": "Ramsey Lewis - Wade In The Water",
+      "year": "1987",
+      "label": "Garland",
+      "country": "US",
+      "discogs_id": 29897677,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BqTFat3dU8xEB6G5KGBBRxXPrmMjMjs49iGuX6XDYD8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODk3/Njc3LTE3MDg3ODUz/OTQtNTgyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Frederick Knight",
+      "title": "I've Been Lonely For So Long",
+      "release_title": "Various - Top Of The Stax - Twenty Greatest Hits",
+      "year": "1988",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 2871770,
+      "rating_avg": 4.64,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/1dRv87IIzR5ROl8KqN2sO3myw5LUCenQdEjjCeOV83g/rs:fit/g:sm/q:90/h:431/w:431/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE3/NzAtMTMyNjc0Mjk2/NC5naWY.jpeg"
+    },
+    {
+      "artist": "Ben Tankard",
+      "title": "White Christmas",
+      "release_title": "Ben Tankard - Christmas Love",
+      "year": "2000",
+      "label": "Verity",
+      "country": "US",
+      "discogs_id": 10866448,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tleOnhg2YodJYuE8FcomLkm-CpB7CUbsYP1ZLPURDm4/rs:fit/g:sm/q:90/h:257/w:255/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY2/NDQ4LTE1MDU2MTQ1/MzEtNDMyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shirley Scott",
+      "title": "Perdido",
+      "release_title": "Shirley Scott - Satin Doll",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 6759358,
+      "rating_avg": 4.5,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/FpsoeF9ttIIXltZlNcLnh5wVVkBbBzlqaMIjsBBscTg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTkz/NTgtMTQyNjAyNzQ0/MC04Mjk1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brother Jack McDuff",
+      "title": "Hotcha",
+      "release_title": "Brother Jack McDuff - A Change Is Gonna Come / Double Barrelled Soul",
+      "year": "1999",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 1463959,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/1WWUEePSmtCx7Ed8pgicF4vwkRuZRfjuKXV73wgQ_Uk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM5/NTktMTUxODYwMzYx/OC0xMjM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brother Jack McDuff",
+      "title": "Can't Find The Keyhole Blues",
+      "release_title": "Brother Jack McDuff - A Change Is Gonna Come / Double Barrelled Soul",
+      "year": "1999",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 1463959,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/1WWUEePSmtCx7Ed8pgicF4vwkRuZRfjuKXV73wgQ_Uk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM5/NTktMTUxODYwMzYx/OC0xMjM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ben Tankard",
+      "title": "Worship A King",
+      "release_title": "Ben Tankard - Christmas Love",
+      "year": "2000",
+      "label": "Verity",
+      "country": "US",
+      "discogs_id": 10866448,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tleOnhg2YodJYuE8FcomLkm-CpB7CUbsYP1ZLPURDm4/rs:fit/g:sm/q:90/h:257/w:255/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY2/NDQ4LTE1MDU2MTQ1/MzEtNDMyOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kathy Collier",
+      "title": "Nasty (Long Version)",
+      "release_title": "Kathy Collier - Nasty",
+      "year": "1976",
+      "label": "Greedy Records Ltd.",
+      "country": "US",
+      "discogs_id": 9350188,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/_uLNPjXUzDrb2fu8UDexPryGDZtMTAR32ZpZH7CMx9M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTAx/ODgtMTQ3OTA1ODE5/Ny01MDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Who's Making Love",
+      "release_title": "Various - Top Of The Stax - Twenty Greatest Hits",
+      "year": "1988",
+      "label": "Stax",
+      "country": "US",
+      "discogs_id": 2871770,
+      "rating_avg": 4.64,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/1dRv87IIzR5ROl8KqN2sO3myw5LUCenQdEjjCeOV83g/rs:fit/g:sm/q:90/h:431/w:431/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE3/NzAtMTMyNjc0Mjk2/NC5naWY.jpeg"
+    },
+    {
+      "artist": "Ramsey Lewis",
+      "title": "Soul Man",
+      "release_title": "Ramsey Lewis - Wade In The Water",
+      "year": "1987",
+      "label": "Garland",
+      "country": "US",
+      "discogs_id": 29897677,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BqTFat3dU8xEB6G5KGBBRxXPrmMjMjs49iGuX6XDYD8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODk3/Njc3LTE3MDg3ODUz/OTQtNTgyMC5qcGVn.jpeg"
+    }
+  ]
+}
