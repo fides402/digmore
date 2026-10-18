@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2015,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 36,
+      "artists_found": 35,
+      "fresh_lookups": 0,
+      "styles_considered": 93
+    }
+  },
+  "results": [
+    {
+      "artist": "The Forefront",
+      "title": "Frump Trump",
+      "release_title": "The Forefront - Incantation",
+      "year": "1973",
+      "label": "AFI Records",
+      "country": "US",
+      "discogs_id": 2150968,
+      "rating_avg": 4.35,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/8O4OpJefuw6GBpl24g3cMl8pVbXNhlwGNd8JF1eDoPw/rs:fit/g:sm/q:90/h:351/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTA5/NjgtMTMwMzY2ODcx/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Thad Jones / Mel Lewis Orchestra",
+      "title": "Ahunk Ahunk",
+      "release_title": "Thad Jones / Mel Lewis Orchestra - Ahunk Ahunk",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 8577610,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/KPKx_6HrYXpDFZEJ5qp5UV2rhZlCp8L7dUoPu1YSao0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzc2/MTAtMTQ5NzI5MTYw/NS00MDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Upchurch & Tennyson Stephens",
+      "title": "Don’t I Know You?",
+      "release_title": "Phil Upchurch / Tennyson Stephens - Upchurch/Tennyson",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 27110259,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/W5xd5_6zNiTUXoH1_5LgMGOXUbA3L02t6lFFbN_kB_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MjU5LTE2ODQzNTU5/NjAtNzE3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Forefront",
+      "title": "La Casa Del Forefronte",
+      "release_title": "The Forefront - Incantation",
+      "year": "1973",
+      "label": "AFI Records",
+      "country": "US",
+      "discogs_id": 2150968,
+      "rating_avg": 4.35,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/8O4OpJefuw6GBpl24g3cMl8pVbXNhlwGNd8JF1eDoPw/rs:fit/g:sm/q:90/h:351/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTA5/NjgtMTMwMzY2ODcx/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda & Friends",
+      "title": "Munchkin",
+      "release_title": "Ernie Krivda & Friends - Satanic",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 37432014,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/olO-AECf-CSP6xOxCAanlu0KQMRvwbldMQw8N5MUVtY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMy/MDE0LTE3Nzk2NTAw/ODQtNjc1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mystery School",
+      "title": "Insect Mask",
+      "release_title": "Mystery School (3) - Insect Masque",
+      "year": "2003",
+      "label": "Strangebow Music",
+      "country": "US",
+      "discogs_id": 17985994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6UYNp_7vBJEH_pCQgxfRa7h0LoeMDwAhQxfDwa599mY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg1/OTk0LTE2MTY2Njkx/NzYtMTEzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Monnette Sudler",
+      "title": "My, My, My",
+      "release_title": "Monnette Sudler - Just One Kiss",
+      "year": "1998",
+      "label": "MSM-Records",
+      "country": "US",
+      "discogs_id": 25613659,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XriHpnFkLJcler5IBk-Qo49EyDp6lkLotMSTeeiteyE/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjEz/NjU5LTE2NzI0MTUz/ODgtOTY1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tavares",
+      "title": "Heaven Must Be Missing An Angel",
+      "release_title": "Various - Disco - Gold",
+      "year": "2005",
+      "label": "Hip-O Records",
+      "country": "US",
+      "discogs_id": 2573053,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://st.discogs.com/6703036b7774a926d2ef829c02af8b10d9082eaa/images/spacer.gif"
+    },
+    {
+      "artist": "Reuben Wilson",
+      "title": "Sweet Tooth",
+      "release_title": "Reuben Wilson - A Groovy Situation",
+      "year": "1971",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 748066,
+      "rating_avg": 4.14,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/yueTTdtrWbaoDYLMjAF66Em4aOdBdiQF40bPewNstd4/rs:fit/g:sm/q:90/h:350/w:351/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODA2/Ni0xMTU1MDE0MTI0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Full Moon & Neil Larsen & Buzzy Feiten",
+      "title": "Brown Eyes",
+      "release_title": "Full Moon (5) Featuring Neil Larsen & Buzz Feiten* - Brown Eyes",
+      "year": "1982",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 11429069,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kYNoa0HrO9ih8w2lPSTOOGDiD_JIbxW0zGbf6GVQ0q0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI5/MDY5LTE1MTYxNjYz/MzctMjIwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Reuben Wilson",
+      "title": "If You Let Me Make Love To You Then Why Can't I Touch You",
+      "release_title": "Reuben Wilson - A Groovy Situation",
+      "year": "1971",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 748066,
+      "rating_avg": 4.14,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/yueTTdtrWbaoDYLMjAF66Em4aOdBdiQF40bPewNstd4/rs:fit/g:sm/q:90/h:350/w:351/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODA2/Ni0xMTU1MDE0MTI0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andrea True Connection",
+      "title": "More, More, More",
+      "release_title": "Various - Disco - Gold",
+      "year": "2005",
+      "label": "Hip-O Records",
+      "country": "US",
+      "discogs_id": 2573053,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://st.discogs.com/6703036b7774a926d2ef829c02af8b10d9082eaa/images/spacer.gif"
+    },
+    {
+      "artist": "Fo/Mo/Deep",
+      "title": "Chasma (Shimrit Shosan Tribute)",
+      "release_title": "Fo/Mo/Deep - The Groovy Goodness",
+      "year": "2014",
+      "label": "RHMedia",
+      "country": "US",
+      "discogs_id": 37627212,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ce5lS-oWikk_FYMqAh4KxNfv7jn44NC7D6VZjBxxU4U/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjI3/MjEyLTE3ODE0NTIx/ODQtNTYxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda & Friends",
+      "title": "The Piper",
+      "release_title": "Ernie Krivda & Friends - Satanic",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 37432014,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/olO-AECf-CSP6xOxCAanlu0KQMRvwbldMQw8N5MUVtY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMy/MDE0LTE3Nzk2NTAw/ODQtNjc1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Thad Jones / Mel Lewis Orchestra",
+      "title": "Us",
+      "release_title": "Thad Jones / Mel Lewis Orchestra - Ahunk Ahunk",
+      "year": "1970",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 8577610,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/KPKx_6HrYXpDFZEJ5qp5UV2rhZlCp8L7dUoPu1YSao0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzc2/MTAtMTQ5NzI5MTYw/NS00MDkzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fo/Mo/Deep",
+      "title": "Groidology",
+      "release_title": "Fo/Mo/Deep - The Groovy Goodness",
+      "year": "2014",
+      "label": "RHMedia",
+      "country": "US",
+      "discogs_id": 37627212,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ce5lS-oWikk_FYMqAh4KxNfv7jn44NC7D6VZjBxxU4U/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjI3/MjEyLTE3ODE0NTIx/ODQtNTYxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Full Moon & Neil Larsen & Buzzy Feiten",
+      "title": "The Visitor",
+      "release_title": "Full Moon (5) Featuring Neil Larsen & Buzz Feiten* - Brown Eyes",
+      "year": "1982",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 11429069,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kYNoa0HrO9ih8w2lPSTOOGDiD_JIbxW0zGbf6GVQ0q0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI5/MDY5LTE1MTYxNjYz/MzctMjIwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda & Friends",
+      "title": "La Festival",
+      "release_title": "Ernie Krivda & Friends - Satanic",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 37432014,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/olO-AECf-CSP6xOxCAanlu0KQMRvwbldMQw8N5MUVtY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMy/MDE0LTE3Nzk2NTAw/ODQtNjc1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mystery School",
+      "title": "The Millipede's Message",
+      "release_title": "Mystery School (3) - Insect Masque",
+      "year": "2003",
+      "label": "Strangebow Music",
+      "country": "US",
+      "discogs_id": 17985994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6UYNp_7vBJEH_pCQgxfRa7h0LoeMDwAhQxfDwa599mY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg1/OTk0LTE2MTY2Njkx/NzYtMTEzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fo/Mo/Deep",
+      "title": "That Song (This Love)",
+      "release_title": "Fo/Mo/Deep - The Groovy Goodness",
+      "year": "2014",
+      "label": "RHMedia",
+      "country": "US",
+      "discogs_id": 37627212,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ce5lS-oWikk_FYMqAh4KxNfv7jn44NC7D6VZjBxxU4U/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjI3/MjEyLTE3ODE0NTIx/ODQtNTYxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Monnette Sudler",
+      "title": "Skills",
+      "release_title": "Monnette Sudler - Just One Kiss",
+      "year": "1998",
+      "label": "MSM-Records",
+      "country": "US",
+      "discogs_id": 25613659,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XriHpnFkLJcler5IBk-Qo49EyDp6lkLotMSTeeiteyE/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjEz/NjU5LTE2NzI0MTUz/ODgtOTY1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Upchurch & Tennyson Stephens",
+      "title": "You Got Style",
+      "release_title": "Phil Upchurch / Tennyson Stephens - Upchurch/Tennyson",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 27110259,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/W5xd5_6zNiTUXoH1_5LgMGOXUbA3L02t6lFFbN_kB_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MjU5LTE2ODQzNTU5/NjAtNzE3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Upchurch & Tennyson Stephens",
+      "title": "Ave Maria",
+      "release_title": "Phil Upchurch / Tennyson Stephens - Upchurch/Tennyson",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 27110259,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/W5xd5_6zNiTUXoH1_5LgMGOXUbA3L02t6lFFbN_kB_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MjU5LTE2ODQzNTU5/NjAtNzE3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fo/Mo/Deep",
+      "title": "Block Party",
+      "release_title": "Fo/Mo/Deep - The Groovy Goodness",
+      "year": "2014",
+      "label": "RHMedia",
+      "country": "US",
+      "discogs_id": 37627212,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ce5lS-oWikk_FYMqAh4KxNfv7jn44NC7D6VZjBxxU4U/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjI3/MjEyLTE3ODE0NTIx/ODQtNTYxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Alicia Bridges",
+      "title": "I Love The Nightlife (Disco 'Round)",
+      "release_title": "Various - Disco - Gold",
+      "year": "2005",
+      "label": "Hip-O Records",
+      "country": "US",
+      "discogs_id": 2573053,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://st.discogs.com/6703036b7774a926d2ef829c02af8b10d9082eaa/images/spacer.gif"
+    },
+    {
+      "artist": "Mystery School",
+      "title": "Metamorphosis",
+      "release_title": "Mystery School (3) - Insect Masque",
+      "year": "2003",
+      "label": "Strangebow Music",
+      "country": "US",
+      "discogs_id": 17985994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6UYNp_7vBJEH_pCQgxfRa7h0LoeMDwAhQxfDwa599mY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg1/OTk0LTE2MTY2Njkx/NzYtMTEzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jay Black",
+      "title": "One Night Affair",
+      "release_title": "Jay Black - One Night Affair / Between Two Worlds",
+      "year": "1976",
+      "label": "Roulette",
+      "country": "US",
+      "discogs_id": 2597689,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/wECHSNBT9uJzvEarQFN4eIV_Eo_xYVPa1DsyiqTSf84/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc2/ODktMTQyNjY2OTYz/OC05NjcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Reuben Wilson",
+      "title": "While The World Lies Waiting",
+      "release_title": "Reuben Wilson - A Groovy Situation",
+      "year": "1971",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 748066,
+      "rating_avg": 4.14,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/yueTTdtrWbaoDYLMjAF66Em4aOdBdiQF40bPewNstd4/rs:fit/g:sm/q:90/h:350/w:351/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODA2/Ni0xMTU1MDE0MTI0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jay Black",
+      "title": "Between Two Worlds",
+      "release_title": "Jay Black - One Night Affair / Between Two Worlds",
+      "year": "1976",
+      "label": "Roulette",
+      "country": "US",
+      "discogs_id": 2597689,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/wECHSNBT9uJzvEarQFN4eIV_Eo_xYVPa1DsyiqTSf84/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc2/ODktMTQyNjY2OTYz/OC05NjcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Reuben Wilson",
+      "title": "A Groovy Situation",
+      "release_title": "Reuben Wilson - A Groovy Situation",
+      "year": "1971",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 748066,
+      "rating_avg": 4.14,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/yueTTdtrWbaoDYLMjAF66Em4aOdBdiQF40bPewNstd4/rs:fit/g:sm/q:90/h:350/w:351/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODA2/Ni0xMTU1MDE0MTI0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Forefront",
+      "title": "Incantation",
+      "release_title": "The Forefront - Incantation",
+      "year": "1973",
+      "label": "AFI Records",
+      "country": "US",
+      "discogs_id": 2150968,
+      "rating_avg": 4.35,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/8O4OpJefuw6GBpl24g3cMl8pVbXNhlwGNd8JF1eDoPw/rs:fit/g:sm/q:90/h:351/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTA5/NjgtMTMwMzY2ODcx/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Forefront",
+      "title": "Wilderness",
+      "release_title": "The Forefront - Incantation",
+      "year": "1973",
+      "label": "AFI Records",
+      "country": "US",
+      "discogs_id": 2150968,
+      "rating_avg": 4.35,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/8O4OpJefuw6GBpl24g3cMl8pVbXNhlwGNd8JF1eDoPw/rs:fit/g:sm/q:90/h:351/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTA5/NjgtMTMwMzY2ODcx/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda & Friends",
+      "title": "Song Of The Moor",
+      "release_title": "Ernie Krivda & Friends - Satanic",
+      "year": "1977",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 37432014,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/olO-AECf-CSP6xOxCAanlu0KQMRvwbldMQw8N5MUVtY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMy/MDE0LTE3Nzk2NTAw/ODQtNjc1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Silver Convention",
+      "title": "No, No, Joe",
+      "release_title": "Silver Convention - No, No, Joe",
+      "year": "1976",
+      "label": "Midland International",
+      "country": "US",
+      "discogs_id": 3546299,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XEPGJz2OU0mz-NQ7xxphcYAkV0f5n50H1FbtnMU6rAg/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDYy/OTktMTU1NDg1MDQy/NS05OTk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Monnette Sudler",
+      "title": "Just One Kiss",
+      "release_title": "Monnette Sudler - Just One Kiss",
+      "year": "1998",
+      "label": "MSM-Records",
+      "country": "US",
+      "discogs_id": 25613659,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XriHpnFkLJcler5IBk-Qo49EyDp6lkLotMSTeeiteyE/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjEz/NjU5LTE2NzI0MTUz/ODgtOTY1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Upchurch & Tennyson Stephens",
+      "title": "In Common",
+      "release_title": "Phil Upchurch / Tennyson Stephens - Upchurch/Tennyson",
+      "year": "1975",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 27110259,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/W5xd5_6zNiTUXoH1_5LgMGOXUbA3L02t6lFFbN_kB_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MjU5LTE2ODQzNTU5/NjAtNzE3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Monnette Sudler",
+      "title": "Hot Air Balloon",
+      "release_title": "Monnette Sudler - Just One Kiss",
+      "year": "1998",
+      "label": "MSM-Records",
+      "country": "US",
+      "discogs_id": 25613659,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XriHpnFkLJcler5IBk-Qo49EyDp6lkLotMSTeeiteyE/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjEz/NjU5LTE2NzI0MTUz/ODgtOTY1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mystery School",
+      "title": "Insect Masque!",
+      "release_title": "Mystery School (3) - Insect Masque",
+      "year": "2003",
+      "label": "Strangebow Music",
+      "country": "US",
+      "discogs_id": 17985994,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6UYNp_7vBJEH_pCQgxfRa7h0LoeMDwAhQxfDwa599mY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg1/OTk0LTE2MTY2Njkx/NzYtMTEzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Reza Khan",
+      "title": "A Hopeless Moment",
+      "release_title": "Reza Khan (2) - Painted Diaries",
+      "year": "2009",
+      "label": "Painted Diaries",
+      "country": "US",
+      "discogs_id": 9565869,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4gTktOj_PmrKMiqx2D_Tmwvnxf0PXcrxVBMn6K23tf0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjU4/NjktMTQ4Mjg2NTcw/OS02MDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "David Porter",
+      "title": "Can't See You When I Want To",
+      "release_title": "David Porter - Can't See You When I Want To",
+      "year": "1970",
+      "label": "Enterprise",
+      "country": "US",
+      "discogs_id": 3633027,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/G_ZprOeNs_T544LmCJ1922Ayw3nFiJRST9fKupPqBsQ/rs:fit/g:sm/q:90/h:385/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzMw/MjctMTMzODE3ODkx/Ni00Njc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Theryl",
+      "title": "Open Up Your Heart (Vocal)",
+      "release_title": "Theryl - Open Up Your Heart",
+      "year": "1988",
+      "label": "Pyramid Records",
+      "country": "US",
+      "discogs_id": 1953041,
+      "rating_avg": 4.5,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/rMy_0jXEkpnBXIBwUPijDh4-nKmjH22vYBxkL13iz0Q/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTMw/NDEtMTM1MjE0NzA2/MS03NjUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tom Grant",
+      "title": "This Love",
+      "release_title": "Tom Grant (2) - Take Me To Your Dream",
+      "year": "1986",
+      "label": "Chase Music Group",
+      "country": "US",
+      "discogs_id": 26797034,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/V2uhi3O643rw_2YlApe2HrCRgZUthtuve3gu0AtoS5k/rs:fit/g:sm/q:90/h:600/w:393/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzk3/MDM0LTE2ODE4MDM3/MDUtNDY1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Porter",
+      "title": "One Part-Two Parts",
+      "release_title": "David Porter - Can't See You When I Want To",
+      "year": "1970",
+      "label": "Enterprise",
+      "country": "US",
+      "discogs_id": 3633027,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/G_ZprOeNs_T544LmCJ1922Ayw3nFiJRST9fKupPqBsQ/rs:fit/g:sm/q:90/h:385/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzMw/MjctMTMzODE3ODkx/Ni00Njc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tyrone Davis",
+      "title": "The Waiting Was Not In Vain",
+      "release_title": "Tyrone Davis - Turn Back The Hands Of Time",
+      "year": "1970",
+      "label": "Dakar Records",
+      "country": "US",
+      "discogs_id": 3675536,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/LZNYeCAvYy_Ek21jb4zNkJ7a7b7XW2M2eIqxUtDEPNQ/rs:fit/g:sm/q:90/h:351/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU1/MzYtMTMzOTkwNDEw/OC0zNTIyLnBuZw.jpeg"
+    },
+    {
+      "artist": "Tyrone Davis",
+      "title": "I Keep Coming Back",
+      "release_title": "Tyrone Davis - Turn Back The Hands Of Time",
+      "year": "1970",
+      "label": "Dakar Records",
+      "country": "US",
+      "discogs_id": 3675536,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/LZNYeCAvYy_Ek21jb4zNkJ7a7b7XW2M2eIqxUtDEPNQ/rs:fit/g:sm/q:90/h:351/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU1/MzYtMTMzOTkwNDEw/OC0zNTIyLnBuZw.jpeg"
+    }
+  ]
+}
