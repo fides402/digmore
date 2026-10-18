@@ -4375,6 +4375,860 @@
    1983
   ]
  },
+ "alberto baldan bembo": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Spain",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Yugoslavia",
+   "Italy",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Electronic",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Blues",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Latin",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Latin",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Blues",
+   "Stage & Screen",
+   "Latin",
+   "Pop",
+   "Pop",
+   "Classical",
+   "Stage & Screen",
+   "Electronic",
+   "Electronic",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Pop",
+   "Pop",
+   "Jazz",
+   "Rock",
+   "Pop",
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Funk / Soul",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Latin"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Samba",
+    "Electronic"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Latin"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Blues"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Blues"
+   ],
+   [
+    "Latin Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Latin"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Rock"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Lounge",
+    "Latin"
+   ],
+   [
+    "Lounge",
+    "Funk / Soul"
+   ],
+   [
+    "Lounge",
+    "Pop"
+   ],
+   [
+    "Lounge",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Latin"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Rock"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Lounge",
+    "Latin"
+   ],
+   [
+    "Lounge",
+    "Funk / Soul"
+   ],
+   [
+    "Lounge",
+    "Pop"
+   ],
+   [
+    "Lounge",
+    "Stage & Screen"
+   ],
+   [
+    "Pop Rock",
+    "Jazz"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Lounge",
+    "Pop"
+   ],
+   [
+    "Lounge",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ballad",
+    "Jazz"
+   ],
+   [
+    "Ballad",
+    "Rock"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Folk, World, & Country"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Rock"
+   ],
+   [
+    "Cool Jazz",
+    "Pop"
+   ],
+   [
+    "Cool Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Latin"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Latin"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Blues"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Instrumental",
+    "Latin"
+   ],
+   [
+    "Instrumental",
+    "Pop"
+   ],
+   [
+    "Italo-Disco",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Latin"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Latin"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Jazz"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Lounge",
+    "Jazz"
+   ],
+   [
+    "Lounge",
+    "Rock"
+   ],
+   [
+    "Lounge",
+    "Pop"
+   ],
+   [
+    "Lounge",
+    "Folk, World, & Country"
+   ],
+   [
+    "Ballad",
+    "Jazz"
+   ],
+   [
+    "Ballad",
+    "Rock"
+   ],
+   [
+    "Ballad",
+    "Pop"
+   ],
+   [
+    "Ballad",
+    "Folk, World, & Country"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Rock"
+   ],
+   [
+    "Cool Jazz",
+    "Pop"
+   ],
+   [
+    "Cool Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Folk, World, & Country"
+   ],
+   [
+    "Canzone Napoletana",
+    "Pop"
+   ],
+   [
+    "Canzone Napoletana",
+    "Folk, World, & Country"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Funk",
+   "Disco",
+   "Samba",
+   "Experimental",
+   "Soundtrack",
+   "Latin Jazz",
+   "Soundtrack",
+   "Soundtrack",
+   "Funk",
+   "Theme",
+   "Soundtrack",
+   "Bossa Nova",
+   "Lounge",
+   "Soundtrack",
+   "Soundtrack",
+   "Score",
+   "Funk",
+   "Bossa Nova",
+   "Soundtrack",
+   "Bossa Nova",
+   "Lounge",
+   "Pop Rock",
+   "Lounge",
+   "Ballad",
+   "Cool Jazz",
+   "Soundtrack",
+   "Funk",
+   "Theme",
+   "Score",
+   "Soundtrack",
+   "Instrumental",
+   "Italo-Disco",
+   "House",
+   "Experimental",
+   "Disco",
+   "Disco",
+   "Soundtrack",
+   "Soundtrack",
+   "Chanson",
+   "Chanson",
+   "Ballad",
+   "Pop Rock",
+   "Lounge",
+   "Ballad",
+   "Cool Jazz",
+   "Vocal",
+   "Canzone Napoletana",
+   "Funk",
+   "Psychedelic",
+   "Score"
+  ],
+  "years": [
+   1982,
+   1979,
+   2025,
+   1998,
+   2018,
+   1975,
+   2022,
+   2019,
+   1964,
+   2018,
+   1969,
+   1998,
+   1991,
+   1984,
+   1978,
+   1978,
+   1998,
+   1998,
+   1978,
+   1973,
+   1964,
+   1996,
+   1974
+  ]
+ },
  "alberto favero": {
   "countries": [
    "Argentina",
