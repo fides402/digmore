@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2015,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 2,
+      "styles_considered": 108
+    }
+  },
+  "results": [
+    {
+      "artist": "Flora Purim",
+      "title": "Juicy",
+      "release_title": "Flora Purim - That's What She Said",
+      "year": "1978",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 19121275,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PpLusHjQ6NPeRMOCfnL-RO11iXkKzXmoSF6Y6tbQpXc/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIx/Mjc1LTE2MjM1NDg0/NTEtMTE4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "A Remark You Made",
+      "release_title": "Weather Report - Heavy Weather",
+      "year": "1997",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 22098487,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/6703036b7774a926d2ef829c02af8b10d9082eaa/images/spacer.gif"
+    },
+    {
+      "artist": "Jimmy Smith",
+      "title": "Mickey Mouse (Non-LP Single)",
+      "release_title": "Jimmy Smith - Respect + Livin' It Up",
+      "year": "2010",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 11646605,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/aNzYBiU9zxpKF2lMHFzlYYE4zQwZK4uEbrZfGf37iSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ2/NjA1LTE1MjE4ODU3/MjQtOTc1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Turn Blue",
+      "release_title": "Jimmy McGriff - Jimmy McGriff's Greatest Organ Hits",
+      "year": "1968",
+      "label": "Veep",
+      "country": "US",
+      "discogs_id": 13883688,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BwfDLGqGEMUxpBtHKBOC_jarK9cyX-JLTccuphm0eeg/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODgz/Njg4LTE1NjM4Mjky/NDUtNTY1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Johnny Hammond",
+      "title": "Dirty Grape",
+      "release_title": "Johnny \"Hammond\" Smith* - The Best Of Johnny \"Hammond\" Smith",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 20822260,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bONVA_lz2UZv1WPMbIkGMJfQjkFPFyx5EOq8uXnZtXk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIy/MjYwLTE2MzU4NTE5/ODUtOTkzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Somewhere In The Night",
+      "release_title": "Cal Tjader - Verve Return Engagement",
+      "year": "1974",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 5472743,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/aqhDKsJ4yFC0_2Z3FSOuS03_KhWFmq3fvseKhbaDwrw/rs:fit/g:sm/q:90/h:351/w:349/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzI3/NDMtMTM5NDI5MTQ5/MS0zNjEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & Sérgio Mendes & Brasil '66",
+      "title": "The Joker",
+      "release_title": "Herb Alpert Presents Sergio Mendes & Brasil '66* - Herb Alpert Presents Sergio Mendes & Brasil '66",
+      "year": "2006",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 792549,
+      "rating_avg": 4.47,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/k4qmdGHnm5-QzsDjqulf0CXjhMn0K859jQ6m5m7ACUQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjU0/OS0xNTg1MDgyMzg5/LTkyMTcuanBlZw.jpeg"
+    },
+    {
+      "artist": "The Eleventh House & Larry Coryell",
+      "title": "Ani't It Is",
+      "release_title": "The Eleventh House Featuring Larry Coryell - Aspects",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 5858186,
+      "rating_avg": 3.88,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/pFq4CA0vZq1X94jY7onnYwZsc4bJNYDnsFmcyJozWn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTgx/ODYtMTQzNTE3MDk0/NC05MDAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnny Hammond",
+      "title": "Love Potion #9",
+      "release_title": "Johnny \"Hammond\" Smith* - The Best Of Johnny \"Hammond\" Smith",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 20822260,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bONVA_lz2UZv1WPMbIkGMJfQjkFPFyx5EOq8uXnZtXk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIy/MjYwLTE2MzU4NTE5/ODUtOTkzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "It Feels So Good",
+      "release_title": "Grover Washington, Jr. - Feels So Good",
+      "year": "1981",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 6942352,
+      "rating_avg": 4.1,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/Pcw6uDiN0K9hGrPcAtHwiLbwqDM02XqxT6KMvPMEwpU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDIz/NTItMTQzMTUyNjE5/Ny02MjU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnny Hammond",
+      "title": "Good 'Nuff",
+      "release_title": "Johnny \"Hammond\" Smith* - The Best Of Johnny \"Hammond\" Smith",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 20822260,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/bONVA_lz2UZv1WPMbIkGMJfQjkFPFyx5EOq8uXnZtXk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIy/MjYwLTE2MzU4NTE5/ODUtOTkzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Eleventh House & Larry Coryell",
+      "title": "Woman Of Truth And Future",
+      "release_title": "The Eleventh House Featuring Larry Coryell - Aspects",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 5858186,
+      "rating_avg": 3.88,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/pFq4CA0vZq1X94jY7onnYwZsc4bJNYDnsFmcyJozWn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTgx/ODYtMTQzNTE3MDk0/NC05MDAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Fourth Way",
+      "title": "Ebony Plaza (Part 1)",
+      "release_title": "The Fourth Way - The Sun And Moon Have Come Together",
+      "year": "1969",
+      "label": "Harvest",
+      "country": "US",
+      "discogs_id": 11236953,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Dm9CtmGrYdhY57BdOsYzMBCZjfOtVYvs7VbZAAAI5KI/rs:fit/g:sm/q:90/h:600/w:484/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM2/OTUzLTE1MTI0NzE1/OTQtNzU4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Eleventh House & Larry Coryell",
+      "title": "Yin-Yang",
+      "release_title": "The Eleventh House Featuring Larry Coryell - Aspects",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 5858186,
+      "rating_avg": 3.88,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/pFq4CA0vZq1X94jY7onnYwZsc4bJNYDnsFmcyJozWn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTgx/ODYtMTQzNTE3MDk0/NC05MDAzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & Sérgio Mendes & Brasil '66",
+      "title": "O Pato",
+      "release_title": "Herb Alpert Presents Sergio Mendes & Brasil '66* - Herb Alpert Presents Sergio Mendes & Brasil '66",
+      "year": "2006",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 792549,
+      "rating_avg": 4.47,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/k4qmdGHnm5-QzsDjqulf0CXjhMn0K859jQ6m5m7ACUQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjU0/OS0xNTg1MDgyMzg5/LTkyMTcuanBlZw.jpeg"
+    },
+    {
+      "artist": "Hank Crawford & Jimmy McGriff",
+      "title": "The Peeper",
+      "release_title": "Hank Crawford / Jimmy McGriff - Soul Survivors",
+      "year": "1986",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 2934624,
+      "rating_avg": 3.81,
+      "rating_count": 26,
+      "cover_image": "https://i.discogs.com/h1ElnkQRdJkyMXsv1cIBAymTg-qbI-RTLBqIyGOdADQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ2/MjQtMTQ4MzkzMDA2/MS0zNzg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Oscar Peterson",
+      "title": "Carioca",
+      "release_title": "Oscar Peterson - Soul Español",
+      "year": "1968",
+      "label": "Limelight",
+      "country": "US",
+      "discogs_id": 22352179,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pmpTQQtXFLFTGUv7fOeud461O6fzx0mR0XhHprQCBS0/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzUy/MTc5LTE2NDY1MTg0/MzktNzcwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Woody Herman",
+      "title": "Sandia Chicano (Watermelon Man)",
+      "release_title": "Woody Herman - The Raven Speaks",
+      "year": "1972",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 17184736,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/N-l0ypjmipmg87zv28MGBD5Ot-H5fW7oLhGdvCKO-MI/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg0/NzM2LTE2MTIwNDA2/NDgtMzI4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Obiedo",
+      "title": "No Fiesta",
+      "release_title": "Ray Obiedo - Perfect Crime",
+      "year": "1989",
+      "label": "Windham Hill Jazz",
+      "country": "US",
+      "discogs_id": 13310033,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EBEsbqABMDgItOQ2xVHJ024_CkM5Y1OhlAh9-OKUQsc/rs:fit/g:sm/q:90/h:395/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDMzLTE1NTIwNzUz/NDktNzQ5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Woody Herman",
+      "title": "Alone Again (Naturally)",
+      "release_title": "Woody Herman - The Raven Speaks",
+      "year": "1972",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 17184736,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/N-l0ypjmipmg87zv28MGBD5Ot-H5fW7oLhGdvCKO-MI/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg0/NzM2LTE2MTIwNDA2/NDgtMzI4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Flora Purim",
+      "title": "Hidden Within",
+      "release_title": "Flora Purim - That's What She Said",
+      "year": "1978",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 19121275,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PpLusHjQ6NPeRMOCfnL-RO11iXkKzXmoSF6Y6tbQpXc/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIx/Mjc1LTE2MjM1NDg0/NTEtMTE4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Flora Purim",
+      "title": "Bahama Mama",
+      "release_title": "Flora Purim - That's What She Said",
+      "year": "1978",
+      "label": "Milestone",
+      "country": "US",
+      "discogs_id": 19121275,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PpLusHjQ6NPeRMOCfnL-RO11iXkKzXmoSF6Y6tbQpXc/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIx/Mjc1LTE2MjM1NDg0/NTEtMTE4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Oscar Peterson",
+      "title": "Amanha = Tomorrow",
+      "release_title": "Oscar Peterson - Soul Español",
+      "year": "1968",
+      "label": "Limelight",
+      "country": "US",
+      "discogs_id": 22352179,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pmpTQQtXFLFTGUv7fOeud461O6fzx0mR0XhHprQCBS0/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzUy/MTc5LTE2NDY1MTg0/MzktNzcwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Fourth Way",
+      "title": "Blues My Mind",
+      "release_title": "The Fourth Way - The Sun And Moon Have Come Together",
+      "year": "1969",
+      "label": "Harvest",
+      "country": "US",
+      "discogs_id": 11236953,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Dm9CtmGrYdhY57BdOsYzMBCZjfOtVYvs7VbZAAAI5KI/rs:fit/g:sm/q:90/h:600/w:484/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM2/OTUzLTE1MTI0NzE1/OTQtNzU4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Birdland",
+      "release_title": "Weather Report - Heavy Weather",
+      "year": "1997",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 22098487,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/6703036b7774a926d2ef829c02af8b10d9082eaa/images/spacer.gif"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "I've Got A Woman",
+      "release_title": "Jimmy McGriff - Jimmy McGriff's Greatest Organ Hits",
+      "year": "1968",
+      "label": "Veep",
+      "country": "US",
+      "discogs_id": 13883688,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BwfDLGqGEMUxpBtHKBOC_jarK9cyX-JLTccuphm0eeg/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODgz/Njg4LTE1NjM4Mjky/NDUtNTY1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Fourth Way",
+      "title": "Skiffling",
+      "release_title": "The Fourth Way - The Sun And Moon Have Come Together",
+      "year": "1969",
+      "label": "Harvest",
+      "country": "US",
+      "discogs_id": 11236953,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Dm9CtmGrYdhY57BdOsYzMBCZjfOtVYvs7VbZAAAI5KI/rs:fit/g:sm/q:90/h:600/w:484/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM2/OTUzLTE1MTI0NzE1/OTQtNzU4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Woody Herman",
+      "title": "It's Too Late",
+      "release_title": "Woody Herman - The Raven Speaks",
+      "year": "1972",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 17184736,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/N-l0ypjmipmg87zv28MGBD5Ot-H5fW7oLhGdvCKO-MI/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg0/NzM2LTE2MTIwNDA2/NDgtMzI4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Five Short Stories",
+      "release_title": "Weather Report - Tale Spinnin'",
+      "year": "1975",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 11730825,
+      "rating_avg": 4.19,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/ZhJ1KaxrhKyAA9cVwleON1vJb9KaTZaYcDK7tqJtIWE/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzMw/ODI1LTE1MjE0MDc5/ODItMjM3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Obiedo",
+      "title": "Sienna",
+      "release_title": "Ray Obiedo - Perfect Crime",
+      "year": "1989",
+      "label": "Windham Hill Jazz",
+      "country": "US",
+      "discogs_id": 13310033,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EBEsbqABMDgItOQ2xVHJ024_CkM5Y1OhlAh9-OKUQsc/rs:fit/g:sm/q:90/h:395/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEw/MDMzLTE1NTIwNzUz/NDktNzQ5MS5qcGVn.jpeg"
+    }
+  ]
+}
