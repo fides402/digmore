@@ -138714,6 +138714,467 @@
    1967
   ]
  },
+ "pieces of a dream": {
+  "countries": [
+   "US",
+   "Japan",
+   "US",
+   "UK",
+   "US",
+   "US",
+   "Brazil",
+   "Russia",
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "US",
+   "UK",
+   "US",
+   "Europe",
+   "US",
+   "US",
+   "US",
+   "New Zealand",
+   "Malaysia",
+   "US",
+   "Canada",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Electronic",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "RnB/Swing",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Hip Hop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Electronic"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "RnB/Swing",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Electronic"
+   ],
+   [
+    "Jazz-Funk",
+    "Hip Hop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Hip Hop"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Electro",
+    "Electronic"
+   ],
+   [
+    "Electro",
+    "Hip Hop"
+   ],
+   [
+    "Electro",
+    "Jazz"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "RnB/Swing",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "RnB/Swing",
+    "Hip Hop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Disco",
+    "Jazz"
+   ],
+   [
+    "Disco",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soul-Jazz",
+   "Jazz-Funk",
+   "Funk",
+   "Smooth Jazz",
+   "Fusion",
+   "Soul-Jazz",
+   "Jazz-Funk",
+   "RnB/Swing",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Fusion",
+   "Soul-Jazz",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Soul",
+   "RnB/Swing",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Soul",
+   "Jazz-Funk",
+   "Disco",
+   "Electro",
+   "RnB/Swing",
+   "Contemporary R&B",
+   "Soul",
+   "Jazz-Funk",
+   "RnB/Swing",
+   "RnB/Swing",
+   "Jazz-Funk",
+   "Soul",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Jazz-Funk",
+   "Fusion",
+   "Smooth Jazz",
+   "Smooth Jazz",
+   "Fusion",
+   "Soul-Jazz",
+   "Jazz-Funk",
+   "Funk",
+   "Soul",
+   "Smooth Jazz",
+   "Disco",
+   "Smooth Jazz"
+  ],
+  "years": [
+   1983,
+   1992,
+   1986,
+   1986,
+   1993,
+   2005,
+   1984,
+   1988,
+   1989,
+   1996,
+   1981,
+   1988,
+   1989,
+   1997,
+   1989,
+   1989,
+   1981,
+   1982,
+   1993,
+   1993,
+   1983,
+   1988,
+   2003
+  ]
+ },
  "piero piccioni": {
   "countries": [
    "Japan",
