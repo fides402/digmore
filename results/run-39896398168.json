@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Theme"
+      },
+      {
+        "genre": "Hip Hop",
+        "style": "Conscious"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2021,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 30,
+      "artists_found": 27,
+      "fresh_lookups": 0,
+      "styles_considered": 92
+    }
+  },
+  "results": [
+    {
+      "artist": "Lightnin' Rod",
+      "title": "Coppin' Some Fronts For The Set",
+      "release_title": "Lightnin' Rod - Hustler's Convention",
+      "year": "1991",
+      "label": "Oceana Records",
+      "country": "US",
+      "discogs_id": 3786447,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ojBKZajlKq8-jR8fs2hZpdKMImgErSbVEb219a25X6s/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODY0/NDctMTUxNjcwMjQz/MS00Njg3Lm1wbw.jpeg"
+    },
+    {
+      "artist": "Gene Russell",
+      "title": "Hitting The Jug",
+      "release_title": "Gene Russell - New Direction",
+      "year": "1971",
+      "label": "Black Jazz Records",
+      "country": "US",
+      "discogs_id": 1380948,
+      "rating_avg": 4.36,
+      "rating_count": 75,
+      "cover_image": "https://i.discogs.com/O_z5RUBLL5_E37Z5ZC3q2w70pVP4pgAAvOE_1VgLSP4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA5/NDgtMTM5NTk4MzE3/NC00NTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The T.S.U. Toronadoes",
+      "title": "It's Your Thing",
+      "release_title": "The T.S.U. Toronados* - One Flight Too Many - Rare And Unreleased Houston Funk From The Vaults Of Ovide Records 1968-1969",
+      "year": "2002",
+      "label": "Funky Delicacies",
+      "country": "US",
+      "discogs_id": 4397090,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/y3h6aB4EW6LvUPamFZy-qg8zfjlErYahUdY2eL79TA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTcw/OTAtMTQxMjQ3MTI5/Mi01ODQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jon Lucien",
+      "title": "A Heart In Love",
+      "release_title": "Jon Lucien - Precious Is Love (Majestic Soul)",
+      "year": "1999",
+      "label": "ARTS Records International",
+      "country": "US",
+      "discogs_id": 1278464,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ReuIAa4s6GHJIpOvGtFFjklDnC46sBAmQWPqMxfj2EY/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NjQtMTM0Njg0MzY4/MS01NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lightnin' Rod",
+      "title": "Sport",
+      "release_title": "Lightnin' Rod - Hustler's Convention",
+      "year": "1991",
+      "label": "Oceana Records",
+      "country": "US",
+      "discogs_id": 3786447,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ojBKZajlKq8-jR8fs2hZpdKMImgErSbVEb219a25X6s/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODY0/NDctMTUxNjcwMjQz/MS00Njg3Lm1wbw.jpeg"
+    },
+    {
+      "artist": "The J.B.'s",
+      "title": "These Are The J.B.'s (Part 1)",
+      "release_title": "The J.B.s* - These Are The J.B.'s",
+      "year": "1970",
+      "label": "King Records",
+      "country": "US",
+      "discogs_id": 4757104,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/VFT8QbgVcusclCyxy7Uw1z1qBSTf-PWcO5kpgPVnfWc/rs:fit/g:sm/q:90/h:564/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTcx/MDQtMTUxNjgxNTkz/OC04OTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brief Encounter",
+      "title": "We're Gonna Have A Good Time",
+      "release_title": "The Brief Encounter* - The Brief Encounter",
+      "year": "2021",
+      "label": "Real Gone Music",
+      "country": "US",
+      "discogs_id": 20851486,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/PsHYVlzBOcxd1AwJKIvsnS8Db8FnNfGFLo0ofcqgOBU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUx/NDg2LTE2MzYwNDg4/MjQtODI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Bobby Timmons Trio",
+      "title": "If I Should Lose You",
+      "release_title": "Bobby Timmons Trio* - From The Bottom",
+      "year": "1970",
+      "label": "Riverside Records",
+      "country": "US",
+      "discogs_id": 2132141,
+      "rating_avg": 4.2,
+      "rating_count": 44,
+      "cover_image": "https://i.discogs.com/shzonOWWSjH--CHRhH5BJ0EGP_3h89PszodSU5emn2w/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIx/NDEtMTI4OTYxNjgx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Russell",
+      "title": "On Green Dolphin Street",
+      "release_title": "Gene Russell - New Direction",
+      "year": "1971",
+      "label": "Black Jazz Records",
+      "country": "US",
+      "discogs_id": 1380948,
+      "rating_avg": 4.36,
+      "rating_count": 75,
+      "cover_image": "https://i.discogs.com/O_z5RUBLL5_E37Z5ZC3q2w70pVP4pgAAvOE_1VgLSP4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA5/NDgtMTM5NTk4MzE3/NC00NTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Fantastic Souls",
+      "title": "Aftershower Funk Pt.2",
+      "release_title": "The Fantastic Souls - Aftershower Funk",
+      "year": "2010",
+      "label": "Kay-Dee Records",
+      "country": "US",
+      "discogs_id": 6125504,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/woXngeZDKg-mqFHb2pGQznPQESUraX_CA_mA-4rS0rM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjU1/MDQtMTYxNDcxOTIw/OS0xMjQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Laurence Rosenthal",
+      "title": "The Romanoffs",
+      "release_title": "Laurence Rosenthal - Anastasia, The Mystery Of Anna",
+      "year": "1987",
+      "label": "Southern Cross Records",
+      "country": "US",
+      "discogs_id": 8616375,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4hRh6wYqNpt1gLcXeYE1T1Bf-kP_zz9Fb47PYKm3LGw/rs:fit/g:sm/q:90/h:303/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTYz/NzUtMTQ5NDU4NjI3/MS00OTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Piece of Cake Productions",
+      "title": "Piano/Guitar Mix",
+      "release_title": "Piece of Cake Productions - Samples",
+      "year": "1993",
+      "label": "Piece of Cake Productions",
+      "country": "US",
+      "discogs_id": 34542460,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QGm_YNNepDB7K9MLADCoBCOIUqlCNrjFcgwGsdE7398/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQy/NDYwLTE3NTI1NDE0/MTUtMjIzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Bobby Timmons Trio",
+      "title": "Quiet Nights Of Quiet Stars",
+      "release_title": "Bobby Timmons Trio* - From The Bottom",
+      "year": "1970",
+      "label": "Riverside Records",
+      "country": "US",
+      "discogs_id": 2132141,
+      "rating_avg": 4.2,
+      "rating_count": 44,
+      "cover_image": "https://i.discogs.com/shzonOWWSjH--CHRhH5BJ0EGP_3h89PszodSU5emn2w/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIx/NDEtMTI4OTYxNjgx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Bobby Timmons Trio",
+      "title": "Samba Triste",
+      "release_title": "Bobby Timmons Trio* - From The Bottom",
+      "year": "1970",
+      "label": "Riverside Records",
+      "country": "US",
+      "discogs_id": 2132141,
+      "rating_avg": 4.2,
+      "rating_count": 44,
+      "cover_image": "https://i.discogs.com/shzonOWWSjH--CHRhH5BJ0EGP_3h89PszodSU5emn2w/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIx/NDEtMTI4OTYxNjgx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Abraham",
+      "title": "Scared Fly",
+      "release_title": "Abraham (2) - Funky Spider And / Scared Fly",
+      "year": "1973",
+      "label": "Hy Sign",
+      "country": "US",
+      "discogs_id": 991790,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/3s_ZBqlWcd37oweqWpY17SwSNvGAGB4JQKFM2kHN3eY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTc5/MC0xNDgzOTE3NTc2/LTkwMzQuanBlZw.jpeg"
+    },
+    {
+      "artist": "Natalie Holt",
+      "title": "TVA",
+      "release_title": "Natalie Holt - TVA",
+      "year": "2021",
+      "label": "Marvel Music, Inc.",
+      "country": "US",
+      "discogs_id": 19404952,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Evnd0FoJML8-2M7Q3JLZkRyg7VjiujZlmibN-81gpJA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDA0/OTUyLTE2MjU2MjA5/MzctMTg0Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Russell",
+      "title": "Black Orchid",
+      "release_title": "Gene Russell - New Direction",
+      "year": "1971",
+      "label": "Black Jazz Records",
+      "country": "US",
+      "discogs_id": 1380948,
+      "rating_avg": 4.36,
+      "rating_count": 75,
+      "cover_image": "https://i.discogs.com/O_z5RUBLL5_E37Z5ZC3q2w70pVP4pgAAvOE_1VgLSP4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA5/NDgtMTM5NTk4MzE3/NC00NTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Laurence Rosenthal",
+      "title": "Confronting Sophie",
+      "release_title": "Laurence Rosenthal - Anastasia, The Mystery Of Anna",
+      "year": "1987",
+      "label": "Southern Cross Records",
+      "country": "US",
+      "discogs_id": 8616375,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4hRh6wYqNpt1gLcXeYE1T1Bf-kP_zz9Fb47PYKm3LGw/rs:fit/g:sm/q:90/h:303/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTYz/NzUtMTQ5NDU4NjI3/MS00OTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Laurence Rosenthal",
+      "title": "The Cellar",
+      "release_title": "Laurence Rosenthal - Anastasia, The Mystery Of Anna",
+      "year": "1987",
+      "label": "Southern Cross Records",
+      "country": "US",
+      "discogs_id": 8616375,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4hRh6wYqNpt1gLcXeYE1T1Bf-kP_zz9Fb47PYKm3LGw/rs:fit/g:sm/q:90/h:303/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTYz/NzUtMTQ5NDU4NjI3/MS00OTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lightnin' Rod",
+      "title": "Brother Hominy Grit",
+      "release_title": "Lightnin' Rod - Hustler's Convention",
+      "year": "1991",
+      "label": "Oceana Records",
+      "country": "US",
+      "discogs_id": 3786447,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ojBKZajlKq8-jR8fs2hZpdKMImgErSbVEb219a25X6s/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODY0/NDctMTUxNjcwMjQz/MS00Njg3Lm1wbw.jpeg"
+    },
+    {
+      "artist": "Jon Lucien",
+      "title": "My Cherie Amour",
+      "release_title": "Jon Lucien - Precious Is Love (Majestic Soul)",
+      "year": "1999",
+      "label": "ARTS Records International",
+      "country": "US",
+      "discogs_id": 1278464,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ReuIAa4s6GHJIpOvGtFFjklDnC46sBAmQWPqMxfj2EY/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NjQtMTM0Njg0MzY4/MS01NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The T.S.U. Toronadoes",
+      "title": "The Toronado (Alternate Take)",
+      "release_title": "The T.S.U. Toronados* - One Flight Too Many - Rare And Unreleased Houston Funk From The Vaults Of Ovide Records 1968-1969",
+      "year": "2002",
+      "label": "Funky Delicacies",
+      "country": "US",
+      "discogs_id": 4397090,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/y3h6aB4EW6LvUPamFZy-qg8zfjlErYahUdY2eL79TA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTcw/OTAtMTQxMjQ3MTI5/Mi01ODQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Abraham",
+      "title": "Funky Spider And",
+      "release_title": "Abraham (2) - Funky Spider And / Scared Fly",
+      "year": "1973",
+      "label": "Hy Sign",
+      "country": "US",
+      "discogs_id": 991790,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/3s_ZBqlWcd37oweqWpY17SwSNvGAGB4JQKFM2kHN3eY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTc5/MC0xNDgzOTE3NTc2/LTkwMzQuanBlZw.jpeg"
+    },
+    {
+      "artist": "Jon Lucien",
+      "title": "The Season Of Spring",
+      "release_title": "Jon Lucien - Precious Is Love (Majestic Soul)",
+      "year": "1999",
+      "label": "ARTS Records International",
+      "country": "US",
+      "discogs_id": 1278464,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ReuIAa4s6GHJIpOvGtFFjklDnC46sBAmQWPqMxfj2EY/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NjQtMTM0Njg0MzY4/MS01NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carl Thiel",
+      "title": "Roark",
+      "release_title": "Robert Rodriguez, Carl Thiel - Frank Miller's Sin City: A Dame To Kill For (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "Morada Music",
+      "country": "US",
+      "discogs_id": 11271630,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/V8fsjO99OpoSFK1NrOqNHKAefRV5SOndWNi8J3vY9ak/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcx/NjMwLTE1MTMxNTI4/MzAtMTcxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Fantastic Souls",
+      "title": "Aftershower Funk Pt.1",
+      "release_title": "The Fantastic Souls - Aftershower Funk",
+      "year": "2010",
+      "label": "Kay-Dee Records",
+      "country": "US",
+      "discogs_id": 6125504,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/woXngeZDKg-mqFHb2pGQznPQESUraX_CA_mA-4rS0rM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjU1/MDQtMTYxNDcxOTIw/OS0xMjQ0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carl Thiel",
+      "title": "Marv & Nancy Ride",
+      "release_title": "Robert Rodriguez, Carl Thiel - Frank Miller's Sin City: A Dame To Kill For (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "Morada Music",
+      "country": "US",
+      "discogs_id": 11271630,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/V8fsjO99OpoSFK1NrOqNHKAefRV5SOndWNi8J3vY9ak/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcx/NjMwLTE1MTMxNTI4/MzAtMTcxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The T.S.U. Toronadoes",
+      "title": "Work On It (Instrumental Version)",
+      "release_title": "The T.S.U. Toronados* - One Flight Too Many - Rare And Unreleased Houston Funk From The Vaults Of Ovide Records 1968-1969",
+      "year": "2002",
+      "label": "Funky Delicacies",
+      "country": "US",
+      "discogs_id": 4397090,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/y3h6aB4EW6LvUPamFZy-qg8zfjlErYahUdY2eL79TA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTcw/OTAtMTQxMjQ3MTI5/Mi01ODQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Robert Rodriguez",
+      "title": "Sin City Waltz",
+      "release_title": "Robert Rodriguez, Carl Thiel - Frank Miller's Sin City: A Dame To Kill For (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "Morada Music",
+      "country": "US",
+      "discogs_id": 11271630,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/V8fsjO99OpoSFK1NrOqNHKAefRV5SOndWNi8J3vY9ak/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcx/NjMwLTE1MTMxNTI4/MzAtMTcxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brief Encounter",
+      "title": "The Brief Encounter (Introduction)",
+      "release_title": "The Brief Encounter* - The Brief Encounter",
+      "year": "2021",
+      "label": "Real Gone Music",
+      "country": "US",
+      "discogs_id": 20851486,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/PsHYVlzBOcxd1AwJKIvsnS8Db8FnNfGFLo0ofcqgOBU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUx/NDg2LTE2MzYwNDg4/MjQtODI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lightnin' Rod",
+      "title": "The Shit Hits The Fan Again",
+      "release_title": "Lightnin' Rod - Hustler's Convention",
+      "year": "1991",
+      "label": "Oceana Records",
+      "country": "US",
+      "discogs_id": 3786447,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ojBKZajlKq8-jR8fs2hZpdKMImgErSbVEb219a25X6s/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODY0/NDctMTUxNjcwMjQz/MS00Njg3Lm1wbw.jpeg"
+    },
+    {
+      "artist": "Brief Encounter",
+      "title": "In A Special Kind Of Way",
+      "release_title": "The Brief Encounter* - The Brief Encounter",
+      "year": "2021",
+      "label": "Real Gone Music",
+      "country": "US",
+      "discogs_id": 20851486,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/PsHYVlzBOcxd1AwJKIvsnS8Db8FnNfGFLo0ofcqgOBU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUx/NDg2LTE2MzYwNDg4/MjQtODI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Piece of Cake Productions",
+      "title": "Metal",
+      "release_title": "Piece of Cake Productions - Samples",
+      "year": "1993",
+      "label": "Piece of Cake Productions",
+      "country": "US",
+      "discogs_id": 34542460,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QGm_YNNepDB7K9MLADCoBCOIUqlCNrjFcgwGsdE7398/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQy/NDYwLTE3NTI1NDE0/MTUtMjIzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Bobby Timmons Trio",
+      "title": "Moanin'",
+      "release_title": "Bobby Timmons Trio* - From The Bottom",
+      "year": "1970",
+      "label": "Riverside Records",
+      "country": "US",
+      "discogs_id": 2132141,
+      "rating_avg": 4.2,
+      "rating_count": 44,
+      "cover_image": "https://i.discogs.com/shzonOWWSjH--CHRhH5BJ0EGP_3h89PszodSU5emn2w/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIx/NDEtMTI4OTYxNjgx/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jon Lucien",
+      "title": "How Insensitive",
+      "release_title": "Jon Lucien - Precious Is Love (Majestic Soul)",
+      "year": "1999",
+      "label": "ARTS Records International",
+      "country": "US",
+      "discogs_id": 1278464,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ReuIAa4s6GHJIpOvGtFFjklDnC46sBAmQWPqMxfj2EY/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NjQtMTM0Njg0MzY4/MS01NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The T.S.U. Toronadoes",
+      "title": "I Still Love You",
+      "release_title": "The T.S.U. Toronados* - One Flight Too Many - Rare And Unreleased Houston Funk From The Vaults Of Ovide Records 1968-1969",
+      "year": "2002",
+      "label": "Funky Delicacies",
+      "country": "US",
+      "discogs_id": 4397090,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/y3h6aB4EW6LvUPamFZy-qg8zfjlErYahUdY2eL79TA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTcw/OTAtMTQxMjQ3MTI5/Mi01ODQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brief Encounter",
+      "title": "Just One Moment",
+      "release_title": "The Brief Encounter* - The Brief Encounter",
+      "year": "2021",
+      "label": "Real Gone Music",
+      "country": "US",
+      "discogs_id": 20851486,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/PsHYVlzBOcxd1AwJKIvsnS8Db8FnNfGFLo0ofcqgOBU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUx/NDg2LTE2MzYwNDg4/MjQtODI0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Russell",
+      "title": "Listen Here",
+      "release_title": "Gene Russell - New Direction",
+      "year": "1971",
+      "label": "Black Jazz Records",
+      "country": "US",
+      "discogs_id": 1380948,
+      "rating_avg": 4.36,
+      "rating_count": 75,
+      "cover_image": "https://i.discogs.com/O_z5RUBLL5_E37Z5ZC3q2w70pVP4pgAAvOE_1VgLSP4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA5/NDgtMTM5NTk4MzE3/NC00NTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Piece of Cake Productions",
+      "title": "Tropical",
+      "release_title": "Piece of Cake Productions - Samples",
+      "year": "1993",
+      "label": "Piece of Cake Productions",
+      "country": "US",
+      "discogs_id": 34542460,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QGm_YNNepDB7K9MLADCoBCOIUqlCNrjFcgwGsdE7398/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQy/NDYwLTE3NTI1NDE0/MTUtMjIzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Laurence Rosenthal",
+      "title": "Main Title (Part 1)",
+      "release_title": "Laurence Rosenthal - Anastasia, The Mystery Of Anna",
+      "year": "1987",
+      "label": "Southern Cross Records",
+      "country": "US",
+      "discogs_id": 8616375,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4hRh6wYqNpt1gLcXeYE1T1Bf-kP_zz9Fb47PYKm3LGw/rs:fit/g:sm/q:90/h:303/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTYz/NzUtMTQ5NDU4NjI3/MS00OTg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Carl Thiel",
+      "title": "Mort's Descent",
+      "release_title": "Robert Rodriguez, Carl Thiel - Frank Miller's Sin City: A Dame To Kill For (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "Morada Music",
+      "country": "US",
+      "discogs_id": 11271630,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/V8fsjO99OpoSFK1NrOqNHKAefRV5SOndWNi8J3vY9ak/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcx/NjMwLTE1MTMxNTI4/MzAtMTcxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The J.B.'s",
+      "title": "These Are The J.B.'s (Part 2)",
+      "release_title": "The J.B.s* - These Are The J.B.'s",
+      "year": "1970",
+      "label": "King Records",
+      "country": "US",
+      "discogs_id": 4757104,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/VFT8QbgVcusclCyxy7Uw1z1qBSTf-PWcO5kpgPVnfWc/rs:fit/g:sm/q:90/h:564/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTcx/MDQtMTUxNjgxNTkz/OC04OTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Piece of Cake Productions",
+      "title": "Cool Bass & Percussion",
+      "release_title": "Piece of Cake Productions - Samples",
+      "year": "1993",
+      "label": "Piece of Cake Productions",
+      "country": "US",
+      "discogs_id": 34542460,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QGm_YNNepDB7K9MLADCoBCOIUqlCNrjFcgwGsdE7398/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQy/NDYwLTE3NTI1NDE0/MTUtMjIzNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Philip Sainton",
+      "title": "Captain Ahab",
+      "release_title": "Philip Sainton - Moby Dick (Original Soundtrack - 1956)",
+      "year": "2015",
+      "label": "Vintage Music",
+      "country": "US",
+      "discogs_id": 12511774,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/J_yeodvQ2wMDPDZr7nvKCROAnAKlKyMchFr5W0yTXZM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEx/Nzc0LTE1MzY3Njk1/OTktNzQwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Philip Sainton",
+      "title": "The Pequod Sails",
+      "release_title": "Philip Sainton - Moby Dick (Original Soundtrack - 1956)",
+      "year": "2015",
+      "label": "Vintage Music",
+      "country": "US",
+      "discogs_id": 12511774,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/J_yeodvQ2wMDPDZr7nvKCROAnAKlKyMchFr5W0yTXZM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEx/Nzc0LTE1MzY3Njk1/OTktNzQwMi5qcGVn.jpeg"
+    }
+  ]
+}
