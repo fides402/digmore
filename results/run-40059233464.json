@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Score"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Theme"
+      },
+      {
+        "genre": "Pop",
+        "style": "Chanson"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1965,
+    "year_to": 2014,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 26,
+      "artists_found": 25,
+      "fresh_lookups": 1,
+      "styles_considered": 90
+    }
+  },
+  "results": [
+    {
+      "artist": "Victor Young",
+      "title": "Samson's Call / Miriam And The Dance Dragon / The Valley Of Zorah / The Feather Dance / Delilah's Remorse / The Feast Dance / Bacchanale / Delilah's Harp / Samson And Delilah",
+      "release_title": "Victor Young - Samson And Delilah / The Quiet Man ",
+      "year": "1994",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 6632875,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/mJ0JfL5sBcWPbDgyZnmxhB-uMJY15u4osE4U5ji8cZ0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzI4/NzUtMTQyMzUwMjUz/Ny01NjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Ye Olde City",
+      "release_title": "Various - Star Trek: Enterprise Collection (Original Television Soundtrack)",
+      "year": "2014",
+      "label": "La-La Land Records",
+      "country": "US",
+      "discogs_id": 6408139,
+      "rating_avg": 4.75,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/xFtwhGbfKfDHrh7PLvtpFk81uNDtb4009RMn4sNtEGU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDgx/MzktMTQxODU2MTMy/Mi04NjM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Edwin Wendler",
+      "title": "The Shore",
+      "release_title": "Edwin Wendler - Escape (Original Motion Picture Score)",
+      "year": "2012",
+      "label": "Perseverance Records",
+      "country": "US",
+      "discogs_id": 4462630,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bT9-W8IHbAYzdG7_uSl9iCq2ArjD0xfzkZM7nBs6Crw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjI2/MzAtMTYxMDUwODI1/OC00Njk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Edwin Wendler",
+      "title": "Bonus Track: Escapees",
+      "release_title": "Edwin Wendler - Escape (Original Motion Picture Score)",
+      "year": "2012",
+      "label": "Perseverance Records",
+      "country": "US",
+      "discogs_id": 4462630,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bT9-W8IHbAYzdG7_uSl9iCq2ArjD0xfzkZM7nBs6Crw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjI2/MzAtMTYxMDUwODI1/OC00Njk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Grass Party",
+      "release_title": "Various - Mary Jane (Original Motion Picture Soundtrack)",
+      "year": "1967",
+      "label": "Sidewalk",
+      "country": "US",
+      "discogs_id": 4059090,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5KwR1_rPPkFBryE40B1-5HS4TpAjSC6pB2IVb3iJ0Os/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTkw/OTAtMTYyMzY2MjEx/OC02NDEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charles Boyer",
+      "title": "Theme From Where Does Love Go",
+      "release_title": "Charles Boyer - Where Does Love Go",
+      "year": "1965",
+      "label": "Valiant Records",
+      "country": "US",
+      "discogs_id": 8388370,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WUOhReplCcMObWc9HZFj_JwgXn89L5Fz1yUmz5dC6MI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODgz/NzAtMTU5NzM0MTE0/MS05NTEzLm1wbw.jpeg"
+    },
+    {
+      "artist": "Вилли Токарев",
+      "title": "Я Живу В Америке",
+      "release_title": "Вилли Токарев - S.O.S !!!",
+      "year": "1988",
+      "label": "Sava Recording Corporation",
+      "country": "US",
+      "discogs_id": 22784429,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NTE76lVGm11jFQ9Bnmlc43CRGybEHwbBPXbw0cZd9dI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg0/NDI5LTE2NDkyNTI0/MjktOTYxMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Edwin Wendler",
+      "title": "Plans",
+      "release_title": "Edwin Wendler - Escape (Original Motion Picture Score)",
+      "year": "2012",
+      "label": "Perseverance Records",
+      "country": "US",
+      "discogs_id": 4462630,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bT9-W8IHbAYzdG7_uSl9iCq2ArjD0xfzkZM7nBs6Crw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjI2/MzAtMTYxMDUwODI1/OC00Njk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hans Zimmer & Geoff Zanelli & Blake Neely",
+      "title": "Dear Vera",
+      "release_title": "Hans Zimmer, Geoff Zanelli, Blake Neely - The Pacific - Music From The HBO Miniseries",
+      "year": "2010",
+      "label": "Play-Tone",
+      "country": "US",
+      "discogs_id": 3231828,
+      "rating_avg": 4.29,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/-Ku8o6ThX8yIhF_pGtlEdGqp6kZex0ISv65CiNWD2Qk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzE4/MjgtMTMyMTU0MTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Rectra",
+      "title": "Fanette",
+      "release_title": "Phil Rectra - Sings Brel And Walker",
+      "year": "2009",
+      "label": "Not On Label (Phil Rectra self-released)",
+      "country": "US",
+      "discogs_id": 14635154,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tcCxW0AYJ-gvJo8eVwD_JtqZtYYNLqD_TP77z_vGXQU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM1/MTU0LTE1Nzg2MTUx/MzMtMTIzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hans Zimmer & Geoff Zanelli & Blake Neely",
+      "title": "Terrible Solomons",
+      "release_title": "Hans Zimmer, Geoff Zanelli, Blake Neely - The Pacific - Music From The HBO Miniseries",
+      "year": "2010",
+      "label": "Play-Tone",
+      "country": "US",
+      "discogs_id": 3231828,
+      "rating_avg": 4.29,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/-Ku8o6ThX8yIhF_pGtlEdGqp6kZex0ISv65CiNWD2Qk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzE4/MjgtMTMyMTU0MTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charles Boyer",
+      "title": "Where Does Love Go",
+      "release_title": "Charles Boyer - Where Does Love Go",
+      "year": "1965",
+      "label": "Valiant Records",
+      "country": "US",
+      "discogs_id": 8388370,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/WUOhReplCcMObWc9HZFj_JwgXn89L5Fz1yUmz5dC6MI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODgz/NzAtMTU5NzM0MTE0/MS05NTEzLm1wbw.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Gas Hassle",
+      "release_title": "Various - Mary Jane (Original Motion Picture Soundtrack)",
+      "year": "1967",
+      "label": "Sidewalk",
+      "country": "US",
+      "discogs_id": 4059090,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5KwR1_rPPkFBryE40B1-5HS4TpAjSC6pB2IVb3iJ0Os/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTkw/OTAtMTYyMzY2MjEx/OC02NDEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Victor Young",
+      "title": "The Big Fight",
+      "release_title": "Victor Young - Samson And Delilah / The Quiet Man ",
+      "year": "1994",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 6632875,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/mJ0JfL5sBcWPbDgyZnmxhB-uMJY15u4osE4U5ji8cZ0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzI4/NzUtMTQyMzUwMjUz/Ny01NjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hans Zimmer & Geoff Zanelli & Blake Neely",
+      "title": "Fallen Friend",
+      "release_title": "Hans Zimmer, Geoff Zanelli, Blake Neely - The Pacific - Music From The HBO Miniseries",
+      "year": "2010",
+      "label": "Play-Tone",
+      "country": "US",
+      "discogs_id": 3231828,
+      "rating_avg": 4.29,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/-Ku8o6ThX8yIhF_pGtlEdGqp6kZex0ISv65CiNWD2Qk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzE4/MjgtMTMyMTU0MTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Edwin Wendler",
+      "title": "Andaman Sea",
+      "release_title": "Edwin Wendler - Escape (Original Motion Picture Score)",
+      "year": "2012",
+      "label": "Perseverance Records",
+      "country": "US",
+      "discogs_id": 4462630,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/bT9-W8IHbAYzdG7_uSl9iCq2ArjD0xfzkZM7nBs6Crw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjI2/MzAtMTYxMDUwODI1/OC00Njk4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mireille Mathieu",
+      "title": "Il Jouait A L'Opera",
+      "release_title": "Mireille Mathieu - Le Vent De La Nuit",
+      "year": "2010",
+      "label": "Not On Label (Mireille Mathieu)",
+      "country": "US",
+      "discogs_id": 9170581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tnfdNGLpPU9LkLPZRRotFM1R286nl8hNxU5DKjh5HqI/rs:fit/g:sm/q:90/h:224/w:224/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA1/ODEtMTUwNDg4MjQw/NS03MTUyLnBuZw.jpeg"
+    },
+    {
+      "artist": "Вилли Токарев",
+      "title": "S.O.S !!!",
+      "release_title": "Вилли Токарев - S.O.S !!!",
+      "year": "1988",
+      "label": "Sava Recording Corporation",
+      "country": "US",
+      "discogs_id": 22784429,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NTE76lVGm11jFQ9Bnmlc43CRGybEHwbBPXbw0cZd9dI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg0/NDI5LTE2NDkyNTI0/MjktOTYxMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Captain Romantic / Disoriented Captain",
+      "release_title": "Various - Star Trek: Enterprise Collection (Original Television Soundtrack)",
+      "year": "2014",
+      "label": "La-La Land Records",
+      "country": "US",
+      "discogs_id": 6408139,
+      "rating_avg": 4.75,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/xFtwhGbfKfDHrh7PLvtpFk81uNDtb4009RMn4sNtEGU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDgx/MzktMTQxODU2MTMy/Mi04NjM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Paranoia",
+      "release_title": "Various - Star Trek: Enterprise Collection (Original Television Soundtrack)",
+      "year": "2014",
+      "label": "La-La Land Records",
+      "country": "US",
+      "discogs_id": 6408139,
+      "rating_avg": 4.75,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/xFtwhGbfKfDHrh7PLvtpFk81uNDtb4009RMn4sNtEGU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDgx/MzktMTQxODU2MTMy/Mi04NjM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Вилли Токарев",
+      "title": "В Бегах",
+      "release_title": "Вилли Токарев - S.O.S !!!",
+      "year": "1988",
+      "label": "Sava Recording Corporation",
+      "country": "US",
+      "discogs_id": 22784429,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NTE76lVGm11jFQ9Bnmlc43CRGybEHwbBPXbw0cZd9dI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg0/NDI5LTE2NDkyNTI0/MjktOTYxMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Blocked Exit",
+      "release_title": "Various - Star Trek: Enterprise Collection (Original Television Soundtrack)",
+      "year": "2014",
+      "label": "La-La Land Records",
+      "country": "US",
+      "discogs_id": 6408139,
+      "rating_avg": 4.75,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/xFtwhGbfKfDHrh7PLvtpFk81uNDtb4009RMn4sNtEGU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDgx/MzktMTQxODU2MTMy/Mi04NjM2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Victor Young",
+      "title": "St. Patrick's Day",
+      "release_title": "Victor Young - Samson And Delilah / The Quiet Man ",
+      "year": "1994",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 6632875,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/mJ0JfL5sBcWPbDgyZnmxhB-uMJY15u4osE4U5ji8cZ0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzI4/NzUtMTQyMzUwMjUz/Ny01NjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mireille Mathieu",
+      "title": "Ciao Mon Coeur",
+      "release_title": "Mireille Mathieu - Le Vent De La Nuit",
+      "year": "2010",
+      "label": "Not On Label (Mireille Mathieu)",
+      "country": "US",
+      "discogs_id": 9170581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tnfdNGLpPU9LkLPZRRotFM1R286nl8hNxU5DKjh5HqI/rs:fit/g:sm/q:90/h:224/w:224/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA1/ODEtMTUwNDg4MjQw/NS03MTUyLnBuZw.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Store Stealing",
+      "release_title": "Various - Mary Jane (Original Motion Picture Soundtrack)",
+      "year": "1967",
+      "label": "Sidewalk",
+      "country": "US",
+      "discogs_id": 4059090,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5KwR1_rPPkFBryE40B1-5HS4TpAjSC6pB2IVb3iJ0Os/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTkw/OTAtMTYyMzY2MjEx/OC02NDEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "Theme From Mary Jane",
+      "release_title": "Various - Mary Jane (Original Motion Picture Soundtrack)",
+      "year": "1967",
+      "label": "Sidewalk",
+      "country": "US",
+      "discogs_id": 4059090,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/5KwR1_rPPkFBryE40B1-5HS4TpAjSC6pB2IVb3iJ0Os/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTkw/OTAtMTYyMzY2MjEx/OC02NDEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Вилли Токарев",
+      "title": "Жмеринка - Нью-Йорк",
+      "release_title": "Вилли Токарев - S.O.S !!!",
+      "year": "1988",
+      "label": "Sava Recording Corporation",
+      "country": "US",
+      "discogs_id": 22784429,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/NTE76lVGm11jFQ9Bnmlc43CRGybEHwbBPXbw0cZd9dI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg0/NDI5LTE2NDkyNTI0/MjktOTYxMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mireille Mathieu",
+      "title": "Mon Homme",
+      "release_title": "Mireille Mathieu - Le Vent De La Nuit",
+      "year": "2010",
+      "label": "Not On Label (Mireille Mathieu)",
+      "country": "US",
+      "discogs_id": 9170581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tnfdNGLpPU9LkLPZRRotFM1R286nl8hNxU5DKjh5HqI/rs:fit/g:sm/q:90/h:224/w:224/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA1/ODEtMTUwNDg4MjQw/NS03MTUyLnBuZw.jpeg"
+    },
+    {
+      "artist": "Victor Young",
+      "title": "My Mother",
+      "release_title": "Victor Young - Samson And Delilah / The Quiet Man ",
+      "year": "1994",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 6632875,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/mJ0JfL5sBcWPbDgyZnmxhB-uMJY15u4osE4U5ji8cZ0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzI4/NzUtMTQyMzUwMjUz/Ny01NjI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Rectra",
+      "title": "Amsterdam",
+      "release_title": "Phil Rectra - Sings Brel And Walker",
+      "year": "2009",
+      "label": "Not On Label (Phil Rectra self-released)",
+      "country": "US",
+      "discogs_id": 14635154,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tcCxW0AYJ-gvJo8eVwD_JtqZtYYNLqD_TP77z_vGXQU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM1/MTU0LTE1Nzg2MTUx/MzMtMTIzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shudder To Think",
+      "title": "Erecting A Movie Star",
+      "release_title": "Shudder To Think - Music From The Motion Picture First Love, Last Rites",
+      "year": "1998",
+      "label": "Sony Music Soundtrax",
+      "country": "US",
+      "discogs_id": 9162399,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xxgz_80RX3NsQqh5S6TsJPCBdd0L_tWdc4sXQ2sbefs/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjIz/OTktMTQ3NTg3ODEw/Ny0zMjY0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hans Zimmer & Geoff Zanelli & Blake Neely",
+      "title": "Where Do We Go From Here?",
+      "release_title": "Hans Zimmer, Geoff Zanelli, Blake Neely - The Pacific - Music From The HBO Miniseries",
+      "year": "2010",
+      "label": "Play-Tone",
+      "country": "US",
+      "discogs_id": 3231828,
+      "rating_avg": 4.29,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/-Ku8o6ThX8yIhF_pGtlEdGqp6kZex0ISv65CiNWD2Qk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzE4/MjgtMTMyMTU0MTM0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Phil Rectra",
+      "title": "Jackie",
+      "release_title": "Phil Rectra - Sings Brel And Walker",
+      "year": "2009",
+      "label": "Not On Label (Phil Rectra self-released)",
+      "country": "US",
+      "discogs_id": 14635154,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tcCxW0AYJ-gvJo8eVwD_JtqZtYYNLqD_TP77z_vGXQU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM1/MTU0LTE1Nzg2MTUx/MzMtMTIzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shudder To Think",
+      "title": "Lonesome Dove",
+      "release_title": "Shudder To Think - Music From The Motion Picture First Love, Last Rites",
+      "year": "1998",
+      "label": "Sony Music Soundtrax",
+      "country": "US",
+      "discogs_id": 9162399,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/xxgz_80RX3NsQqh5S6TsJPCBdd0L_tWdc4sXQ2sbefs/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjIz/OTktMTQ3NTg3ODEw/Ny0zMjY0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Rectra",
+      "title": "It's Raining Today",
+      "release_title": "Phil Rectra - Sings Brel And Walker",
+      "year": "2009",
+      "label": "Not On Label (Phil Rectra self-released)",
+      "country": "US",
+      "discogs_id": 14635154,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tcCxW0AYJ-gvJo8eVwD_JtqZtYYNLqD_TP77z_vGXQU/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM1/MTU0LTE1Nzg2MTUx/MzMtMTIzNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mireille Mathieu",
+      "title": "Romantica",
+      "release_title": "Mireille Mathieu - Le Vent De La Nuit",
+      "year": "2010",
+      "label": "Not On Label (Mireille Mathieu)",
+      "country": "US",
+      "discogs_id": 9170581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tnfdNGLpPU9LkLPZRRotFM1R286nl8hNxU5DKjh5HqI/rs:fit/g:sm/q:90/h:224/w:224/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA1/ODEtMTUwNDg4MjQw/NS03MTUyLnBuZw.jpeg"
+    },
+    {
+      "artist": "Seven Places",
+      "title": "Lay It Down",
+      "release_title": "Seven Places - Hear Us Say Jesus",
+      "year": "2004",
+      "label": "BEC Recordings",
+      "country": "US",
+      "discogs_id": 15616438,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Uv6JLTwQOhhGH3HWOycu6eLlsAaVYTIvuDG0JOCOZ64/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE2/NDM4LTE2Mjg3MDEy/NjctNjIxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Seven Places",
+      "title": "Watch",
+      "release_title": "Seven Places - Hear Us Say Jesus",
+      "year": "2004",
+      "label": "BEC Recordings",
+      "country": "US",
+      "discogs_id": 15616438,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Uv6JLTwQOhhGH3HWOycu6eLlsAaVYTIvuDG0JOCOZ64/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE2/NDM4LTE2Mjg3MDEy/NjctNjIxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Funky Communication Committee",
+      "title": "Baby I Want You",
+      "release_title": "Funky Communication Committee - Baby I Want You",
+      "year": "1979",
+      "label": "Free Flight",
+      "country": "US",
+      "discogs_id": 1940682,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PY9tX2kHFb0WChCZiF2dYpMc6pJIJQ7cY1WANBeTA2Y/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDA2/ODItMTMyMTkxODcz/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Greg Kihn",
+      "title": "I Can't Stop Hurting Myself",
+      "release_title": "Greg Kihn - I Can't Stop Hurting Myself",
+      "year": "1980",
+      "label": "Beserkley",
+      "country": "US",
+      "discogs_id": 5149160,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ez0uo86MJU-pCurS6DH7D-DeuNf9IYEe7oKmPZWyy-s/rs:fit/g:sm/q:90/h:586/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDkx/NjAtMTM4NTgzNjEx/My0zNjAyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Seven Places",
+      "title": "Perspective",
+      "release_title": "Seven Places - Hear Us Say Jesus",
+      "year": "2004",
+      "label": "BEC Recordings",
+      "country": "US",
+      "discogs_id": 15616438,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Uv6JLTwQOhhGH3HWOycu6eLlsAaVYTIvuDG0JOCOZ64/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE2/NDM4LTE2Mjg3MDEy/NjctNjIxMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chantal Claret",
+      "title": "No Good Way To Die",
+      "release_title": "Chantal Claret - No Good Way To Die",
+      "year": "2014",
+      "label": "Not On Label (Chantal Claret Self-released)",
+      "country": "US",
+      "discogs_id": 22896461,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/0-If9IaA-A1e4CmJZtJmMtlUTUijowF_wYxk86mSj3o/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk2/NDYxLTE2NTAwNzQ5/MTQtOTI0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rita Coolidge",
+      "title": "Who's To Bless And Who's To Blame",
+      "release_title": "Rita Coolidge - Anytime... Anywhere",
+      "year": "1977",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 21341992,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/nvWR7LSQUpsAO7JQaz7e9pmaHBtAs6-nDvTTfhvqW54/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQx/OTkyLTE2Mzk0Mzkw/NDUtMTEyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rita Coolidge",
+      "title": "The Way You Do The Things You Do",
+      "release_title": "Rita Coolidge - Anytime... Anywhere",
+      "year": "1977",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 21341992,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/nvWR7LSQUpsAO7JQaz7e9pmaHBtAs6-nDvTTfhvqW54/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQx/OTkyLTE2Mzk0Mzkw/NDUtMTEyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mireille Mathieu",
+      "title": "Qu'Elle Est Belle",
+      "release_title": "Mireille Mathieu - En Direct De L'Olympia",
+      "year": "2010",
+      "label": "Not On Label (Mireille Mathieu)",
+      "country": "US",
+      "discogs_id": 9159418,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/rIZulHgI8gPEpH3InwoDOmu7uk4Sm-HCHGdYRO7j61o/rs:fit/g:sm/q:90/h:224/w:224/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTk0/MTgtMTUwNDg4MjU1/MC03MjYwLnBuZw.jpeg"
+    }
+  ]
+}
