@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2022,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 35,
+      "fresh_lookups": 1,
+      "styles_considered": 99
+    }
+  },
+  "results": [
+    {
+      "artist": "Linda Imperial",
+      "title": "Extra Credit (instr.)",
+      "release_title": "Linda Imperial - Extra Credit",
+      "year": "1987",
+      "label": "CBS Records",
+      "country": "US",
+      "discogs_id": 25865494,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kVx8J3zby9KkhxDMJxxrP0GYm-ygoHXvb8PP0warrd4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODY1/NDk0LTE2NzQ1MTQy/ODgtNDAzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Simon",
+      "title": "Message From Maria",
+      "release_title": "Joe Simon - Funny How Time Slips Away / Message From Maria",
+      "year": "1976",
+      "label": "Sound Stage 7",
+      "country": "US",
+      "discogs_id": 1311452,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/MORNbaVYx0VzMHg32MiyEWX-UX9hWM1HNyrZbUmIzWw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE0/NTItMTI1MTcwNDAw/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "SFPV",
+      "title": "Red Hot",
+      "release_title": "SFPV - Red Hot",
+      "year": "2008",
+      "label": "Par-Tay Records",
+      "country": "US",
+      "discogs_id": 1770196,
+      "rating_avg": 4.39,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/PLWm3bSbRs3pAHKOfFeW4xjlidbJ51NjCsZpwbOAFhY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzAx/OTYtMTY0NDIwMzI1/Ni01NzM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chic",
+      "title": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah) (Long Version)",
+      "release_title": "Chic - Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "year": "1977",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1569452,
+      "rating_avg": 4.62,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/dDdkAxFhKcIgTirczvXVpHIymcLsTr6VnlnLsgtNrmw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk0/NTItMTIzMjMyMjQw/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby McClure",
+      "title": "It Feels So Good (To Be Back Home)",
+      "release_title": "Bobby McClure - You Never Miss Your Water / It Feels So Good (To Be Back Home)",
+      "year": "1987",
+      "label": "Edge Records",
+      "country": "US",
+      "discogs_id": 9512470,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/DYIPW5fZE15NdxEsvUK0N1nK19jfXzJSqfDMGnHEHv4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTI0/NzAtMTQ4MTg3MTc0/NS04NDYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chic",
+      "title": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah) (Short Version)",
+      "release_title": "Chic - Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "year": "1977",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1569452,
+      "rating_avg": 4.62,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/dDdkAxFhKcIgTirczvXVpHIymcLsTr6VnlnLsgtNrmw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk0/NTItMTIzMjMyMjQw/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Reflections",
+      "release_title": "The Supremes - The Happening / Reflections",
+      "year": "1973",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 16153369,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vEB3g-mgIzMQ33tjmd1AheDdPS8AUxbhFM2_-d_mmqQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTUz/MzY5LTE2NjM4NjM2/MDEtODkwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chic",
+      "title": "Will You Cry ( When You Hear This Song)",
+      "release_title": "Chic - My Feet Keep Dancing",
+      "year": "1979",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 31226083,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/k5oPI6SXve-V42LmH80b72sdbt7VfU_-EDYP0DKfSts/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjI2/MDgzLTE3MjEwNzAx/NDktMzM5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kellie Evans",
+      "title": "Theme Song From Crack Steppin",
+      "release_title": "Kellie Evans & Don Albert* / Cast Of Crack Steppin - Theme Song From Crack Steppin",
+      "year": "1982",
+      "label": "Get Down Records",
+      "country": "US",
+      "discogs_id": 1912723,
+      "rating_avg": 4.91,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/GT-KtA-fttbW5RZB0zm-DEeWwYeQ4k2Oh7PqHP4NkTA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/MjMtMTUyNTQ4OTgx/My0yNzYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Supremes",
+      "title": "The Happening",
+      "release_title": "The Supremes - The Happening / Reflections",
+      "year": "1973",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 16153369,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/vEB3g-mgIzMQ33tjmd1AheDdPS8AUxbhFM2_-d_mmqQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTUz/MzY5LTE2NjM4NjM2/MDEtODkwOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cameo",
+      "title": "Be Yourself",
+      "release_title": "Cameo - Cameo",
+      "year": "1984",
+      "label": "Sony",
+      "country": "US",
+      "discogs_id": 19420306,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aMJIbxDK5DEKd8mOTTuXVgAtNh6igctDwvSkV2okATI/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDIw/MzA2LTE2MjU3NTE2/NTAtNDg1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobby McClure",
+      "title": "You Never Miss Your Water",
+      "release_title": "Bobby McClure - You Never Miss Your Water / It Feels So Good (To Be Back Home)",
+      "year": "1987",
+      "label": "Edge Records",
+      "country": "US",
+      "discogs_id": 9512470,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/DYIPW5fZE15NdxEsvUK0N1nK19jfXzJSqfDMGnHEHv4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTI0/NzAtMTQ4MTg3MTc0/NS04NDYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "C.C. Schilling",
+      "title": "Tragic",
+      "release_title": "C.C. Schilling - Space Girl ",
+      "year": "1983",
+      "label": "Penthouse Records",
+      "country": "US",
+      "discogs_id": 4517953,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/VXPj_7XEJcRzWa0JIjYpWAHcOLGv69NDIZuxLs078og/rs:fit/g:sm/q:90/h:578/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTc5/NTMtMTM2NzE1NDgw/Mi03NDc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Linda Imperial",
+      "title": "Extra Credit (dance mix)",
+      "release_title": "Linda Imperial - Extra Credit",
+      "year": "1987",
+      "label": "CBS Records",
+      "country": "US",
+      "discogs_id": 25865494,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kVx8J3zby9KkhxDMJxxrP0GYm-ygoHXvb8PP0warrd4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODY1/NDk0LTE2NzQ1MTQy/ODgtNDAzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Manchild",
+      "title": "(I Want To Feel Your) Power And Love",
+      "release_title": "Manchild (9) - (I Want To Feel Your) Power And Love",
+      "year": "1977",
+      "label": "Chi Sound Records",
+      "country": "US",
+      "discogs_id": 3097602,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/XY47ApbLzXDT6cS9qkDnRC6Fhs_fHG6uQKo0yNOBj-U/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTc2/MDItMTM5NjgyMjk1/OC0yNzk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cast Of Crack Steppin",
+      "title": "Hold On To Your Dreams",
+      "release_title": "Kellie Evans & Don Albert* / Cast Of Crack Steppin - Theme Song From Crack Steppin",
+      "year": "1982",
+      "label": "Get Down Records",
+      "country": "US",
+      "discogs_id": 1912723,
+      "rating_avg": 4.91,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/GT-KtA-fttbW5RZB0zm-DEeWwYeQ4k2Oh7PqHP4NkTA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI3/MjMtMTUyNTQ4OTgx/My0yNzYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "SFPV",
+      "title": "Move Ya Feet",
+      "release_title": "SFPV - Red Hot",
+      "year": "2008",
+      "label": "Par-Tay Records",
+      "country": "US",
+      "discogs_id": 1770196,
+      "rating_avg": 4.39,
+      "rating_count": 18,
+      "cover_image": "https://i.discogs.com/PLWm3bSbRs3pAHKOfFeW4xjlidbJ51NjCsZpwbOAFhY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzAx/OTYtMTY0NDIwMzI1/Ni01NzM4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "C.C. Schilling",
+      "title": "Let Me Show You My World",
+      "release_title": "C.C. Schilling - Space Girl ",
+      "year": "1983",
+      "label": "Penthouse Records",
+      "country": "US",
+      "discogs_id": 4517953,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/VXPj_7XEJcRzWa0JIjYpWAHcOLGv69NDIZuxLs078og/rs:fit/g:sm/q:90/h:578/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTc5/NTMtMTM2NzE1NDgw/Mi03NDc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Steve Arrington's Hall Of Fame",
+      "title": "15 Rounds",
+      "release_title": "Steve Arrington's Hall Of Fame - 15 Rounds",
+      "year": "1984",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 2674381,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/VG4EBfOwCk4pc1wADlEJ9WpPheiaHC5JemKZ6NFR3Vg/rs:fit/g:sm/q:90/h:535/w:538/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQz/ODEtMTMyOTA5NDQx/MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Isis",
+      "title": "Icy WInds (Stereo)",
+      "release_title": "Isis (7) - Icy Winds",
+      "year": "1975",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 21257134,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XD27fFdViU8Dy0mTu7D5KUF33S9UCZw6Uv2jItAG1Ug/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU3/MTM0LTE2Mzg4ODQ5/ODgtOTQ2Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cameo",
+      "title": "Shake Your Pants",
+      "release_title": "Cameo - Cameo",
+      "year": "1984",
+      "label": "Sony",
+      "country": "US",
+      "discogs_id": 19420306,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aMJIbxDK5DEKd8mOTTuXVgAtNh6igctDwvSkV2okATI/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDIw/MzA2LTE2MjU3NTE2/NTAtNDg1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "C.C. Schilling",
+      "title": "Hung Over You",
+      "release_title": "C.C. Schilling - Space Girl ",
+      "year": "1983",
+      "label": "Penthouse Records",
+      "country": "US",
+      "discogs_id": 4517953,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/VXPj_7XEJcRzWa0JIjYpWAHcOLGv69NDIZuxLs078og/rs:fit/g:sm/q:90/h:578/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTc5/NTMtMTM2NzE1NDgw/Mi03NDc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Al Perkins",
+      "title": "I Stand Accused",
+      "release_title": "Al Perkins (2) - Yes, My Goodness, Yes / I Stand Accused",
+      "year": "1969",
+      "label": "ATCO Records",
+      "country": "US",
+      "discogs_id": 10818459,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/HZ0Y1sr5AbKfrv8pnpip1iYzI-TJwKWhP24gH-ubRoI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE4/NDU5LTE1MDQ4MjY3/MTQtMzk4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "C.C. Schilling",
+      "title": "To See You Again",
+      "release_title": "C.C. Schilling - Space Girl ",
+      "year": "1983",
+      "label": "Penthouse Records",
+      "country": "US",
+      "discogs_id": 4517953,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/VXPj_7XEJcRzWa0JIjYpWAHcOLGv69NDIZuxLs078og/rs:fit/g:sm/q:90/h:578/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTc5/NTMtMTM2NzE1NDgw/Mi03NDc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Isis",
+      "title": "Icy WInds (Mono)",
+      "release_title": "Isis (7) - Icy Winds",
+      "year": "1975",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 21257134,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/XD27fFdViU8Dy0mTu7D5KUF33S9UCZw6Uv2jItAG1Ug/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU3/MTM0LTE2Mzg4ODQ5/ODgtOTQ2Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Walter Murphy",
+      "title": "The Phantom Of Your Dreams",
+      "release_title": "Walter Murphy - Toccata And Funk In 'D' Minor",
+      "year": "1978",
+      "label": "Private Stock",
+      "country": "US",
+      "discogs_id": 6127186,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/q-MS1s8gZvIwSA4sfYaygFmgUvwvwEkUIjQGYHnjryM/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjcx/ODYtMTQ3NjMwNDI3/OS02NDgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Phil Hurtt",
+      "title": "PH Factor Boogie",
+      "release_title": "Phil Hurtt - Boogie City (Rock And Boogie Down)",
+      "year": "1979",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 1977303,
+      "rating_avg": 4.42,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/K1M1x7k4HRS0xjK8DPtDZL4Eg-NVOwopADuAOeEBoy4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzcz/MDMtMTI1NjI1MzYx/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chic",
+      "title": "My Feet Keep Dancing",
+      "release_title": "Chic - My Feet Keep Dancing",
+      "year": "1979",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 31226083,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/k5oPI6SXve-V42LmH80b72sdbt7VfU_-EDYP0DKfSts/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjI2/MDgzLTE3MjEwNzAx/NDktMzM5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cameo",
+      "title": "Talkin Out The Side Of Your Neck",
+      "release_title": "Cameo - Cameo",
+      "year": "1984",
+      "label": "Sony",
+      "country": "US",
+      "discogs_id": 19420306,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aMJIbxDK5DEKd8mOTTuXVgAtNh6igctDwvSkV2okATI/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDIw/MzA2LTE2MjU3NTE2/NTAtNDg1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Al Perkins",
+      "title": "Yes, My Goodness, Yes",
+      "release_title": "Al Perkins (2) - Yes, My Goodness, Yes / I Stand Accused",
+      "year": "1969",
+      "label": "ATCO Records",
+      "country": "US",
+      "discogs_id": 10818459,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/HZ0Y1sr5AbKfrv8pnpip1iYzI-TJwKWhP24gH-ubRoI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE4/NDU5LTE1MDQ4MjY3/MTQtMzk4OS5qcGVn.jpeg"
+    }
+  ]
+}
