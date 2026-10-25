@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2014,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 39,
+      "fresh_lookups": 1,
+      "styles_considered": 111
+    }
+  },
+  "results": [
+    {
+      "artist": "Schleigho",
+      "title": "Head",
+      "release_title": "Schleigho - In The Interest Of Time",
+      "year": "1998",
+      "label": "Not On Label (Schleigho Self-released)",
+      "country": "US",
+      "discogs_id": 5854157,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/92Zn32JtZ4mdfqafogd-m3-YuZ7BV_QL8Sf42Mu8c4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTQx/NTctMTQ5NTQwNDI5/Ni02Mjk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Shaker Song",
+      "release_title": "Spyro Gyra - Shaker Song / Latin Streets",
+      "year": "1984",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 4854127,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/myY1drGqdgRYb-XTN7u7pUrrcX1Io2xsDv06epbN-FU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTQx/MjctMTM3NzU0OTMz/OS03MDY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mitchel Forman",
+      "title": "More Mr. Nice Guy",
+      "release_title": "Mitchel Forman - Train Of Thought",
+      "year": "1987",
+      "label": "Magenta",
+      "country": "US",
+      "discogs_id": 2279273,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/6-K0miNHJp1KfJmRe60L_y4EJqMM5Os5bmXtDdlwbQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzky/NzMtMTI3NDA4MTIw/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Alberto Favero",
+      "title": "A Eric - (To Eric)",
+      "release_title": "Alberto Favero - Classical Tropico",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 3258865,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sRhmWGGd2Kc0GoA-hn_BIvNrFUjeOkOa7Aj-yxFKSiE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTg4/NjUtMTMzMDUyMjY2/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Adolfo",
+      "title": "Crystal Silence",
+      "release_title": "Antonio Adolfo - Finas Misturas",
+      "year": "2013",
+      "label": "AAM Music",
+      "country": "US",
+      "discogs_id": 10466086,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/23JKkyM5JTxQHNgi5FkolOcgTTd-KMBNSlo3yBfx7BE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY2/MDg2LTE0OTc5OTcw/MDgtMzk1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Adolfo",
+      "title": "Memories Of Tomorrow",
+      "release_title": "Antonio Adolfo - Finas Misturas",
+      "year": "2013",
+      "label": "AAM Music",
+      "country": "US",
+      "discogs_id": 10466086,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/23JKkyM5JTxQHNgi5FkolOcgTTd-KMBNSlo3yBfx7BE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY2/MDg2LTE0OTc5OTcw/MDgtMzk1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tom Grant",
+      "title": "Candy",
+      "release_title": "Tom Grant (2) - Tom Grant",
+      "year": "1988",
+      "label": "Chase Music Group",
+      "country": "US",
+      "discogs_id": 13635283,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/PXTlRL22QYajhvN9hhQz3VrzHspUTzq537qFJNbs_ik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM1/MjgzLTE1NTg2NjI3/MDktNTgyNy5wbmc.jpeg"
+    },
+    {
+      "artist": "Nueva Manteca",
+      "title": "Berliniana Suite (4, 5, 6): Let's Face The Music And Dance",
+      "release_title": "Nueva Manteca - Let's Face The Music And Dance",
+      "year": "1995",
+      "label": "World Pacific",
+      "country": "US",
+      "discogs_id": 8448975,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eN-F8_NnBfdkR1ZjeYewxttqrCpNLFeugEL-w3Hw6sk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDg5/NzUtMTQ2MTgyNjYy/Ny0zNjU3LnBuZw.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & Sérgio Mendes & Brasil '66",
+      "title": "O Pato",
+      "release_title": "Herb Alpert Presents Sergio Mendes & Brasil '66* - Herb Alpert Presents Sergio Mendes & Brasil '66",
+      "year": "2006",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 792549,
+      "rating_avg": 4.47,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/k4qmdGHnm5-QzsDjqulf0CXjhMn0K859jQ6m5m7ACUQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjU0/OS0xNTg1MDgyMzg5/LTkyMTcuanBlZw.jpeg"
+    },
+    {
+      "artist": "Prince",
+      "title": "South",
+      "release_title": "Prince - N·E·W·S",
+      "year": "2003",
+      "label": "NPG Records",
+      "country": "US",
+      "discogs_id": 8206016,
+      "rating_avg": 4.6,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/yODEuvZGfA9Ww81oDZCBUAkvj4tvDhnURl_av-vt02E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDYw/MTYtMTQ1NzEyMjc4/NC03NTY0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobbi Humphrey",
+      "title": "Jasper Country Man",
+      "release_title": "Bobbi Humphrey - Harlem River Drive / Jasper Country Man",
+      "year": "2009",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 1810594,
+      "rating_avg": 4.83,
+      "rating_count": 24,
+      "cover_image": "https://i.discogs.com/fBfxE6OWm_6tRJIbRBln8DK4K2Z-aeVB4yf9f2BOubY/rs:fit/g:sm/q:90/h:541/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTA1/OTQtMTI0NDgzNDY2/My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Water Sign",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 11625257,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tVBSteZlR67x0q5jh8GXTdrqzmgaAvemFAMarKti_6Y/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI1/MjU3LTE1NzMxNzY5/NjYtNzY0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Adolfo",
+      "title": "Floresta Azul",
+      "release_title": "Antonio Adolfo - Finas Misturas",
+      "year": "2013",
+      "label": "AAM Music",
+      "country": "US",
+      "discogs_id": 10466086,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/23JKkyM5JTxQHNgi5FkolOcgTTd-KMBNSlo3yBfx7BE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY2/MDg2LTE0OTc5OTcw/MDgtMzk1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Manuel Valera",
+      "title": "Alibi",
+      "release_title": "Manuel Valera (3) - Melancolia",
+      "year": "2006",
+      "label": "Mavo Records",
+      "country": "US",
+      "discogs_id": 17195857,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HsTD4H3dwbHVhIy9_IvttI86B8laF-rsCkB-kzjxWYo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTk1/ODU3LTE2MTIxMTEx/MzItMTA5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "George Duke",
+      "title": "Movin' On",
+      "release_title": "George Duke - Don't Let Go",
+      "year": "1978",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 8659887,
+      "rating_avg": 4.38,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/6w3MsELHDLYPhoYedW9lOZaAnAhZI49Y0pEL_D-UcxE/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTk4/ODctMTQ2NjA5Mjk0/Ni00NTU2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Prince",
+      "title": "East",
+      "release_title": "Prince - N·E·W·S",
+      "year": "2003",
+      "label": "NPG Records",
+      "country": "US",
+      "discogs_id": 8206016,
+      "rating_avg": 4.6,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/yODEuvZGfA9Ww81oDZCBUAkvj4tvDhnURl_av-vt02E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDYw/MTYtMTQ1NzEyMjc4/NC03NTY0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nueva Manteca",
+      "title": "Caravan",
+      "release_title": "Nueva Manteca - Let's Face The Music And Dance",
+      "year": "1995",
+      "label": "World Pacific",
+      "country": "US",
+      "discogs_id": 8448975,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/eN-F8_NnBfdkR1ZjeYewxttqrCpNLFeugEL-w3Hw6sk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDg5/NzUtMTQ2MTgyNjYy/Ny0zNjU3LnBuZw.jpeg"
+    },
+    {
+      "artist": "Hannibal Marvin Peterson",
+      "title": "Diamonds Without Fire",
+      "release_title": "Hannibal* - Visions Of A New World",
+      "year": "1989",
+      "label": "Atlantic Jazz",
+      "country": "US",
+      "discogs_id": 5369999,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VZc8-MafY825NwNeOw_td37U-OaFIa8EYwimbe9fa1k/rs:fit/g:sm/q:90/h:450/w:275/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjk5/OTktMTM5MTcwMTY3/OS04MjAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Schleigho",
+      "title": "Biscuits",
+      "release_title": "Schleigho - In The Interest Of Time",
+      "year": "1998",
+      "label": "Not On Label (Schleigho Self-released)",
+      "country": "US",
+      "discogs_id": 5854157,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/92Zn32JtZ4mdfqafogd-m3-YuZ7BV_QL8Sf42Mu8c4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTQx/NTctMTQ5NTQwNDI5/Ni02Mjk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hannibal Marvin Peterson",
+      "title": "A Mother's Love",
+      "release_title": "Hannibal* - Visions Of A New World",
+      "year": "1989",
+      "label": "Atlantic Jazz",
+      "country": "US",
+      "discogs_id": 5369999,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VZc8-MafY825NwNeOw_td37U-OaFIa8EYwimbe9fa1k/rs:fit/g:sm/q:90/h:450/w:275/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjk5/OTktMTM5MTcwMTY3/OS04MjAxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Alberto Favero",
+      "title": "Laurinha",
+      "release_title": "Alberto Favero - Classical Tropico",
+      "year": "1989",
+      "label": "WEA Latina",
+      "country": "US",
+      "discogs_id": 3258865,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sRhmWGGd2Kc0GoA-hn_BIvNrFUjeOkOa7Aj-yxFKSiE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTg4/NjUtMTMzMDUyMjY2/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Schleigho",
+      "title": "Matrices",
+      "release_title": "Schleigho - In The Interest Of Time",
+      "year": "1998",
+      "label": "Not On Label (Schleigho Self-released)",
+      "country": "US",
+      "discogs_id": 5854157,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/92Zn32JtZ4mdfqafogd-m3-YuZ7BV_QL8Sf42Mu8c4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTQx/NTctMTQ5NTQwNDI5/Ni02Mjk5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tom Grant",
+      "title": "Part Of Me",
+      "release_title": "Tom Grant (2) - Tom Grant",
+      "year": "1988",
+      "label": "Chase Music Group",
+      "country": "US",
+      "discogs_id": 13635283,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/PXTlRL22QYajhvN9hhQz3VrzHspUTzq537qFJNbs_ik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM1/MjgzLTE1NTg2NjI3/MDktNTgyNy5wbmc.jpeg"
+    },
+    {
+      "artist": "George Duke",
+      "title": "We Give Our Love",
+      "release_title": "George Duke - Don't Let Go",
+      "year": "1978",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 8659887,
+      "rating_avg": 4.38,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/6w3MsELHDLYPhoYedW9lOZaAnAhZI49Y0pEL_D-UcxE/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTk4/ODctMTQ2NjA5Mjk0/Ni00NTU2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Conrad Herwig & Joe Lovano",
+      "title": "Mamacita",
+      "release_title": "Conrad Herwig Featuring Joe Lovano - The Latin Side Of Joe Henderson",
+      "year": "2014",
+      "label": "Half Note Records",
+      "country": "US",
+      "discogs_id": 6267030,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/aW8Snfr4tmGYVt4-041xMAnnuyba55HV0lJqHacaMDs/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjcw/MzAtMTc1NTgyMjg3/Ni05MDMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Manuel Valera",
+      "title": "Yesterday’s Song",
+      "release_title": "Manuel Valera (3) - Melancolia",
+      "year": "2006",
+      "label": "Mavo Records",
+      "country": "US",
+      "discogs_id": 17195857,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HsTD4H3dwbHVhIy9_IvttI86B8laF-rsCkB-kzjxWYo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTk1/ODU3LTE2MTIxMTEx/MzItMTA5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "George Duke",
+      "title": "The Future",
+      "release_title": "George Duke - Don't Let Go",
+      "year": "1978",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 8659887,
+      "rating_avg": 4.38,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/6w3MsELHDLYPhoYedW9lOZaAnAhZI49Y0pEL_D-UcxE/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTk4/ODctMTQ2NjA5Mjk0/Ni00NTU2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Manuel Valera",
+      "title": "O Melancolia",
+      "release_title": "Manuel Valera (3) - Melancolia",
+      "year": "2006",
+      "label": "Mavo Records",
+      "country": "US",
+      "discogs_id": 17195857,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/HsTD4H3dwbHVhIy9_IvttI86B8laF-rsCkB-kzjxWYo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTk1/ODU3LTE2MTIxMTEx/MzItMTA5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Toad's Place",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 11625257,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tVBSteZlR67x0q5jh8GXTdrqzmgaAvemFAMarKti_6Y/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI1/MjU3LTE1NzMxNzY5/NjYtNzY0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herb Alpert & Sérgio Mendes & Brasil '66",
+      "title": "The Joker",
+      "release_title": "Herb Alpert Presents Sergio Mendes & Brasil '66* - Herb Alpert Presents Sergio Mendes & Brasil '66",
+      "year": "2006",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 792549,
+      "rating_avg": 4.47,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/k4qmdGHnm5-QzsDjqulf0CXjhMn0K859jQ6m5m7ACUQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjU0/OS0xNTg1MDgyMzg5/LTkyMTcuanBlZw.jpeg"
+    }
+  ]
+}
