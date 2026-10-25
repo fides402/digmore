@@ -54435,6 +54435,70 @@
    1958
   ]
  },
+ "don ruiz": {
+  "countries": [
+   "US",
+   "USA & Canada",
+   "US",
+   "Czech Republic",
+   "US",
+   "US",
+   "Mexico"
+  ],
+  "genres": [
+   "Folk, World, & Country",
+   "Pop",
+   "Folk, World, & Country",
+   "Electronic",
+   "Jazz",
+   "Folk, World, & Country",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Therapy",
+    "Electronic"
+   ],
+   [
+    "Therapy",
+    "Jazz"
+   ],
+   [
+    "Therapy",
+    "Folk, World, & Country"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Jazz"
+   ],
+   [
+    "New Age",
+    "Folk, World, & Country"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 7,
+  "styles": [
+   "Therapy",
+   "Therapy",
+   "New Age",
+   "Free Jazz"
+  ],
+  "years": [
+   1999,
+   2009,
+   2009,
+   2004,
+   2015
+  ]
+ },
  "don sebesky": {
   "countries": [
    "US",

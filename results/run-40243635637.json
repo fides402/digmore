@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Hard Bop"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2020,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 27,
+      "artists_found": 27,
+      "fresh_lookups": 1,
+      "styles_considered": 91
+    }
+  },
+  "results": [
+    {
+      "artist": "Michael Franks",
+      "title": "Now That Your Joystick's Broke",
+      "release_title": "Michael Franks - Passionfruit",
+      "year": "1983",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 34605841,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/pyRejDJSrjAp0WN3IXlILn2aPpFDiZoP9cBLqGxZUqs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjA1/ODQxLTE3NTM0NzUz/NzMtNTA1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Airegin",
+      "release_title": "Miles Davis - Bags Groove",
+      "year": "2008",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 3592969,
+      "rating_avg": 4.64,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/uenm5B764qew_ADvew28Zaba8mAo3kN0ktJ42sczFSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTI5/NjktMTMzNjU5NDcx/My01OTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dizzy Reece",
+      "title": "I Had The Craziest Dream",
+      "release_title": "Dizzy Reece - Blues In Trinity",
+      "year": "1995",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 2638686,
+      "rating_avg": 4.34,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/6jEQu6vHfcDux7heLFTJed5u80pgBMjZFPjO3u3ZkEI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzg2/ODYtMTU3MTQxNTI1/OS0yMDUwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eric Gale",
+      "title": "The Shadows",
+      "release_title": "Eric Gale - Let's Stay Together",
+      "year": "1988",
+      "label": "Artful Balance",
+      "country": "US",
+      "discogs_id": 5157013,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/nkMeuYUhCiaINDTksBTM5wRhw5Dg_g9cBIyPG2WX3jM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTcw/MTMtMTQ0NjA0OTA1/NC0yOTgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "But Not For Me (Take 1)",
+      "release_title": "Miles Davis - Bags Groove",
+      "year": "2008",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 3592969,
+      "rating_avg": 4.64,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/uenm5B764qew_ADvew28Zaba8mAo3kN0ktJ42sczFSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTI5/NjktMTMzNjU5NDcx/My01OTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bobbi Humphrey",
+      "title": "You Make Me Feel So Good",
+      "release_title": "Bobbi Humphrey - Fancy Dancer",
+      "year": "1975",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 14343098,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rdvxlxLiMn8e0ItRQYrRBD5IsV33er8MDKQ8o93dNfM/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MDk4LTE1NzI2MTcz/NjQtOTc4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Freddie Hubbard",
+      "title": "Take It To The Ozone",
+      "release_title": "Freddie Hubbard - Live At Fat Tuesday's",
+      "year": "1992",
+      "label": "MusicMasters Jazz",
+      "country": "US",
+      "discogs_id": 9169452,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/SSaezy5BMq41wdCcpRKe4QbxuluFla2j-yjYeriZa5c/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjk0/NTItMTc4OTEzNzU1/OC00MTc3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Along Came Betty",
+      "release_title": "Art Blakey And The Jazz Messengers* - Buhaina",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 11623782,
+      "rating_avg": 4.8,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/VbKBz7gYTaD5ZobKUsvn1dppxwCvM1s2yXtgkfmks10/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjIz/NzgyLTE1MTk1ODg3/ODctNjgyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Doxy",
+      "release_title": "Miles Davis - Bags Groove",
+      "year": "2008",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 3592969,
+      "rating_avg": 4.64,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/uenm5B764qew_ADvew28Zaba8mAo3kN0ktJ42sczFSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTI5/NjktMTMzNjU5NDcx/My01OTUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Arlen Asher",
+      "title": "Madrid",
+      "release_title": "Arlen Asher - Music Is For Sharing",
+      "year": "1979",
+      "label": "Black Gold",
+      "country": "US",
+      "discogs_id": 5977881,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/0dy3nL4dRoyento4siFjx6DF2fAKW5jb3NNy-_nEwJw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzc4/ODEtMTU3OTg3NDY5/OC00MzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paquito D'Rivera & Arturo Sandoval",
+      "title": "Body & Soul",
+      "release_title": "Paquito D'Rivera & Arturo Sandoval - Reunion",
+      "year": "2004",
+      "label": "Pimienta Records",
+      "country": "US",
+      "discogs_id": 12863905,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/OKUNkHoz3dt8Iot8xFFA_tYN8GO8GyMmJAwwpiZyoBo/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYz/OTA1LTE1NTU5MzQx/NjItMzQ0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Melvin Sparks",
+      "title": "Get Ya Some",
+      "release_title": "Melvin Sparks - Get Ya Some",
+      "year": "1975",
+      "label": "Westbound Records",
+      "country": "US",
+      "discogs_id": 1052978,
+      "rating_avg": 4.3,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/kP51GVUME6w9amoJ7RaT9XaWK86lku1MGzytadI1pSA/rs:fit/g:sm/q:90/h:327/w:326/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/NzgtMTE4ODM1ODI1/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "Ee-Ah",
+      "release_title": "Sonny Rollins - Sonny Boy",
+      "year": "1989",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 4450306,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Boa7vIPLIo9Yq1e4UkrIJUH57LQT9rQkUYXAzBb56RE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTAz/MDYtMTY0NDIyNjA2/MC02NjQzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Manfredo Fest",
+      "title": "Bridges",
+      "release_title": "Manfredo Fest - Jungle Cat",
+      "year": "1989",
+      "label": "DMP",
+      "country": "US",
+      "discogs_id": 16965417,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/6pMHHNWhnKN2Qh0l26-WAwz9RKizefa4j6-PIrUFyb8/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY1/NDE3LTE2MTA4NTQ0/NzYtMjcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paquito D'Rivera & Arturo Sandoval",
+      "title": "Friday Morning",
+      "release_title": "Paquito D'Rivera & Arturo Sandoval - Reunion",
+      "year": "2004",
+      "label": "Pimienta Records",
+      "country": "US",
+      "discogs_id": 12863905,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/OKUNkHoz3dt8Iot8xFFA_tYN8GO8GyMmJAwwpiZyoBo/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYz/OTA1LTE1NTU5MzQx/NjItMzQ0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "Strivers Row",
+      "release_title": "Sonny Rollins - A Night At The \"Village Vanguard\" • Volume 2",
+      "year": "1987",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 17217952,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/DOufhtdQMgz3HdVeGCEGG6cdL0L3yoiwg_SeuEZshZk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjE3/OTUyLTE3MTgzMjYy/MTEtODgzMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "Tell Me All About It",
+      "release_title": "Michael Franks - Passionfruit",
+      "year": "1983",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 34605841,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/pyRejDJSrjAp0WN3IXlILn2aPpFDiZoP9cBLqGxZUqs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjA1/ODQxLTE3NTM0NzUz/NzMtNTA1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rhubumba",
+      "title": "Chick's Delight",
+      "release_title": "Rhubumba - Rhubumba",
+      "year": "2004",
+      "label": "Sea Breeze Jazz",
+      "country": "US",
+      "discogs_id": 11421892,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/a9Hqahp8UDYZaVmZw-SIoTzPRtgWDHec9LO1Y3JIVYo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIx/ODkyLTE1MTYwNDM3/NTYtMjk5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dizzy Reece",
+      "title": "Color Blind",
+      "release_title": "Dizzy Reece - Blues In Trinity",
+      "year": "1995",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 2638686,
+      "rating_avg": 4.34,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/6jEQu6vHfcDux7heLFTJed5u80pgBMjZFPjO3u3ZkEI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzg2/ODYtMTU3MTQxNTI1/OS0yMDUwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Manfredo Fest",
+      "title": "Hermeto",
+      "release_title": "Manfredo Fest - Jungle Cat",
+      "year": "1989",
+      "label": "DMP",
+      "country": "US",
+      "discogs_id": 16965417,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/6pMHHNWhnKN2Qh0l26-WAwz9RKizefa4j6-PIrUFyb8/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY1/NDE3LTE2MTA4NTQ0/NzYtMjcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Arlen Asher",
+      "title": "Time Remembered",
+      "release_title": "Arlen Asher - Music Is For Sharing",
+      "year": "1979",
+      "label": "Black Gold",
+      "country": "US",
+      "discogs_id": 5977881,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/0dy3nL4dRoyento4siFjx6DF2fAKW5jb3NNy-_nEwJw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzc4/ODEtMTU3OTg3NDY5/OC00MzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "Never Say Die",
+      "release_title": "Michael Franks - Passionfruit",
+      "year": "1983",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 34605841,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/pyRejDJSrjAp0WN3IXlILn2aPpFDiZoP9cBLqGxZUqs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjA1/ODQxLTE3NTM0NzUz/NzMtNTA1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rhubumba",
+      "title": "Chico",
+      "release_title": "Rhubumba - Rhubumba",
+      "year": "2004",
+      "label": "Sea Breeze Jazz",
+      "country": "US",
+      "discogs_id": 11421892,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/a9Hqahp8UDYZaVmZw-SIoTzPRtgWDHec9LO1Y3JIVYo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIx/ODkyLTE1MTYwNDM3/NTYtMjk5My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobbi Humphrey",
+      "title": "Please Set Me At Ease -Continued-",
+      "release_title": "Bobbi Humphrey - Fancy Dancer",
+      "year": "1975",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 14343098,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rdvxlxLiMn8e0ItRQYrRBD5IsV33er8MDKQ8o93dNfM/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MDk4LTE1NzI2MTcz/NjQtOTc4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Moanin'",
+      "release_title": "Art Blakey And The Jazz Messengers* - Buhaina",
+      "year": "1973",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 11623782,
+      "rating_avg": 4.8,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/VbKBz7gYTaD5ZobKUsvn1dppxwCvM1s2yXtgkfmks10/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjIz/NzgyLTE1MTk1ODg3/ODctNjgyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bobbi Humphrey",
+      "title": "Mestizo Eyes",
+      "release_title": "Bobbi Humphrey - Fancy Dancer",
+      "year": "1975",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 14343098,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rdvxlxLiMn8e0ItRQYrRBD5IsV33er8MDKQ8o93dNfM/rs:fit/g:sm/q:90/h:600/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MDk4LTE1NzI2MTcz/NjQtOTc4Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paquito D'Rivera & Arturo Sandoval",
+      "title": "Epilogo: Mambo Influenciado",
+      "release_title": "Paquito D'Rivera & Arturo Sandoval - Reunion",
+      "year": "2004",
+      "label": "Pimienta Records",
+      "country": "US",
+      "discogs_id": 12863905,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/OKUNkHoz3dt8Iot8xFFA_tYN8GO8GyMmJAwwpiZyoBo/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYz/OTA1LTE1NTU5MzQx/NjItMzQ0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Conrad Herwig",
+      "title": "Blessing (Reprise)",
+      "release_title": "Conrad Herwig - The Latin Side Of John Coltrane",
+      "year": "1996",
+      "label": "Astor Place",
+      "country": "US",
+      "discogs_id": 4517042,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/0oh579Jg2q2-U69vaay87euhN5lgP3RaL9tSfDzbKV4/rs:fit/g:sm/q:90/h:199/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTcw/NDItMTM2NzEyNTY5/NS0xMjE4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tony Martinez & The Cuban Power",
+      "title": "Tumbao Pa' Mi Timbal",
+      "release_title": "Tony Martinez & The Cuban Power - Maferefun",
+      "year": "1999",
+      "label": "Blue Jackel Entertainment",
+      "country": "US",
+      "discogs_id": 1554813,
+      "rating_avg": 4.82,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/PfFzH0yh5Qos6U0Mb4PdCAESyVC8Iw4QGD_VOvN0FMY/rs:fit/g:sm/q:90/h:515/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQ4/MTMtMTM3ODYzNDE0/MC00NzI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Freddie Hubbard",
+      "title": "First Light",
+      "release_title": "Freddie Hubbard - Live At Fat Tuesday's",
+      "year": "1992",
+      "label": "MusicMasters Jazz",
+      "country": "US",
+      "discogs_id": 9169452,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/SSaezy5BMq41wdCcpRKe4QbxuluFla2j-yjYeriZa5c/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjk0/NTItMTc4OTEzNzU1/OC00MTc3LmpwZWc.jpeg"
+    }
+  ]
+}
