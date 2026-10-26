@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2021,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 38,
+      "fresh_lookups": 0,
+      "styles_considered": 113
+    }
+  },
+  "results": [
+    {
+      "artist": "Oliver Nelson & King Curtis & Jimmy Forrest",
+      "title": "Blues At The Five Spot",
+      "release_title": "Oliver Nelson, King Curtis, Jimmy Forrest - Soul Battle",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15783699,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/WKs8cRyZ1bEa_XmH680w6iqotsa9VTyiK3hqgXuNF2E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgz/Njk5LTE1OTc3MjE4/NDItMjcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gloria Lynne",
+      "title": "Love's Finally Found Me",
+      "release_title": "Gloria Lynne - If You Don't Get It Yourself / Love's Finally Found Me",
+      "year": "1970",
+      "label": "Canyon Records",
+      "country": "US",
+      "discogs_id": 1320190,
+      "rating_avg": 4.71,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/nD3prCXjGolwsjqN7xwjZ9rmOp3wdUVjfZK06OyPJFc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAx/OTAtMTIwOTQ4NjA0/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jim Wilson",
+      "title": "Friend",
+      "release_title": "Jim Wilson (10) - Cape Of Good Hope",
+      "year": "2001",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 13314661,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/20sbaPaNMa3S_BYisQr4U-rw9jALS45JD6IhPGJIJtQ/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE0/NjYxLTE1NTE5NzYy/NzctMjc0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nnenna Freelon",
+      "title": "Smile",
+      "release_title": "Nnenna Freelon - Homefree",
+      "year": "2010",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 12384808,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/6_4q5wqzwJFgWWNq05p6cScPzKFFoBm9Ev-PFd8n46I/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/ODA4LTE1MzQxODI1/MTEtODQyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Don Patterson",
+      "title": "These Are Soulful Days",
+      "release_title": "Don Patterson - These Are Soulful Days",
+      "year": "1974",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 2516385,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/jZhNr_UP7MjnMmgrxGvrAyt8gtdy1FdwAgmx20wEuhg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTYz/ODUtMTU1NzkzNTE2/Ni0yNzc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Urban Knights",
+      "title": "Memorias Belas",
+      "release_title": "Urban Knights - Urban Knights VI",
+      "year": "2005",
+      "label": "Narada Jazz",
+      "country": "US",
+      "discogs_id": 5028545,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pFH1PZKeA1VQQn9mlADCk-XWIk3yHHAWy3Ai4tLPIvo/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg1/NDUtMTYzMzQ1MzQz/OC0yODYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gary Chandler",
+      "title": "Flamingo",
+      "release_title": "Gary Chandler (2) - Outlook",
+      "year": "2018",
+      "label": "Tidal Waves Music",
+      "country": "US",
+      "discogs_id": 12328340,
+      "rating_avg": 4.4,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/sOBHzpknK3PjdPidBktZxSJs9vw-8pEcjNGMyOk2fLQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI4/MzQwLTE2ODE3ODY1/MTYtMTc3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Lords Of Percussion",
+      "title": "Geisha Girl",
+      "release_title": "The Lords Of Percussion - The Kung-Fu / Geisha Girl",
+      "year": "1974",
+      "label": "Old Town Records",
+      "country": "US",
+      "discogs_id": 2142338,
+      "rating_avg": 3.88,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Pbpi8z28JOii17PKf26eiQuXOXrlxpqFUSAD4ok_SP8/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIz/MzgtMTI2NjI4ODI3/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Oliver Nelson & King Curtis & Jimmy Forrest",
+      "title": "Blues For M..F. (Mort Fega)",
+      "release_title": "Oliver Nelson, King Curtis, Jimmy Forrest - Soul Battle",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15783699,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/WKs8cRyZ1bEa_XmH680w6iqotsa9VTyiK3hqgXuNF2E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgz/Njk5LTE1OTc3MjE4/NDItMjcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "James Robinson",
+      "title": "Tales Of Change",
+      "release_title": "Various - Smooth Jazz KKSF 103.7 Sampler Vol. 14",
+      "year": "2003",
+      "label": "Universal Music Special Markets",
+      "country": "US",
+      "discogs_id": 24507548,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BXmfEwW8wAIl4DGmNl_3lGouaQ-AbX8uA_ltQEgcNok/rs:fit/g:sm/q:90/h:518/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTA3/NTQ4LTE3MzgzNTYw/NTItOTU0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Lords Of Percussion",
+      "title": "The Kung-Fu",
+      "release_title": "The Lords Of Percussion - The Kung-Fu / Geisha Girl",
+      "year": "1974",
+      "label": "Old Town Records",
+      "country": "US",
+      "discogs_id": 2142338,
+      "rating_avg": 3.88,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/Pbpi8z28JOii17PKf26eiQuXOXrlxpqFUSAD4ok_SP8/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIz/MzgtMTI2NjI4ODI3/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jim Wilson",
+      "title": "Home In The Heartland",
+      "release_title": "Jim Wilson (10) - Cape Of Good Hope",
+      "year": "2001",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 13314661,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/20sbaPaNMa3S_BYisQr4U-rw9jALS45JD6IhPGJIJtQ/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE0/NjYxLTE1NTE5NzYy/NzctMjc0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nnenna Freelon",
+      "title": "Lift Every Voice And Sing",
+      "release_title": "Nnenna Freelon - Homefree",
+      "year": "2010",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 12384808,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/6_4q5wqzwJFgWWNq05p6cScPzKFFoBm9Ev-PFd8n46I/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/ODA4LTE1MzQxODI1/MTEtODQyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Angela Bofill",
+      "title": "Love Changes",
+      "release_title": "Various - Smooth Jazz - Sexual Healing",
+      "year": "2000",
+      "label": "Shanachie",
+      "country": "US",
+      "discogs_id": 30532792,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/K8_qqPZol_nYyMl_aAl0fKBgNit4XDws8GhfL9yS5iw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTMy/NzkyLTE3MTQzMzcx/MDAtNDE1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Chandler",
+      "title": "Baby Let Me Take You (In My Arms)",
+      "release_title": "Gary Chandler (2) - Outlook",
+      "year": "2018",
+      "label": "Tidal Waves Music",
+      "country": "US",
+      "discogs_id": 12328340,
+      "rating_avg": 4.4,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/sOBHzpknK3PjdPidBktZxSJs9vw-8pEcjNGMyOk2fLQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI4/MzQwLTE2ODE3ODY1/MTYtMTc3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Chandler",
+      "title": "Blue Dues",
+      "release_title": "Gary Chandler (2) - Outlook",
+      "year": "2018",
+      "label": "Tidal Waves Music",
+      "country": "US",
+      "discogs_id": 12328340,
+      "rating_avg": 4.4,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/sOBHzpknK3PjdPidBktZxSJs9vw-8pEcjNGMyOk2fLQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI4/MzQwLTE2ODE3ODY1/MTYtMTc3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff & Lucky Thompson & George Freeman & O'Donel Levy",
+      "title": "Everything Happens To Me",
+      "release_title": "Jimmy McGriff, Lucky Thompson, George Freeman, O'Donel Levy - Friday The 13th. Cook County Jail.",
+      "year": "1974",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 11479207,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/Wz22YKQh7ztJuyo7kYyJqw2b5xTzvUwaiEovRHev344/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc5/MjA3LTE1MTcwNjgy/NzktMzExMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kevin Moore",
+      "title": "Can I Testify",
+      "release_title": "Various - Smooth Jazz KKSF 103.7 Sampler Vol. 14",
+      "year": "2003",
+      "label": "Universal Music Special Markets",
+      "country": "US",
+      "discogs_id": 24507548,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BXmfEwW8wAIl4DGmNl_3lGouaQ-AbX8uA_ltQEgcNok/rs:fit/g:sm/q:90/h:518/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTA3/NTQ4LTE3MzgzNTYw/NTItOTU0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jim Wilson",
+      "title": "More And More",
+      "release_title": "Jim Wilson (10) - Cape Of Good Hope",
+      "year": "2001",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 13314661,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/20sbaPaNMa3S_BYisQr4U-rw9jALS45JD6IhPGJIJtQ/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE0/NjYxLTE1NTE5NzYy/NzctMjc0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Gene Harris Quartet",
+      "title": "Blues For Basie",
+      "release_title": "The Gene Harris Quartet - Funky Gene's",
+      "year": "1994",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 17140135,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/n_XpPruhZbh-PAjH5rFfY_uriN-DAL7-XORXXczKv4E/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQw/MTM1LTE2MTE4MTI1/ODYtNzk2OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Applejac",
+      "title": "Dancing Machine (Big Trudy's Domecracker Dub)",
+      "release_title": "Applejac - Dancing Machine",
+      "year": "2014",
+      "label": "RBMB",
+      "country": "US",
+      "discogs_id": 6006158,
+      "rating_avg": 4.75,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/2piD27u7UoBJ-7dez3cexHxZ7tukoPTam42tCVeoDVM/rs:fit/g:sm/q:90/h:499/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDYx/NTgtMTQwODYzMzM2/MS03OTI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jim Wilson",
+      "title": "Etheria",
+      "release_title": "Jim Wilson (10) - Cape Of Good Hope",
+      "year": "2001",
+      "label": "Green Hill",
+      "country": "US",
+      "discogs_id": 13314661,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/20sbaPaNMa3S_BYisQr4U-rw9jALS45JD6IhPGJIJtQ/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE0/NjYxLTE1NTE5NzYy/NzctMjc0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Derek Dabbs",
+      "title": "Growing Up",
+      "release_title": "Derek Dabbs - State Of Mind",
+      "year": "2002",
+      "label": "Not On Label (Derek Dabbs Self-released)",
+      "country": "US",
+      "discogs_id": 29191177,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/p3CCY35SLUltnJJmzKLGEOy12wozrhhoYyXl78hSHjw/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTkx/MTc3LTE3MDI0NzMy/MDUtNjYxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff & Lucky Thompson & George Freeman & O'Donel Levy",
+      "title": "Freedom Suite, Part I",
+      "release_title": "Jimmy McGriff, Lucky Thompson, George Freeman, O'Donel Levy - Friday The 13th. Cook County Jail.",
+      "year": "1974",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 11479207,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/Wz22YKQh7ztJuyo7kYyJqw2b5xTzvUwaiEovRHev344/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc5/MjA3LTE1MTcwNjgy/NzktMzExMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nnenna Freelon",
+      "title": "I Feel Pretty",
+      "release_title": "Nnenna Freelon - Homefree",
+      "year": "2010",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 12384808,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/6_4q5wqzwJFgWWNq05p6cScPzKFFoBm9Ev-PFd8n46I/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/ODA4LTE1MzQxODI1/MTEtODQyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kim Waters",
+      "title": "Sexual Healing",
+      "release_title": "Various - Smooth Jazz - Sexual Healing",
+      "year": "2000",
+      "label": "Shanachie",
+      "country": "US",
+      "discogs_id": 30532792,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/K8_qqPZol_nYyMl_aAl0fKBgNit4XDws8GhfL9yS5iw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTMy/NzkyLTE3MTQzMzcx/MDAtNDE1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kevin Toney",
+      "title": "Extra Sensual Perception",
+      "release_title": "Various - Smooth Jazz - Sexual Healing",
+      "year": "2000",
+      "label": "Shanachie",
+      "country": "US",
+      "discogs_id": 30532792,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/K8_qqPZol_nYyMl_aAl0fKBgNit4XDws8GhfL9yS5iw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTMy/NzkyLTE3MTQzMzcx/MDAtNDE1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nnenna Freelon",
+      "title": "Get Out Of Town",
+      "release_title": "Nnenna Freelon - Homefree",
+      "year": "2010",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 12384808,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/6_4q5wqzwJFgWWNq05p6cScPzKFFoBm9Ev-PFd8n46I/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/ODA4LTE1MzQxODI1/MTEtODQyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Urban Knights",
+      "title": "Close Your Eyes And Remember",
+      "release_title": "Urban Knights - Urban Knights VI",
+      "year": "2005",
+      "label": "Narada Jazz",
+      "country": "US",
+      "discogs_id": 5028545,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pFH1PZKeA1VQQn9mlADCk-XWIk3yHHAWy3Ai4tLPIvo/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg1/NDUtMTYzMzQ1MzQz/OC0yODYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The J.B.'s",
+      "title": "All Aboard The Soul Funky Train",
+      "release_title": "The J.B.'s - All Aboard The Soul Funky Train / Thank You For Lettin' Me Be Myself And You Be Yours",
+      "year": "1976",
+      "label": "People",
+      "country": "US",
+      "discogs_id": 1040467,
+      "rating_avg": 4.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/BkjoA5Vm9KVjZAvEGB06VsUEeRuO3vXIG-RHzj3piEI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/NjctMTQyNDMwOTky/My0zMDI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Derek Dabbs",
+      "title": "River Dance",
+      "release_title": "Derek Dabbs - State Of Mind",
+      "year": "2002",
+      "label": "Not On Label (Derek Dabbs Self-released)",
+      "country": "US",
+      "discogs_id": 29191177,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/p3CCY35SLUltnJJmzKLGEOy12wozrhhoYyXl78hSHjw/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTkx/MTc3LTE3MDI0NzMy/MDUtNjYxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Gene Harris Quartet",
+      "title": "Nice 'N' Easy",
+      "release_title": "The Gene Harris Quartet - Funky Gene's",
+      "year": "1994",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 17140135,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/n_XpPruhZbh-PAjH5rFfY_uriN-DAL7-XORXXczKv4E/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQw/MTM1LTE2MTE4MTI1/ODYtNzk2OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gloria Lynne",
+      "title": "If You Don't Get It Yourself",
+      "release_title": "Gloria Lynne - If You Don't Get It Yourself / Love's Finally Found Me",
+      "year": "1970",
+      "label": "Canyon Records",
+      "country": "US",
+      "discogs_id": 1320190,
+      "rating_avg": 4.71,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/nD3prCXjGolwsjqN7xwjZ9rmOp3wdUVjfZK06OyPJFc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAx/OTAtMTIwOTQ4NjA0/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fattburger",
+      "title": "Joy",
+      "release_title": "Various - Smooth Jazz - Sexual Healing",
+      "year": "2000",
+      "label": "Shanachie",
+      "country": "US",
+      "discogs_id": 30532792,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/K8_qqPZol_nYyMl_aAl0fKBgNit4XDws8GhfL9yS5iw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTMy/NzkyLTE3MTQzMzcx/MDAtNDE1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Don Patterson",
+      "title": "Skylark",
+      "release_title": "Don Patterson - These Are Soulful Days",
+      "year": "1974",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 2516385,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/jZhNr_UP7MjnMmgrxGvrAyt8gtdy1FdwAgmx20wEuhg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTYz/ODUtMTU1NzkzNTE2/Ni0yNzc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Gene Harris Quartet",
+      "title": "Bye Bye Blues",
+      "release_title": "The Gene Harris Quartet - Funky Gene's",
+      "year": "1994",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 17140135,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/n_XpPruhZbh-PAjH5rFfY_uriN-DAL7-XORXXczKv4E/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQw/MTM1LTE2MTE4MTI1/ODYtNzk2OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Derek Dabbs",
+      "title": "He Will Take Care Of You",
+      "release_title": "Derek Dabbs - State Of Mind",
+      "year": "2002",
+      "label": "Not On Label (Derek Dabbs Self-released)",
+      "country": "US",
+      "discogs_id": 29191177,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/p3CCY35SLUltnJJmzKLGEOy12wozrhhoYyXl78hSHjw/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTkx/MTc3LTE3MDI0NzMy/MDUtNjYxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Urban Knights",
+      "title": "Brazillica",
+      "release_title": "Urban Knights - Urban Knights VI",
+      "year": "2005",
+      "label": "Narada Jazz",
+      "country": "US",
+      "discogs_id": 5028545,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pFH1PZKeA1VQQn9mlADCk-XWIk3yHHAWy3Ai4tLPIvo/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg1/NDUtMTYzMzQ1MzQz/OC0yODYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff & Lucky Thompson & George Freeman & O'Donel Levy",
+      "title": "Cherokee",
+      "release_title": "Jimmy McGriff, Lucky Thompson, George Freeman, O'Donel Levy - Friday The 13th. Cook County Jail.",
+      "year": "1974",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 11479207,
+      "rating_avg": 4.2,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/Wz22YKQh7ztJuyo7kYyJqw2b5xTzvUwaiEovRHev344/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc5/MjA3LTE1MTcwNjgy/NzktMzExMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Urban Knights",
+      "title": "Fall Forward",
+      "release_title": "Urban Knights - Urban Knights VI",
+      "year": "2005",
+      "label": "Narada Jazz",
+      "country": "US",
+      "discogs_id": 5028545,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/pFH1PZKeA1VQQn9mlADCk-XWIk3yHHAWy3Ai4tLPIvo/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg1/NDUtMTYzMzQ1MzQz/OC0yODYxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Derek Dabbs",
+      "title": "Falling In Love",
+      "release_title": "Derek Dabbs - State Of Mind",
+      "year": "2002",
+      "label": "Not On Label (Derek Dabbs Self-released)",
+      "country": "US",
+      "discogs_id": 29191177,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/p3CCY35SLUltnJJmzKLGEOy12wozrhhoYyXl78hSHjw/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTkx/MTc3LTE3MDI0NzMy/MDUtNjYxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Oliver Nelson & King Curtis & Jimmy Forrest",
+      "title": "Anacruses",
+      "release_title": "Oliver Nelson, King Curtis, Jimmy Forrest - Soul Battle",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 15783699,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/WKs8cRyZ1bEa_XmH680w6iqotsa9VTyiK3hqgXuNF2E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgz/Njk5LTE1OTc3MjE4/NDItMjcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Chandler",
+      "title": "The Jet Set",
+      "release_title": "Gary Chandler (2) - Outlook",
+      "year": "2018",
+      "label": "Tidal Waves Music",
+      "country": "US",
+      "discogs_id": 12328340,
+      "rating_avg": 4.4,
+      "rating_count": 25,
+      "cover_image": "https://i.discogs.com/sOBHzpknK3PjdPidBktZxSJs9vw-8pEcjNGMyOk2fLQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI4/MzQwLTE2ODE3ODY1/MTYtMTc3OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Don Patterson",
+      "title": "Whistle While You Work",
+      "release_title": "Don Patterson - These Are Soulful Days",
+      "year": "1974",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 2516385,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/jZhNr_UP7MjnMmgrxGvrAyt8gtdy1FdwAgmx20wEuhg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTYz/ODUtMTU1NzkzNTE2/Ni0yNzc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Applejac",
+      "title": "Dancing Machine (Applejac's Twitter DM Edit)",
+      "release_title": "Applejac - Dancing Machine",
+      "year": "2014",
+      "label": "RBMB",
+      "country": "US",
+      "discogs_id": 6006158,
+      "rating_avg": 4.75,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/2piD27u7UoBJ-7dez3cexHxZ7tukoPTam42tCVeoDVM/rs:fit/g:sm/q:90/h:499/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDYx/NTgtMTQwODYzMzM2/MS03OTI0LmpwZWc.jpeg"
+    }
+  ]
+}
