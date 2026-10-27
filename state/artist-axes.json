@@ -58176,6 +58176,782 @@
    2013
   ]
  },
+ "ed motta": {
+  "countries": [
+   "Brazil",
+   "Brazil",
+   "UK",
+   "Brazil",
+   "Brazil",
+   "Japan",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Europe",
+   "Brazil",
+   "Brazil",
+   "Argentina",
+   "Brazil",
+   "Japan",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Germany",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Europe"
+  ],
+  "genres": [
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Electronic",
+   "Hip Hop",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Rock",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Pop",
+   "Electronic",
+   "Latin",
+   "Latin",
+   "Funk / Soul",
+   "Latin",
+   "Funk / Soul",
+   "Funk / Soul",
+   "Pop",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Stage & Screen",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Rock",
+   "Latin",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Electronic"
+   ],
+   [
+    "Contemporary R&B",
+    "Hip Hop"
+   ],
+   [
+    "Contemporary R&B",
+    "Latin"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Pop"
+   ],
+   [
+    "Deep House",
+    "Electronic"
+   ],
+   [
+    "Deep House",
+    "Hip Hop"
+   ],
+   [
+    "Deep House",
+    "Latin"
+   ],
+   [
+    "Deep House",
+    "Funk / Soul"
+   ],
+   [
+    "Deep House",
+    "Pop"
+   ],
+   [
+    "Drum n Bass",
+    "Electronic"
+   ],
+   [
+    "Drum n Bass",
+    "Hip Hop"
+   ],
+   [
+    "Drum n Bass",
+    "Latin"
+   ],
+   [
+    "Drum n Bass",
+    "Funk / Soul"
+   ],
+   [
+    "Drum n Bass",
+    "Pop"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Hip Hop"
+   ],
+   [
+    "House",
+    "Latin"
+   ],
+   [
+    "House",
+    "Funk / Soul"
+   ],
+   [
+    "House",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Electronic"
+   ],
+   [
+    "MPB",
+    "Hip Hop"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Neo Soul",
+    "Electronic"
+   ],
+   [
+    "Neo Soul",
+    "Hip Hop"
+   ],
+   [
+    "Neo Soul",
+    "Latin"
+   ],
+   [
+    "Neo Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Neo Soul",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary R&B",
+    "Jazz"
+   ],
+   [
+    "Contemporary R&B",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Latin"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Rock"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Rock"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "MPB",
+    "Electronic"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "House",
+    "Electronic"
+   ],
+   [
+    "House",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Latin"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Pop"
+   ],
+   [
+    "AOR",
+    "Funk / Soul"
+   ],
+   [
+    "AOR",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Stage & Screen"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossanova",
+    "Pop"
+   ],
+   [
+    "Bossanova",
+    "Stage & Screen"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Jazz"
+   ],
+   [
+    "Soul",
+    "Latin"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Latin"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Rock"
+   ],
+   [
+    "Soul-Jazz",
+    "Latin"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Rock"
+   ],
+   [
+    "Smooth Jazz",
+    "Latin"
+   ],
+   [
+    "Smooth Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "AOR",
+    "Jazz"
+   ],
+   [
+    "AOR",
+    "Rock"
+   ],
+   [
+    "AOR",
+    "Latin"
+   ],
+   [
+    "AOR",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soul-Jazz",
+   "Bossa Nova",
+   "Jazz-Funk",
+   "MPB",
+   "Soul-Jazz",
+   "Bossa Nova",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "MPB",
+   "Contemporary R&B",
+   "Deep House",
+   "Drum n Bass",
+   "House",
+   "MPB",
+   "Neo Soul",
+   "Soul",
+   "Funk",
+   "Contemporary R&B",
+   "Soul",
+   "Soul-Jazz",
+   "MPB",
+   "MPB",
+   "Pop Rock",
+   "MPB",
+   "Funk",
+   "Soul",
+   "Soundtrack",
+   "MPB",
+   "House",
+   "MPB",
+   "Rhythm & Blues",
+   "Soul",
+   "Funk",
+   "Soul",
+   "Funk",
+   "AOR",
+   "MPB",
+   "Soul",
+   "Soundtrack",
+   "MPB",
+   "Bossanova",
+   "MPB",
+   "Soul",
+   "Funk",
+   "MPB",
+   "Soul-Jazz",
+   "Bossa Nova",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "AOR"
+  ],
+  "years": [
+   2002,
+   2005,
+   2002,
+   1990,
+   2002,
+   2016,
+   2007,
+   2003,
+   1992,
+   2013,
+   1997,
+   2005,
+   2013,
+   1996,
+   2018,
+   1998,
+   2004,
+   2001,
+   2018,
+   1997,
+   1997,
+   1996,
+   2016,
+   2003,
+   2014
+  ]
+ },
  "edda dell'orso": {
   "countries": [
    "Italy",
