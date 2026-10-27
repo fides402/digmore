@@ -61717,6 +61717,524 @@
    2019
   ]
  },
+ "elis regina": {
+  "countries": [
+   "Brazil",
+   "Brazil",
+   "Venezuela",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Europe",
+   "Brazil",
+   "Netherlands",
+   "US",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Mexico",
+   "Brazil",
+   "Brazil",
+   "Brazil",
+   "Portugal",
+   "Mexico",
+   "Unknown",
+   "Brazil"
+  ],
+  "genres": [
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Pop",
+   "Latin",
+   "Pop",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Latin",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Pop",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Folk, World, & Country",
+   "Latin",
+   "Pop",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Latin",
+   "Jazz",
+   "Latin",
+   "Latin"
+  ],
+  "pairs": [
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Folk, World, & Country"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Samba",
+    "Jazz"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Samba",
+    "Pop"
+   ],
+   [
+    "Samba",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Jazz"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Folk, World, & Country"
+   ],
+   [
+    "Forró",
+    "Jazz"
+   ],
+   [
+    "Forró",
+    "Latin"
+   ],
+   [
+    "Forró",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Jazz"
+   ],
+   [
+    "Folk",
+    "Latin"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Folk, World, & Country"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Jazz"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Bossanova",
+    "Latin"
+   ],
+   [
+    "MPB",
+    "Latin"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "MPB",
+   "Latin Jazz",
+   "Bossa Nova",
+   "MPB",
+   "Bossa Nova",
+   "Latin Jazz",
+   "MPB",
+   "Bossa Nova",
+   "Samba",
+   "MPB",
+   "MPB",
+   "Bossa Nova",
+   "Fusion",
+   "Samba",
+   "MPB",
+   "Bossanova",
+   "MPB",
+   "Samba",
+   "Bossanova",
+   "Bossanova",
+   "MPB",
+   "MPB",
+   "Bossa Nova",
+   "MPB",
+   "Bossanova",
+   "Bossa Nova",
+   "Latin Jazz",
+   "Bossa Nova",
+   "MPB",
+   "Samba",
+   "Samba",
+   "Bossanova",
+   "Forró",
+   "Folk",
+   "Latin Jazz",
+   "MPB",
+   "Bossa Nova",
+   "MPB",
+   "Latin Jazz",
+   "Bossa Nova",
+   "MPB",
+   "Latin Jazz",
+   "Bossanova",
+   "Bossa Nova",
+   "Bossa Nova",
+   "MPB",
+   "Bossanova",
+   "MPB",
+   "MPB",
+   "Bossa Nova",
+   "Bossanova",
+   "MPB"
+  ],
+  "years": [
+   1997,
+   1970,
+   2001,
+   2009,
+   1987,
+   1996,
+   1998,
+   2015,
+   2014,
+   1969,
+   1997,
+   1983,
+   1967,
+   1987,
+   1999,
+   1966,
+   1973,
+   1971
+  ]
+ },
  "ella fitzgerald": {
   "countries": [
    "Japan",
