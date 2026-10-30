@@ -35277,6 +35277,428 @@
    1969
   ]
  },
+ "brian eno": {
+  "countries": [
+   "Japan",
+   "UK",
+   "Europe",
+   "UK",
+   "Italy",
+   "Russia",
+   "UK",
+   "Europe",
+   "Czechoslovakia",
+   "US",
+   "UK",
+   "Worldwide",
+   "Worldwide",
+   "Worldwide",
+   "Europe",
+   "Unknown",
+   "Worldwide",
+   "UK",
+   "UK",
+   "Australia",
+   "UK, Europe & US",
+   "Germany",
+   "Germany",
+   "US",
+   "Japan"
+  ],
+  "genres": [
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Rock"
+  ],
+  "pairs": [
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Glam",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Trance",
+    "Electronic"
+   ],
+   [
+    "Soft Rock",
+    "Electronic"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Electronic"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Avantgarde",
+    "Electronic"
+   ],
+   [
+    "Avantgarde",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Future Jazz",
+    "Electronic"
+   ],
+   [
+    "Future Jazz",
+    "Rock"
+   ],
+   [
+    "Post Rock",
+    "Electronic"
+   ],
+   [
+    "Post Rock",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Minimal",
+    "Electronic"
+   ],
+   [
+    "Avantgarde",
+    "Electronic"
+   ],
+   [
+    "Avantgarde",
+    "Rock"
+   ],
+   [
+    "Avantgarde",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Avantgarde",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Glam",
+    "Rock"
+   ],
+   [
+    "Alternative Rock",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Minimal",
+    "Electronic"
+   ],
+   [
+    "Art Rock",
+    "Electronic"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Avantgarde",
+    "Electronic"
+   ],
+   [
+    "Avantgarde",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Glam",
+    "Rock"
+   ],
+   [
+    "Abstract",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Art Rock",
+    "Electronic"
+   ],
+   [
+    "Art Rock",
+    "Rock"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Experimental",
+   "Ambient",
+   "Prog Rock",
+   "Glam",
+   "Ambient",
+   "Ambient",
+   "Experimental",
+   "Ambient",
+   "Ambient",
+   "Trance",
+   "Soft Rock",
+   "Downtempo",
+   "Ambient",
+   "Art Rock",
+   "Avantgarde",
+   "Experimental",
+   "Future Jazz",
+   "Post Rock",
+   "Ambient",
+   "Prog Rock",
+   "Alternative Rock",
+   "Experimental",
+   "Ambient",
+   "Abstract",
+   "Experimental",
+   "Ambient",
+   "Ambient",
+   "Minimal",
+   "Avantgarde",
+   "Ambient",
+   "Ambient",
+   "Synth-pop",
+   "Art Rock",
+   "Experimental",
+   "Avantgarde",
+   "Prog Rock",
+   "Glam",
+   "Alternative Rock",
+   "Experimental",
+   "Experimental",
+   "Ambient",
+   "Minimal",
+   "Art Rock",
+   "Avantgarde",
+   "Ambient",
+   "Art Rock",
+   "Glam",
+   "Abstract",
+   "Ambient",
+   "Art Rock",
+   "Ambient",
+   "Art Rock"
+  ],
+  "years": [
+   1979,
+   2004,
+   1997,
+   2002,
+   2005,
+   2007,
+   2005,
+   1992,
+   2020,
+   1986,
+   2024,
+   2022,
+   2018,
+   2009,
+   1986,
+   2003,
+   1978,
+   2007,
+   1992,
+   1977
+  ]
+ },
  "brian protheroe": {
   "countries": [
    "Netherlands",
@@ -52865,6 +53287,529 @@
    2025,
    2021,
    2025
+  ]
+ },
+ "dave grusin": {
+  "countries": [
+   "USSR",
+   "Japan",
+   "Japan",
+   "USSR",
+   "USSR",
+   "USSR",
+   "Japan",
+   "Europe",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Australia",
+   "Australia",
+   "US",
+   "Japan",
+   "Japan",
+   "US",
+   "Australia",
+   "Russia",
+   "Japan",
+   "Indonesia",
+   "South Korea",
+   "Argentina",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Blues",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Electronic",
+   "Jazz",
+   "Latin",
+   "Blues",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Jazz"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Jazz"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Electronic"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Funk / Soul"
+   ],
+   [
+    "Fusion",
+    "Pop"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Blues"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Latin"
+   ],
+   [
+    "Contemporary Jazz",
+    "Blues"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Fusion",
+   "Smooth Jazz",
+   "Soul-Jazz",
+   "Soundtrack",
+   "Theme",
+   "Jazz-Funk",
+   "Psychedelic Rock",
+   "Soundtrack",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Fusion",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Fusion",
+   "Soul-Jazz",
+   "Smooth Jazz",
+   "Fusion",
+   "Soundtrack",
+   "Swing",
+   "Contemporary Jazz",
+   "Hard Bop",
+   "Soundtrack",
+   "Score",
+   "Contemporary Jazz",
+   "Theme",
+   "Contemporary Jazz",
+   "Smooth Jazz",
+   "Soundtrack",
+   "Soundtrack",
+   "Theme",
+   "Jazz-Funk",
+   "Funk",
+   "Fusion",
+   "Jazz-Funk",
+   "Fusion",
+   "Contemporary Jazz",
+   "Soundtrack",
+   "Soundtrack",
+   "Score",
+   "Smooth Jazz",
+   "Soundtrack",
+   "Theme",
+   "Soundtrack",
+   "Contemporary Jazz",
+   "Soundtrack",
+   "Contemporary Jazz",
+   "Swing",
+   "Soundtrack",
+   "Score"
+  ],
+  "years": [
+   1983,
+   1985,
+   1970,
+   1984,
+   1984,
+   1984,
+   2016,
+   2017,
+   1984,
+   1989,
+   1993,
+   1979,
+   1970,
+   1991,
+   2014,
+   1979,
+   2011,
+   1987,
+   1993,
+   1987,
+   1999
   ]
  },
  "dave pike": {
