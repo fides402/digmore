@@ -46556,6 +46556,60 @@
    2012
   ]
  },
+ "christian mcbride trio": {
+  "countries": [
+   "USA & Canada",
+   "Japan",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Unknown"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ],
+   [
+    "Post Bop",
+    "Jazz"
+   ]
+  ],
+  "releases": 7,
+  "styles": [
+   "Post Bop",
+   "Post Bop",
+   "Post Bop",
+   "Post Bop"
+  ],
+  "years": [
+   2021,
+   2013,
+   2016,
+   2016,
+   2013,
+   2013,
+   2015
+  ]
+ },
  "chuck mangione": {
   "countries": [
    "Japan",
@@ -109711,6 +109765,728 @@
    1986,
    1994,
    1973
+  ]
+ },
+ "john cameron": {
+  "countries": [
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "Canada",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "US",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "Germany",
+   "UK",
+   "US",
+   "UK",
+   "UK",
+   "UK",
+   "UK"
+  ],
+  "genres": [
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Electronic",
+   "Rock",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Electronic",
+   "Rock",
+   "Funk / Soul",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Classical",
+   "Stage & Screen",
+   "Rock",
+   "Stage & Screen",
+   "Jazz",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Electronic",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Folk, World, & Country",
+   "Classical",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Electronic",
+   "Classical",
+   "Stage & Screen",
+   "Electronic",
+   "Electronic"
+  ],
+  "pairs": [
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Electronic"
+   ],
+   [
+    "Score",
+    "Rock"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Folk, World, & Country"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Electronic"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Folk, World, & Country"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Folk",
+    "Electronic"
+   ],
+   [
+    "Folk",
+    "Rock"
+   ],
+   [
+    "Folk",
+    "Funk / Soul"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Stage & Screen"
+   ],
+   [
+    "Movie Effects",
+    "Electronic"
+   ],
+   [
+    "Movie Effects",
+    "Rock"
+   ],
+   [
+    "Movie Effects",
+    "Funk / Soul"
+   ],
+   [
+    "Movie Effects",
+    "Folk, World, & Country"
+   ],
+   [
+    "Movie Effects",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Electronic"
+   ],
+   [
+    "Score",
+    "Rock"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Folk, World, & Country"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Electronic"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Psychedelic Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Funk / Soul"
+   ],
+   [
+    "Experimental",
+    "Folk, World, & Country"
+   ],
+   [
+    "Experimental",
+    "Stage & Screen"
+   ],
+   [
+    "Folk",
+    "Electronic"
+   ],
+   [
+    "Folk",
+    "Rock"
+   ],
+   [
+    "Folk",
+    "Funk / Soul"
+   ],
+   [
+    "Folk",
+    "Folk, World, & Country"
+   ],
+   [
+    "Folk",
+    "Stage & Screen"
+   ],
+   [
+    "Movie Effects",
+    "Electronic"
+   ],
+   [
+    "Movie Effects",
+    "Rock"
+   ],
+   [
+    "Movie Effects",
+    "Funk / Soul"
+   ],
+   [
+    "Movie Effects",
+    "Folk, World, & Country"
+   ],
+   [
+    "Movie Effects",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Rock"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Psychedelic Rock",
+    "Rock"
+   ],
+   [
+    "Psychedelic Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Folk, World, & Country"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Stage & Screen"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Classical"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Neo-Classical",
+    "Classical"
+   ],
+   [
+    "Neo-Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Synth-pop",
+    "Electronic"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Stage & Screen"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ],
+   [
+    "Disco",
+    "Electronic"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soundtrack",
+   "Score",
+   "Psychedelic Rock",
+   "Funk",
+   "Experimental",
+   "Folk",
+   "Movie Effects",
+   "Soundtrack",
+   "Score",
+   "Psychedelic Rock",
+   "Funk",
+   "Experimental",
+   "Folk",
+   "Movie Effects",
+   "Soundtrack",
+   "Theme",
+   "Classical",
+   "Soundtrack",
+   "Score",
+   "Psychedelic Rock",
+   "Funk",
+   "Soundtrack",
+   "Disco",
+   "Contemporary",
+   "Classical",
+   "Theme",
+   "Soundtrack",
+   "Neo-Classical",
+   "Modern",
+   "Soundtrack",
+   "Theme",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Soundtrack",
+   "Theme",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Score",
+   "Soundtrack",
+   "Soundtrack",
+   "Theme",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Soundtrack",
+   "Synth-pop",
+   "Classical",
+   "Disco",
+   "Disco"
+  ],
+  "years": [
+   1972,
+   1997,
+   2003,
+   1973,
+   1966,
+   1986,
+   1987,
+   2003,
+   2019,
+   1978,
+   1982,
+   1973,
+   2023,
+   1988,
+   1972,
+   2001,
+   2026,
+   2019,
+   1973,
+   1985,
+   1987,
+   1978,
+   1978
   ]
  },
  "john coltrane": {
