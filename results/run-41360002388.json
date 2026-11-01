@@ -1,0 +1,403 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Pop",
+        "style": "Ballad"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US",
+      "Italy"
+    ],
+    "year_from": 1969,
+    "year_to": 2023,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 37,
+      "fresh_lookups": 0,
+      "styles_considered": 124
+    }
+  },
+  "results": [
+    {
+      "artist": "Samuele Bersani",
+      "title": "Fuori Dal Tuo Riparo",
+      "release_title": "Samuele Bersani - Manifesto Abusivo",
+      "year": "2009",
+      "label": "Fuori Classifica",
+      "country": "Italy",
+      "discogs_id": 13215626,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/NmvTFUcBCkaMea-DJmysf4v9gvClK8mDb9QbCxEC8kA/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE1/NjI2LTE1NTAwOTIx/NDUtNzYyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Il Giardino Dei Semplici",
+      "title": "Ricordi",
+      "release_title": "Il Giardino Dei Semplici - Le Favole Del Giardino",
+      "year": "1977",
+      "label": "CBS",
+      "country": "Italy",
+      "discogs_id": 24106373,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/a24jgDf3subo5CkjjCoDMiT0O_KricpNpo6gL-1Zy0Q/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/MzczLTE2ODkyNjIy/MDMtNjA5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Blue Matter",
+      "release_title": "John Scofield - Blue Matter",
+      "year": "2002",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 1420641,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/IUbrB337t0y7UxII0TyIqlemq86yEZ5veiWpLBaYrP0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA2/NDEtMTU5ODMzNjg2/Ni02NDYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Raffaella Carrà",
+      "title": "Dammi Un Bacio",
+      "release_title": "Raffaella Carra'* - Ballo, Ballo",
+      "year": "1982",
+      "label": "Hispavox",
+      "country": "Italy",
+      "discogs_id": 24032099,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Phmg98Qzv7JWRC3-w1jr1DfRUof-ht6Orxz4O64Qou4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMy/MDk5LTE2NTkwODM2/NDItNzU5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sammy Kaye",
+      "title": "If You've Got The Time",
+      "release_title": "Sammy Kaye - If You've Got The Time",
+      "year": "1971",
+      "label": "Project 3",
+      "country": "US",
+      "discogs_id": 11455441,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/u7-bcBg4e7C8eOX7iU8Qn0IYT-K4Fu61iftj5JJ2ejw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU1/NDQxLTE1MTY2MzM3/ODUtOTg5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Il Giardino Dei Semplici",
+      "title": "Vai",
+      "release_title": "Il Giardino Dei Semplici - Le Favole Del Giardino",
+      "year": "1977",
+      "label": "CBS",
+      "country": "Italy",
+      "discogs_id": 24106373,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/a24jgDf3subo5CkjjCoDMiT0O_KricpNpo6gL-1Zy0Q/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/MzczLTE2ODkyNjIy/MDMtNjA5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Eleventh House",
+      "title": "Mr. Miyake",
+      "release_title": "The Eleventh House - Seven Secrets",
+      "year": "2016",
+      "label": "Savoy Jazz",
+      "country": "US",
+      "discogs_id": 36850912,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zFctYTNDCEOUGS6p04-sgT1Jk92hZ_E47nAIzZ-V5KY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODUw/OTEyLTE3NzQyMzM5/MzgtNzM4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hi Hopes",
+      "title": "I Believe In Music",
+      "release_title": "Hi Hopes - The Impossible Dream/I Believe In Music",
+      "year": "1975",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 13357948,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/vlwySQtD5jo8K-FsxPzjMVDDTig1W2wAeU0VR6OXn3Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU3/OTQ4LTE1NTI3MDE2/ODEtODMxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty",
+      "title": "The Amazon Forest",
+      "release_title": "Jean-Luc Ponty - Live At Chene Park",
+      "year": "1996",
+      "label": "Atlantic Jazz",
+      "country": "US",
+      "discogs_id": 3657199,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/x_nWBgCtCUsGuRt6bYRru2UN-Gk3XiQNcudw0Qb128U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcx/OTktMTMzOTE2OTI3/MC0zNTI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cashman, Pistilli & West",
+      "title": "She Never Looked Better",
+      "release_title": "Cashman, Pistilli & West - Goodbye Jo / She Never Looked Better",
+      "year": "1970",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 10415368,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9cxTmdh1ywkZl2IpU7vt1z0AWENQGfhtkdH37T5culY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/MzY4LTE1NjUwMDY4/NjctNTYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michał Urbaniak",
+      "title": "Stretch",
+      "release_title": "Michal Urbaniak* - Fusion III",
+      "year": "1975",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 1273832,
+      "rating_avg": 4.07,
+      "rating_count": 59,
+      "cover_image": "https://i.discogs.com/nCg3hz227G3OPsGLP7EtahqDbyvv3CQlvcZ2Rz62YtM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM4/MzItMTIwNTUyOTYz/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty",
+      "title": "Caracas",
+      "release_title": "Jean-Luc Ponty - Live At Chene Park",
+      "year": "1996",
+      "label": "Atlantic Jazz",
+      "country": "US",
+      "discogs_id": 3657199,
+      "rating_avg": 4.38,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/x_nWBgCtCUsGuRt6bYRru2UN-Gk3XiQNcudw0Qb128U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcx/OTktMTMzOTE2OTI3/MC0zNTI3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Il Giardino Dei Semplici",
+      "title": "Un Giorno Tua Madre",
+      "release_title": "Il Giardino Dei Semplici - Le Favole Del Giardino",
+      "year": "1977",
+      "label": "CBS",
+      "country": "Italy",
+      "discogs_id": 24106373,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/a24jgDf3subo5CkjjCoDMiT0O_KricpNpo6gL-1Zy0Q/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA2/MzczLTE2ODkyNjIy/MDMtNjA5MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lesley Gore & Lou Christie",
+      "title": "Our Love Was Meant To Be",
+      "release_title": "Lesley Gore / Lou Christie - Medley: A: Since I Don't Have You B: It's Only Make Believe",
+      "year": "1986",
+      "label": "Manhattan Records",
+      "country": "US",
+      "discogs_id": 7903923,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/fb5fa4963e35b16891aced33c92856a9fcedf8b2/images/spacer.gif"
+    },
+    {
+      "artist": "Michał Urbaniak",
+      "title": "Kuyaviak Goes Funky",
+      "release_title": "Michal Urbaniak* - Fusion III",
+      "year": "1975",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 1273832,
+      "rating_avg": 4.07,
+      "rating_count": 59,
+      "cover_image": "https://i.discogs.com/nCg3hz227G3OPsGLP7EtahqDbyvv3CQlvcZ2Rz62YtM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM4/MzItMTIwNTUyOTYz/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "The Nag",
+      "release_title": "John Scofield - Blue Matter",
+      "year": "2002",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 1420641,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/IUbrB337t0y7UxII0TyIqlemq86yEZ5veiWpLBaYrP0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA2/NDEtMTU5ODMzNjg2/Ni02NDYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Samuele Bersani",
+      "title": "A Bologna",
+      "release_title": "Samuele Bersani - Manifesto Abusivo",
+      "year": "2009",
+      "label": "Fuori Classifica",
+      "country": "Italy",
+      "discogs_id": 13215626,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/NmvTFUcBCkaMea-DJmysf4v9gvClK8mDb9QbCxEC8kA/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE1/NjI2LTE1NTAwOTIx/NDUtNzYyMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marras",
+      "title": "One More Night",
+      "release_title": "Marras (2) - After The Innocence",
+      "year": "2010",
+      "label": "F&m Entertainment",
+      "country": "Italy",
+      "discogs_id": 5062554,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bUsqlo1suLzakVWQGDh86g6A-c9K1AVNiHA1S42cOaE/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjI1/NTQtMTM4MzQ4NjIw/Mi0xNDg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hi Hopes",
+      "title": "The Impossible Dream",
+      "release_title": "Hi Hopes - The Impossible Dream/I Believe In Music",
+      "year": "1975",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 13357948,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/vlwySQtD5jo8K-FsxPzjMVDDTig1W2wAeU0VR6OXn3Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU3/OTQ4LTE1NTI3MDE2/ODEtODMxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Now She's Blonde",
+      "release_title": "John Scofield - Blue Matter",
+      "year": "2002",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 1420641,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/IUbrB337t0y7UxII0TyIqlemq86yEZ5veiWpLBaYrP0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA2/NDEtMTU5ODMzNjg2/Ni02NDYyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mia Martini",
+      "title": "Gli uomini non cambiano",
+      "release_title": "Mia Martini - Lacrime",
+      "year": "1992",
+      "label": "Edizioni Fonit-Cetra",
+      "country": "Italy",
+      "discogs_id": 14854861,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IIy23qYRRBWgUZcwbtJULfm6EPZKSRYh3uz1YW8gdO0/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU0/ODYxLTE1ODI5MDY5/NjktMzYzNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Boones",
+      "title": "He's A Rebel",
+      "release_title": "Debby Boone / The Boones - You Light Up My Life / He's A Rebel",
+      "year": "1977",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 8808958,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/TzYxvQEgt6sxjFOpk9UW9pkifLzS0j4XjyDfZlTrO9o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDg5/NTgtMTQ2OTIxNTcw/MS0yMjAwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Julio Iglesias",
+      "title": "Manuela",
+      "release_title": "Julio Iglesias - Manuela",
+      "year": "1975",
+      "label": "Ariston",
+      "country": "Italy",
+      "discogs_id": 26415485,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/L1pgTN1SKR2yBI3bHqGoeBXawRW2mYmUa3GuvTm97vc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE1/NDg1LTE2Nzg3ODU0/MzItNzI1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michał Urbaniak",
+      "title": "Prehistoric Bird",
+      "release_title": "Michal Urbaniak* - Fusion III",
+      "year": "1975",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 1273832,
+      "rating_avg": 4.07,
+      "rating_count": 59,
+      "cover_image": "https://i.discogs.com/nCg3hz227G3OPsGLP7EtahqDbyvv3CQlvcZ2Rz62YtM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM4/MzItMTIwNTUyOTYz/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Eleventh House",
+      "title": "Seven Secrets",
+      "release_title": "The Eleventh House - Seven Secrets",
+      "year": "2016",
+      "label": "Savoy Jazz",
+      "country": "US",
+      "discogs_id": 36850912,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/zFctYTNDCEOUGS6p04-sgT1Jk92hZ_E47nAIzZ-V5KY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODUw/OTEyLTE3NzQyMzM5/MzgtNzM4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Julio Iglesias",
+      "title": "Dicen",
+      "release_title": "Julio Iglesias - Manuela",
+      "year": "1975",
+      "label": "Ariston",
+      "country": "Italy",
+      "discogs_id": 26415485,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/L1pgTN1SKR2yBI3bHqGoeBXawRW2mYmUa3GuvTm97vc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE1/NDg1LTE2Nzg3ODU0/MzItNzI1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Cashman, Pistilli & West",
+      "title": "Goodbye Jo",
+      "release_title": "Cashman, Pistilli & West - Goodbye Jo / She Never Looked Better",
+      "year": "1970",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 10415368,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9cxTmdh1ywkZl2IpU7vt1z0AWENQGfhtkdH37T5culY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/MzY4LTE1NjUwMDY4/NjctNTYxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marras",
+      "title": "Run",
+      "release_title": "Marras (2) - After The Innocence",
+      "year": "2010",
+      "label": "F&m Entertainment",
+      "country": "Italy",
+      "discogs_id": 5062554,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bUsqlo1suLzakVWQGDh86g6A-c9K1AVNiHA1S42cOaE/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjI1/NTQtMTM4MzQ4NjIw/Mi0xNDg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Marras",
+      "title": "Hijo De La Luna",
+      "release_title": "Marras (2) - After The Innocence",
+      "year": "2010",
+      "label": "F&m Entertainment",
+      "country": "Italy",
+      "discogs_id": 5062554,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/bUsqlo1suLzakVWQGDh86g6A-c9K1AVNiHA1S42cOaE/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjI1/NTQtMTM4MzQ4NjIw/Mi0xNDg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sammy Kaye",
+      "title": "For The Good Times",
+      "release_title": "Sammy Kaye - If You've Got The Time",
+      "year": "1971",
+      "label": "Project 3",
+      "country": "US",
+      "discogs_id": 11455441,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/u7-bcBg4e7C8eOX7iU8Qn0IYT-K4Fu61iftj5JJ2ejw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU1/NDQxLTE1MTY2MzM3/ODUtOTg5OS5qcGVn.jpeg"
+    }
+  ]
+}
