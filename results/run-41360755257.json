@@ -1,0 +1,407 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Cool Jazz"
+      }
+    ],
+    "countries": [
+      "US",
+      "Italy"
+    ],
+    "year_from": 1964,
+    "year_to": 2018,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 31,
+      "artists_found": 30,
+      "fresh_lookups": 0,
+      "styles_considered": 99
+    }
+  },
+  "results": [
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Don't Mess With Mister T",
+      "release_title": "Stanley Turrentine - The Baddest Turrentine",
+      "year": "1975",
+      "label": "CTI Records",
+      "country": "Italy",
+      "discogs_id": 3368105,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/nNyfVbol7f5GrhxJ3up-WD0yTN2ZHBEYkVmbMJFzOFo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjgx/MDUtMTQ4NTIxNTc0/Ny02MDI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Sugar",
+      "release_title": "Stanley Turrentine - The Baddest Turrentine",
+      "year": "1975",
+      "label": "CTI Records",
+      "country": "Italy",
+      "discogs_id": 3368105,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/nNyfVbol7f5GrhxJ3up-WD0yTN2ZHBEYkVmbMJFzOFo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjgx/MDUtMTQ4NTIxNTc0/Ny02MDI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Boy Katindig",
+      "title": "Christian's Smile",
+      "release_title": "Boy Katindig - Groovin' High",
+      "year": "2005",
+      "label": "Kool Kat Productions",
+      "country": "US",
+      "discogs_id": 29875027,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/iGjLBPN-zMtxW0Gyh6Si8fCDgONGqPWLZeS_piy01ss/rs:fit/g:sm/q:90/h:500/w:496/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODc1/MDI3LTE3MDg1MzEy/NjEtMjQwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Barry Miles",
+      "title": "A Waltz For You",
+      "release_title": "Barry Miles & Co* - Sky Train",
+      "year": "1977",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 3731449,
+      "rating_avg": 4.25,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/XKgerOS4rqI2r5O042cPy0-o4b5OQhsr8foF5O_72OQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzE0/NDktMTUzOTUzMTgw/OS03MjUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lennie Tristano",
+      "title": "Blame Me",
+      "release_title": "Lennie Tristano - The Best Of Lennie Tristano ",
+      "year": "1995",
+      "label": "Dixie Live",
+      "country": "Italy",
+      "discogs_id": 10382366,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/DmQOArr0ZKRire63kLR9yaA5TmuX077sAEyWYzshnig/rs:fit/g:sm/q:90/h:479/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgy/MzY2LTE0OTYzNjIz/OTEtMTAwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boy Katindig",
+      "title": "At Central Park",
+      "release_title": "Boy Katindig - Groovin' High",
+      "year": "2005",
+      "label": "Kool Kat Productions",
+      "country": "US",
+      "discogs_id": 29875027,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/iGjLBPN-zMtxW0Gyh6Si8fCDgONGqPWLZeS_piy01ss/rs:fit/g:sm/q:90/h:500/w:496/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODc1/MDI3LTE3MDg1MzEy/NjEtMjQwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Willis Jackson",
+      "title": "The Gator Jumps",
+      "release_title": "Willis Jackson - Blue Gator",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 2160363,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/gyqvnLOiODJLAUwowY99rI1yMc5LUtkrkeUjXDow_pc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjAz/NjMtMTUzNzIwMDIw/Ni0xNzI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sarah Vaughan",
+      "title": "Rainy Days And Mondays",
+      "release_title": "Sarah Vaughan - The Complete Sarah Vaughan Live In Japan",
+      "year": "1990",
+      "label": "Musical Heritage Society",
+      "country": "US",
+      "discogs_id": 4441130,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sNgFuUTEEYuOspweYCXucjfduoWuy5WbnLXpQPGxXnI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDEx/MzAtMTQ2NDE3OTg4/Ni0zOTIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andy Narell",
+      "title": "Out Of The Blue",
+      "release_title": "Andy Narell - Live In South Africa",
+      "year": "2001",
+      "label": "Heads Up International",
+      "country": "US",
+      "discogs_id": 25471054,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Fjfvhz1_4zPc3Ob3PCYbssu3sP2xagsIsCoZ5WOcDMg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcx/MDU0LTE2NzExMTA5/NTYtNTU3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Tears",
+      "release_title": "Weather Report - Weather Report",
+      "year": "2009",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3656454,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/s0yLX5RgfbdwYM5M_LG0LttsILES39l-lJjhMJTJRjU/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTY0/NTQtMTMzOTExNjE0/My05OTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Brother Jack McDuff Quartet & The Big Band Of Benny Golson",
+      "title": "You Better Love Me",
+      "release_title": "The Brother Jack McDuff Quartet With The Big Band Of Benny Golson - The Dynamic Jack Mc Duff",
+      "year": "1964",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 2562486,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/zicaAPsaL-OGWqPiL2GAGnuVij33U7074RKyBPwOv_k/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjI0/ODYtMTM1NDA0MzY0/NS01MTQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andy Narell",
+      "title": "Kalinda",
+      "release_title": "Andy Narell - Live In South Africa",
+      "year": "2001",
+      "label": "Heads Up International",
+      "country": "US",
+      "discogs_id": 25471054,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Fjfvhz1_4zPc3Ob3PCYbssu3sP2xagsIsCoZ5WOcDMg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcx/MDU0LTE2NzExMTA5/NTYtNTU3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Red Holloway",
+      "title": "Good & Groovy",
+      "release_title": "Red Holloway - Red Soul",
+      "year": "1966",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 12389474,
+      "rating_avg": 4.44,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/QV5Zn0tS0UteUkngXbzX0n1sBuXvO9Pm8BCST4jnu7k/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg5/NDc0LTE1MzQyNzM5/NjAtOTcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brother Jack McDuff Quartet & The Big Band Of Benny Golson",
+      "title": "Rail Head",
+      "release_title": "The Brother Jack McDuff Quartet With The Big Band Of Benny Golson - The Dynamic Jack Mc Duff",
+      "year": "1964",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 2562486,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/zicaAPsaL-OGWqPiL2GAGnuVij33U7074RKyBPwOv_k/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjI0/ODYtMTM1NDA0MzY0/NS01MTQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Milky Way",
+      "release_title": "Weather Report - Weather Report",
+      "year": "2009",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3656454,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/s0yLX5RgfbdwYM5M_LG0LttsILES39l-lJjhMJTJRjU/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTY0/NTQtMTMzOTExNjE0/My05OTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willis Jackson",
+      "title": "This Nearly Was Mine",
+      "release_title": "Willis Jackson - Blue Gator",
+      "year": "1972",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 2160363,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/gyqvnLOiODJLAUwowY99rI1yMc5LUtkrkeUjXDow_pc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjAz/NjMtMTUzNzIwMDIw/Ni0xNzI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cannonball Adderley & Nat Adderley",
+      "title": "This Here",
+      "release_title": "Cannonball Adderley Featuring Nat Adderley - Coast To Coast",
+      "year": "1977",
+      "label": "Milestone",
+      "country": "Italy",
+      "discogs_id": 6514999,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/Ho0LDfPOzQ8RTOhDqxuDct0MeZRa_eBB1fCUoWNPreI/rs:fit/g:sm/q:90/h:506/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTQ5/OTktMTQyMDk5OTM1/MS0yNzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sarah Vaughan",
+      "title": "Poor Butterfly",
+      "release_title": "Sarah Vaughan - The Complete Sarah Vaughan Live In Japan",
+      "year": "1990",
+      "label": "Musical Heritage Society",
+      "country": "US",
+      "discogs_id": 4441130,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sNgFuUTEEYuOspweYCXucjfduoWuy5WbnLXpQPGxXnI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDEx/MzAtMTQ2NDE3OTg4/Ni0zOTIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Archie Shepp",
+      "title": "Revolution",
+      "release_title": "Archie Shepp - Phat Jam In Milano",
+      "year": "2009",
+      "label": "Dawn Of Freedom",
+      "country": "Italy",
+      "discogs_id": 3304822,
+      "rating_avg": 4.78,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/mJIHatUs_9G2qPGW3-wPZosKQDiYKTzecXDdqmY5rFg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQ4/MjItMTQzODk2NTQ0/OS0zMzQ4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lennie Tristano",
+      "title": "I Found My Baby",
+      "release_title": "Lennie Tristano - The Best Of Lennie Tristano ",
+      "year": "1995",
+      "label": "Dixie Live",
+      "country": "Italy",
+      "discogs_id": 10382366,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/DmQOArr0ZKRire63kLR9yaA5TmuX077sAEyWYzshnig/rs:fit/g:sm/q:90/h:479/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgy/MzY2LTE0OTYzNjIz/OTEtMTAwMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Eurydice",
+      "release_title": "Weather Report - Weather Report",
+      "year": "2009",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3656454,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/s0yLX5RgfbdwYM5M_LG0LttsILES39l-lJjhMJTJRjU/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTY0/NTQtMTMzOTExNjE0/My05OTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andy Narell",
+      "title": "Heads Or Tails",
+      "release_title": "Andy Narell - Live In South Africa",
+      "year": "2001",
+      "label": "Heads Up International",
+      "country": "US",
+      "discogs_id": 25471054,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Fjfvhz1_4zPc3Ob3PCYbssu3sP2xagsIsCoZ5WOcDMg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcx/MDU0LTE2NzExMTA5/NTYtNTU3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Zawinul",
+      "title": "Arrival In New York",
+      "release_title": "Zawinul* - Zawinul",
+      "year": "1971",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 11278291,
+      "rating_avg": 4.55,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/92FJZhQjEGwQ3OitjFyXZlc9Yxr4SIfMkXQMQHIctEw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc4/MjkxLTE1MzEwOTc0/MzktNjM1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peter Moffitt",
+      "title": "The Gathering",
+      "release_title": "Peter Moffitt - Zoe's Song",
+      "year": "1987",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 25877641,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hh7W58uu9cRBxKih6ttD3FPRx-kZTbT_RqVbklsreFE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc3/NjQxLTE2NzQ2NjY0/ODctMzk1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Seventh Arrow",
+      "release_title": "Weather Report - Weather Report",
+      "year": "2009",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3656454,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/s0yLX5RgfbdwYM5M_LG0LttsILES39l-lJjhMJTJRjU/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTY0/NTQtMTMzOTExNjE0/My05OTA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sarah Vaughan",
+      "title": "I Remember You",
+      "release_title": "Sarah Vaughan - The Complete Sarah Vaughan Live In Japan",
+      "year": "1990",
+      "label": "Musical Heritage Society",
+      "country": "US",
+      "discogs_id": 4441130,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sNgFuUTEEYuOspweYCXucjfduoWuy5WbnLXpQPGxXnI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDEx/MzAtMTQ2NDE3OTg4/Ni0zOTIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Yaphet Kotto",
+      "title": "Have You Ever Seen The Blues",
+      "release_title": "Yaphet Kotto (2) - Have You Ever Seen The Blues",
+      "year": "1967",
+      "label": "Chisa",
+      "country": "US",
+      "discogs_id": 5477783,
+      "rating_avg": 4.62,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/Uf-iB-ogMXElUOWzmTm_CYBKonLvxYuEBRHHpGRhuyA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Nzc3/ODMtMTM5NDM4MDkz/OC0yOTQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sarah Vaughan",
+      "title": "Summertime",
+      "release_title": "Sarah Vaughan - The Complete Sarah Vaughan Live In Japan",
+      "year": "1990",
+      "label": "Musical Heritage Society",
+      "country": "US",
+      "discogs_id": 4441130,
+      "rating_avg": 1.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/sNgFuUTEEYuOspweYCXucjfduoWuy5WbnLXpQPGxXnI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDEx/MzAtMTQ2NDE3OTg4/Ni0zOTIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peter Moffitt",
+      "title": "Destination",
+      "release_title": "Peter Moffitt - Zoe's Song",
+      "year": "1987",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 25877641,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hh7W58uu9cRBxKih6ttD3FPRx-kZTbT_RqVbklsreFE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc3/NjQxLTE2NzQ2NjY0/ODctMzk1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peter Moffitt",
+      "title": "Poem",
+      "release_title": "Peter Moffitt - Zoe's Song",
+      "year": "1987",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 25877641,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hh7W58uu9cRBxKih6ttD3FPRx-kZTbT_RqVbklsreFE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc3/NjQxLTE2NzQ2NjY0/ODctMzk1MC5qcGVn.jpeg"
+    }
+  ]
+}
