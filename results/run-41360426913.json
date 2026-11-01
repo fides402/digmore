@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1971,
+    "year_to": 2022,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 33,
+      "artists_found": 32,
+      "fresh_lookups": 0,
+      "styles_considered": 122
+    }
+  },
+  "results": [
+    {
+      "artist": "Michael Dease",
+      "title": "A Sliver Of Silver",
+      "release_title": "Michael Dease - Give It All You Got",
+      "year": "2021",
+      "label": "Posi-Tone",
+      "country": "US",
+      "discogs_id": 18417592,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Xi_nrS1fvmnjCADfDUF0Q83QTnBSZjq-XKp3o_Asz9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/NTkyLTE2MTkxNDU0/MjAtMTI4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joel Kaye & New York Neophonic Orchestra",
+      "title": "Ofo",
+      "release_title": "Joel Kaye And His New York Neophonic Orchestra - Joel Kaye And His New York Neophonic Orchestra",
+      "year": "1973",
+      "label": "Paramount Records",
+      "country": "US",
+      "discogs_id": 11146507,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YgMSVT_wX1ZmjlNVoCUmdhxxdFpM-nq13Nq3fV3uVss/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ2/NTA3LTE1MTM4MTE1/NzQtNDM5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Archie Shepp & Attica Blues Orchestra",
+      "title": "Déjà Vu",
+      "release_title": "Archie Shepp, Attica Blues Orchestra - I Hear The Sound",
+      "year": "2017",
+      "label": "Archie Ball",
+      "country": "US",
+      "discogs_id": 12211936,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/q12zsMvtSUaIlpViCwLvZtOCCqVy9IPK_KknQKxFo3c/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEx/OTM2LTE1MzA2MTQx/NzgtOTc3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Enrique Rodríguez",
+      "title": "Esperar No Es Fácil Dr.",
+      "release_title": "Enrique Rodríguez (5) - Lo Que Es",
+      "year": "2018",
+      "label": "Extra Lovely Records",
+      "country": "US",
+      "discogs_id": 12223331,
+      "rating_avg": 5.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/H_8z05ZrwWwaLRfRDLsmIghuo-_o_E1mktJLhuSj4Gk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIz/MzMxLTE1MzA4MzQx/NjYtNzkyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Enrique Rodríguez",
+      "title": "(Entremedio)",
+      "release_title": "Enrique Rodríguez (5) - Lo Que Es",
+      "year": "2018",
+      "label": "Extra Lovely Records",
+      "country": "US",
+      "discogs_id": 12223331,
+      "rating_avg": 5.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/H_8z05ZrwWwaLRfRDLsmIghuo-_o_E1mktJLhuSj4Gk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIz/MzMxLTE1MzA4MzQx/NjYtNzkyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Erik Friedlander",
+      "title": "Sunset Park",
+      "release_title": "Erik Friedlander - Sunset Park",
+      "year": "2021",
+      "label": "Not On Label (Erik Friedlander Self-released)",
+      "country": "US",
+      "discogs_id": 16732215,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1-9EOaWKaONiIrK7pHIln4RBwNnIcKTJiU4Ddi9PLG0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzMy/MjE1LTE2MDk1MTY3/OTYtMjY4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ron Carter",
+      "title": "De Samba",
+      "release_title": "Ron Carter - Baretta's Theme (Keep Your Eye On The Sparrow)",
+      "year": "1976",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 30690508,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2vt3xL0qxrUjS6GKnO8eh45-_A4SHSdk2QQLCU_-yJQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjkw/NTA4LTE3MTU4Mzkw/OTctMzgwMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gene Harris",
+      "title": "Emily",
+      "release_title": "Gene Harris - Listen Here / Emily",
+      "year": "1972",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 28712707,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2MJ0xXRZ7cEHlBsfoJcgqG177zHCJRNJPCG0JEfOx_g/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzEy/NzA3LTE2OTgzNDgz/NTktMTA1Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Take 6",
+      "title": "Oh Thou That Tellest Good Tidings To Zion",
+      "release_title": "Take 6 - Greatest Hits",
+      "year": "1999",
+      "label": "Reprise Records",
+      "country": "US",
+      "discogs_id": 19438885,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wIsRG5UqBN7MisnMMZZ7vXzMGvDfL7I9mEFcaX8nVaY/rs:fit/g:sm/q:90/h:600/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDM4/ODg1LTE2MjYwNDQ4/NzEtODc4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rusty Bryant",
+      "title": "Mister S.",
+      "release_title": "Rusty Bryant - Fire Eater",
+      "year": "1971",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 25167766,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/k6HFwZGeINuysJOE-2oh_WOzlmYWVCSPQwJEIclBahc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/NzY2LTE2Njg0NzEx/MzUtNDE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Danny Frankel & Nels Cline & Larry Goldings",
+      "title": "Gypsy Cabster",
+      "release_title": "Danny Frankel With Nels Cline & Larry Goldings - The Interplanetary Note/Beat Conference",
+      "year": "2010",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 5428426,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/Xgw07hPSGEEeGI5oNrj0_5zwrDv5G4kdrNTwzAXm0bQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mjg0/MjYtMTU3MzkwNTMw/MC02MDcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Naked As The Day I Was Born",
+      "release_title": "Stanley Turrentine - Naked As The Day I Was Born",
+      "year": "1975",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 11481672,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/8rb3F-T5jL3i_NN-xzpsoRrXgpWD1MXoJD8-Fjwf-7U/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgx/NjcyLTE1MTcwOTg1/MTAtMzQyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Take 6",
+      "title": "Destiny",
+      "release_title": "Take 6 - Greatest Hits",
+      "year": "1999",
+      "label": "Reprise Records",
+      "country": "US",
+      "discogs_id": 19438885,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wIsRG5UqBN7MisnMMZZ7vXzMGvDfL7I9mEFcaX8nVaY/rs:fit/g:sm/q:90/h:600/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDM4/ODg1LTE2MjYwNDQ4/NzEtODc4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ron Carter",
+      "title": "Baretta's Theme (Keep Your Eye On The Sparrow)",
+      "release_title": "Ron Carter - Baretta's Theme (Keep Your Eye On The Sparrow)",
+      "year": "1976",
+      "label": "Kudu",
+      "country": "US",
+      "discogs_id": 30690508,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2vt3xL0qxrUjS6GKnO8eh45-_A4SHSdk2QQLCU_-yJQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjkw/NTA4LTE3MTU4Mzkw/OTctMzgwMS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Takashi Kudo",
+      "title": "The Shower (After Steve Lacy)",
+      "release_title": "Takashi Kudo (3) - Red...Black",
+      "year": "2002",
+      "label": "Hao Records",
+      "country": "US",
+      "discogs_id": 15413330,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2a_snsyq_eU6zgQtPLOsCztuDdt2nnEJZI7X5k2zCC0/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEz/MzMwLTE1OTExMzI4/NTQtOTU0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Awakening",
+      "title": "Mode For D.D.",
+      "release_title": "The Awakening (4) - Mirage",
+      "year": "1973",
+      "label": "Black Jazz Records",
+      "country": "US",
+      "discogs_id": 1768762,
+      "rating_avg": 4.81,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/aRS-5QsSVnZ1fiOMX1znTjvO4OM7FoHGeVx7t66nX0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg3/NjItMTU2NTA3NjA5/NS05MTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rusty Bryant",
+      "title": "Free At Last",
+      "release_title": "Rusty Bryant - Fire Eater",
+      "year": "1971",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 25167766,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/k6HFwZGeINuysJOE-2oh_WOzlmYWVCSPQwJEIclBahc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/NzY2LTE2Njg0NzEx/MzUtNDE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Awakening",
+      "title": "The Ultimate Frontier",
+      "release_title": "The Awakening (4) - Mirage",
+      "year": "1973",
+      "label": "Black Jazz Records",
+      "country": "US",
+      "discogs_id": 1768762,
+      "rating_avg": 4.81,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/aRS-5QsSVnZ1fiOMX1znTjvO4OM7FoHGeVx7t66nX0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg3/NjItMTU2NTA3NjA5/NS05MTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rusty Bryant",
+      "title": "The Hooker",
+      "release_title": "Rusty Bryant - Fire Eater",
+      "year": "1971",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 25167766,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/k6HFwZGeINuysJOE-2oh_WOzlmYWVCSPQwJEIclBahc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/NzY2LTE2Njg0NzEx/MzUtNDE0Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "David Friesen Trio",
+      "title": "Sarabande",
+      "release_title": "The David Friesen Trio* - 1 ･ 2 ･ 3",
+      "year": "1994",
+      "label": "Burnside Records",
+      "country": "US",
+      "discogs_id": 11349921,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/a5c-bGEz23xuPK26C8KDvjg_WYPr5NN-2kA3PGA2RyU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQ5/OTIxLTE2MjIyMTk2/NDMtMTIzMi5wbmc.jpeg"
+    },
+    {
+      "artist": "Peter Erskine",
+      "title": "Speak Low",
+      "release_title": "Peter Erskine - Sweet Soul",
+      "year": "1992",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 7348928,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/Z4ohYxtlGyWrBe0npFTFYxF0S2PaT4YGIgWESKEKPT0/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDg5/MjgtMTQzOTQ5NDAw/OS0yODcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Archie Shepp & Attica Blues Orchestra",
+      "title": "Come Sunday",
+      "release_title": "Archie Shepp, Attica Blues Orchestra - I Hear The Sound",
+      "year": "2017",
+      "label": "Archie Ball",
+      "country": "US",
+      "discogs_id": 12211936,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/q12zsMvtSUaIlpViCwLvZtOCCqVy9IPK_KknQKxFo3c/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEx/OTM2LTE1MzA2MTQx/NzgtOTc3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Awakening",
+      "title": "Slinky",
+      "release_title": "The Awakening (4) - Mirage",
+      "year": "1973",
+      "label": "Black Jazz Records",
+      "country": "US",
+      "discogs_id": 1768762,
+      "rating_avg": 4.81,
+      "rating_count": 36,
+      "cover_image": "https://i.discogs.com/aRS-5QsSVnZ1fiOMX1znTjvO4OM7FoHGeVx7t66nX0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg3/NjItMTU2NTA3NjA5/NS05MTIzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Dease",
+      "title": "Zanderfied",
+      "release_title": "Michael Dease - Give It All You Got",
+      "year": "2021",
+      "label": "Posi-Tone",
+      "country": "US",
+      "discogs_id": 18417592,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Xi_nrS1fvmnjCADfDUF0Q83QTnBSZjq-XKp3o_Asz9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/NTkyLTE2MTkxNDU0/MjAtMTI4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sean McGowan",
+      "title": "Come Back To It",
+      "release_title": "Sean McGowan (3) - Union Station ",
+      "year": "2021",
+      "label": "Maple Sugar Music",
+      "country": "US",
+      "discogs_id": 35104214,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/DoC8QTaB4a3jiWIL5eb0dJw_Jo2JrtFaGlg-xAZuRqM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTA0/MjE0LTE3NTc5MjQ2/MDktNjM0Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Valentin",
+      "title": "Chris-Cross",
+      "release_title": "Dave Valentin - Light Struck",
+      "year": "1986",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 1334173,
+      "rating_avg": 4.38,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/KRqd1lIOwDH33R5DhfTyGt5bYDyCZxz8_vQV0afGkKk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQx/NzMtMTMwMjU4ODg0/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Peter Erskine",
+      "title": "In Your Own Sweet Way",
+      "release_title": "Peter Erskine - Sweet Soul",
+      "year": "1992",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 7348928,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/Z4ohYxtlGyWrBe0npFTFYxF0S2PaT4YGIgWESKEKPT0/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDg5/MjgtMTQzOTQ5NDAw/OS0yODcwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Spaced",
+      "release_title": "Stanley Turrentine - Naked As The Day I Was Born",
+      "year": "1975",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 11481672,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/8rb3F-T5jL3i_NN-xzpsoRrXgpWD1MXoJD8-Fjwf-7U/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgx/NjcyLTE1MTcwOTg1/MTAtMzQyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Takashi Kudo",
+      "title": "Night And Day",
+      "release_title": "Takashi Kudo (3) - Red...Black",
+      "year": "2002",
+      "label": "Hao Records",
+      "country": "US",
+      "discogs_id": 15413330,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2a_snsyq_eU6zgQtPLOsCztuDdt2nnEJZI7X5k2zCC0/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEz/MzMwLTE1OTExMzI4/NTQtOTU0My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joel Kaye & New York Neophonic Orchestra",
+      "title": "MacArthur Park",
+      "release_title": "Joel Kaye And His New York Neophonic Orchestra - Joel Kaye And His New York Neophonic Orchestra",
+      "year": "1973",
+      "label": "Paramount Records",
+      "country": "US",
+      "discogs_id": 11146507,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YgMSVT_wX1ZmjlNVoCUmdhxxdFpM-nq13Nq3fV3uVss/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ2/NTA3LTE1MTM4MTE1/NzQtNDM5Ny5qcGVn.jpeg"
+    }
+  ]
+}
