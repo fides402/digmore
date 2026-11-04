@@ -21981,6 +21981,466 @@
    1976
   ]
  },
+ "aus": {
+  "countries": [
+   "Germany",
+   "Japan",
+   "Japan",
+   "Germany",
+   "Japan",
+   "Belgium",
+   "Japan",
+   "UK",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Unknown",
+   "Japan",
+   "US",
+   "Germany",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Germany",
+   "Japan",
+   "Germany",
+   "Unknown",
+   "Germany",
+   "Germany",
+   "Belarus"
+  ],
+  "genres": [
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Electronic",
+   "Classical",
+   "Electronic",
+   "Classical",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Folk, World, & Country",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Classical",
+   "Electronic",
+   "Electronic",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Rock",
+   "Rock",
+   "Jazz",
+   "Electronic",
+   "Rock",
+   "Classical"
+  ],
+  "pairs": [
+   [
+    "Punk",
+    "Rock"
+   ],
+   [
+    "New Wave",
+    "Rock"
+   ],
+   [
+    "Post-Punk",
+    "Rock"
+   ],
+   [
+    "Hip-House",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Post-Punk",
+    "Rock"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Minimal",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Classical"
+   ],
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Modern Classical",
+    "Classical"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Classical"
+   ],
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Modern Classical",
+    "Classical"
+   ],
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Deep House",
+    "Electronic"
+   ],
+   [
+    "Post-Punk",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Folk, World, & Country"
+   ],
+   [
+    "Drum n Bass",
+    "Electronic"
+   ],
+   [
+    "Happy Hardcore",
+    "Electronic"
+   ],
+   [
+    "Hardcore",
+    "Electronic"
+   ],
+   [
+    "Post-Punk",
+    "Rock"
+   ],
+   [
+    "New Wave",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Classical"
+   ],
+   [
+    "Modern Classical",
+    "Electronic"
+   ],
+   [
+    "Modern Classical",
+    "Classical"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Broken Beat",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Trip Hop",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Post-Punk",
+    "Rock"
+   ],
+   [
+    "New Wave",
+    "Rock"
+   ],
+   [
+    "Breakbeat",
+    "Electronic"
+   ],
+   [
+    "IDM",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Post-Punk",
+    "Rock"
+   ],
+   [
+    "Post-Punk",
+    "Rock"
+   ],
+   [
+    "Post-Punk",
+    "Rock"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Classical"
+   ],
+   [
+    "Contemporary",
+    "Electronic"
+   ],
+   [
+    "Contemporary",
+    "Rock"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Classical"
+   ],
+   [
+    "Avantgarde",
+    "Electronic"
+   ],
+   [
+    "Avantgarde",
+    "Rock"
+   ],
+   [
+    "Avantgarde",
+    "Classical"
+   ],
+   [
+    "Acoustic",
+    "Electronic"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Classical"
+   ],
+   [
+    "Leftfield",
+    "Electronic"
+   ],
+   [
+    "Leftfield",
+    "Rock"
+   ],
+   [
+    "Leftfield",
+    "Classical"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Punk",
+   "New Wave",
+   "Post-Punk",
+   "Hip-House",
+   "Broken Beat",
+   "IDM",
+   "Trip Hop",
+   "Ambient",
+   "Post-Punk",
+   "Broken Beat",
+   "IDM",
+   "Trip Hop",
+   "Ambient",
+   "IDM",
+   "Ambient",
+   "Broken Beat",
+   "IDM",
+   "Ambient",
+   "Downtempo",
+   "Minimal",
+   "Ambient",
+   "Modern Classical",
+   "Ambient",
+   "Modern Classical",
+   "Modern Classical",
+   "Deep House",
+   "Post-Punk",
+   "Ambient",
+   "Drum n Bass",
+   "Happy Hardcore",
+   "Hardcore",
+   "Post-Punk",
+   "New Wave",
+   "Ambient",
+   "Modern Classical",
+   "Breakbeat",
+   "IDM",
+   "Ambient",
+   "Broken Beat",
+   "IDM",
+   "Trip Hop",
+   "Ambient",
+   "Post-Punk",
+   "New Wave",
+   "Breakbeat",
+   "IDM",
+   "Ambient",
+   "Post-Punk",
+   "Post-Punk",
+   "Post-Punk",
+   "Free Jazz",
+   "Free Improvisation",
+   "Ambient",
+   "Contemporary",
+   "Experimental",
+   "Avantgarde",
+   "Acoustic",
+   "Leftfield"
+  ],
+  "years": [
+   2018,
+   2022,
+   2009,
+   2020,
+   2006,
+   2005,
+   2013,
+   2007,
+   2023,
+   2023,
+   2023,
+   2018,
+   2025,
+   2018,
+   2020,
+   2023,
+   2008,
+   2023,
+   2020,
+   2008,
+   2018,
+   2020,
+   2018,
+   2009,
+   2013
+  ]
+ },
  "axel boman": {
   "countries": [
    "Japan",
