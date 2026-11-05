@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Rock",
+        "style": "Soft Rock"
+      },
+      {
+        "genre": "Pop",
+        "style": "Ballad"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2021,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 28,
+      "artists_found": 26,
+      "fresh_lookups": 1,
+      "styles_considered": 94
+    }
+  },
+  "results": [
+    {
+      "artist": "The Crusaders",
+      "title": "Sugar Cane",
+      "release_title": "The Crusaders - Chain Reaction",
+      "year": "1975",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 3698313,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/BN0h-RQm975rXzSRCovMTm_7mdSE1Fyac-96tAYCE_U/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgz/MTMtMTQ3ODU0Mjc1/OS0yMDEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda",
+      "title": "Valse Macabre",
+      "release_title": "Ernie Krivda - The Alchemist",
+      "year": "1978",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 4951863,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/sHXsXrcPsAPHA-YMHJzw3NWVXm0sPB3TRnPCq0wf1H8/rs:fit/g:sm/q:90/h:599/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE4/NjMtMTM4MDM5MjYy/Ny04MDk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kelvynator",
+      "title": "Metaphysical Phunktion",
+      "release_title": "Kelvynator - Funk It Up",
+      "year": "1986",
+      "label": "Blue Heron Records",
+      "country": "US",
+      "discogs_id": 1452282,
+      "rating_avg": 3.96,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/8d67-MY-xybnjPl7kANu9duJPanZ4kDQJ-9esE5BSDQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIy/ODItMTIyMDc5ODM1/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mirror Image",
+      "title": "My Man",
+      "release_title": "Mirror Image (4) - Sounds Like Barbra Streisand",
+      "year": "1979",
+      "label": "Pickwick",
+      "country": "US",
+      "discogs_id": 5553061,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/FGEG-qLg7IsdBcEqrLjqQqjYXXwQsDkEhB2D5pTr_W4/rs:fit/g:sm/q:90/h:501/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTMw/NjEtMTUwNjk0MDM1/MS0xMzc4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mirror Image",
+      "title": "My Coloring Book",
+      "release_title": "Mirror Image (4) - Sounds Like Barbra Streisand",
+      "year": "1979",
+      "label": "Pickwick",
+      "country": "US",
+      "discogs_id": 5553061,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/FGEG-qLg7IsdBcEqrLjqQqjYXXwQsDkEhB2D5pTr_W4/rs:fit/g:sm/q:90/h:501/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTMw/NjEtMTUwNjk0MDM1/MS0xMzc4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bill Black",
+      "title": "Four A.M.",
+      "release_title": "Bill Black (2) - Daylite",
+      "year": "1972",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 5980865,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/HtxP2zf8h1Ot-BvTwErShoM83HqsfqtzXLcgIcpQTsM/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODA4/NjUtMTQxNTY3Njcy/OC0xMzYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mirror Image",
+      "title": "My Heart Belongs To Me",
+      "release_title": "Mirror Image (4) - Sounds Like Barbra Streisand",
+      "year": "1979",
+      "label": "Pickwick",
+      "country": "US",
+      "discogs_id": 5553061,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/FGEG-qLg7IsdBcEqrLjqQqjYXXwQsDkEhB2D5pTr_W4/rs:fit/g:sm/q:90/h:501/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTMw/NjEtMTUwNjk0MDM1/MS0xMzc4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kelvynator",
+      "title": "On The One",
+      "release_title": "Kelvynator - Funk It Up",
+      "year": "1986",
+      "label": "Blue Heron Records",
+      "country": "US",
+      "discogs_id": 1452282,
+      "rating_avg": 3.96,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/8d67-MY-xybnjPl7kANu9duJPanZ4kDQJ-9esE5BSDQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIy/ODItMTIyMDc5ODM1/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda",
+      "title": "Nocturnal Carnival",
+      "release_title": "Ernie Krivda - The Alchemist",
+      "year": "1978",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 4951863,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/sHXsXrcPsAPHA-YMHJzw3NWVXm0sPB3TRnPCq0wf1H8/rs:fit/g:sm/q:90/h:599/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE4/NjMtMTM4MDM5MjYy/Ny04MDk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Henry Gross",
+      "title": "Come On Say It",
+      "release_title": "Henry Gross - Come On Say It",
+      "year": "1973",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8413502,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://st.discogs.com/51e4161b13700be6e0716bc1753cc78d00ff180a/images/spacer.gif"
+    },
+    {
+      "artist": "Kelvynator",
+      "title": "Funk It Up",
+      "release_title": "Kelvynator - Funk It Up",
+      "year": "1986",
+      "label": "Blue Heron Records",
+      "country": "US",
+      "discogs_id": 1452282,
+      "rating_avg": 3.96,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/8d67-MY-xybnjPl7kANu9duJPanZ4kDQJ-9esE5BSDQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIy/ODItMTIyMDc5ODM1/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Hot's It",
+      "release_title": "The Crusaders - Chain Reaction",
+      "year": "1975",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 3698313,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/BN0h-RQm975rXzSRCovMTm_7mdSE1Fyac-96tAYCE_U/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgz/MTMtMTQ3ODU0Mjc1/OS0yMDEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rachael Sage",
+      "title": "Angel In My View",
+      "release_title": "Rachael Sage - Chandelier",
+      "year": "2008",
+      "label": "Mpress Records",
+      "country": "US",
+      "discogs_id": 5181610,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/l8R21VFRsC8vrRU8c6Y0T3diCyUV8iI0ee4LTOmoZ6g/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODE2/MTAtMTczNDY0Njg1/MC04MzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brian Auger",
+      "title": "Happiness Is Just Around The Bend",
+      "release_title": "Brian Auger - Here And Now",
+      "year": "1996",
+      "label": "One Way Records",
+      "country": "US",
+      "discogs_id": 10133131,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/tGfjcjk3WegFAg7Mlu0rolSX37ZhxiSaBRoK3Hsk2f0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/MTMxLTE0OTIyMDAw/OTQtOTc5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kelvynator",
+      "title": "Inter Self Travel",
+      "release_title": "Kelvynator - Funk It Up",
+      "year": "1986",
+      "label": "Blue Heron Records",
+      "country": "US",
+      "discogs_id": 1452282,
+      "rating_avg": 3.96,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/8d67-MY-xybnjPl7kANu9duJPanZ4kDQJ-9esE5BSDQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIy/ODItMTIyMDc5ODM1/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Mellow Out",
+      "release_title": "The Crusaders - Chain Reaction",
+      "year": "1975",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 3698313,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/BN0h-RQm975rXzSRCovMTm_7mdSE1Fyac-96tAYCE_U/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgz/MTMtMTQ3ODU0Mjc1/OS0yMDEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nyco",
+      "title": "The Making Of Our Film",
+      "release_title": "Nyco (4) - Realize",
+      "year": "2008",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25969003,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yFP0Mok0DmPhtSI37s8J0T3MxRBbXdzIuxmMr_ySyC8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTY5/MDAzLTE2NzUzNjEw/MDctOTc1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Auger",
+      "title": "You're Breaking My Heart (demo version)",
+      "release_title": "Brian Auger - Here And Now",
+      "year": "1996",
+      "label": "One Way Records",
+      "country": "US",
+      "discogs_id": 10133131,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/tGfjcjk3WegFAg7Mlu0rolSX37ZhxiSaBRoK3Hsk2f0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/MTMxLTE0OTIyMDAw/OTQtOTc5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rachael Sage",
+      "title": "My Word",
+      "release_title": "Rachael Sage - Chandelier",
+      "year": "2008",
+      "label": "Mpress Records",
+      "country": "US",
+      "discogs_id": 5181610,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/l8R21VFRsC8vrRU8c6Y0T3diCyUV8iI0ee4LTOmoZ6g/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODE2/MTAtMTczNDY0Njg1/MC04MzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nyco",
+      "title": "Sinners",
+      "release_title": "Nyco (4) - Realize",
+      "year": "2008",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25969003,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yFP0Mok0DmPhtSI37s8J0T3MxRBbXdzIuxmMr_ySyC8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTY5/MDAzLTE2NzUzNjEw/MDctOTc1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Creole",
+      "release_title": "The Crusaders - Chain Reaction",
+      "year": "1975",
+      "label": "Blue Thumb Records",
+      "country": "US",
+      "discogs_id": 3698313,
+      "rating_avg": 4.31,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/BN0h-RQm975rXzSRCovMTm_7mdSE1Fyac-96tAYCE_U/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgz/MTMtMTQ3ODU0Mjc1/OS0yMDEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mirror Image",
+      "title": "You Don't Bring Me Flowers",
+      "release_title": "Mirror Image (4) - Sounds Like Barbra Streisand",
+      "year": "1979",
+      "label": "Pickwick",
+      "country": "US",
+      "discogs_id": 5553061,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/FGEG-qLg7IsdBcEqrLjqQqjYXXwQsDkEhB2D5pTr_W4/rs:fit/g:sm/q:90/h:501/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTMw/NjEtMTUwNjk0MDM1/MS0xMzc4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Heaven Bound & Tony Scotti",
+      "title": "Breaking Up Is Hard To Do",
+      "release_title": "Heaven Bound (2) with Tony Scotti - Breaking Up Is Hard To Do",
+      "year": "1972",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 2781386,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/y1QGoKD9bzWeGw_McHq-M0shNfH5BsS-Tpx6sAlrtyE/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEz/ODYtMTQ3NjcwMzQ1/OS05MzEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bill Black",
+      "title": "Daylite",
+      "release_title": "Bill Black (2) - Daylite",
+      "year": "1972",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 5980865,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/HtxP2zf8h1Ot-BvTwErShoM83HqsfqtzXLcgIcpQTsM/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODA4/NjUtMTQxNTY3Njcy/OC0xMzYzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Heaven Bound & Tony Scotti",
+      "title": "Come Run With Me",
+      "release_title": "Heaven Bound (2) with Tony Scotti - Breaking Up Is Hard To Do",
+      "year": "1972",
+      "label": "MGM Records",
+      "country": "US",
+      "discogs_id": 2781386,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/y1QGoKD9bzWeGw_McHq-M0shNfH5BsS-Tpx6sAlrtyE/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEz/ODYtMTQ3NjcwMzQ1/OS05MzEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Henry Gross",
+      "title": "The Ever Lovin' Days",
+      "release_title": "Henry Gross - Come On Say It",
+      "year": "1973",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8413502,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://st.discogs.com/51e4161b13700be6e0716bc1753cc78d00ff180a/images/spacer.gif"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Papa \"T\"",
+      "release_title": "Stanley Turrentine - Papa \"T\"",
+      "year": "1977",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 1509274,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Xl9YgxJ_xH30_OX9jnzRtX3QIwgGuPUtQDwaVWuU1RM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDky/NzQtMTI4MzM4MTA2/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rachael Sage",
+      "title": "Chandelier",
+      "release_title": "Rachael Sage - Chandelier",
+      "year": "2008",
+      "label": "Mpress Records",
+      "country": "US",
+      "discogs_id": 5181610,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/l8R21VFRsC8vrRU8c6Y0T3diCyUV8iI0ee4LTOmoZ6g/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODE2/MTAtMTczNDY0Njg1/MC04MzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rachael Sage",
+      "title": "Site-Seeing",
+      "release_title": "Rachael Sage - Chandelier",
+      "year": "2008",
+      "label": "Mpress Records",
+      "country": "US",
+      "discogs_id": 5181610,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/l8R21VFRsC8vrRU8c6Y0T3diCyUV8iI0ee4LTOmoZ6g/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODE2/MTAtMTczNDY0Njg1/MC04MzI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brian Auger",
+      "title": "Let's Keep This Love Together",
+      "release_title": "Brian Auger - Here And Now",
+      "year": "1996",
+      "label": "One Way Records",
+      "country": "US",
+      "discogs_id": 10133131,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/tGfjcjk3WegFAg7Mlu0rolSX37ZhxiSaBRoK3Hsk2f0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/MTMxLTE0OTIyMDAw/OTQtOTc5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nyco",
+      "title": "Girls Of Summerland",
+      "release_title": "Nyco (4) - Realize",
+      "year": "2008",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25969003,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yFP0Mok0DmPhtSI37s8J0T3MxRBbXdzIuxmMr_ySyC8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTY5/MDAzLTE2NzUzNjEw/MDctOTc1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda",
+      "title": "The Alchemist",
+      "release_title": "Ernie Krivda - The Alchemist",
+      "year": "1978",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 4951863,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/sHXsXrcPsAPHA-YMHJzw3NWVXm0sPB3TRnPCq0wf1H8/rs:fit/g:sm/q:90/h:599/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE4/NjMtMTM4MDM5MjYy/Ny04MDk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ernie Krivda",
+      "title": "Husar",
+      "release_title": "Ernie Krivda - The Alchemist",
+      "year": "1978",
+      "label": "Inner City Records",
+      "country": "US",
+      "discogs_id": 4951863,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/sHXsXrcPsAPHA-YMHJzw3NWVXm0sPB3TRnPCq0wf1H8/rs:fit/g:sm/q:90/h:599/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE4/NjMtMTM4MDM5MjYy/Ny04MDk0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brian Auger",
+      "title": "Searchin' For Your Love (demo version)",
+      "release_title": "Brian Auger - Here And Now",
+      "year": "1996",
+      "label": "One Way Records",
+      "country": "US",
+      "discogs_id": 10133131,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/tGfjcjk3WegFAg7Mlu0rolSX37ZhxiSaBRoK3Hsk2f0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/MTMxLTE0OTIyMDAw/OTQtOTc5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nyco",
+      "title": "It's Just Me",
+      "release_title": "Nyco (4) - Realize",
+      "year": "2008",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25969003,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/yFP0Mok0DmPhtSI37s8J0T3MxRBbXdzIuxmMr_ySyC8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTY5/MDAzLTE2NzUzNjEw/MDctOTc1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Chick Corea + Steve Gadd Band",
+      "title": "A Spanish Song",
+      "release_title": "The Chick Corea + Steve Gadd Band - Chinese Butterfly",
+      "year": "2018",
+      "label": "Stretch Records",
+      "country": "US",
+      "discogs_id": 11898137,
+      "rating_avg": 5.0,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/6T0Uo0leUesenZr6PAUdHof2qeAHiHMntwd-GYTnJFI/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk4/MTM3LTE1MjQ1MDc1/OTMtODI3MS5wbmc.jpeg"
+    },
+    {
+      "artist": "The Chick Corea + Steve Gadd Band",
+      "title": "Serenity",
+      "release_title": "The Chick Corea + Steve Gadd Band - Chinese Butterfly",
+      "year": "2018",
+      "label": "Stretch Records",
+      "country": "US",
+      "discogs_id": 11898137,
+      "rating_avg": 5.0,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/6T0Uo0leUesenZr6PAUdHof2qeAHiHMntwd-GYTnJFI/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk4/MTM3LTE1MjQ1MDc1/OTMtODI3MS5wbmc.jpeg"
+    },
+    {
+      "artist": "Russell's New Socks",
+      "title": "I Wish You Love",
+      "release_title": "Russell's New Socks - Russell's New Socks ",
+      "year": "1989",
+      "label": "Orchid Records",
+      "country": "US",
+      "discogs_id": 8105908,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/HwGATtEMC7PqNMFzBTKTXEDiIK0c8nZRF_wJyIuGtHs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDU5/MDgtMTQ1NTI0Njk4/OC01MjQ1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Chick Corea + Steve Gadd Band",
+      "title": "Like I Was Sayin'",
+      "release_title": "The Chick Corea + Steve Gadd Band - Chinese Butterfly",
+      "year": "2018",
+      "label": "Stretch Records",
+      "country": "US",
+      "discogs_id": 11898137,
+      "rating_avg": 5.0,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/6T0Uo0leUesenZr6PAUdHof2qeAHiHMntwd-GYTnJFI/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk4/MTM3LTE1MjQ1MDc1/OTMtODI3MS5wbmc.jpeg"
+    },
+    {
+      "artist": "Lenny White",
+      "title": "Time",
+      "release_title": "Lenny White - Time",
+      "year": "1978",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 18675145,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/wUK01udZw03ztYVCUm-9h_qTqAqDQUVI7NCx-P4X2Gk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/MTQ1LTE2MjA2ODMy/MjEtNTQyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Night Blooming Jazzmen",
+      "title": "The Night Blooming Jazzmen",
+      "release_title": "The Night Blooming Jazzmen - The Night Blooming Jazzmen",
+      "year": "1992",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 32467473,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3ZGhn6AMT8SLpEbehFUkM2cntVL03wjrdvOXgZwI8Nc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDY3/NDczLTE3MzMyNTgx/MTYtNzEyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Night Blooming Jazzmen",
+      "title": "Nam M'Yoho Ren'Ge Kyo",
+      "release_title": "The Night Blooming Jazzmen - The Night Blooming Jazzmen",
+      "year": "1992",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 32467473,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3ZGhn6AMT8SLpEbehFUkM2cntVL03wjrdvOXgZwI8Nc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDY3/NDczLTE3MzMyNTgx/MTYtNzEyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kathy Troccoli",
+      "title": "How Would I Know",
+      "release_title": "Kathy Troccoli - Comfort",
+      "year": "2005",
+      "label": "Reunion Records",
+      "country": "US",
+      "discogs_id": 11509273,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OBCTk1hBuwD9QxHpl0HAYn1CZZEFmurjrkjnRw8Oj4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA5/MjczLTE1MTc2MDQz/NzctOTUyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Richard Smith Unit",
+      "title": "Kid Stuff",
+      "release_title": "The Richard Smith Unit - Rockin' The Boat",
+      "year": "1989",
+      "label": "Chase Music Group",
+      "country": "US",
+      "discogs_id": 12209819,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/OSJeoNsxRjnrXYFC-BWrBamBgZrfRaLnGZLEb0hw5Mk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjA5/ODE5LTE1MzA2Mzc3/MTktOTc5NC5tcG8.jpeg"
+    },
+    {
+      "artist": "Johnny Mathis & Take 6",
+      "title": "In The Still Of The Night",
+      "release_title": "Johnny Mathis Featuring  Take 6 - In The Still Of The Night",
+      "year": "1989",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 5882971,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IZ3z0c1BigcFyfbd0FKNB41xGzuma2OQzaa74AY6v-4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODI5/NzEtMTQwNTM0MDY2/Ny03NTA5LmpwZWc.jpeg"
+    }
+  ]
+}

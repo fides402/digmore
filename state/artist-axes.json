@@ -28634,6 +28634,306 @@
    1975
   ]
  },
+ "bemibem": {
+  "countries": [
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Japan",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland",
+   "Poland"
+  ],
+  "genres": [
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Jazz",
+   "Latin",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Jazz",
+   "Funk / Soul",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Pop",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Rock",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Rock",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Pop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Jazz-Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Funk",
+    "Pop"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Jazz-Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Jazz-Rock",
+    "Pop"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Rock"
+   ],
+   [
+    "Garage Rock",
+    "Jazz"
+   ],
+   [
+    "Garage Rock",
+    "Rock"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Jazz"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Jazz-Rock",
+    "Jazz"
+   ],
+   [
+    "Jazz-Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Jazz"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ]
+  ],
+  "releases": 18,
+  "styles": [
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Jazz-Funk",
+   "Contemporary Jazz",
+   "Jazz-Funk",
+   "Jazz-Rock",
+   "Bossa Nova",
+   "Vocal",
+   "Jazz-Funk",
+   "Garage Rock",
+   "Bossa Nova",
+   "Vocal",
+   "Jazz-Rock",
+   "Pop Rock"
+  ],
+  "years": [
+   2021,
+   2007,
+   2020,
+   2007,
+   1974,
+   1974,
+   1974,
+   2003,
+   1974,
+   2016,
+   1992,
+   1999,
+   1999,
+   1973,
+   1974,
+   1973,
+   2008
+  ]
+ },
  "ben webster": {
   "countries": [
    "US",
