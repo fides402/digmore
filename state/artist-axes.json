@@ -187445,6 +187445,406 @@
    2018
   ]
  },
+ "sven libaek": {
+  "countries": [
+   "Australia",
+   "New Zealand",
+   "Australia",
+   "Australia",
+   "Norway",
+   "Australia",
+   "Australia",
+   "Australia",
+   "UK",
+   "Unknown",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Australia",
+   "UK",
+   "Australia",
+   "Australia",
+   "Unknown",
+   "Norway",
+   "Australia",
+   "Australia",
+   "Australia",
+   "UK"
+  ],
+  "genres": [
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Pop",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Classical",
+   "Pop",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Holiday",
+    "Jazz"
+   ],
+   [
+    "Holiday",
+    "Pop"
+   ],
+   [
+    "Holiday",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Funk / Soul"
+   ],
+   [
+    "Soul-Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Funk / Soul"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Funk / Soul"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Contemporary",
+    "Classical"
+   ],
+   [
+    "Modern",
+    "Classical"
+   ],
+   [
+    "Impressionist",
+    "Classical"
+   ],
+   [
+    "Classical",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Holiday",
+    "Jazz"
+   ],
+   [
+    "Holiday",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Jazz"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Space-Age",
+    "Jazz"
+   ],
+   [
+    "Space-Age",
+    "Stage & Screen"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Soundtrack",
+   "Score",
+   "Soundtrack",
+   "Soundtrack",
+   "Holiday",
+   "Soundtrack",
+   "Score",
+   "Space-Age",
+   "Swing",
+   "Soundtrack",
+   "Soundtrack",
+   "Theme",
+   "Soundtrack",
+   "Score",
+   "Soundtrack",
+   "Soundtrack",
+   "Score",
+   "Soul-Jazz",
+   "Space-Age",
+   "Score",
+   "Contemporary",
+   "Modern",
+   "Impressionist",
+   "Classical",
+   "Soundtrack",
+   "Holiday",
+   "Soundtrack",
+   "Score",
+   "Soundtrack",
+   "Score",
+   "Space-Age",
+   "Swing"
+  ],
+  "years": [
+   2007,
+   1967,
+   1966,
+   2014,
+   2017,
+   1966,
+   1967,
+   1973,
+   2013,
+   1972,
+   2012,
+   1968,
+   1967,
+   2015,
+   2007,
+   1974,
+   1974,
+   1974,
+   2013,
+   2017,
+   2014,
+   1967,
+   2012,
+   2006
+  ]
+ },
  "sven wunder": {
   "countries": [
    "Japan",
