@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Electronic",
+        "style": "Ambient"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Electronic",
+        "style": "Experimental"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1976,
+    "year_to": 2025,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 9,
+      "artists_found": 8,
+      "fresh_lookups": 0,
+      "styles_considered": 72
+    }
+  },
+  "results": [
+    {
+      "artist": "Morelenbaum² / Sakamoto",
+      "title": "Improvisation (Live)",
+      "release_title": "Morelenbaum² / Sakamoto - Casa",
+      "year": "2002",
+      "label": "Sony Classical",
+      "country": "US",
+      "discogs_id": 1459497,
+      "rating_avg": 4.41,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/wsdPIVS29UOJ5M9pa9I1wn3kV90vaoYlyakvSdeXhds/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTk0/OTctMTcxNTQ4MzI1/Ny04MDM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mind Transport Tools",
+      "title": "Rainbow Clouds (Forming And Reforming)",
+      "release_title": "Mind Transport Tools - Tone-Cone",
+      "year": "1999",
+      "label": "Spiralight",
+      "country": "US",
+      "discogs_id": 254543,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/CIm5JIaDn4OQr9xiZtBzZQc15rH41nd9hsEz-d-VvgU/rs:fit/g:sm/q:90/h:317/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU0/My0xMTE0NjQ2ODk4/LmpwZw.jpeg"
+    },
+    {
+      "artist": "Kane Pour",
+      "title": "Lines in the Grass",
+      "release_title": "Kane Pour - The Last Wave",
+      "year": "2024",
+      "label": "sound as language",
+      "country": "US",
+      "discogs_id": 33765702,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7MLnX7WUgLWAgbbwSX8cDK8CxytZtnIqz1Ta9cJgXQw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzY1/NzAyLTE3NDUyMzM5/NzAtNTY1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kane Pour",
+      "title": "Picture Me",
+      "release_title": "Kane Pour - The Last Wave",
+      "year": "2024",
+      "label": "sound as language",
+      "country": "US",
+      "discogs_id": 33765702,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7MLnX7WUgLWAgbbwSX8cDK8CxytZtnIqz1Ta9cJgXQw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzY1/NzAyLTE3NDUyMzM5/NzAtNTY1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ambient Mewsic & Adam Myatt & Matthew Tammariello",
+      "title": "Chariots of Fur",
+      "release_title": "Ambient Mewsic, Adam Myatt, Matthew Tammariello - Music For Cats To Nap To",
+      "year": "2025",
+      "label": "Hand Me Down Recording",
+      "country": "US",
+      "discogs_id": 37868205,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/U7TpLCZTfgum41IqQZV88aqIQePfHqFGO0wj1xWqteg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODY4/MjA1LTE3ODM5MTQz/NTktOTU1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlos Niño & Miguel Atwood-Ferguson",
+      "title": "Part I",
+      "release_title": "Carlos Niño & Miguel Atwood-Ferguson - Chicago Waves",
+      "year": "2020",
+      "label": "International Anthem Recording Company",
+      "country": "US",
+      "discogs_id": 16023729,
+      "rating_avg": 4.63,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/ziFcJrYXoh81v4enkG-M3wOTO99bu-PjRpU_CsJoh94/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NzI5LTE2MDI3MzI4/NTItNzI2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Unity Group",
+      "title": "Born",
+      "release_title": "Pat Metheny Unity Group - Kin (←→)",
+      "year": "2014",
+      "label": "Nonesuch",
+      "country": "US",
+      "discogs_id": 10016282,
+      "rating_avg": 4.39,
+      "rating_count": 33,
+      "cover_image": "https://i.discogs.com/VUSWE3vOD3HhC0A1QVJ8MZGdzOPc1_tFNDVOVF9ahiE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE2/MjgyLTE1MjAxNzIz/NjgtODAxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "PSR",
+      "title": "Forty-Five Eleven Nine Two Nine",
+      "release_title": "PSR - 47 Eridani",
+      "year": "2004",
+      "label": "PSR",
+      "country": "US",
+      "discogs_id": 796678,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B7MqQJhOzHN9WfRwdZ-0hyPdXLjAVdpIvBzD5vW4_XI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY3/OC0xMTU5NzIwNTE0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Unity Group",
+      "title": "Sign Of The Season",
+      "release_title": "Pat Metheny Unity Group - Kin (←→)",
+      "year": "2014",
+      "label": "Nonesuch",
+      "country": "US",
+      "discogs_id": 10016282,
+      "rating_avg": 4.39,
+      "rating_count": 33,
+      "cover_image": "https://i.discogs.com/VUSWE3vOD3HhC0A1QVJ8MZGdzOPc1_tFNDVOVF9ahiE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE2/MjgyLTE1MjAxNzIz/NjgtODAxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mind Transport Tools",
+      "title": "Star Clusters (Thunder)",
+      "release_title": "Mind Transport Tools - Tone-Cone",
+      "year": "1999",
+      "label": "Spiralight",
+      "country": "US",
+      "discogs_id": 254543,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/CIm5JIaDn4OQr9xiZtBzZQc15rH41nd9hsEz-d-VvgU/rs:fit/g:sm/q:90/h:317/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU0/My0xMTE0NjQ2ODk4/LmpwZw.jpeg"
+    },
+    {
+      "artist": "Manfredo Fest",
+      "title": "Carona Legal (Cool Ride)",
+      "release_title": "Manfredo Fest - Oferenda",
+      "year": "1993",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 36591715,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/66wKOfb1WXxcjC3g-MEu-q3B8abTKQrMoBa_YhaJe1o/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTkx/NzE1LTE3NzE4Njg0/NDYtMjIxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ben Monder",
+      "title": "Double Sun",
+      "release_title": "Ben Monder - Oceana",
+      "year": "2005",
+      "label": "Sunnyside",
+      "country": "US",
+      "discogs_id": 1042516,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/7LvFzGd7HlUfP1bmWkz-TGccbjlGd8jO1Ev0sjbWg-0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI1/MTYtMTQyMTM0MTI5/Mi0yMTk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Manfredo Fest",
+      "title": "Oferenda",
+      "release_title": "Manfredo Fest - Oferenda",
+      "year": "1993",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 36591715,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/66wKOfb1WXxcjC3g-MEu-q3B8abTKQrMoBa_YhaJe1o/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTkx/NzE1LTE3NzE4Njg0/NDYtMjIxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlos Niño & Miguel Atwood-Ferguson",
+      "title": "Part II",
+      "release_title": "Carlos Niño & Miguel Atwood-Ferguson - Chicago Waves",
+      "year": "2020",
+      "label": "International Anthem Recording Company",
+      "country": "US",
+      "discogs_id": 16023729,
+      "rating_avg": 4.63,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/ziFcJrYXoh81v4enkG-M3wOTO99bu-PjRpU_CsJoh94/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NzI5LTE2MDI3MzI4/NTItNzI2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ambient Mewsic & Adam Myatt & Matthew Tammariello",
+      "title": "A Tail to Be Proud of",
+      "release_title": "Ambient Mewsic, Adam Myatt, Matthew Tammariello - Music For Cats To Nap To",
+      "year": "2025",
+      "label": "Hand Me Down Recording",
+      "country": "US",
+      "discogs_id": 37868205,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/U7TpLCZTfgum41IqQZV88aqIQePfHqFGO0wj1xWqteg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODY4/MjA1LTE3ODM5MTQz/NTktOTU1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ben Monder",
+      "title": "Light",
+      "release_title": "Ben Monder - Oceana",
+      "year": "2005",
+      "label": "Sunnyside",
+      "country": "US",
+      "discogs_id": 1042516,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/7LvFzGd7HlUfP1bmWkz-TGccbjlGd8jO1Ev0sjbWg-0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI1/MTYtMTQyMTM0MTI5/Mi0yMTk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Rouse",
+      "title": "Aconteceu",
+      "release_title": "Charlie Rouse - Bossa Nova Bacchanal",
+      "year": "2003",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3123462,
+      "rating_avg": 4.44,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/CWb_TW-ML_nJI9n0I6ZThu0sriajgekwOAQEC9LI-3M/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjM0/NjItMTM1MDM5MjEw/NC00NTM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Rouse",
+      "title": "Meci Bon Dieu",
+      "release_title": "Charlie Rouse - Bossa Nova Bacchanal",
+      "year": "2003",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3123462,
+      "rating_avg": 4.44,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/CWb_TW-ML_nJI9n0I6ZThu0sriajgekwOAQEC9LI-3M/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjM0/NjItMTM1MDM5MjEw/NC00NTM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Rouse",
+      "title": "Samba De Orfeu",
+      "release_title": "Charlie Rouse - Bossa Nova Bacchanal",
+      "year": "2003",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3123462,
+      "rating_avg": 4.44,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/CWb_TW-ML_nJI9n0I6ZThu0sriajgekwOAQEC9LI-3M/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjM0/NjItMTM1MDM5MjEw/NC00NTM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kane Pour",
+      "title": "Loose Ends",
+      "release_title": "Kane Pour - The Last Wave",
+      "year": "2024",
+      "label": "sound as language",
+      "country": "US",
+      "discogs_id": 33765702,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7MLnX7WUgLWAgbbwSX8cDK8CxytZtnIqz1Ta9cJgXQw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzY1/NzAyLTE3NDUyMzM5/NzAtNTY1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Carlos Jobim & Gal Costa",
+      "title": "Dindi",
+      "release_title": "Antonio Carlos Jobim / Gal Costa - Rio Revisited",
+      "year": "1989",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 30861018,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nd7ZBOndmY7BrUcgoNzVxDJnyk_VnHd3wMiZzBK7Wjg/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODYx/MDE4LTE3MTc0Mjcw/MzMtNzk3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlos Niño & Miguel Atwood-Ferguson",
+      "title": "Part III",
+      "release_title": "Carlos Niño & Miguel Atwood-Ferguson - Chicago Waves",
+      "year": "2020",
+      "label": "International Anthem Recording Company",
+      "country": "US",
+      "discogs_id": 16023729,
+      "rating_avg": 4.63,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/ziFcJrYXoh81v4enkG-M3wOTO99bu-PjRpU_CsJoh94/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NzI5LTE2MDI3MzI4/NTItNzI2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Suzanne Doucet",
+      "title": "...and Here",
+      "release_title": "Suzanne Doucet - Reflecting Light",
+      "year": "2005",
+      "label": "Only New Age Music",
+      "country": "US",
+      "discogs_id": 3105066,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1B6jMm31PojXSBroKEbamjTy7S6h8IwdBrukwmt6uHY/rs:fit/g:sm/q:90/h:506/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDUw/NjYtMTMxNTk4ODkw/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Suzanne Doucet",
+      "title": "Forever...",
+      "release_title": "Suzanne Doucet - Reflecting Light",
+      "year": "2005",
+      "label": "Only New Age Music",
+      "country": "US",
+      "discogs_id": 3105066,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1B6jMm31PojXSBroKEbamjTy7S6h8IwdBrukwmt6uHY/rs:fit/g:sm/q:90/h:506/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDUw/NjYtMTMxNTk4ODkw/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Terence Blanchard",
+      "title": "Betty's Theme",
+      "release_title": "Terence Blanchard - The Malcolm X Jazz Suite",
+      "year": "1993",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 10697166,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ucf0DzuSNA8LS6aH2OrW2xkEazBL4g8fDMkg2oCvb8g/rs:fit/g:sm/q:90/h:541/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk3/MTY2LTE1MDI2ODQ0/MjEtNzM5OC5wbmc.jpeg"
+    },
+    {
+      "artist": "Charlie Rouse",
+      "title": "Un Dia",
+      "release_title": "Charlie Rouse - Bossa Nova Bacchanal",
+      "year": "2003",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 3123462,
+      "rating_avg": 4.44,
+      "rating_count": 16,
+      "cover_image": "https://i.discogs.com/CWb_TW-ML_nJI9n0I6ZThu0sriajgekwOAQEC9LI-3M/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjM0/NjItMTM1MDM5MjEw/NC00NTM5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dualsite",
+      "title": "Rewind",
+      "release_title": "Dualsite - Closure EP",
+      "year": "2020",
+      "label": "Not On Label (Dualsite Self-released)",
+      "country": "US",
+      "discogs_id": 22897550,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IfumvxkfL1uy578MoJ-BU_fgdnabQkIDXvjycAw0C80/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk3/NTUwLTE2NTAwODY2/NzYtNjE1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jon Metzger",
+      "title": "Doubles",
+      "release_title": "Jon Metzger - Vibes",
+      "year": "1984",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 12340366,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GKMomQmZLNLGG4dEZaWds0I0FFbaWWAVC531X_1PJgc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQw/MzY2LTE1MzMyNzIw/NTYtNjg0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dualsite",
+      "title": "Restore Me",
+      "release_title": "Dualsite - Closure EP",
+      "year": "2020",
+      "label": "Not On Label (Dualsite Self-released)",
+      "country": "US",
+      "discogs_id": 22897550,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IfumvxkfL1uy578MoJ-BU_fgdnabQkIDXvjycAw0C80/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk3/NTUwLTE2NTAwODY2/NzYtNjE1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "PSR",
+      "title": "Liquid Oxygen",
+      "release_title": "PSR - 47 Eridani",
+      "year": "2004",
+      "label": "PSR",
+      "country": "US",
+      "discogs_id": 796678,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B7MqQJhOzHN9WfRwdZ-0hyPdXLjAVdpIvBzD5vW4_XI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY3/OC0xMTU5NzIwNTE0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Emily Remler",
+      "title": "\"E\" Samba",
+      "release_title": "Emily Remler - This Is Me",
+      "year": "1990",
+      "label": "Justice Records",
+      "country": "US",
+      "discogs_id": 2349983,
+      "rating_avg": 3.92,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/ukBHucqMoKEC4dN2KSduxczphYBnPLHhQd0nJZskmDU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDk5/ODMtMTI3ODc4NDUz/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mistura Pura",
+      "title": "Ed È...",
+      "release_title": "Mistura Pura - Vamo Vive",
+      "year": "2022",
+      "label": "Ubiquity",
+      "country": "US",
+      "discogs_id": 25861993,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/UQW2hpXQgFAnHbZhAJoXMeYCyBkKYw0EKfpGif5N6RQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODYx/OTkzLTE2NzQ0OTE5/MjUtNzk1My5qcGVn.jpeg"
+    },
+    {
+      "artist": "PSR",
+      "title": "Mission Control",
+      "release_title": "PSR - 47 Eridani",
+      "year": "2004",
+      "label": "PSR",
+      "country": "US",
+      "discogs_id": 796678,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B7MqQJhOzHN9WfRwdZ-0hyPdXLjAVdpIvBzD5vW4_XI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY3/OC0xMTU5NzIwNTE0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Morelenbaum² / Sakamoto",
+      "title": "As Praias Desertas",
+      "release_title": "Morelenbaum² / Sakamoto - Casa",
+      "year": "2002",
+      "label": "Sony Classical",
+      "country": "US",
+      "discogs_id": 1459497,
+      "rating_avg": 4.41,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/wsdPIVS29UOJ5M9pa9I1wn3kV90vaoYlyakvSdeXhds/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTk0/OTctMTcxNTQ4MzI1/Ny04MDM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "PSR",
+      "title": "Achernar",
+      "release_title": "PSR - 47 Eridani",
+      "year": "2004",
+      "label": "PSR",
+      "country": "US",
+      "discogs_id": 796678,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/B7MqQJhOzHN9WfRwdZ-0hyPdXLjAVdpIvBzD5vW4_XI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY3/OC0xMTU5NzIwNTE0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Terence Blanchard",
+      "title": "Theme For Elijah",
+      "release_title": "Terence Blanchard - The Malcolm X Jazz Suite",
+      "year": "1993",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 10697166,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ucf0DzuSNA8LS6aH2OrW2xkEazBL4g8fDMkg2oCvb8g/rs:fit/g:sm/q:90/h:541/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk3/MTY2LTE1MDI2ODQ0/MjEtNzM5OC5wbmc.jpeg"
+    },
+    {
+      "artist": "Pat Metheny Unity Group",
+      "title": "Genealogy",
+      "release_title": "Pat Metheny Unity Group - Kin (←→)",
+      "year": "2014",
+      "label": "Nonesuch",
+      "country": "US",
+      "discogs_id": 10016282,
+      "rating_avg": 4.39,
+      "rating_count": 33,
+      "cover_image": "https://i.discogs.com/VUSWE3vOD3HhC0A1QVJ8MZGdzOPc1_tFNDVOVF9ahiE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE2/MjgyLTE1MjAxNzIz/NjgtODAxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Morelenbaum² / Sakamoto",
+      "title": "Esperança Perdida - I Was Just One More For You",
+      "release_title": "Morelenbaum² / Sakamoto - Casa",
+      "year": "2002",
+      "label": "Sony Classical",
+      "country": "US",
+      "discogs_id": 1459497,
+      "rating_avg": 4.41,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/wsdPIVS29UOJ5M9pa9I1wn3kV90vaoYlyakvSdeXhds/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTk0/OTctMTcxNTQ4MzI1/Ny04MDM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Terence Blanchard",
+      "title": "Malcolm At Peace",
+      "release_title": "Terence Blanchard - The Malcolm X Jazz Suite",
+      "year": "1993",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 10697166,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Ucf0DzuSNA8LS6aH2OrW2xkEazBL4g8fDMkg2oCvb8g/rs:fit/g:sm/q:90/h:541/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk3/MTY2LTE1MDI2ODQ0/MjEtNzM5OC5wbmc.jpeg"
+    },
+    {
+      "artist": "Kane Pour",
+      "title": "Disquieting Bloom",
+      "release_title": "Kane Pour - The Last Wave",
+      "year": "2024",
+      "label": "sound as language",
+      "country": "US",
+      "discogs_id": 33765702,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/7MLnX7WUgLWAgbbwSX8cDK8CxytZtnIqz1Ta9cJgXQw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzY1/NzAyLTE3NDUyMzM5/NzAtNTY1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Emily Remler",
+      "title": "Love Colors",
+      "release_title": "Emily Remler - This Is Me",
+      "year": "1990",
+      "label": "Justice Records",
+      "country": "US",
+      "discogs_id": 2349983,
+      "rating_avg": 3.92,
+      "rating_count": 13,
+      "cover_image": "https://i.discogs.com/ukBHucqMoKEC4dN2KSduxczphYBnPLHhQd0nJZskmDU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDk5/ODMtMTI3ODc4NDUz/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antonio Carlos Jobim & Gal Costa",
+      "title": "Corcovado",
+      "release_title": "Antonio Carlos Jobim / Gal Costa - Rio Revisited",
+      "year": "1989",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 30861018,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nd7ZBOndmY7BrUcgoNzVxDJnyk_VnHd3wMiZzBK7Wjg/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODYx/MDE4LTE3MTc0Mjcw/MzMtNzk3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jon Metzger",
+      "title": "My Lady",
+      "release_title": "Jon Metzger - Vibes",
+      "year": "1984",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 12340366,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GKMomQmZLNLGG4dEZaWds0I0FFbaWWAVC531X_1PJgc/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQw/MzY2LTE1MzMyNzIw/NTYtNjg0Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Manfredo Fest",
+      "title": "Agua De Beber",
+      "release_title": "Manfredo Fest - Oferenda",
+      "year": "1993",
+      "label": "Concord Picante",
+      "country": "US",
+      "discogs_id": 36591715,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/66wKOfb1WXxcjC3g-MEu-q3B8abTKQrMoBa_YhaJe1o/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTkx/NzE1LTE3NzE4Njg0/NDYtMjIxNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mind Transport Tools",
+      "title": "Mystic Quest",
+      "release_title": "Mind Transport Tools - Tone-Cone",
+      "year": "1999",
+      "label": "Spiralight",
+      "country": "US",
+      "discogs_id": 254543,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/CIm5JIaDn4OQr9xiZtBzZQc15rH41nd9hsEz-d-VvgU/rs:fit/g:sm/q:90/h:317/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU0/My0xMTE0NjQ2ODk4/LmpwZw.jpeg"
+    }
+  ]
+}
