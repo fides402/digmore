@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2022,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 39,
+      "fresh_lookups": 2,
+      "styles_considered": 131
+    }
+  },
+  "results": [
+    {
+      "artist": "Bill Frisell",
+      "title": "Big Sur",
+      "release_title": "Bill Frisell - Big Sur",
+      "year": "2013",
+      "label": "Okeh",
+      "country": "US",
+      "discogs_id": 4640432,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/zxN7sBxdd9YVoonbS5ryUz3OLWT8aI57F_sYB1nJnPs/rs:fit/g:sm/q:90/h:405/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDA0/MzItMTM3NTQ4OTYw/OC04MjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard Souther",
+      "title": "The Last Roundup",
+      "release_title": "Richard Souther - Cross Currents",
+      "year": "1989",
+      "label": "Narada Equinox",
+      "country": "US",
+      "discogs_id": 2499721,
+      "rating_avg": 4.7,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/ek8lAXfjaFBuS8ETInv_rQ2Y57uI5ik1E_0bIVHCW-0/rs:fit/g:sm/q:90/h:415/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTk3/MjEtMTI4NzM3NTk4/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard Souther",
+      "title": "High Tide",
+      "release_title": "Richard Souther - Cross Currents",
+      "year": "1989",
+      "label": "Narada Equinox",
+      "country": "US",
+      "discogs_id": 2499721,
+      "rating_avg": 4.7,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/ek8lAXfjaFBuS8ETInv_rQ2Y57uI5ik1E_0bIVHCW-0/rs:fit/g:sm/q:90/h:415/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTk3/MjEtMTI4NzM3NTk4/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ken Morgan And Bob Ricci Jazz Duo",
+      "title": "Honeysuckle Rose",
+      "release_title": "Ken Morgan And Bob Ricci Jazz Duo - Midnight In Cortona",
+      "year": "2007",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 8328768,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e3bb957e15b179ade547ee4eb852c2dc051335dc/images/spacer.gif"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "title": "Olinda",
+      "release_title": "Lee Ritenour - Rit's House",
+      "year": "2020",
+      "label": "Universal Music Group",
+      "country": "US",
+      "discogs_id": 15368756,
+      "rating_avg": 4.9,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/TJIwbmUf5vaA6kWXwqhb8H-fUrkeGPO2DwJleIkl4I8/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY4/NzU2LTE1OTA0MTM1/OTctMTU2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ken Morgan And Bob Ricci Jazz Duo",
+      "title": "Besame Mucho",
+      "release_title": "Ken Morgan And Bob Ricci Jazz Duo - Midnight In Cortona",
+      "year": "2007",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 8328768,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e3bb957e15b179ade547ee4eb852c2dc051335dc/images/spacer.gif"
+    },
+    {
+      "artist": "Spare Parts",
+      "title": "Brain Candy",
+      "release_title": "Spare Parts (6) - Brain Candy",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 36399358,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/t1BOAoJKW5dIbdMyYWL9TvEQ-wC0kUfzNmn13JhTp2Y/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk5/MzU4LTE3NzAxNTg1/NDgtMzUxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Freddie Fox",
+      "title": "Cruise Control",
+      "release_title": "Freddie Fox - Feelin' It",
+      "year": "2008",
+      "label": "Foxhole Records",
+      "country": "US",
+      "discogs_id": 12457025,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wMTkM_rcywwfUtCE_cPpE08bxsXKpiL2Ak110F7_WcU/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU3/MDI1LTE1MzYzNTg5/MjktNzY4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sean Sonderegger's Magically Inclined",
+      "title": "Neanderthology",
+      "release_title": "Sean Sonderegger's Magically Inclined - Living There",
+      "year": "2020",
+      "label": "Skirl Records",
+      "country": "US",
+      "discogs_id": 20686375,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4MVhHUCb2lQPGdv8KMrwyeoz5Mu0gK0iFyh5gdqLEII/rs:fit/g:sm/q:90/h:460/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjg2/Mzc1LTE2MzQ5MDUx/MjktMzY1NS5wbmc.jpeg"
+    },
+    {
+      "artist": "Spare Parts",
+      "title": "Interlude",
+      "release_title": "Spare Parts (6) - Brain Candy",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 36399358,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/t1BOAoJKW5dIbdMyYWL9TvEQ-wC0kUfzNmn13JhTp2Y/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk5/MzU4LTE3NzAxNTg1/NDgtMzUxOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jef Lee Johnson",
+      "title": "Monkey Crawl, Monkey Fall",
+      "release_title": "Jef Lee Johnson - Monkey Zero",
+      "year": "2001",
+      "label": "Dreambox Media",
+      "country": "US",
+      "discogs_id": 10483949,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LVu1afcyriHaFP3T-O2TOu54cP2s3_8sVJ0X_btvKTE/rs:fit/g:sm/q:90/h:152/w:157/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgz/OTQ5LTE0OTgzOTQ2/NjgtMjQwNi5naWY.jpeg"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "title": "Module 105",
+      "release_title": "Lee Ritenour - Rit's House",
+      "year": "2020",
+      "label": "Universal Music Group",
+      "country": "US",
+      "discogs_id": 15368756,
+      "rating_avg": 4.9,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/TJIwbmUf5vaA6kWXwqhb8H-fUrkeGPO2DwJleIkl4I8/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY4/NzU2LTE1OTA0MTM1/OTctMTU2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Richard Souther",
+      "title": "Between The Lines",
+      "release_title": "Richard Souther - Cross Currents",
+      "year": "1989",
+      "label": "Narada Equinox",
+      "country": "US",
+      "discogs_id": 2499721,
+      "rating_avg": 4.7,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/ek8lAXfjaFBuS8ETInv_rQ2Y57uI5ik1E_0bIVHCW-0/rs:fit/g:sm/q:90/h:415/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTk3/MjEtMTI4NzM3NTk4/OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tom Gruzo",
+      "title": "You Know Who",
+      "release_title": "Tom Gruzo - \"Say When\"",
+      "year": "1989",
+      "label": "Nine Winds Records",
+      "country": "US",
+      "discogs_id": 2578372,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2xI2eLzC5jsq9drUULL5xKXe4pyFUgP_5sQ3-zlXfAw/rs:fit/g:sm/q:90/h:365/w:367/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzgz/NzItMTQ2ODIwMzY4/Mi0yOTczLnBuZw.jpeg"
+    },
+    {
+      "artist": "Tom Gruzo",
+      "title": "Compared To All",
+      "release_title": "Tom Gruzo - \"Say When\"",
+      "year": "1989",
+      "label": "Nine Winds Records",
+      "country": "US",
+      "discogs_id": 2578372,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/2xI2eLzC5jsq9drUULL5xKXe4pyFUgP_5sQ3-zlXfAw/rs:fit/g:sm/q:90/h:365/w:367/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzgz/NzItMTQ2ODIwMzY4/Mi0yOTczLnBuZw.jpeg"
+    },
+    {
+      "artist": "Kenny G",
+      "title": "Don't Make Me Wait For Love",
+      "release_title": "Kenny G (2) - Duotones",
+      "year": "1986",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 12104319,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/8e8soqHJBf5vpbtu9tFCEB6TWwwUvdeF0iO3uhBFtlU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA0/MzE5LTE1MjgzODU1/NTgtODk4OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jef Lee Johnson",
+      "title": "Secret Chimp",
+      "release_title": "Jef Lee Johnson - Monkey Zero",
+      "year": "2001",
+      "label": "Dreambox Media",
+      "country": "US",
+      "discogs_id": 10483949,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LVu1afcyriHaFP3T-O2TOu54cP2s3_8sVJ0X_btvKTE/rs:fit/g:sm/q:90/h:152/w:157/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgz/OTQ5LTE0OTgzOTQ2/NjgtMjQwNi5naWY.jpeg"
+    },
+    {
+      "artist": "Jef Lee Johnson",
+      "title": "Brass Monkey 2",
+      "release_title": "Jef Lee Johnson - Monkey Zero",
+      "year": "2001",
+      "label": "Dreambox Media",
+      "country": "US",
+      "discogs_id": 10483949,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LVu1afcyriHaFP3T-O2TOu54cP2s3_8sVJ0X_btvKTE/rs:fit/g:sm/q:90/h:152/w:157/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgz/OTQ5LTE0OTgzOTQ2/NjgtMjQwNi5naWY.jpeg"
+    },
+    {
+      "artist": "Apifera",
+      "title": "Iris One",
+      "release_title": "Apifera - Overstand",
+      "year": "2020",
+      "label": "Stones Throw Records",
+      "country": "US",
+      "discogs_id": 16194714,
+      "rating_avg": 4.38,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/pNg41F-eIdpl22AJDVAXxBYbji37MAnmBbc_iZCWF0g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk0/NzE0LTE2MDUwNTU3/NTYtODc1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Freddie Fox",
+      "title": "Day Dreamin'",
+      "release_title": "Freddie Fox - Feelin' It",
+      "year": "2008",
+      "label": "Foxhole Records",
+      "country": "US",
+      "discogs_id": 12457025,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wMTkM_rcywwfUtCE_cPpE08bxsXKpiL2Ak110F7_WcU/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU3/MDI1LTE1MzYzNTg5/MjktNzY4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Freddie Fox",
+      "title": "Feelin' It",
+      "release_title": "Freddie Fox - Feelin' It",
+      "year": "2008",
+      "label": "Foxhole Records",
+      "country": "US",
+      "discogs_id": 12457025,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wMTkM_rcywwfUtCE_cPpE08bxsXKpiL2Ak110F7_WcU/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU3/MDI1LTE1MzYzNTg5/MjktNzY4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Andrew Lamb Trio",
+      "title": "A Alegria E O Prazer De Uma Boa Tarte",
+      "release_title": "Andrew Lamb Trio - Honeymoon On Saturn",
+      "year": "2012",
+      "label": "CIMP",
+      "country": "US",
+      "discogs_id": 8920839,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Qi2oAe70qRbQF7oAkxSFsqExfGOBJRLvjkLKb_yY4HQ/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjA4/MzktMTQ3MTUwODI2/MC05NDQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Acoustic Alchemy",
+      "title": "Papillon",
+      "release_title": "Acoustic Alchemy - Against The Grain",
+      "year": "1994",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 11907707,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/7WFu5k9eYaMMLWOTqhZflZpYn0zhkZ0LnYFxkQd2730/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA3/NzA3LTE1MjQ1MjAy/MjItNDYzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Acoustic Alchemy",
+      "title": "Lady Lynda",
+      "release_title": "Acoustic Alchemy - Against The Grain",
+      "year": "1994",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 11907707,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/7WFu5k9eYaMMLWOTqhZflZpYn0zhkZ0LnYFxkQd2730/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA3/NzA3LTE1MjQ1MjAy/MjItNDYzNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Apifera",
+      "title": "The Pit & The Beggar",
+      "release_title": "Apifera - Overstand",
+      "year": "2020",
+      "label": "Stones Throw Records",
+      "country": "US",
+      "discogs_id": 16194714,
+      "rating_avg": 4.38,
+      "rating_count": 32,
+      "cover_image": "https://i.discogs.com/pNg41F-eIdpl22AJDVAXxBYbji37MAnmBbc_iZCWF0g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk0/NzE0LTE2MDUwNTU3/NTYtODc1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Havona",
+      "release_title": "Weather Report - Heavy Weather",
+      "year": "1997",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 1065273,
+      "rating_avg": 4.4,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/EXOoEKmXOSUcyJMudA-X9r9gJwBjxVQqqcitzoDlGaM/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUy/NzMtMTU1NTAyNzA4/OC0xODg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bill Frisell",
+      "title": "Far Away",
+      "release_title": "Bill Frisell - Big Sur",
+      "year": "2013",
+      "label": "Okeh",
+      "country": "US",
+      "discogs_id": 4640432,
+      "rating_avg": 4.75,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/zxN7sBxdd9YVoonbS5ryUz3OLWT8aI57F_sYB1nJnPs/rs:fit/g:sm/q:90/h:405/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDA0/MzItMTM3NTQ4OTYw/OC04MjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Freddie Fox",
+      "title": "No U Turn",
+      "release_title": "Freddie Fox - Feelin' It",
+      "year": "2008",
+      "label": "Foxhole Records",
+      "country": "US",
+      "discogs_id": 12457025,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wMTkM_rcywwfUtCE_cPpE08bxsXKpiL2Ak110F7_WcU/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU3/MDI1LTE1MzYzNTg5/MjktNzY4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Beck",
+      "title": "Wry Toast",
+      "release_title": "Joe Beck - Back To Beck",
+      "year": "1988",
+      "label": "DMP",
+      "country": "US",
+      "discogs_id": 7185064,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IxXh5k2zM__saxVZGK3ws7BG5iGlfY5bjs2BxdFNcnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODUw/NjQtMTQ1ODk0MTcz/Ny03NTgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Beck",
+      "title": "Lookin' Up",
+      "release_title": "Joe Beck - Back To Beck",
+      "year": "1988",
+      "label": "DMP",
+      "country": "US",
+      "discogs_id": 7185064,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/IxXh5k2zM__saxVZGK3ws7BG5iGlfY5bjs2BxdFNcnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODUw/NjQtMTQ1ODk0MTcz/Ny03NTgyLmpwZWc.jpeg"
+    }
+  ]
+}

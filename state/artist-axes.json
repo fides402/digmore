@@ -79894,6 +79894,265 @@
    1985
   ]
  },
+ "franco cerri": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Japan",
+   "Italy",
+   "Italy",
+   "Japan",
+   "Austria",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Japan",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Austria",
+   "Japan",
+   "Italy",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Blues",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Latin",
+   "Classical",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Blues",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Samba",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ],
+   [
+    "Twist",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Blues"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Blues"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Latin"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Latin"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Latin"
+   ],
+   [
+    "Jazz-Funk",
+    "Classical"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Blues"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Blues"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Pop"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Cool Jazz",
+   "Samba",
+   "Soul-Jazz",
+   "Twist",
+   "Contemporary Jazz",
+   "Bossa Nova",
+   "Latin Jazz",
+   "Bossa Nova",
+   "Cool Jazz",
+   "Bop",
+   "Bossa Nova",
+   "Bossa Nova",
+   "Latin Jazz",
+   "Contemporary Jazz",
+   "Jazz-Funk",
+   "Smooth Jazz",
+   "Latin Jazz",
+   "Contemporary Jazz",
+   "Bop",
+   "Bop",
+   "Bossa Nova",
+   "Bop",
+   "Bossa Nova",
+   "Bop",
+   "Avant-garde Jazz"
+  ],
+  "years": [
+   1962,
+   1967,
+   1984,
+   2010,
+   1977,
+   1981,
+   2019,
+   2012,
+   1975,
+   2009,
+   1994,
+   2000,
+   1966,
+   2021,
+   2007,
+   2009,
+   1964,
+   1961,
+   1963,
+   1958,
+   1995,
+   2009,
+   2018,
+   1975,
+   1975
+  ]
+ },
  "franco micalizzi": {
   "countries": [
    "Italy",
@@ -153901,6 +154160,159 @@
    1998,
    1986,
    1987
+  ]
+ },
+ "peace flag ensemble": {
+  "countries": [
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada"
+  ],
+  "genres": [
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Electronic",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Electronic"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ]
+  ],
+  "releases": 7,
+  "styles": [
+   "Contemporary Jazz",
+   "Experimental",
+   "Free Improvisation",
+   "Contemporary Jazz",
+   "Experimental",
+   "Contemporary Jazz",
+   "Experimental",
+   "Contemporary Jazz",
+   "Experimental",
+   "Contemporary Jazz",
+   "Experimental",
+   "Contemporary Jazz",
+   "Experimental"
+  ],
+  "years": [
+   2023,
+   2022,
+   2021,
+   2021,
+   2021,
+   2025,
+   2025
   ]
  },
  "pearl bailey": {
