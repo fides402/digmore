@@ -899,6 +899,200 @@
    2024
   ]
  },
+ "acker bilk": {
+  "countries": [
+   "US",
+   "Germany",
+   "UK",
+   "US",
+   "UK",
+   "USSR",
+   "UK",
+   "UK",
+   "US",
+   "US",
+   "Belgium",
+   "Europe",
+   "Canada",
+   "US",
+   "Netherlands",
+   "Europe",
+   "Australasia",
+   "Germany",
+   "Netherlands",
+   "UK",
+   "US",
+   "Australia",
+   "UK",
+   "Spain",
+   "UK"
+  ],
+  "genres": [
+   "Jazz",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Rock",
+   "Blues",
+   "Jazz",
+   "Latin",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Folk, World, & Country",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Blues Rock",
+    "Rock"
+   ],
+   [
+    "Blues Rock",
+    "Blues"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Pop"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Pop"
+   ],
+   [
+    "Instrumental",
+    "Stage & Screen"
+   ],
+   [
+    "Dixieland",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Pop"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Dixieland",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Dixieland",
+    "Jazz"
+   ],
+   [
+    "Ragtime",
+    "Jazz"
+   ],
+   [
+    "Ragtime",
+    "Folk, World, & Country"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Latin Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Blues Rock",
+   "Smooth Jazz",
+   "Swing",
+   "Instrumental",
+   "Dixieland",
+   "Smooth Jazz",
+   "Cool Jazz",
+   "Dixieland",
+   "Swing",
+   "Dixieland",
+   "Ragtime",
+   "Instrumental",
+   "Theme",
+   "Latin Jazz"
+  ],
+  "years": [
+   1962,
+   1970,
+   1980,
+   1978,
+   1979,
+   1987,
+   1963,
+   1989,
+   1962,
+   2015,
+   1972,
+   1962,
+   1994,
+   2007,
+   1990,
+   1962,
+   1987,
+   1978
+  ]
+ },
  "ada lee": {
   "countries": [
    "US",
@@ -139177,6 +139371,368 @@
    1998
   ]
  },
+ "mario schiano": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "US",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Japan",
+   "Italy",
+   "Italy",
+   "Canada",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Blues",
+   "Jazz",
+   "Blues",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Stage & Screen",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Blues",
+   "Electronic",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Chanson",
+    "Pop"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Free Jazz",
+    "Electronic"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Blues"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Blues"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Free Jazz",
+    "Electronic"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Blues"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Blues"
+   ],
+   [
+    "Italo-Disco",
+    "Electronic"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Free Jazz",
+   "Soundtrack",
+   "Free Jazz",
+   "Free Jazz",
+   "Free Improvisation",
+   "Chanson",
+   "Free Jazz",
+   "Contemporary Jazz",
+   "Free Improvisation",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Free Jazz",
+   "Contemporary Jazz",
+   "Free Improvisation",
+   "Contemporary Jazz",
+   "Free Jazz",
+   "Soundtrack",
+   "Free Jazz",
+   "Experimental",
+   "Free Jazz",
+   "Free Jazz",
+   "Free Jazz",
+   "Free Improvisation",
+   "Free Improvisation",
+   "Free Jazz",
+   "Contemporary Jazz",
+   "Free Jazz",
+   "Soundtrack",
+   "Free Jazz",
+   "Experimental",
+   "Free Jazz",
+   "Free Improvisation",
+   "Italo-Disco",
+   "Free Improvisation",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Free Improvisation",
+   "Free Jazz",
+   "Free Improvisation",
+   "Free Jazz"
+  ],
+  "years": [
+   2003,
+   1977,
+   1990,
+   2002,
+   1992,
+   1976,
+   1973,
+   1990,
+   1976,
+   1978,
+   1974,
+   2004,
+   2002,
+   1983,
+   1976,
+   2007,
+   1994,
+   1987,
+   1997,
+   1999,
+   1975,
+   1970,
+   1994,
+   1975,
+   1983
+  ]
+ },
  "mark d binnall and the grimethorpe colliery band": {
   "countries": [],
   "genres": [],
@@ -139742,6 +140298,169 @@
    2009,
    2016,
    2019
+  ]
+ },
+ "maurizio giammarco": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "UK",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "UK",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "France",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Electronic",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Electronic"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Fusion",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Big Band",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Bop",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Soundtrack",
+   "Fusion",
+   "Jazz-Funk",
+   "Contemporary Jazz",
+   "Fusion",
+   "Contemporary Jazz",
+   "Big Band"
+  ],
+  "years": [
+   2002,
+   2011,
+   1999,
+   1991,
+   1991,
+   1993,
+   1983,
+   1988,
+   1993,
+   2019,
+   2012,
+   1988,
+   2002,
+   2024,
+   1995,
+   2020,
+   1975,
+   2022,
+   2004,
+   1975,
+   2005,
+   2007,
+   2001,
+   1994,
+   2012
   ]
  },
  "max roach": {
