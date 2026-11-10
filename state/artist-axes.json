@@ -159030,6 +159030,386 @@
    1967
   ]
  },
+ "pippo caruso": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Worldwide",
+   "Italy",
+   "Worldwide",
+   "Worldwide",
+   "Italy",
+   "Worldwide",
+   "Worldwide",
+   "Japan",
+   "Unknown",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Worldwide",
+   "Worldwide",
+   "Italy",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Pop",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Stage & Screen",
+   "Jazz",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Folk, World, & Country",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Jazz",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Pop",
+   "Stage & Screen",
+   "Jazz",
+   "Rock",
+   "Funk / Soul",
+   "Stage & Screen",
+   "Rock",
+   "Classical",
+   "Stage & Screen",
+   "Stage & Screen",
+   "Jazz",
+   "Latin",
+   "Stage & Screen",
+   "Pop",
+   "Stage & Screen"
+  ],
+  "pairs": [
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Pop"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Classical"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Classical"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Score",
+    "Stage & Screen"
+   ],
+   [
+    "Bossa Nova",
+    "Jazz"
+   ],
+   [
+    "Bossa Nova",
+    "Funk / Soul"
+   ],
+   [
+    "Bossa Nova",
+    "Stage & Screen"
+   ],
+   [
+    "Theme",
+    "Jazz"
+   ],
+   [
+    "Theme",
+    "Funk / Soul"
+   ],
+   [
+    "Theme",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Classical"
+   ],
+   [
+    "Jazz-Funk",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Pop"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Funk / Soul"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Rock"
+   ],
+   [
+    "Soundtrack",
+    "Classical"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Parody",
+    "Rock"
+   ],
+   [
+    "Parody",
+    "Classical"
+   ],
+   [
+    "Parody",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Soundtrack",
+    "Jazz"
+   ],
+   [
+    "Soundtrack",
+    "Latin"
+   ],
+   [
+    "Soundtrack",
+    "Stage & Screen"
+   ],
+   [
+    "Vocal",
+    "Pop"
+   ],
+   [
+    "Vocal",
+    "Stage & Screen"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Vocal",
+   "Theme",
+   "Soundtrack",
+   "Soundtrack",
+   "Score",
+   "Soundtrack",
+   "Score",
+   "Soundtrack",
+   "Soundtrack",
+   "Soundtrack",
+   "Jazz-Funk",
+   "Soundtrack",
+   "Soundtrack",
+   "Soundtrack",
+   "Soundtrack",
+   "Score",
+   "Soundtrack",
+   "Jazz-Funk",
+   "Soundtrack",
+   "Score",
+   "Bossa Nova",
+   "Theme",
+   "Soundtrack",
+   "Jazz-Funk",
+   "Soundtrack",
+   "Soundtrack",
+   "Soundtrack",
+   "Soundtrack",
+   "Soundtrack",
+   "Parody",
+   "Soundtrack",
+   "Soundtrack",
+   "Vocal"
+  ],
+  "years": [
+   1977,
+   1977,
+   2025,
+   2014,
+   1974,
+   1979,
+   1980,
+   1979,
+   2004,
+   1975,
+   1977,
+   2022,
+   1983,
+   1987,
+   1983,
+   1962,
+   1984
+  ]
+ },
  "poll": {
   "countries": [
    "Greece",
@@ -164288,6 +164668,807 @@
    1978,
    1980,
    2017
+  ]
+ },
+ "riccardo zappa": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Rock",
+   "Folk, World, & Country",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Classical",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Funk / Soul",
+   "Jazz",
+   "Folk, World, & Country",
+   "Rock",
+   "Folk, World, & Country",
+   "Pop",
+   "Rock",
+   "Classical",
+   "Rock",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Folk, World, & Country",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Funk / Soul",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Rock",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop",
+   "Electronic",
+   "Rock",
+   "Pop"
+  ],
+  "pairs": [
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Folk, World, & Country"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Rock"
+   ],
+   [
+    "New Age",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Rock"
+   ],
+   [
+    "New Age",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Rock"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Rock"
+   ],
+   [
+    "Ethereal",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Acoustic",
+    "Jazz"
+   ],
+   [
+    "Acoustic",
+    "Folk, World, & Country"
+   ],
+   [
+    "Instrumental",
+    "Jazz"
+   ],
+   [
+    "Instrumental",
+    "Folk, World, & Country"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Folk, World, & Country"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Folk, World, & Country"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Classical"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Classical"
+   ],
+   [
+    "Ethereal",
+    "Rock"
+   ],
+   [
+    "Ethereal",
+    "Classical"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Rock"
+   ],
+   [
+    "New Age",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Rock"
+   ],
+   [
+    "Acoustic",
+    "Folk, World, & Country"
+   ],
+   [
+    "New Age",
+    "Rock"
+   ],
+   [
+    "New Age",
+    "Folk, World, & Country"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Folk, World, & Country"
+   ],
+   [
+    "Fusion",
+    "Rock"
+   ],
+   [
+    "Fusion",
+    "Folk, World, & Country"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Rock"
+   ],
+   [
+    "New Age",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Rock"
+   ],
+   [
+    "New Age",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Downtempo",
+    "Electronic"
+   ],
+   [
+    "Downtempo",
+    "Rock"
+   ],
+   [
+    "Downtempo",
+    "Funk / Soul"
+   ],
+   [
+    "Pop Rock",
+    "Electronic"
+   ],
+   [
+    "Pop Rock",
+    "Rock"
+   ],
+   [
+    "Pop Rock",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Electronic"
+   ],
+   [
+    "Funk",
+    "Rock"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Ethereal",
+    "Electronic"
+   ],
+   [
+    "Ethereal",
+    "Rock"
+   ],
+   [
+    "Ethereal",
+    "Funk / Soul"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Funk / Soul"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Rock"
+   ],
+   [
+    "New Age",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "New Age",
+    "Electronic"
+   ],
+   [
+    "New Age",
+    "Rock"
+   ],
+   [
+    "New Age",
+    "Pop"
+   ],
+   [
+    "Experimental",
+    "Electronic"
+   ],
+   [
+    "Experimental",
+    "Rock"
+   ],
+   [
+    "Experimental",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Ambient",
+    "Electronic"
+   ],
+   [
+    "Ambient",
+    "Rock"
+   ],
+   [
+    "Ambient",
+    "Pop"
+   ],
+   [
+    "Soft Rock",
+    "Rock"
+   ],
+   [
+    "Ethereal",
+    "Rock"
+   ],
+   [
+    "Ethereal",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ],
+   [
+    "Prog Rock",
+    "Electronic"
+   ],
+   [
+    "Prog Rock",
+    "Rock"
+   ],
+   [
+    "Prog Rock",
+    "Pop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Prog Rock",
+   "Acoustic",
+   "New Age",
+   "Prog Rock",
+   "Experimental",
+   "Ambient",
+   "New Age",
+   "Prog Rock",
+   "Experimental",
+   "Ambient",
+   "Prog Rock",
+   "Prog Rock",
+   "Pop Rock",
+   "Downtempo",
+   "Ethereal",
+   "Funk",
+   "Prog Rock",
+   "Acoustic",
+   "Instrumental",
+   "Acoustic",
+   "Experimental",
+   "Acoustic",
+   "Prog Rock",
+   "Ethereal",
+   "New Age",
+   "Prog Rock",
+   "Experimental",
+   "Ambient",
+   "Prog Rock",
+   "Acoustic",
+   "New Age",
+   "Prog Rock",
+   "Fusion",
+   "New Age",
+   "Experimental",
+   "Prog Rock",
+   "Ambient",
+   "New Age",
+   "Experimental",
+   "Prog Rock",
+   "Ambient",
+   "Downtempo",
+   "Pop Rock",
+   "Funk",
+   "Ethereal",
+   "Prog Rock",
+   "New Age",
+   "Prog Rock",
+   "Experimental",
+   "Ambient",
+   "New Age",
+   "Experimental",
+   "Prog Rock",
+   "Ambient",
+   "Soft Rock",
+   "Ethereal",
+   "Prog Rock",
+   "Prog Rock"
+  ],
+  "years": [
+   1978,
+   1982,
+   1982,
+   2006,
+   1984,
+   1983,
+   1986,
+   2006,
+   1990,
+   2000,
+   2014,
+   1982,
+   1983,
+   1990,
+   1997,
+   1980,
+   1980,
+   1983,
+   1982,
+   1982,
+   1999,
+   2004,
+   1984,
+   1977
   ]
  },
  "richard amey": {
