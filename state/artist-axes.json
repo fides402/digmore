@@ -12356,6 +12356,51 @@
    1978
   ]
  },
+ "andrea allione": {
+  "countries": [
+   "Italy",
+   "Italy",
+   "Italy",
+   "Italy"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ]
+  ],
+  "releases": 4,
+  "styles": [
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Swing",
+   "Modal"
+  ],
+  "years": [
+   2003,
+   2001,
+   2002,
+   2009
+  ]
+ },
  "andy bey": {
   "countries": [
    "Europe",
