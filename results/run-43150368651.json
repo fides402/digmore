@@ -1,0 +1,406 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Cool Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1967,
+    "year_to": 2022,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 40,
+      "artists_found": 37,
+      "fresh_lookups": 0,
+      "styles_considered": 122
+    }
+  },
+  "results": [
+    {
+      "artist": "Road Work Ahead",
+      "title": "Estate",
+      "release_title": "Road Work Ahead - Intersection",
+      "year": "2012",
+      "label": "SBE Records",
+      "country": "US",
+      "discogs_id": 13045493,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/tJQof8X0YSvF0s1Rzf8ifcKTKOvbjV8SyO1x2wKYM80/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ1/NDkzLTE1ODYxMDc3/MjAtNTI2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Ode To Billie Joe",
+      "release_title": "Jimmy McGriff - Black Pearl",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 9805400,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/WXrrX-0ta0um_R4WeFFGZO37sCCxFcNLsiyJkUbC2x0/rs:fit/g:sm/q:90/h:531/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDU0/MDAtMTQ4NjY2NjU3/OC04NTA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Kelley",
+      "title": "Desert Springs",
+      "release_title": "Ray Kelley - Destinations",
+      "year": "1991",
+      "label": "USA Music Group",
+      "country": "US",
+      "discogs_id": 6292474,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XrZPSKXj_4guSfGVKi8OYt3VA5N6A_lwylXph0NMhiI/rs:fit/g:sm/q:90/h:220/w:219/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTI0/NzQtMTQxNTczNzI3/NC04NjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pat Cronley",
+      "title": "Tear On Her Face",
+      "release_title": "Pat Cronley - Back to the City",
+      "year": "2022",
+      "label": "Fervor Records",
+      "country": "US",
+      "discogs_id": 24463259,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cHlSK4hbF2cvFvpn30TtAp9l07m_LD8hYy6TuiAFXzU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDYz/MjU5LTE2NjI3NDA3/ODktNTg1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob Belden",
+      "title": "Kiss",
+      "release_title": "Bob Belden - When Doves Cry: The Music Of Prince",
+      "year": "1994",
+      "label": "Metro Blue",
+      "country": "US",
+      "discogs_id": 2948060,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/ReVyg2DnEMZM_wAg5NBQjQGpyIA2qw0q5teD-At76dg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgw/NjAtMTMwODY1NDI0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Groove Alley",
+      "release_title": "Jimmy McGriff - Black Pearl",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 9805400,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/WXrrX-0ta0um_R4WeFFGZO37sCCxFcNLsiyJkUbC2x0/rs:fit/g:sm/q:90/h:531/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDU0/MDAtMTQ4NjY2NjU3/OC04NTA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Kenny Burrell",
+      "title": "Lucky To Be Me",
+      "release_title": "Kenny Burrell - Sunup To Sundown",
+      "year": "1993",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 2802747,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TXuySTabnoDdTnKI8wc8PyINrIo5VvZiKebb9InXYGc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDI3/NDctMTMwNTAyMzk5/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Various",
+      "title": "We'll Be Together Again",
+      "release_title": "Various - Camelot & GRP Present The Jazz Sampler, Vol. 2",
+      "year": "1993",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 13045831,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/2BCHbcxpNFUcyQfw9WQbtkaUG5ZRh5HSg9r7LiQf40c/rs:fit/g:sm/q:90/h:600/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ1/ODMxLTE1NDcwNzEz/NjYtOTQ3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Kelley",
+      "title": "Puerto Vallarta",
+      "release_title": "Ray Kelley - Destinations",
+      "year": "1991",
+      "label": "USA Music Group",
+      "country": "US",
+      "discogs_id": 6292474,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XrZPSKXj_4guSfGVKi8OYt3VA5N6A_lwylXph0NMhiI/rs:fit/g:sm/q:90/h:220/w:219/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTI0/NzQtMTQxNTczNzI3/NC04NjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Lights Out",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 4455689,
+      "rating_avg": 4.78,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/oBK4G2vmeEcBMG3UD3kt2E3XNcHU7eM0VdmKS61l80w/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTU2/ODktMTM2NTM1NjMx/MC02MDcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brian Ales",
+      "title": "Makye Macca",
+      "release_title": "Brian Ales - Naïveté",
+      "year": "1995",
+      "label": "Intuition Music",
+      "country": "US",
+      "discogs_id": 21900427,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3aVOPOYBADzgk_HvBz_vh67zlwC3WN8GlXWXwOt_6ks/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTAw/NDI3LTE2NDMyMTg0/ODMtOTEwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fourplay",
+      "title": "101 Eastbound",
+      "release_title": "Fourplay (3) - An Evening Of Fourplay Volumes I And II",
+      "year": "2005",
+      "label": "Eagle Eye Media",
+      "country": "US",
+      "discogs_id": 25477720,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BNfBOmIYvzI4QiTuB-chy_5AwP82oIihWjn6te5OXy0/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDc3/NzIwLTE2NzEzMjYy/MTItOTc1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kenny G",
+      "title": "The Way You Move",
+      "release_title": "Various - Smooth Jazz WSMJ 104.3 Volume 4",
+      "year": "2007",
+      "label": "F.I.M.",
+      "country": "US",
+      "discogs_id": 21497215,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/GBox9qgcMcs-oyYuxlhKa_5Hzfve9oB-f9rXKEPohiw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk3/MjE1LTE2NDA1Njk0/NTctMzA1Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pat Cronley",
+      "title": "Pound Cake",
+      "release_title": "Pat Cronley - Back to the City",
+      "year": "2022",
+      "label": "Fervor Records",
+      "country": "US",
+      "discogs_id": 24463259,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/cHlSK4hbF2cvFvpn30TtAp9l07m_LD8hYy6TuiAFXzU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDYz/MjU5LTE2NjI3NDA3/ODktNTg1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Tune 88",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 4455689,
+      "rating_avg": 4.78,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/oBK4G2vmeEcBMG3UD3kt2E3XNcHU7eM0VdmKS61l80w/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTU2/ODktMTM2NTM1NjMx/MC02MDcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bob Belden",
+      "title": "Diamonds And Pearls",
+      "release_title": "Bob Belden - When Doves Cry: The Music Of Prince",
+      "year": "1994",
+      "label": "Metro Blue",
+      "country": "US",
+      "discogs_id": 2948060,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/ReVyg2DnEMZM_wAg5NBQjQGpyIA2qw0q5teD-At76dg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgw/NjAtMTMwODY1NDI0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fourplay",
+      "title": "After The Dance",
+      "release_title": "Fourplay (3) - An Evening Of Fourplay Volumes I And II",
+      "year": "2005",
+      "label": "Eagle Eye Media",
+      "country": "US",
+      "discogs_id": 25477720,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BNfBOmIYvzI4QiTuB-chy_5AwP82oIihWjn6te5OXy0/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDc3/NzIwLTE2NzEzMjYy/MTItOTc1OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kenny Burrell",
+      "title": "I'm Old Fashioned",
+      "release_title": "Kenny Burrell - Sunup To Sundown",
+      "year": "1993",
+      "label": "Jazz Heritage",
+      "country": "US",
+      "discogs_id": 2802747,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/TXuySTabnoDdTnKI8wc8PyINrIo5VvZiKebb9InXYGc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDI3/NDctMTMwNTAyMzk5/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eric Gale",
+      "title": "Close Your Eyes",
+      "release_title": "Eric Gale - Let's Stay Together",
+      "year": "1988",
+      "label": "Artful Balance Records",
+      "country": "US",
+      "discogs_id": 13328367,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CFOYIdevk5blV_XPJDUs_lafHtfDwpif9w7xskXf0qE/rs:fit/g:sm/q:90/h:600/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/MzY3LTE2MjAwODUz/NjUtNzg1OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Ales",
+      "title": "What Mambo",
+      "release_title": "Brian Ales - Naïveté",
+      "year": "1995",
+      "label": "Intuition Music",
+      "country": "US",
+      "discogs_id": 21900427,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3aVOPOYBADzgk_HvBz_vh67zlwC3WN8GlXWXwOt_6ks/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTAw/NDI3LTE2NDMyMTg0/ODMtOTEwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Kelley",
+      "title": "Castle Harbour",
+      "release_title": "Ray Kelley - Destinations",
+      "year": "1991",
+      "label": "USA Music Group",
+      "country": "US",
+      "discogs_id": 6292474,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XrZPSKXj_4guSfGVKi8OYt3VA5N6A_lwylXph0NMhiI/rs:fit/g:sm/q:90/h:220/w:219/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTI0/NzQtMTQxNTczNzI3/NC04NjMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jay Vonada Quartet",
+      "title": "The Unknown",
+      "release_title": "Jay Vonada Quartet - Expressions ",
+      "year": "2015",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 27328791,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-UIRVXJa0BCwQVNCjJs28FoXTd8RFcVXIV_P8J0IfSA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI4/NzkxLTE2ODYyNzc1/MDktNTA0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Ales",
+      "title": "\"La Casa Ya En Bongo\"",
+      "release_title": "Brian Ales - Naïveté",
+      "year": "1995",
+      "label": "Intuition Music",
+      "country": "US",
+      "discogs_id": 21900427,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3aVOPOYBADzgk_HvBz_vh67zlwC3WN8GlXWXwOt_6ks/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTAw/NDI3LTE2NDMyMTg0/ODMtOTEwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Matt Pivec",
+      "title": "Whisper Not",
+      "release_title": "Matt Pivec - Live At Snider Hall",
+      "year": "2008",
+      "label": "BRO Records",
+      "country": "US",
+      "discogs_id": 38364711,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/fHajIpYOXZbtZ0LLJ-6tVqirwSTfWlXIUP2YjfqDtSs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzY0/NzExLTE3ODg4MDQ4/NzItMjQwNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "In A Mellow Tone",
+      "release_title": "Jimmy McGriff - Black Pearl",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 9805400,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/WXrrX-0ta0um_R4WeFFGZO37sCCxFcNLsiyJkUbC2x0/rs:fit/g:sm/q:90/h:531/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDU0/MDAtMTQ4NjY2NjU3/OC04NTA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Man From Bad",
+      "release_title": "Jimmy McGriff - Black Pearl",
+      "year": "1973",
+      "label": "Blue Note",
+      "country": "US",
+      "discogs_id": 9805400,
+      "rating_avg": 4.43,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/WXrrX-0ta0um_R4WeFFGZO37sCCxFcNLsiyJkUbC2x0/rs:fit/g:sm/q:90/h:531/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDU0/MDAtMTQ4NjY2NjU3/OC04NTA0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jay Vonada Quartet",
+      "title": "Early Morning Chill",
+      "release_title": "Jay Vonada Quartet - Expressions ",
+      "year": "2015",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 27328791,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-UIRVXJa0BCwQVNCjJs28FoXTd8RFcVXIV_P8J0IfSA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI4/NzkxLTE2ODYyNzc1/MDktNTA0NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob Belden",
+      "title": "Purple Rain",
+      "release_title": "Bob Belden - When Doves Cry: The Music Of Prince",
+      "year": "1994",
+      "label": "Metro Blue",
+      "country": "US",
+      "discogs_id": 2948060,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/ReVyg2DnEMZM_wAg5NBQjQGpyIA2qw0q5teD-At76dg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgw/NjAtMTMwODY1NDI0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Rain Dance",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 4455689,
+      "rating_avg": 4.78,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/oBK4G2vmeEcBMG3UD3kt2E3XNcHU7eM0VdmKS61l80w/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTU2/ODktMTM2NTM1NjMx/MC02MDcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Kelley",
+      "title": "Casa Marina",
+      "release_title": "Ray Kelley - Destinations",
+      "year": "1991",
+      "label": "USA Music Group",
+      "country": "US",
+      "discogs_id": 6292474,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/XrZPSKXj_4guSfGVKi8OYt3VA5N6A_lwylXph0NMhiI/rs:fit/g:sm/q:90/h:220/w:219/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTI0/NzQtMTQxNTczNzI3/NC04NjMzLmpwZWc.jpeg"
+    }
+  ]
+}
