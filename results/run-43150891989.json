@@ -1,0 +1,410 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Latin Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2023,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 24,
+      "artists_found": 22,
+      "fresh_lookups": 0,
+      "styles_considered": 95
+    }
+  },
+  "results": [
+    {
+      "artist": "Manfredo Fest",
+      "title": "Jungle Cat",
+      "release_title": "Manfredo Fest - Jungle Cat",
+      "year": "1989",
+      "label": "DMP",
+      "country": "US",
+      "discogs_id": 16965417,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/6pMHHNWhnKN2Qh0l26-WAwz9RKizefa4j6-PIrUFyb8/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY1/NDE3LTE2MTA4NTQ0/NzYtMjcwMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Tune 88",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 4455689,
+      "rating_avg": 4.78,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/oBK4G2vmeEcBMG3UD3kt2E3XNcHU7eM0VdmKS61l80w/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTU2/ODktMTM2NTM1NjMx/MC02MDcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Pike",
+      "title": "Jumpy The Snail",
+      "release_title": "Dave Pike - Moon Bird",
+      "year": "1984",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 2528168,
+      "rating_avg": 4.25,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/FZKLRTtxLUw0YMUVcKNlFe6pHqr8RIrzKcJq-hxKI3M/rs:fit/g:sm/q:90/h:320/w:315/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjgx/NjgtMTI4ODkwMzM0/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "J. P. Robinson",
+      "title": "You Can Be A Lady",
+      "release_title": "J.P. Robinson* - Classic R&B From The Sixties",
+      "year": "2005",
+      "label": "Henry Stone Music",
+      "country": "US",
+      "discogs_id": 6530634,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/qjO7kxt2Yq2E5WKeyqCg-drJmZ0FL_xrzb1dXN66s1A/rs:fit/g:sm/q:90/h:402/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA2/MzQtMTQyMTM1MjU4/My0yODc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bebo Valdés",
+      "title": "Pa' Goza",
+      "release_title": "Bebo Valdés - Bebo Rides Again",
+      "year": "2004",
+      "label": "Universal Music Latino",
+      "country": "US",
+      "discogs_id": 7337668,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/b9vQ9sHvLoRPwNMPn0vIWuWSX2zpYudCy-c2KqND1pI/rs:fit/g:sm/q:90/h:448/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzc2/NjgtMTQzOTIzMDIx/NC00MDM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Dave Pike",
+      "title": "Moon Bird",
+      "release_title": "Dave Pike - Moon Bird",
+      "year": "1984",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 2528168,
+      "rating_avg": 4.25,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/FZKLRTtxLUw0YMUVcKNlFe6pHqr8RIrzKcJq-hxKI3M/rs:fit/g:sm/q:90/h:320/w:315/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjgx/NjgtMTI4ODkwMzM0/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eumir Deodato & Airto Moreira",
+      "title": "Spirit Of Summer",
+      "release_title": "Deodato* - Airto* - In Concert",
+      "year": "1974",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 3152919,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/aWJURgogm5q6fkqDqFMIOkiBhxSrbqT0Cq99kbf1Zms/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTI5/MTktMTM2OTMxODcw/MC04OTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "C.L. Blast",
+      "title": "I've Got To Make It On My Own",
+      "release_title": "C.L. Blast - If I Had Loved You More",
+      "year": "1980",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 15060598,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6eaP2_uLgIF8bxNso4-OflSDyMp7zbgdRXCpN9QFWnU/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDYw/NTk4LTE1ODYxNTk3/NjAtOTIyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Lover Boy",
+      "release_title": "Johnnie Taylor - Lover Boy",
+      "year": "1986",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 11481775,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/py7qA1z48LcqFe3p0fBmaVKhI4W3rCDGpw3MmF_ibx4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgx/Nzc1LTE1MTcxMDA2/NzctNjIyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "J. P. Robinson",
+      "title": "Please Accept My Call",
+      "release_title": "J.P. Robinson* - Classic R&B From The Sixties",
+      "year": "2005",
+      "label": "Henry Stone Music",
+      "country": "US",
+      "discogs_id": 6530634,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/qjO7kxt2Yq2E5WKeyqCg-drJmZ0FL_xrzb1dXN66s1A/rs:fit/g:sm/q:90/h:402/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA2/MzQtMTQyMTM1MjU4/My0yODc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Toad's Place",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 4455689,
+      "rating_avg": 4.78,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/oBK4G2vmeEcBMG3UD3kt2E3XNcHU7eM0VdmKS61l80w/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTU2/ODktMTM2NTM1NjMx/MC02MDcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "Life Is Just A Game",
+      "release_title": "Stanley Clarke - School Days",
+      "year": "1977",
+      "label": "Nemperor Records",
+      "country": "US",
+      "discogs_id": 10428634,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/BbqPyMt1R6mnGFyEkG1QeCnaVKOfsBkE-kyw4M4L0UM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI4/NjM0LTE0OTcyMzcz/MDktNjQ3NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "J. P. Robinson",
+      "title": "What Can I Tell Her",
+      "release_title": "J.P. Robinson* - Classic R&B From The Sixties",
+      "year": "2005",
+      "label": "Henry Stone Music",
+      "country": "US",
+      "discogs_id": 6530634,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/qjO7kxt2Yq2E5WKeyqCg-drJmZ0FL_xrzb1dXN66s1A/rs:fit/g:sm/q:90/h:402/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA2/MzQtMTQyMTM1MjU4/My0yODc0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Palmieri And His Orchestra",
+      "title": "La Vecina",
+      "release_title": "Charlie Palmieri And His Orchestra - La Vecina / Now I Know The Feeling",
+      "year": "1973",
+      "label": "Alegre Records",
+      "country": "US",
+      "discogs_id": 5351835,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/goXTLhsr2lCDxEwJP9aNndAuxxbJLx3uQUvLIDZ-J7M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTE4/MzUtMTM5MTI1OTQ5/My0yNTEwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Vince Guaraldi Trio",
+      "title": "Moon River",
+      "release_title": "Vince Guaraldi Trio - Jazz Impressions Of Black Orpheus",
+      "year": "2002",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 12322229,
+      "rating_avg": 4.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/6wZK3MrGOKDSfeqULNHx1FMhJ8j6z-C8Cn5oOF0L_5Y/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIy/MjI5LTE2OTg4ODE0/ODUtMTgyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eumir Deodato & Airto Moreira",
+      "title": "Tropea",
+      "release_title": "Deodato* - Airto* - In Concert",
+      "year": "1974",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 3152919,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/aWJURgogm5q6fkqDqFMIOkiBhxSrbqT0Cq99kbf1Zms/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTI5/MTktMTM2OTMxODcw/MC04OTMxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Chelsea Morning",
+      "release_title": "Sergio Mendes & Brasil '66* - Chelsea Morning",
+      "year": "1970",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8501764,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/gRcVRO2Qud78jNaUqNVQ74iI0CvazpDDbqh0rFcmiyE/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDE3/NjQtMTQ2Mjg4OTky/OS01OTY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clark Terry & Chico O'Farrill",
+      "title": "Peanut Vendor",
+      "release_title": "Clark Terry & Chico O'Farrill - Spanish Rice",
+      "year": "2004",
+      "label": "Jazz Heritage Society",
+      "country": "US",
+      "discogs_id": 27540273,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YWRuzUoM9-qLWkCkgx2cVSVvdBJEbH3fvw5JzszgUMU/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQw/MjczLTE2ODgxNTE0/ODgtODE4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Where Are You Coming From",
+      "release_title": "Sergio Mendes & Brasil '66* - Chelsea Morning",
+      "year": "1970",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 8501764,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/gRcVRO2Qud78jNaUqNVQ74iI0CvazpDDbqh0rFcmiyE/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDE3/NjQtMTQ2Mjg4OTky/OS01OTY5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clark Terry & Chico O'Farrill",
+      "title": "Contigo En La Distancia",
+      "release_title": "Clark Terry & Chico O'Farrill - Spanish Rice",
+      "year": "2004",
+      "label": "Jazz Heritage Society",
+      "country": "US",
+      "discogs_id": 27540273,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/YWRuzUoM9-qLWkCkgx2cVSVvdBJEbH3fvw5JzszgUMU/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQw/MjczLTE2ODgxNTE0/ODgtODE4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Vince Guaraldi Trio",
+      "title": "Since I Fell For You",
+      "release_title": "Vince Guaraldi Trio - Jazz Impressions Of Black Orpheus",
+      "year": "2002",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 12322229,
+      "rating_avg": 4.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/6wZK3MrGOKDSfeqULNHx1FMhJ8j6z-C8Cn5oOF0L_5Y/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIy/MjI5LTE2OTg4ODE0/ODUtMTgyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sharon McMahan",
+      "title": "I'll Be There (Just To Let You Know That)",
+      "release_title": "Sharon McMahan - Somebody Else",
+      "year": "2007",
+      "label": "So. Calitown Records",
+      "country": "US",
+      "discogs_id": 9906581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BD60ane_gd-55P48Zzsxi1b6hR1Jy_1BQeRc-G9xrUM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDY1/ODEtMTc4NTM1MTc2/Ny0xNTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sharon McMahan",
+      "title": "The Dance We Dance",
+      "release_title": "Sharon McMahan - Somebody Else",
+      "year": "2007",
+      "label": "So. Calitown Records",
+      "country": "US",
+      "discogs_id": 9906581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BD60ane_gd-55P48Zzsxi1b6hR1Jy_1BQeRc-G9xrUM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDY1/ODEtMTc4NTM1MTc2/Ny0xNTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sharon McMahan",
+      "title": "Got 2 Thinkin' Bout U",
+      "release_title": "Sharon McMahan - Somebody Else",
+      "year": "2007",
+      "label": "So. Calitown Records",
+      "country": "US",
+      "discogs_id": 9906581,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BD60ane_gd-55P48Zzsxi1b6hR1Jy_1BQeRc-G9xrUM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDY1/ODEtMTc4NTM1MTc2/Ny0xNTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Mister Magic",
+      "release_title": "Grover Washington Jr.* - Mister Magic",
+      "year": "1981",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 16798077,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/ohKhrEfKQqs6Xk1u6-3Goz-_YQ9vQfjFkw1n7I_GCX0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk4/MDc3LTE2MDk4ODMy/OTEtNjM3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "title": "Black Frost",
+      "release_title": "Grover Washington Jr.* - Mister Magic",
+      "year": "1981",
+      "label": "Motown",
+      "country": "US",
+      "discogs_id": 16798077,
+      "rating_avg": 4.14,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/ohKhrEfKQqs6Xk1u6-3Goz-_YQ9vQfjFkw1n7I_GCX0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk4/MDc3LTE2MDk4ODMy/OTEtNjM3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "C.L. Blast",
+      "title": "If I Had Loved You More",
+      "release_title": "C.L. Blast - If I Had Loved You More",
+      "year": "1980",
+      "label": "Cotillion",
+      "country": "US",
+      "discogs_id": 15060598,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6eaP2_uLgIF8bxNso4-OflSDyMp7zbgdRXCpN9QFWnU/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDYw/NTk4LTE1ODYxNTk3/NjAtOTIyMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Vince Guaraldi Trio",
+      "title": "O Nosso Amor",
+      "release_title": "Vince Guaraldi Trio - Jazz Impressions Of Black Orpheus",
+      "year": "2002",
+      "label": "Original Jazz Classics",
+      "country": "US",
+      "discogs_id": 12322229,
+      "rating_avg": 4.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/6wZK3MrGOKDSfeqULNHx1FMhJ8j6z-C8Cn5oOF0L_5Y/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIy/MjI5LTE2OTg4ODE0/ODUtMTgyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jeff Lorber Fusion",
+      "title": "Sparkle",
+      "release_title": "The Jeff Lorber Fusion - Water Sign",
+      "year": "1979",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 4455689,
+      "rating_avg": 4.78,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/oBK4G2vmeEcBMG3UD3kt2E3XNcHU7eM0VdmKS61l80w/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTU2/ODktMTM2NTM1NjMx/MC02MDcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Universal Lady",
+      "release_title": "Johnnie Taylor - Lover Boy",
+      "year": "1986",
+      "label": "Malaco Records",
+      "country": "US",
+      "discogs_id": 11481775,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/py7qA1z48LcqFe3p0fBmaVKhI4W3rCDGpw3MmF_ibx4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgx/Nzc1LTE1MTcxMDA2/NzctNjIyMy5qcGVn.jpeg"
+    }
+  ]
+}
