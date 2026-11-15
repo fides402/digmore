@@ -1,0 +1,402 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Smooth Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1969,
+    "year_to": 2019,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 31,
+      "artists_found": 30,
+      "fresh_lookups": 0,
+      "styles_considered": 106
+    }
+  },
+  "results": [
+    {
+      "artist": "Rachel Z",
+      "title": "I Won't Cry 4 U",
+      "release_title": "Rachel Z - Rachel Z",
+      "year": "1993",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 26390474,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_iF8zksRT4JKsYdffPVwVUFKk3wr-g1-f3CbV3WI3vU/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzkw/NDc0LTE2NzkwNzMx/NTAtNTk1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Bartz",
+      "title": "Love Affair",
+      "release_title": "Gary Bartz - Love Affair",
+      "year": "1978",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 649612,
+      "rating_avg": 4.12,
+      "rating_count": 41,
+      "cover_image": "https://i.discogs.com/oFGCOB1WhVnfQ8C4csc0q-l4IioF0SVaEC_aa0aP6Kw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTYx/Mi0xMjQ1NzU4MDc3/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Cannonball Adderley Quintet",
+      "title": "Snakin' The Grass (Concl.)",
+      "release_title": "The Cannonball Adderley Quintet - Inside Straight",
+      "year": "1973",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 18082750,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1cWKw8HSq-CBF3OQewaE3LbsdT0WwcUhEobM3omczI0/rs:fit/g:sm/q:90/h:600/w:445/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgy/NzUwLTE2MjIwNzQx/MTYtODU3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob Thompson",
+      "title": "Living For Your Love",
+      "release_title": "Various - Intima Summer 1989 Sampler",
+      "year": "1989",
+      "label": "Enigma",
+      "country": "US",
+      "discogs_id": 24204947,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6XrJ0AmPg5JegcE_1LLPs6w5jb65ytdXNzAICjBbF5w/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjA0/OTQ3LTE2NjA1MzE0/MDQtMTg4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "No Artist",
+      "title": "60-second Promo: Java Men",
+      "release_title": "Randy Hoexter ■ Knoxville Jazz Orchestra ■ Java Men (2) - JazzSouth Program #40: Winter, 2001",
+      "year": "2001",
+      "label": "Southern Arts Federation",
+      "country": "US",
+      "discogs_id": 36660616,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xybSssPlJKc2wnh53XHyHiwb_6txkyTMX0DrUGmImxc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjYw/NjE2LTE3NzMzNDcw/MTEtODc1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Allan Holdsworth",
+      "title": "Joshua",
+      "release_title": "Various - Intima Summer 1989 Sampler",
+      "year": "1989",
+      "label": "Enigma",
+      "country": "US",
+      "discogs_id": 24204947,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6XrJ0AmPg5JegcE_1LLPs6w5jb65ytdXNzAICjBbF5w/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjA0/OTQ3LTE2NjA1MzE0/MDQtMTg4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Dave Weckl Band",
+      "title": "Amanecer",
+      "release_title": "Dave Weckl Band* - Transition",
+      "year": "2000",
+      "label": "Stretch Records",
+      "country": "US",
+      "discogs_id": 6137964,
+      "rating_avg": 4.09,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/Yvji9hAazbQ8oaVM1_pCh44_FPzlAwqmbTygfWwhZpM/rs:fit/g:sm/q:90/h:360/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzc5/NjQtMTQxMjAxMzEy/Ny02MzEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Love Theme From \"The Valachi Papers\"",
+      "release_title": "Maynard Ferguson - M.F. Horn | 3",
+      "year": "1973",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 771843,
+      "rating_avg": 3.84,
+      "rating_count": 83,
+      "cover_image": "https://i.discogs.com/sY59AKkMCykyh_109dvx6HHEUlt-dmUl5FzsIeNuhc4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTg0/My0xMjE4MzgxNjc2/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bob Belden",
+      "title": "Kiss",
+      "release_title": "Bob Belden - When Doves Cry: The Music Of Prince",
+      "year": "1994",
+      "label": "Metro Blue",
+      "country": "US",
+      "discogs_id": 2948060,
+      "rating_avg": 4.25,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/ReVyg2DnEMZM_wAg5NBQjQGpyIA2qw0q5teD-At76dg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgw/NjAtMTMwODY1NDI0/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bill Anschell",
+      "title": "Intro",
+      "release_title": "Randy Hoexter ■ Knoxville Jazz Orchestra ■ Java Men (2) - JazzSouth Program #40: Winter, 2001",
+      "year": "2001",
+      "label": "Southern Arts Federation",
+      "country": "US",
+      "discogs_id": 36660616,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xybSssPlJKc2wnh53XHyHiwb_6txkyTMX0DrUGmImxc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjYw/NjE2LTE3NzMzNDcw/MTEtODc1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Pygmy Funk",
+      "release_title": "Spyro Gyra - Spyro Gyra",
+      "year": "1978",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 540654,
+      "rating_avg": 3.88,
+      "rating_count": 57,
+      "cover_image": "https://i.discogs.com/vxUQ05sNVeEwwOUwKf2Q8ryTMAqx3so8sN3feWcc7kY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDY1/NC0xMzU2NDUxOTQ1/LTMzNDYuanBlZw.jpeg"
+    },
+    {
+      "artist": "No Artist",
+      "title": "30-second Promo: Hoexter",
+      "release_title": "Randy Hoexter ■ Knoxville Jazz Orchestra ■ Java Men (2) - JazzSouth Program #40: Winter, 2001",
+      "year": "2001",
+      "label": "Southern Arts Federation",
+      "country": "US",
+      "discogs_id": 36660616,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/xybSssPlJKc2wnh53XHyHiwb_6txkyTMX0DrUGmImxc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjYw/NjE2LTE3NzMzNDcw/MTEtODc1MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Leticia",
+      "release_title": "Spyro Gyra - Spyro Gyra",
+      "year": "1978",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 540654,
+      "rating_avg": 3.88,
+      "rating_count": 57,
+      "cover_image": "https://i.discogs.com/vxUQ05sNVeEwwOUwKf2Q8ryTMAqx3so8sN3feWcc7kY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDY1/NC0xMzU2NDUxOTQ1/LTMzNDYuanBlZw.jpeg"
+    },
+    {
+      "artist": "Dave Grusin & Don Grusin",
+      "title": "Glissade",
+      "release_title": "Dave Grusin And Don Grusin - Sticks And Stones",
+      "year": "1988",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 4724046,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/uVWnILfg46JRI1NmSl-Gso4K9OYZH6v178sBG64_7I8/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjQw/NDYtMTQxNzgwNzY5/MS0zNzU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Artie Kaplan",
+      "title": "God Fearin' Man",
+      "release_title": "Artie Kaplan - Confessions Of A Male Chauvinist Pig",
+      "year": "1992",
+      "label": "INDISC",
+      "country": "US",
+      "discogs_id": 4343930,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/kTaU0saeQ8Yf70QHoaswWBLMMa92R-0I8MFobAJea3A/rs:fit/g:sm/q:90/h:355/w:358/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDM5/MzAtMTQyOTA4ODc3/OC04NzMzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Gary Bartz",
+      "title": "Big Apple Love",
+      "release_title": "Gary Bartz - Love Affair",
+      "year": "1978",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 649612,
+      "rating_avg": 4.12,
+      "rating_count": 41,
+      "cover_image": "https://i.discogs.com/oFGCOB1WhVnfQ8C4csc0q-l4IioF0SVaEC_aa0aP6Kw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTYx/Mi0xMjQ1NzU4MDc3/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "Bird Of Paradise",
+      "release_title": "Michael Franks - Abandoned Garden",
+      "year": "1995",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 31964345,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OzqrK0Vx6XHFpXkgp_UlRbQ_QpjiEQg4Z1fzb2O6Rns/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY0/MzQ1LTE3Mjg2NzQy/NTEtMTYyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Bartz",
+      "title": "Penelope",
+      "release_title": "Gary Bartz - Love Affair",
+      "year": "1978",
+      "label": "Capitol Records",
+      "country": "US",
+      "discogs_id": 649612,
+      "rating_avg": 4.12,
+      "rating_count": 41,
+      "cover_image": "https://i.discogs.com/oFGCOB1WhVnfQ8C4csc0q-l4IioF0SVaEC_aa0aP6Kw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTYx/Mi0xMjQ1NzU4MDc3/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Round Midnight",
+      "release_title": "Maynard Ferguson - M.F. Horn | 3",
+      "year": "1973",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 771843,
+      "rating_avg": 3.84,
+      "rating_count": 83,
+      "cover_image": "https://i.discogs.com/sY59AKkMCykyh_109dvx6HHEUlt-dmUl5FzsIeNuhc4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTg0/My0xMjE4MzgxNjc2/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Brian Bromberg",
+      "title": "L.A., Land Of The Barking Car",
+      "release_title": "Various - Intima Summer 1989 Sampler",
+      "year": "1989",
+      "label": "Enigma",
+      "country": "US",
+      "discogs_id": 24204947,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/6XrJ0AmPg5JegcE_1LLPs6w5jb65ytdXNzAICjBbF5w/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjA0/OTQ3LTE2NjA1MzE0/MDQtMTg4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "Life Is Just A Game",
+      "release_title": "Stanley Clarke - School Days",
+      "year": "1981",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 1357401,
+      "rating_avg": 4.12,
+      "rating_count": 57,
+      "cover_image": "https://i.discogs.com/6rIos9SDWF54g5IyKXi-8cQeOSW6w7zywkI_tRd2060/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc0/MDEtMTU2MTk0NzI5/MS04MjgyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "Cinema",
+      "release_title": "Michael Franks - Abandoned Garden",
+      "year": "1995",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 31964345,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OzqrK0Vx6XHFpXkgp_UlRbQ_QpjiEQg4Z1fzb2O6Rns/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY0/MzQ1LTE3Mjg2NzQy/NTEtMTYyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jason Domnarski Trio",
+      "title": "Detune",
+      "release_title": "The Jason Domnarski Trio - Notes From Underground",
+      "year": "2008",
+      "label": "Not On Label (The Jason Domnarski Trio Self-released)",
+      "country": "US",
+      "discogs_id": 14079044,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LrkLSdQKoplbP-Jk5MH-Nqkj61s_MHfurRH0JpTbYMk/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDc5/MDQ0LTE1Njc0NDUx/NDktOTk5OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "Somehow Our Love Survives",
+      "release_title": "Michael Franks - Abandoned Garden",
+      "year": "1995",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 31964345,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/OzqrK0Vx6XHFpXkgp_UlRbQ_QpjiEQg4Z1fzb2O6Rns/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY0/MzQ1LTE3Mjg2NzQy/NTEtMTYyNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dave Grusin & Don Grusin",
+      "title": "Sailing At Night",
+      "release_title": "Dave Grusin And Don Grusin - Sticks And Stones",
+      "year": "1988",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 4724046,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/uVWnILfg46JRI1NmSl-Gso4K9OYZH6v178sBG64_7I8/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjQw/NDYtMTQxNzgwNzY5/MS0zNzU4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Cannonball Adderley Quintet",
+      "title": "The End",
+      "release_title": "The Cannonball Adderley Quintet - Inside Straight",
+      "year": "1973",
+      "label": "Fantasy",
+      "country": "US",
+      "discogs_id": 18082750,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1cWKw8HSq-CBF3OQewaE3LbsdT0WwcUhEobM3omczI0/rs:fit/g:sm/q:90/h:600/w:445/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgy/NzUwLTE2MjIwNzQx/MTYtODU3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rachel Z",
+      "title": "Save My Soul",
+      "release_title": "Rachel Z - Rachel Z",
+      "year": "1993",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 26390474,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_iF8zksRT4JKsYdffPVwVUFKk3wr-g1-f3CbV3WI3vU/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzkw/NDc0LTE2NzkwNzMx/NTAtNTk1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "title": "Pocahontas",
+      "release_title": "Maynard Ferguson - M.F. Horn | 3",
+      "year": "1973",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 771843,
+      "rating_avg": 3.84,
+      "rating_count": 83,
+      "cover_image": "https://i.discogs.com/sY59AKkMCykyh_109dvx6HHEUlt-dmUl5FzsIeNuhc4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTg0/My0xMjE4MzgxNjc2/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Paula/Paw Prints",
+      "release_title": "Spyro Gyra - Spyro Gyra",
+      "year": "1978",
+      "label": "Amherst Records",
+      "country": "US",
+      "discogs_id": 540654,
+      "rating_avg": 3.88,
+      "rating_count": 57,
+      "cover_image": "https://i.discogs.com/vxUQ05sNVeEwwOUwKf2Q8ryTMAqx3so8sN3feWcc7kY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDY1/NC0xMzU2NDUxOTQ1/LTMzNDYuanBlZw.jpeg"
+    },
+    {
+      "artist": "The Dave Weckl Band",
+      "title": "Alegria",
+      "release_title": "Dave Weckl Band* - Transition",
+      "year": "2000",
+      "label": "Stretch Records",
+      "country": "US",
+      "discogs_id": 6137964,
+      "rating_avg": 4.09,
+      "rating_count": 11,
+      "cover_image": "https://i.discogs.com/Yvji9hAazbQ8oaVM1_pCh44_FPzlAwqmbTygfWwhZpM/rs:fit/g:sm/q:90/h:360/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzc5/NjQtMTQxMjAxMzEy/Ny02MzEzLmpwZWc.jpeg"
+    }
+  ]
+}
