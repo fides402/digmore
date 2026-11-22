@@ -1,0 +1,398 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      },
+      {
+        "genre": "Jazz",
+        "style": ""
+      }
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "year_from": 1967,
+    "year_to": 2022,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 25,
+      "artists_found": 21,
+      "fresh_lookups": 0,
+      "styles_considered": 94
+    }
+  },
+  "results": [
+    {
+      "artist": "Caterina Valente",
+      "title": "Sempre, Sempre, Sempre",
+      "release_title": "Caterina Valente - A Briglia Sciolta",
+      "year": "1990",
+      "label": "Ariston",
+      "country": "Italy",
+      "discogs_id": 4497592,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1m_0xaF7sWPPLX3OpmxoocR0Llb1htmF8r7U64BQK9Y/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTc1/OTItMTU4ODAyMzg2/My0yNDQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Giancarlo Maurino",
+      "title": "Luiza",
+      "release_title": "Giancarlo Maurino - Um Abraco No Jobim",
+      "year": "2010",
+      "label": "Djanian",
+      "country": "Italy",
+      "discogs_id": 11695391,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-u7NGqM7E3XeKwTRATDDW61pk_Pzaw9-iKSXWYU_n6I/rs:fit/g:sm/q:90/h:218/w:218/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk1/MzkxLTE1MjA3OTgw/NDgtNjc3Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet",
+      "title": "Vendome",
+      "release_title": "The Modern Jazz Quartet - Anthology",
+      "year": "2011",
+      "label": "Il Sole 24 Ore",
+      "country": "Italy",
+      "discogs_id": 4501234,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aI60baer6xZ3vBGNLK24Q_Qx73l9Wg2HuSDOOMdJNTA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDEy/MzQtMTM2NjY1ODgx/NC0zMTY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "Reel Life",
+      "release_title": "Sonny Rollins - Reel Life",
+      "year": "1983",
+      "label": "Milestone",
+      "country": "Italy",
+      "discogs_id": 10479473,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/PEPAfJSTe_A5FqPBthrI68eKCmoO5Ty1IEzaugeYmx8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc5/NDczLTE1MDAzOTU5/ODgtOTczNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fabrizio Bosso & Luca Mannutza & Nicola Muresu & Marco Volpe",
+      "title": "Las Gatas",
+      "release_title": "Fabrizio Bosso, Luca Mannutza, Nicola Muresu, Marco Volpe (2) - Mare Mosso",
+      "year": "2005",
+      "label": "Wide Sound",
+      "country": "Italy",
+      "discogs_id": 9048556,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/C5HmWYKzFpsXeIiD9TWQLzYM1stxmPhVRoi-cYGKuQ0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDg1/NTYtMTQ3Mzg3MDAx/Ni01MjUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Charles",
+      "title": "A Pair Of Threes",
+      "release_title": "Ray Charles - Jazz Number II",
+      "year": "1973",
+      "label": "Stateside",
+      "country": "Italy",
+      "discogs_id": 7906323,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/f8cRpVEZsSsUTcchnCa9XZVXEFGWK_28mAVIwHV1XMU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDYz/MjMtMTQ1MTM4ODI1/MS02NDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sasà Calabrese",
+      "title": "Iere distino suju",
+      "release_title": "Sasà Calabrese - Conserve",
+      "year": "2018",
+      "label": "Picanto Records",
+      "country": "Italy",
+      "discogs_id": 12384112,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7kX48apxHmioslOKPRHJBnLy5d5Dv7LJP-36Wk_CmsM/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTEyLTE1MzQxNzIz/NTUtNTAxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "Solo Reprise (Sonny)",
+      "release_title": "Sonny Rollins - Reel Life",
+      "year": "1983",
+      "label": "Milestone",
+      "country": "Italy",
+      "discogs_id": 10479473,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/PEPAfJSTe_A5FqPBthrI68eKCmoO5Ty1IEzaugeYmx8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc5/NDczLTE1MDAzOTU5/ODgtOTczNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Maad",
+      "title": "A Milano E' Dura",
+      "release_title": "Maad - Maad",
+      "year": "1976",
+      "label": "Divergo",
+      "country": "Italy",
+      "discogs_id": 3840404,
+      "rating_avg": 4.32,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/dKr6hf5PV1xk8ARKfpM6o1lJ5aSDEdjrY0yHhzUORyI/rs:fit/g:sm/q:90/h:284/w:288/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDA0/MDQtMTM0NjQ5MTk3/Mi0zODEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Charles",
+      "title": "Going Home",
+      "release_title": "Ray Charles - Jazz Number II",
+      "year": "1973",
+      "label": "Stateside",
+      "country": "Italy",
+      "discogs_id": 7906323,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/f8cRpVEZsSsUTcchnCa9XZVXEFGWK_28mAVIwHV1XMU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDYz/MjMtMTQ1MTM4ODI1/MS02NDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fabrizio Bosso & Luca Mannutza & Nicola Muresu & Marco Volpe",
+      "title": "65 Hemenway",
+      "release_title": "Fabrizio Bosso, Luca Mannutza, Nicola Muresu, Marco Volpe (2) - Mare Mosso",
+      "year": "2005",
+      "label": "Wide Sound",
+      "country": "Italy",
+      "discogs_id": 9048556,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/C5HmWYKzFpsXeIiD9TWQLzYM1stxmPhVRoi-cYGKuQ0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDg1/NTYtMTQ3Mzg3MDAx/Ni01MjUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Power Pack",
+      "title": "Hit The Road Jack",
+      "release_title": "The Power Pack - Soul Cure",
+      "year": "2008",
+      "label": "Just Ride Records",
+      "country": "Italy",
+      "discogs_id": 3217790,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/G4KKwGO5XassBTrrrEcPH6mIBzjiAaAz-7XXzTXLuIE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTc3/OTAtMTMyMDkzMjc4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sasà Calabrese",
+      "title": "La Colpa di Scrivere",
+      "release_title": "Sasà Calabrese - Conserve",
+      "year": "2018",
+      "label": "Picanto Records",
+      "country": "Italy",
+      "discogs_id": 12384112,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7kX48apxHmioslOKPRHJBnLy5d5Dv7LJP-36Wk_CmsM/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTEyLTE1MzQxNzIz/NTUtNTAxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Phil Woods Quartet",
+      "title": "Bloomdido",
+      "release_title": "Phil Woods Quartet* - The Macerata Concert ",
+      "year": "1987",
+      "label": "Philology",
+      "country": "Italy",
+      "discogs_id": 5732987,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/CoV2X6r8SaTI-zfeTjc6-I9xKeGHUduYM75rvAE9pSw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzI5/ODctMTcxMDUxMDEz/MC02MjIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ray Charles",
+      "title": "Our Site",
+      "release_title": "Ray Charles - Jazz Number II",
+      "year": "1973",
+      "label": "Stateside",
+      "country": "Italy",
+      "discogs_id": 7906323,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/f8cRpVEZsSsUTcchnCa9XZVXEFGWK_28mAVIwHV1XMU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDYz/MjMtMTQ1MTM4ODI1/MS02NDUxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Maad",
+      "title": "Bouzouki",
+      "release_title": "Maad - Maad",
+      "year": "1976",
+      "label": "Divergo",
+      "country": "Italy",
+      "discogs_id": 3840404,
+      "rating_avg": 4.32,
+      "rating_count": 19,
+      "cover_image": "https://i.discogs.com/dKr6hf5PV1xk8ARKfpM6o1lJ5aSDEdjrY0yHhzUORyI/rs:fit/g:sm/q:90/h:284/w:288/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDA0/MDQtMTM0NjQ5MTk3/Mi0zODEzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Caterina Valente",
+      "title": "Forse",
+      "release_title": "Caterina Valente - A Briglia Sciolta",
+      "year": "1990",
+      "label": "Ariston",
+      "country": "Italy",
+      "discogs_id": 4497592,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1m_0xaF7sWPPLX3OpmxoocR0Llb1htmF8r7U64BQK9Y/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTc1/OTItMTU4ODAyMzg2/My0yNDQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sasà Calabrese",
+      "title": "Un Amore che non ho",
+      "release_title": "Sasà Calabrese - Conserve",
+      "year": "2018",
+      "label": "Picanto Records",
+      "country": "Italy",
+      "discogs_id": 12384112,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/7kX48apxHmioslOKPRHJBnLy5d5Dv7LJP-36Wk_CmsM/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MTEyLTE1MzQxNzIz/NTUtNTAxNi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stan Getz & João Gilberto & Antonio Carlos Jobim",
+      "title": "Desafinado",
+      "release_title": "Stan Getz, Joao Gilberto* Featuring Antonio Carlos Jobim - Getz / Gilberto",
+      "year": "2019",
+      "label": "I capolavori del Jazz in vinile",
+      "country": "Italy",
+      "discogs_id": 13480220,
+      "rating_avg": 4.52,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/vRoNOyO3MAnruV9UE8ro6AfZgCB76Kx_J2-PvGwuM5c/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgw/MjIwLTE1NTUwMDY4/NjAtNzE5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Iller E I Suoi 5",
+      "title": "Polvere Di Stelle =Stardust",
+      "release_title": "Iller E I Suoi Cinque* - La Musica Che Crea Un'Atmosfera",
+      "year": "1974",
+      "label": "Carosello",
+      "country": "Italy",
+      "discogs_id": 11378157,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/fjnEBWP0RH-XsH3zHg4ERNhFz-nTkc9-tljS2qX5Z0s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/MTU3LTE3MTM1MTkz/NTAtOTQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Power Pack",
+      "title": "Son Of A Preacher Man",
+      "release_title": "The Power Pack - Soul Cure",
+      "year": "2008",
+      "label": "Just Ride Records",
+      "country": "Italy",
+      "discogs_id": 3217790,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/G4KKwGO5XassBTrrrEcPH6mIBzjiAaAz-7XXzTXLuIE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTc3/OTAtMTMyMDkzMjc4/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Caterina Valente",
+      "title": "Samba De Uma Nota So (Samba Di Una Nota)",
+      "release_title": "Caterina Valente - A Briglia Sciolta",
+      "year": "1990",
+      "label": "Ariston",
+      "country": "Italy",
+      "discogs_id": 4497592,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1m_0xaF7sWPPLX3OpmxoocR0Llb1htmF8r7U64BQK9Y/rs:fit/g:sm/q:90/h:600/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTc1/OTItMTU4ODAyMzg2/My0yNDQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Iller E I Suoi 5",
+      "title": "Love Me Tender",
+      "release_title": "Iller E I Suoi Cinque* - La Musica Che Crea Un'Atmosfera",
+      "year": "1974",
+      "label": "Carosello",
+      "country": "Italy",
+      "discogs_id": 11378157,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/fjnEBWP0RH-XsH3zHg4ERNhFz-nTkc9-tljS2qX5Z0s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/MTU3LTE3MTM1MTkz/NTAtOTQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lalo Schifrin",
+      "title": "Dragonfly",
+      "release_title": "Lalo Schifrin - Black Widow",
+      "year": "1976",
+      "label": "CTI Records",
+      "country": "Italy",
+      "discogs_id": 2867922,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/Uwp51rD0yLTvBHjk_YdOAyp93aRp55-5mMLwF8c1798/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njc5/MjItMTMwNTgwODU3/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet",
+      "title": "'Round About Midnight",
+      "release_title": "The Modern Jazz Quartet - Anthology",
+      "year": "2011",
+      "label": "Il Sole 24 Ore",
+      "country": "Italy",
+      "discogs_id": 4501234,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aI60baer6xZ3vBGNLK24Q_Qx73l9Wg2HuSDOOMdJNTA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDEy/MzQtMTM2NjY1ODgx/NC0zMTY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Oliver Cheatham",
+      "title": "Get Down Saturday Night",
+      "release_title": "Various - 12 Inch-Original Versions Vol. 1",
+      "year": "1993",
+      "label": "K Record",
+      "country": "Italy",
+      "discogs_id": 5088554,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/OnFZD_A4TlNkr2UCoTOUrDCI3BKz1AfvYR5GkjPMgmA/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODg1/NTQtMTM4NDY1MTUw/My0xMTU2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lalo Schifrin",
+      "title": "Flamingo",
+      "release_title": "Lalo Schifrin - Black Widow",
+      "year": "1976",
+      "label": "CTI Records",
+      "country": "Italy",
+      "discogs_id": 2867922,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/Uwp51rD0yLTvBHjk_YdOAyp93aRp55-5mMLwF8c1798/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njc5/MjItMTMwNTgwODU3/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Modern Jazz Quartet",
+      "title": "Autumn Breeze",
+      "release_title": "The Modern Jazz Quartet - Anthology",
+      "year": "2011",
+      "label": "Il Sole 24 Ore",
+      "country": "Italy",
+      "discogs_id": 4501234,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/aI60baer6xZ3vBGNLK24Q_Qx73l9Wg2HuSDOOMdJNTA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDEy/MzQtMTM2NjY1ODgx/NC0zMTY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fabrizio Bosso & Luca Mannutza & Nicola Muresu & Marco Volpe",
+      "title": "Falling Grace",
+      "release_title": "Fabrizio Bosso, Luca Mannutza, Nicola Muresu, Marco Volpe (2) - Mare Mosso",
+      "year": "2005",
+      "label": "Wide Sound",
+      "country": "Italy",
+      "discogs_id": 9048556,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/C5HmWYKzFpsXeIiD9TWQLzYM1stxmPhVRoi-cYGKuQ0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDg1/NTYtMTQ3Mzg3MDAx/Ni01MjUzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lalo Schifrin",
+      "title": "Black Widow",
+      "release_title": "Lalo Schifrin - Black Widow",
+      "year": "1976",
+      "label": "CTI Records",
+      "country": "Italy",
+      "discogs_id": 2867922,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/Uwp51rD0yLTvBHjk_YdOAyp93aRp55-5mMLwF8c1798/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njc5/MjItMTMwNTgwODU3/MC5qcGVn.jpeg"
+    }
+  ]
+}
