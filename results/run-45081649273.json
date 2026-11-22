@@ -1,0 +1,414 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-4",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1971,
+    "year_to": 2021,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 33,
+      "artists_found": 32,
+      "fresh_lookups": 0,
+      "styles_considered": 118
+    }
+  },
+  "results": [
+    {
+      "artist": "Axiom",
+      "title": "Kings Canyon",
+      "release_title": "Axiom (32) - Starburst",
+      "year": "2020",
+      "label": "Xtrasensory Records",
+      "country": "US",
+      "discogs_id": 28645795,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EAqM_KRayWcAR6sVRWCGSfe8uvoDg-hwAX38n8dGHVo/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ1/Nzk1LTE2OTc3NzY3/MDQtMTY3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "I'm Satisfied",
+      "release_title": "Bee Gees - Love You Inside Out",
+      "year": "1979",
+      "label": "RSO",
+      "country": "US",
+      "discogs_id": 4840438,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/AGzd4_o7XoTaxFp-cglJ05P7grXRImyMs8M2JoMlMNQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDA0/MzgtMTcwODg3OTQw/Ny00MzY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Fifth Dimension",
+      "title": "Ashes To Ashes",
+      "release_title": "The 5th Dimension* - Ashes To Ashes",
+      "year": "1973",
+      "label": "Bell Records",
+      "country": "US",
+      "discogs_id": 8195307,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/rhvapbOmQ90OepsfE2oQWgx5XqUoBp5laEL0D53vfgU/rs:fit/g:sm/q:90/h:554/w:547/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTUz/MDctMTQ1NjkyNzE2/Mi04OTg4LnBuZw.jpeg"
+    },
+    {
+      "artist": "Gene Chandler",
+      "title": "Without You Here (Mono)",
+      "release_title": "Gene Chandler - Without You Here",
+      "year": "1973",
+      "label": "Curtom",
+      "country": "US",
+      "discogs_id": 3828608,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/z_UZssVnozTAYcuTTvEFsuZHv1n8ZLmKPt1d3MAmBKY/rs:fit/g:sm/q:90/h:400/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjg2/MDgtMTQyOTM0NTE0/Ny03NDc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Axiom",
+      "title": "Vaporwave",
+      "release_title": "Axiom (32) - Starburst",
+      "year": "2020",
+      "label": "Xtrasensory Records",
+      "country": "US",
+      "discogs_id": 28645795,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/EAqM_KRayWcAR6sVRWCGSfe8uvoDg-hwAX38n8dGHVo/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ1/Nzk1LTE2OTc3NzY3/MDQtMTY3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kimo Cornwell",
+      "title": "Akaka Falls",
+      "release_title": "Kimo Cornwell - Hawai'i State Of Mind",
+      "year": "2018",
+      "label": "Not On Label (Kimo Cornwell Self-released)",
+      "country": "US",
+      "discogs_id": 12183602,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nAnMcSsKn9DoVkrrR1547T2J1NA_tREbIQZMq6aOo9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTgz/NjAyLTE1Mjk5NjUy/OTEtODMzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Return To Forever",
+      "title": "So Long Mickey Mouse",
+      "release_title": "Return To Forever - Musicmagic",
+      "year": "1977",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 21634471,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ik7L48wJJO6Ig6aooHu8EkETkmt_FQcYw2xtW9uc-Rk/rs:fit/g:sm/q:90/h:600/w:378/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjM0/NDcxLTE2NTcxNTU0/NjYtNzc2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kimo Cornwell",
+      "title": "Kimo Henderson Hula",
+      "release_title": "Kimo Cornwell - Hawai'i State Of Mind",
+      "year": "2018",
+      "label": "Not On Label (Kimo Cornwell Self-released)",
+      "country": "US",
+      "discogs_id": 12183602,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nAnMcSsKn9DoVkrrR1547T2J1NA_tREbIQZMq6aOo9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTgz/NjAyLTE1Mjk5NjUy/OTEtODMzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Flora Purim",
+      "title": "Fairy Tale Song",
+      "release_title": "Flora Purim - Angels",
+      "year": "1977",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 8153533,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/z8CS111TsBblmhFFTS7lbfaieHZQdxdH1D8GoFAVPTQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTM1/MzMtMTQ1NjE0MzE0/NS05MjQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Love You Inside Out",
+      "release_title": "Bee Gees - Love You Inside Out",
+      "year": "1979",
+      "label": "RSO",
+      "country": "US",
+      "discogs_id": 4840438,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/AGzd4_o7XoTaxFp-cglJ05P7grXRImyMs8M2JoMlMNQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDA0/MzgtMTcwODg3OTQw/Ny00MzY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Fifth Dimension",
+      "title": "The Singer",
+      "release_title": "The 5th Dimension* - Ashes To Ashes",
+      "year": "1973",
+      "label": "Bell Records",
+      "country": "US",
+      "discogs_id": 8195307,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/rhvapbOmQ90OepsfE2oQWgx5XqUoBp5laEL0D53vfgU/rs:fit/g:sm/q:90/h:554/w:547/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTUz/MDctMTQ1NjkyNzE2/Mi04OTg4LnBuZw.jpeg"
+    },
+    {
+      "artist": "Gene Chandler",
+      "title": "Without You Here (Stereo)",
+      "release_title": "Gene Chandler - Without You Here",
+      "year": "1973",
+      "label": "Curtom",
+      "country": "US",
+      "discogs_id": 3828608,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/z_UZssVnozTAYcuTTvEFsuZHv1n8ZLmKPt1d3MAmBKY/rs:fit/g:sm/q:90/h:400/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjg2/MDgtMTQyOTM0NTE0/Ny03NDc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Crosswind",
+      "release_title": "Billy Cobham - Crosswinds",
+      "year": "1974",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 6299499,
+      "rating_avg": 4.35,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/9DRd36ROjRSo3O-8JFCMZ_cfagcQvvDRpk2VKSD9f5U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTk0/OTktMTQzNjczNTE2/MS00Mzg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Return To Forever",
+      "title": "Hello Again",
+      "release_title": "Return To Forever - Musicmagic",
+      "year": "1977",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 21634471,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ik7L48wJJO6Ig6aooHu8EkETkmt_FQcYw2xtW9uc-Rk/rs:fit/g:sm/q:90/h:600/w:378/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjM0/NDcxLTE2NTcxNTU0/NjYtNzc2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Indra Lesmana",
+      "title": "Corrobores",
+      "release_title": "Indra Lesmana - For Earth And Heaven",
+      "year": "1986",
+      "label": "Zebra Records",
+      "country": "US",
+      "discogs_id": 2389644,
+      "rating_avg": 4.05,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/C7Q8tbw1hpQ6KoW9_e3esGSIIEgpL3WJCkmqHMLUzlQ/rs:fit/g:sm/q:90/h:339/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk2/NDQtMTI4MTIxMTk1/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Indra Lesmana",
+      "title": "Dancin' Shoe",
+      "release_title": "Indra Lesmana - For Earth And Heaven",
+      "year": "1986",
+      "label": "Zebra Records",
+      "country": "US",
+      "discogs_id": 2389644,
+      "rating_avg": 4.05,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/C7Q8tbw1hpQ6KoW9_e3esGSIIEgpL3WJCkmqHMLUzlQ/rs:fit/g:sm/q:90/h:339/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk2/NDQtMTI4MTIxMTk1/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kimo Cornwell",
+      "title": "Hawai'i State Of Mind",
+      "release_title": "Kimo Cornwell - Hawai'i State Of Mind",
+      "year": "2018",
+      "label": "Not On Label (Kimo Cornwell Self-released)",
+      "country": "US",
+      "discogs_id": 12183602,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nAnMcSsKn9DoVkrrR1547T2J1NA_tREbIQZMq6aOo9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTgz/NjAyLTE1Mjk5NjUy/OTEtODMzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Flora Purim",
+      "title": "Angels",
+      "release_title": "Flora Purim - Angels",
+      "year": "1977",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 8153533,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/z8CS111TsBblmhFFTS7lbfaieHZQdxdH1D8GoFAVPTQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTM1/MzMtMTQ1NjE0MzE0/NS05MjQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Shirley Murdock",
+      "title": "As We Lay",
+      "release_title": "Shirley Murdock - As We Lay",
+      "year": "1986",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 15500022,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8hA5trUvb6P2etBtSWXDpFQo1mzDLNTFWwQeWr8Qktw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAw/MDIyLTE1OTI1Njgz/OTctMTUwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Morris Jefferson",
+      "title": "Spank Your Blank Blank, Part II (Instrumental)",
+      "release_title": "Morris Jefferson - Spank Your Blank Blank",
+      "year": "1977",
+      "label": "Parachute Records",
+      "country": "US",
+      "discogs_id": 1783298,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/QwVu4Ernnr4E-HKeTSd8JzHBYyqxXu1sw4rTYOVJ-eQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMy/OTgtMTI4MjYxNTk3/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Indra Lesmana",
+      "title": "Song For ...",
+      "release_title": "Indra Lesmana - For Earth And Heaven",
+      "year": "1986",
+      "label": "Zebra Records",
+      "country": "US",
+      "discogs_id": 2389644,
+      "rating_avg": 4.05,
+      "rating_count": 20,
+      "cover_image": "https://i.discogs.com/C7Q8tbw1hpQ6KoW9_e3esGSIIEgpL3WJCkmqHMLUzlQ/rs:fit/g:sm/q:90/h:339/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk2/NDQtMTI4MTIxMTk1/Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Heather",
+      "release_title": "Billy Cobham - Crosswinds",
+      "year": "1974",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 6299499,
+      "rating_avg": 4.35,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/9DRd36ROjRSo3O-8JFCMZ_cfagcQvvDRpk2VKSD9f5U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTk0/OTktMTQzNjczNTE2/MS00Mzg5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Percy Sledge",
+      "title": "Sunday Brother",
+      "release_title": "Percy Sledge - Sunday Brother",
+      "year": "1972",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 4390725,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9mDHddIQnerhpUfjx0r--ZZ3EkW4wIPqTzvQWsdeiYw/rs:fit/g:sm/q:90/h:385/w:403/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTA3/MjUtMTM2MzYyMzk0/NS01Mjk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Whispers",
+      "title": "I Only Meant To Wet My Feet",
+      "release_title": "The Whispers - I Only Meant To Wet My Feet / You Fill My Life With Music",
+      "year": "1972",
+      "label": "Janus Records",
+      "country": "US",
+      "discogs_id": 13071995,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/GLqwAQw7B1yc2jPNO92eGkNxt0Hrciy_vRILFEJHLIA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcx/OTk1LTE2MDk4MjM3/NjUtMTA4My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Return To Forever",
+      "title": "The Endless Night",
+      "release_title": "Return To Forever - Musicmagic",
+      "year": "1977",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 21634471,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/ik7L48wJJO6Ig6aooHu8EkETkmt_FQcYw2xtW9uc-Rk/rs:fit/g:sm/q:90/h:600/w:378/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjM0/NDcxLTE2NTcxNTU0/NjYtNzc2NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Jabara",
+      "title": "Honeymoon (In Puerto Rico)",
+      "release_title": "Paul Jabara - Disco Wedding / Honeymoon In Puerto Rico",
+      "year": "1979",
+      "label": "Casablanca",
+      "country": "US",
+      "discogs_id": 3999564,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ZiZ5w7dFvBBY2d_YJSPAIa3fEpfBys25zvSjMcdnqD8/rs:fit/g:sm/q:90/h:300/w:296/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTk1/NjQtMTQ4Njc0ODA2/NC0yNjczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Irene Cathaway",
+      "title": "Now We're Doing It",
+      "release_title": "Irene Cathaway - Now We're Doing It",
+      "year": "1977",
+      "label": "The Record Company",
+      "country": "US",
+      "discogs_id": 2147872,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/-QR-coqb2PEMlrTGSxFMYHiWJot0waR2AdT3gpdHP3E/rs:fit/g:sm/q:90/h:525/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDc4/NzItMTI2NjY5NTM2/NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Kimo Cornwell",
+      "title": "She Wore A Haku Lei (Prelude)",
+      "release_title": "Kimo Cornwell - Hawai'i State Of Mind",
+      "year": "2018",
+      "label": "Not On Label (Kimo Cornwell Self-released)",
+      "country": "US",
+      "discogs_id": 12183602,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/nAnMcSsKn9DoVkrrR1547T2J1NA_tREbIQZMq6aOo9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTgz/NjAyLTE1Mjk5NjUy/OTEtODMzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Shirley Murdock",
+      "title": "Danger Zone",
+      "release_title": "Shirley Murdock - As We Lay",
+      "year": "1986",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 15500022,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8hA5trUvb6P2etBtSWXDpFQo1mzDLNTFWwQeWr8Qktw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAw/MDIyLTE1OTI1Njgz/OTctMTUwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Morris Jefferson",
+      "title": "Spank Your Blank Blank",
+      "release_title": "Morris Jefferson - Spank Your Blank Blank",
+      "year": "1977",
+      "label": "Parachute Records",
+      "country": "US",
+      "discogs_id": 1783298,
+      "rating_avg": 3.86,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/QwVu4Ernnr4E-HKeTSd8JzHBYyqxXu1sw4rTYOVJ-eQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMy/OTgtMTI4MjYxNTk3/Mi5qcGVn.jpeg"
+    }
+  ]
+}
