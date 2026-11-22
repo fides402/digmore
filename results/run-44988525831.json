@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-2",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Rock",
+        "style": "Soft Rock"
+      },
+      {
+        "genre": "Pop",
+        "style": "Ballad"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2024,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 23,
+      "artists_found": 21,
+      "fresh_lookups": 0,
+      "styles_considered": 73
+    }
+  },
+  "results": [
+    {
+      "artist": "Jerseyband",
+      "title": "555-Jake",
+      "release_title": "Jerseyband - Jake",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 6717267,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/te43gFe58aKAc5bntRnfLpyPmLrQZAvorZ65RJjn7vk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTcy/NjctMTUxNzMxNDE1/OS05NjcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paul Edward-Francis",
+      "title": "Herme's Run",
+      "release_title": "Paul Edward-Francis - Blood Of Zeus (Music From The Netflix Original Anime Series)",
+      "year": "2021",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 19028065,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/GaQFGeVmRrZUAzS02rwwHPKLwZfg8Mx5A9zg3vKeLhs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDI4/MDY1LTE2MjI5MTQ3/NDAtODIwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jerseyband",
+      "title": "Sensory French Frie",
+      "release_title": "Jerseyband - Jake",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 6717267,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/te43gFe58aKAc5bntRnfLpyPmLrQZAvorZ65RJjn7vk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTcy/NjctMTUxNzMxNDE1/OS05NjcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Antony Partos & Sam Petty",
+      "title": "Crystal Waters",
+      "release_title": "Antony Partos, Sam Petty - The Rover (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "Lakeshore Records",
+      "country": "US",
+      "discogs_id": 12042805,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/M84-DQ0ZMzwoMRP7W8Wkf3Um8oFG1wVD_Z40InWOpvI/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQy/ODA1LTE2NjMxMzkw/NjQtMjE4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Signature Of Venus",
+      "release_title": "John Scofield - Loud Jazz",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 7909103,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4WN829KupEW6J7505BhdAvd4ycTkOqhrCLUNG6ZJhEs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDkx/MDMtMTQ1MTUxNTg5/OS03NTQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Don Covay",
+      "title": "I Was Checkin' Out She Was Checkin' In",
+      "release_title": "Various - Cheatin': From A Man's Point Of View",
+      "year": "1995",
+      "label": "Soul Classics",
+      "country": "US",
+      "discogs_id": 10388834,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/eFSFICDER366Ttoa0e4XdvE1xHbrkyFDfh1XHYpYv-E/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg4/ODM0LTE1NTc1MTY3/NDQtMzA0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Henderson",
+      "title": "In The Night-Time",
+      "release_title": "Michael Henderson - In The Night-Time",
+      "year": "1978",
+      "label": "Buddah Records",
+      "country": "US",
+      "discogs_id": 6561566,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/5-YbHeT2CSlFojZYxOgxjSLCa-VgZSIpbXytSV2u_1Q/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NjE1/NjYtMTQyMjA0MTI2/OC05NTQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Black Carl",
+      "title": "The 20",
+      "release_title": "Black Carl - The Hanged Man / The Magician",
+      "year": "2011",
+      "label": "BC Records",
+      "country": "US",
+      "discogs_id": 5109536,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/rlEpmSsvaHhq9TKIi52U7KaKjhnEovEW96_OzwG32gA/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDk1/MzYtMTM4OTc2NTU5/Ny0zMTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Harry Bee",
+      "title": "Beginnings From \"The Wind Harp\"",
+      "release_title": "Various - The Exorcist (Original Motion Picture Soundtrack)",
+      "year": "1998",
+      "label": "Warner Home Video",
+      "country": "US",
+      "discogs_id": 3741067,
+      "rating_avg": 4.59,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/otRTzR9-G-DXa6jHMzXengR3sDJs9-7_3pnOrZ47584/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDEw/NjctMTM1MjIwNjE2/Ny0zOTg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Black Carl",
+      "title": "Calendarman",
+      "release_title": "Black Carl - The Hanged Man / The Magician",
+      "year": "2011",
+      "label": "BC Records",
+      "country": "US",
+      "discogs_id": 5109536,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/rlEpmSsvaHhq9TKIi52U7KaKjhnEovEW96_OzwG32gA/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDk1/MzYtMTM4OTc2NTU5/Ny0zMTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Otay",
+      "release_title": "John Scofield - Loud Jazz",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 7909103,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4WN829KupEW6J7505BhdAvd4ycTkOqhrCLUNG6ZJhEs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDkx/MDMtMTQ1MTUxNTg5/OS03NTQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Krzysztof Penderecki",
+      "title": "String Quartet No. 1",
+      "release_title": "Various - The Exorcist (Original Motion Picture Soundtrack)",
+      "year": "1998",
+      "label": "Warner Home Video",
+      "country": "US",
+      "discogs_id": 3741067,
+      "rating_avg": 4.59,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/otRTzR9-G-DXa6jHMzXengR3sDJs9-7_3pnOrZ47584/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDEw/NjctMTM1MjIwNjE2/Ny0zOTg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jerseyband",
+      "title": "Jake in Times of Gorteks",
+      "release_title": "Jerseyband - Jake",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 6717267,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/te43gFe58aKAc5bntRnfLpyPmLrQZAvorZ65RJjn7vk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTcy/NjctMTUxNzMxNDE1/OS05NjcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Spy Vs. Spy",
+      "release_title": "John Scofield - Loud Jazz",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 7909103,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4WN829KupEW6J7505BhdAvd4ycTkOqhrCLUNG6ZJhEs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDkx/MDMtMTQ1MTUxNTg5/OS03NTQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales",
+      "title": "The Trap",
+      "release_title": "Jonathan Scales - Character Farm And Other Short Stories",
+      "year": "2011",
+      "label": "Le' Rue Records",
+      "country": "US",
+      "discogs_id": 11225662,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QROf1nOq0xF6QQYJJykF-R_sNY2tNXNdMRurLICAFC0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI1/NjYyLTE1MTIyNDQy/NjEtNzk0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "William Bell",
+      "title": "Tryin' To Love Two",
+      "release_title": "Various - Cheatin': From A Man's Point Of View",
+      "year": "1995",
+      "label": "Soul Classics",
+      "country": "US",
+      "discogs_id": 10388834,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/eFSFICDER366Ttoa0e4XdvE1xHbrkyFDfh1XHYpYv-E/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg4/ODM0LTE1NTc1MTY3/NDQtMzA0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Holographic Principle",
+      "title": "Someday",
+      "release_title": "Holographic Principle - Dance Of The Great Spirit",
+      "year": "2019",
+      "label": "Truth Revolution Recording Collective",
+      "country": "US",
+      "discogs_id": 14812716,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wIvizDT7s5ZVazAROIVFweMcV31flckuN1xs2_yaEtw/rs:fit/g:sm/q:90/h:277/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEy/NzE2LTE1ODIwOTI3/NTgtMzM3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antony Partos & Sam Petty",
+      "title": "Arrival",
+      "release_title": "Antony Partos, Sam Petty - The Rover (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "Lakeshore Records",
+      "country": "US",
+      "discogs_id": 12042805,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/M84-DQ0ZMzwoMRP7W8Wkf3Um8oFG1wVD_Z40InWOpvI/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQy/ODA1LTE2NjMxMzkw/NjQtMjE4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Holographic Principle",
+      "title": "Tapestry",
+      "release_title": "Holographic Principle - Dance Of The Great Spirit",
+      "year": "2019",
+      "label": "Truth Revolution Recording Collective",
+      "country": "US",
+      "discogs_id": 14812716,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wIvizDT7s5ZVazAROIVFweMcV31flckuN1xs2_yaEtw/rs:fit/g:sm/q:90/h:277/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEy/NzE2LTE1ODIwOTI3/NTgtMzM3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Annikki Tähti",
+      "title": "Muistatko Monrepos'n",
+      "release_title": "Various - The Man Without A Past (Original Motion Picture Soundtrack)",
+      "year": "2002",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 12164314,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FVIm8Ul6dKFfXGuu3y4jFvLFeK_2BStjNoiyFvigaRQ/rs:fit/g:sm/q:90/h:536/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY0/MzE0LTE1Mjk1OTYz/MTktODg3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jack Nitzsche",
+      "title": "Iraq",
+      "release_title": "Various - The Exorcist (Original Motion Picture Soundtrack)",
+      "year": "1998",
+      "label": "Warner Home Video",
+      "country": "US",
+      "discogs_id": 3741067,
+      "rating_avg": 4.59,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/otRTzR9-G-DXa6jHMzXengR3sDJs9-7_3pnOrZ47584/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDEw/NjctMTM1MjIwNjE2/Ny0zOTg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Richard 'Dimples' Fields",
+      "title": "Your Wife Is Cheatin' On Us",
+      "release_title": "Various - Cheatin': From A Man's Point Of View",
+      "year": "1995",
+      "label": "Soul Classics",
+      "country": "US",
+      "discogs_id": 10388834,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/eFSFICDER366Ttoa0e4XdvE1xHbrkyFDfh1XHYpYv-E/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg4/ODM0LTE1NTc1MTY3/NDQtMzA0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Antony Partos & Sam Petty",
+      "title": "Campfire",
+      "release_title": "Antony Partos, Sam Petty - The Rover (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "Lakeshore Records",
+      "country": "US",
+      "discogs_id": 12042805,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/M84-DQ0ZMzwoMRP7W8Wkf3Um8oFG1wVD_Z40InWOpvI/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQy/ODA1LTE2NjMxMzkw/NjQtMjE4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Edward-Francis",
+      "title": "A Proud Father",
+      "release_title": "Paul Edward-Francis - Blood Of Zeus (Music From The Netflix Original Anime Series)",
+      "year": "2021",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 19028065,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/GaQFGeVmRrZUAzS02rwwHPKLwZfg8Mx5A9zg3vKeLhs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDI4/MDY1LTE2MjI5MTQ3/NDAtODIwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales",
+      "title": "Jy Sanders' Sing Along",
+      "release_title": "Jonathan Scales - Character Farm And Other Short Stories",
+      "year": "2011",
+      "label": "Le' Rue Records",
+      "country": "US",
+      "discogs_id": 11225662,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QROf1nOq0xF6QQYJJykF-R_sNY2tNXNdMRurLICAFC0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI1/NjYyLTE1MTIyNDQy/NjEtNzk0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Markus Allan",
+      "title": "Valkoiset Linnut",
+      "release_title": "Various - The Man Without A Past (Original Motion Picture Soundtrack)",
+      "year": "2002",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 12164314,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FVIm8Ul6dKFfXGuu3y4jFvLFeK_2BStjNoiyFvigaRQ/rs:fit/g:sm/q:90/h:536/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY0/MzE0LTE1Mjk1OTYz/MTktODg3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Edward-Francis",
+      "title": "Training A Demigod",
+      "release_title": "Paul Edward-Francis - Blood Of Zeus (Music From The Netflix Original Anime Series)",
+      "year": "2021",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 19028065,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/GaQFGeVmRrZUAzS02rwwHPKLwZfg8Mx5A9zg3vKeLhs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDI4/MDY1LTE2MjI5MTQ3/NDAtODIwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Holographic Principle",
+      "title": "Chanda",
+      "release_title": "Holographic Principle - Dance Of The Great Spirit",
+      "year": "2019",
+      "label": "Truth Revolution Recording Collective",
+      "country": "US",
+      "discogs_id": 14812716,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wIvizDT7s5ZVazAROIVFweMcV31flckuN1xs2_yaEtw/rs:fit/g:sm/q:90/h:277/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEy/NzE2LTE1ODIwOTI3/NTgtMzM3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales",
+      "title": "Hallucinations Of The Dream Chasers",
+      "release_title": "Jonathan Scales - Character Farm And Other Short Stories",
+      "year": "2011",
+      "label": "Le' Rue Records",
+      "country": "US",
+      "discogs_id": 11225662,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QROf1nOq0xF6QQYJJykF-R_sNY2tNXNdMRurLICAFC0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI1/NjYyLTE1MTIyNDQy/NjEtNzk0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marko Haavisto & Poutahaukat",
+      "title": "Paha Vaanii",
+      "release_title": "Various - The Man Without A Past (Original Motion Picture Soundtrack)",
+      "year": "2002",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 12164314,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FVIm8Ul6dKFfXGuu3y4jFvLFeK_2BStjNoiyFvigaRQ/rs:fit/g:sm/q:90/h:536/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY0/MzE0LTE1Mjk1OTYz/MTktODg3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jonathan Scales",
+      "title": "The Longest December",
+      "release_title": "Jonathan Scales - Character Farm And Other Short Stories",
+      "year": "2011",
+      "label": "Le' Rue Records",
+      "country": "US",
+      "discogs_id": 11225662,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/QROf1nOq0xF6QQYJJykF-R_sNY2tNXNdMRurLICAFC0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI1/NjYyLTE1MTIyNDQy/NjEtNzk0NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Didier Lockwood",
+      "title": "Music Is The Way",
+      "release_title": "Didier Lockwood - 1.2.3.4",
+      "year": "1989",
+      "label": "Nova Records",
+      "country": "US",
+      "discogs_id": 24376688,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OgEYq6UfjvDIndyN8s9HHmRuuoWW2WhKLfjpBq5PUfg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc2/Njg4LTE3Mjg1OTAz/OTUtOTA2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Didier Lockwood",
+      "title": "Elephant Blues",
+      "release_title": "Didier Lockwood - 1.2.3.4",
+      "year": "1989",
+      "label": "Nova Records",
+      "country": "US",
+      "discogs_id": 24376688,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OgEYq6UfjvDIndyN8s9HHmRuuoWW2WhKLfjpBq5PUfg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc2/Njg4LTE3Mjg1OTAz/OTUtOTA2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Didier Lockwood",
+      "title": "Elektroperc",
+      "release_title": "Didier Lockwood - 1.2.3.4",
+      "year": "1989",
+      "label": "Nova Records",
+      "country": "US",
+      "discogs_id": 24376688,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OgEYq6UfjvDIndyN8s9HHmRuuoWW2WhKLfjpBq5PUfg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc2/Njg4LTE3Mjg1OTAz/OTUtOTA2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Marko Haavisto & Poutahaukat",
+      "title": "Thunder And Lightning",
+      "release_title": "Various - The Man Without A Past (Original Motion Picture Soundtrack)",
+      "year": "2002",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 12164314,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FVIm8Ul6dKFfXGuu3y4jFvLFeK_2BStjNoiyFvigaRQ/rs:fit/g:sm/q:90/h:536/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY0/MzE0LTE1Mjk1OTYz/MTktODg3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Edward-Francis",
+      "title": "A Call To Arms",
+      "release_title": "Paul Edward-Francis - Blood Of Zeus (Music From The Netflix Original Anime Series)",
+      "year": "2021",
+      "label": "Milan",
+      "country": "US",
+      "discogs_id": 19028065,
+      "rating_avg": 4.5,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/GaQFGeVmRrZUAzS02rwwHPKLwZfg8Mx5A9zg3vKeLhs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDI4/MDY1LTE2MjI5MTQ3/NDAtODIwMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Didier Lockwood",
+      "title": "Badiya",
+      "release_title": "Didier Lockwood - 1.2.3.4",
+      "year": "1989",
+      "label": "Nova Records",
+      "country": "US",
+      "discogs_id": 24376688,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/OgEYq6UfjvDIndyN8s9HHmRuuoWW2WhKLfjpBq5PUfg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc2/Njg4LTE3Mjg1OTAz/OTUtOTA2OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Black Carl",
+      "title": "Over",
+      "release_title": "Black Carl - The Hanged Man / The Magician",
+      "year": "2011",
+      "label": "BC Records",
+      "country": "US",
+      "discogs_id": 5109536,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/rlEpmSsvaHhq9TKIi52U7KaKjhnEovEW96_OzwG32gA/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDk1/MzYtMTM4OTc2NTU5/Ny0zMTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Luther Ingram",
+      "title": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "release_title": "Various - Cheatin': From A Man's Point Of View",
+      "year": "1995",
+      "label": "Soul Classics",
+      "country": "US",
+      "discogs_id": 10388834,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/eFSFICDER366Ttoa0e4XdvE1xHbrkyFDfh1XHYpYv-E/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg4/ODM0LTE1NTc1MTY3/NDQtMzA0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lalo Schifrin",
+      "title": "Music From The Unused Trailer",
+      "release_title": "Various - The Exorcist (Original Motion Picture Soundtrack)",
+      "year": "1998",
+      "label": "Warner Home Video",
+      "country": "US",
+      "discogs_id": 3741067,
+      "rating_avg": 4.59,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/otRTzR9-G-DXa6jHMzXengR3sDJs9-7_3pnOrZ47584/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDEw/NjctMTM1MjIwNjE2/Ny0zOTg1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "True Love",
+      "release_title": "John Scofield - Loud Jazz",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 7909103,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/4WN829KupEW6J7505BhdAvd4ycTkOqhrCLUNG6ZJhEs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDkx/MDMtMTQ1MTUxNTg5/OS03NTQ3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Antony Partos & Sam Petty",
+      "title": "Two Themes for Rey",
+      "release_title": "Antony Partos, Sam Petty - The Rover (Original Motion Picture Soundtrack)",
+      "year": "2014",
+      "label": "Lakeshore Records",
+      "country": "US",
+      "discogs_id": 12042805,
+      "rating_avg": 4.67,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/M84-DQ0ZMzwoMRP7W8Wkf3Um8oFG1wVD_Z40InWOpvI/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQy/ODA1LTE2NjMxMzkw/NjQtMjE4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Holographic Principle",
+      "title": "Batchify",
+      "release_title": "Holographic Principle - Dance Of The Great Spirit",
+      "year": "2019",
+      "label": "Truth Revolution Recording Collective",
+      "country": "US",
+      "discogs_id": 14812716,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/wIvizDT7s5ZVazAROIVFweMcV31flckuN1xs2_yaEtw/rs:fit/g:sm/q:90/h:277/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEy/NzE2LTE1ODIwOTI3/NTgtMzM3Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jerseyband",
+      "title": "Intro",
+      "release_title": "Jerseyband - Jake",
+      "year": "2002",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 6717267,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/te43gFe58aKAc5bntRnfLpyPmLrQZAvorZ65RJjn7vk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTcy/NjctMTUxNzMxNDE1/OS05NjcyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Black Carl",
+      "title": "Become My Hallucination",
+      "release_title": "Black Carl - The Hanged Man / The Magician",
+      "year": "2011",
+      "label": "BC Records",
+      "country": "US",
+      "discogs_id": 5109536,
+      "rating_avg": 4.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/rlEpmSsvaHhq9TKIi52U7KaKjhnEovEW96_OzwG32gA/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDk1/MzYtMTM4OTc2NTU5/Ny0zMTI2LmpwZWc.jpeg"
+    }
+  ]
+}
