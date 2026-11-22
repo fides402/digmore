@@ -45097,6 +45097,157 @@
    1964
   ]
  },
+ "carrtoons": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "US"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul",
+   "Hip Hop",
+   "Funk / Soul"
+  ],
+  "pairs": [
+   [
+    "Rhythm & Blues",
+    "Hip Hop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Hip Hop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Hip Hop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Soul",
+    "Hip Hop"
+   ],
+   [
+    "Soul",
+    "Funk / Soul"
+   ],
+   [
+    "Funk",
+    "Hip Hop"
+   ],
+   [
+    "Funk",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazz-Funk",
+    "Hip Hop"
+   ],
+   [
+    "Jazz-Funk",
+    "Jazz"
+   ],
+   [
+    "Rhythm & Blues",
+    "Hip Hop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ],
+   [
+    "Rhythm & Blues",
+    "Hip Hop"
+   ],
+   [
+    "Rhythm & Blues",
+    "Funk / Soul"
+   ]
+  ],
+  "releases": 15,
+  "styles": [
+   "Rhythm & Blues",
+   "Rhythm & Blues",
+   "Rhythm & Blues",
+   "Soul",
+   "Funk",
+   "Jazzy Hip-Hop",
+   "Jazz-Funk",
+   "Rhythm & Blues",
+   "Rhythm & Blues"
+  ],
+  "years": [
+   2022,
+   2023,
+   2022,
+   2025,
+   2023,
+   2023,
+   2025,
+   2022,
+   2023,
+   2022,
+   2022,
+   2026,
+   2023,
+   2023,
+   2023
+  ]
+ },
  "charles earland": {
   "countries": [
    "UK",
@@ -62249,6 +62400,108 @@
    1995,
    1975,
    1998
+  ]
+ },
+ "domo genesis": {
+  "countries": [
+   "US",
+   "US",
+   "US",
+   "Japan",
+   "Worldwide",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Europe",
+   "Worldwide",
+   "US",
+   "US",
+   "USA & Europe",
+   "US",
+   "US",
+   "Worldwide",
+   "US",
+   "US",
+   "Unknown",
+   "US",
+   "US",
+   "Worldwide"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Trip Hop",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Conscious",
+   "Jazzy Hip-Hop",
+   "Trip Hop"
+  ],
+  "years": [
+   2022,
+   2022,
+   2010,
+   2016,
+   2023,
+   2023,
+   2016,
+   2023,
+   2017,
+   2022,
+   2016,
+   2023,
+   2016,
+   2018,
+   2023,
+   2016,
+   2014,
+   2023,
+   2011,
+   2018,
+   2016,
+   2010,
+   2016,
+   2018
   ]
  },
  "don byas": {
@@ -149719,6 +149972,204 @@
    2010
   ]
  },
+ "nicholas craven": {
+  "countries": [
+   "Canada",
+   "Canada",
+   "Canada",
+   "Unknown",
+   "France",
+   "Canada",
+   "Canada",
+   "US",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Austria",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "US",
+   "US",
+   "France",
+   "France",
+   "Canada",
+   "US",
+   "Canada",
+   "Canada",
+   "Canada"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Hardcore Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Gangsta",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ],
+   [
+    "Instrumental",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Conscious",
+   "Gangsta",
+   "Boom Bap",
+   "Conscious",
+   "Gangsta",
+   "Boom Bap",
+   "Conscious",
+   "Instrumental",
+   "Gangsta",
+   "Hardcore Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Boom Bap",
+   "Conscious",
+   "Boom Bap",
+   "Instrumental",
+   "Instrumental",
+   "Instrumental",
+   "Boom Bap",
+   "Conscious",
+   "Gangsta",
+   "Instrumental",
+   "Instrumental"
+  ],
+  "years": [
+   2021,
+   2020,
+   2022,
+   2020,
+   2018,
+   2022,
+   2021,
+   2022,
+   2017,
+   2022,
+   2021,
+   2020,
+   2022,
+   2022,
+   2022,
+   2017,
+   2022,
+   2023,
+   2018,
+   2018,
+   2020,
+   2020,
+   2017,
+   2014,
+   2017
+  ]
+ },
  "nicole croisille": {
   "countries": [
    "Japan",
@@ -210825,6 +211276,35 @@
    2007
   ]
  },
+ "willyynova": {
+  "countries": [
+   "France",
+   "Worldwide"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 2,
+  "styles": [
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop"
+  ],
+  "years": [
+   2025,
+   2023
+  ]
+ },
  "wilson pickett": {
   "countries": [
    "Japan",
@@ -214230,6 +214710,213 @@
    1978,
    1998,
    1982
+  ]
+ },
+ "yungmorpheus": {
+  "countries": [
+   "UK",
+   "US",
+   "Germany",
+   "US",
+   "Italy",
+   "Netherlands",
+   "Netherlands",
+   "UK",
+   "Netherlands",
+   "Netherlands",
+   "UK",
+   "US",
+   "UK",
+   "US",
+   "UK",
+   "Italy",
+   "Italy",
+   "US",
+   "UK",
+   "UK",
+   "UK",
+   "US",
+   "UK",
+   "Netherlands",
+   "UK"
+  ],
+  "genres": [
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Jazz",
+   "Reggae",
+   "Funk / Soul",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop",
+   "Hip Hop"
+  ],
+  "pairs": [
+   [
+    "Lo-Fi",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Jazz"
+   ],
+   [
+    "Boom Bap",
+    "Reggae"
+   ],
+   [
+    "Boom Bap",
+    "Funk / Soul"
+   ],
+   [
+    "Afrobeat",
+    "Hip Hop"
+   ],
+   [
+    "Afrobeat",
+    "Jazz"
+   ],
+   [
+    "Afrobeat",
+    "Reggae"
+   ],
+   [
+    "Afrobeat",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Jazz"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Reggae"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Funk / Soul"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ],
+   [
+    "Boom Bap",
+    "Hip Hop"
+   ],
+   [
+    "Jazzy Hip-Hop",
+    "Hip Hop"
+   ],
+   [
+    "Conscious",
+    "Hip Hop"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Lo-Fi",
+   "Conscious",
+   "Boom Bap",
+   "Boom Bap",
+   "Afrobeat",
+   "Jazzy Hip-Hop",
+   "Jazzy Hip-Hop",
+   "Boom Bap",
+   "Boom Bap",
+   "Jazzy Hip-Hop",
+   "Conscious",
+   "Conscious",
+   "Conscious",
+   "Boom Bap",
+   "Jazzy Hip-Hop",
+   "Conscious"
+  ],
+  "years": [
+   2024,
+   2016,
+   2021,
+   2017,
+   2022,
+   2021,
+   2024,
+   2024,
+   2021,
+   2021,
+   2023,
+   2018,
+   2022,
+   2021,
+   2023,
+   2022,
+   2022,
+   2020,
+   2023,
+   2023,
+   2023,
+   2020,
+   2024,
+   2021,
+   2024
   ]
  },
  "yusef lateef": {

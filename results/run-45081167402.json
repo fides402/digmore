@@ -1,0 +1,418 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Pop",
+        "style": "Ballad"
+      },
+      {
+        "genre": "Rock",
+        "style": "Soft Rock"
+      },
+      {
+        "genre": "Stage & Screen",
+        "style": "Soundtrack"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2024,
+    "target": 10,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": false,
+    "coverage": {
+      "artists_asked": 29,
+      "artists_found": 27,
+      "fresh_lookups": 5,
+      "styles_considered": 84
+    }
+  },
+  "results": [
+    {
+      "artist": "Okay Temiz",
+      "title": "Ocean Roller",
+      "release_title": "Okay Temiz - Drummer Of Two Worlds",
+      "year": "1980",
+      "label": "Finnadar Records",
+      "country": "US",
+      "discogs_id": 3563076,
+      "rating_avg": 4.84,
+      "rating_count": 38,
+      "cover_image": "https://i.discogs.com/efQQdw8-p2lGGd5PF-w8YDIIMoE1gjj8gc7vhhxF2Mc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjMw/NzYtMTU3Njk1MjAx/NS02ODc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Matthew Morrison",
+      "title": "It Doesn't Matter To The Sun",
+      "release_title": "Matthew Morrison - Matthew Morrison",
+      "year": "2011",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 8392606,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/S-KI7klvY9cPUqmLYNRt8VMTN8Dy0IMMzM9sMGTL758/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTI2/MDYtMTQ2MDc0MDc4/OS03OTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Okay Temiz",
+      "title": "Drummer Of Two Worlds",
+      "release_title": "Okay Temiz - Drummer Of Two Worlds",
+      "year": "1980",
+      "label": "Finnadar Records",
+      "country": "US",
+      "discogs_id": 3563076,
+      "rating_avg": 4.84,
+      "rating_count": 38,
+      "cover_image": "https://i.discogs.com/efQQdw8-p2lGGd5PF-w8YDIIMoE1gjj8gc7vhhxF2Mc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjMw/NzYtMTU3Njk1MjAx/NS02ODc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Manolo Galván",
+      "title": "Viña Del Mar",
+      "release_title": "Manolo Galván - Mi Público",
+      "year": "1976",
+      "label": "Pronto",
+      "country": "US",
+      "discogs_id": 15819309,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/FDZbbHIEsu5c41ZHp4ul2snEz3z8muVF4QqUZ6Xinog/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE5/MzA5LTE1OTgzODI0/NTUtNjQ3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tina Turner",
+      "title": "Better Be Good To Me",
+      "release_title": "Tina Turner - Private Dancer",
+      "year": "1984",
+      "label": "Sony",
+      "country": "US",
+      "discogs_id": 3805475,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/AaY9bjoLutdprQXPKjAIYJcIUWTK832lKXafCdhZsmI/rs:fit/g:sm/q:90/h:600/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDU0/NzUtMTQ3NzA5Njcx/OS02MDU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Okay Temiz",
+      "title": "East Breeze",
+      "release_title": "Okay Temiz - Drummer Of Two Worlds",
+      "year": "1980",
+      "label": "Finnadar Records",
+      "country": "US",
+      "discogs_id": 3563076,
+      "rating_avg": 4.84,
+      "rating_count": 38,
+      "cover_image": "https://i.discogs.com/efQQdw8-p2lGGd5PF-w8YDIIMoE1gjj8gc7vhhxF2Mc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjMw/NzYtMTU3Njk1MjAx/NS02ODc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tina Turner",
+      "title": "Private Dancer",
+      "release_title": "Tina Turner - Private Dancer",
+      "year": "1984",
+      "label": "Sony",
+      "country": "US",
+      "discogs_id": 3805475,
+      "rating_avg": 5.0,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/AaY9bjoLutdprQXPKjAIYJcIUWTK832lKXafCdhZsmI/rs:fit/g:sm/q:90/h:600/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDU0/NzUtMTQ3NzA5Njcx/OS02MDU0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Matthew Morrison",
+      "title": "It's Over",
+      "release_title": "Matthew Morrison - Matthew Morrison",
+      "year": "2011",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 8392606,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/S-KI7klvY9cPUqmLYNRt8VMTN8Dy0IMMzM9sMGTL758/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTI2/MDYtMTQ2MDc0MDc4/OS03OTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Everything I Do (I Do It For You)",
+      "release_title": "Various - Promo Only Best Of Love Songs",
+      "year": "2006",
+      "label": "Promo Only",
+      "country": "US",
+      "discogs_id": 24057023,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gRRi9GH0USosPd5BjnzcEPq3D81aM0YAzPrZCxSZWEc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDU3/MDIzLTE2NTkyODEw/MzUtNTEyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Burton",
+      "title": "Vibrafinger",
+      "release_title": "Gary Burton - Good Vibes",
+      "year": "1970",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 25697491,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9wvB_GYjYwkbyzgrK5ZHwbTKIhoCLxQRocYeD45DdAM/rs:fit/g:sm/q:90/h:600/w:396/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk3/NDkxLTE2NzMxMjYx/NTUtOTQ0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty \"Experience\" & George Duke Trio",
+      "title": "Cantaloupe Island",
+      "release_title": "The Jean-Luc Ponty Experience* With The George Duke Trio* - The Jean-Luc Ponty Experience",
+      "year": "1994",
+      "label": "One Way Records",
+      "country": "US",
+      "discogs_id": 14575896,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/P5KAUMxIooy4VTcdmTZJvvUc1RldXwnKRDHFiJWHP8I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc1/ODk2LTE1Nzc0NTg3/NTktMTY2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty \"Experience\" & George Duke Trio",
+      "title": "Pamukkale",
+      "release_title": "The Jean-Luc Ponty Experience* With The George Duke Trio* - The Jean-Luc Ponty Experience",
+      "year": "1994",
+      "label": "One Way Records",
+      "country": "US",
+      "discogs_id": 14575896,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/P5KAUMxIooy4VTcdmTZJvvUc1RldXwnKRDHFiJWHP8I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc1/ODk2LTE1Nzc0NTg3/NTktMTY2My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Burton",
+      "title": "Pain In The Heart",
+      "release_title": "Gary Burton - Good Vibes",
+      "year": "1970",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 25697491,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9wvB_GYjYwkbyzgrK5ZHwbTKIhoCLxQRocYeD45DdAM/rs:fit/g:sm/q:90/h:600/w:396/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk3/NDkxLTE2NzMxMjYx/NTUtOTQ0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "title": "Nothing Can Be Done",
+      "release_title": "Joni Mitchell - Night Ride Home",
+      "year": "1991",
+      "label": "Geffen Records",
+      "country": "US",
+      "discogs_id": 13883240,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/SzGx33fboMBusMbzsdo0dVzF2y81tCUrdDTMeCiOUXM/rs:fit/g:sm/q:90/h:600/w:296/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODgz/MjQwLTE1NjMyNTYz/NTktMTYzOC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Okay Temiz",
+      "title": "Sipsi",
+      "release_title": "Okay Temiz - Drummer Of Two Worlds",
+      "year": "1980",
+      "label": "Finnadar Records",
+      "country": "US",
+      "discogs_id": 3563076,
+      "rating_avg": 4.84,
+      "rating_count": 38,
+      "cover_image": "https://i.discogs.com/efQQdw8-p2lGGd5PF-w8YDIIMoE1gjj8gc7vhhxF2Mc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjMw/NzYtMTU3Njk1MjAx/NS02ODc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "title": "A Little Bit Of This And A Little Bit Of That",
+      "release_title": "Lee Ritenour - A Little Bit Of This And A Little Bit Of That",
+      "year": "1976",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 4303542,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/oxX4gxj5L7IWC9CwmUXakwo0FKz00S0eDi7F_4Hoaqw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDM1/NDItMTQxNTE0NDcx/My02ODAyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Manolo Galván",
+      "title": "Me Enamore De La Muerte",
+      "release_title": "Manolo Galván - Mi Público",
+      "year": "1976",
+      "label": "Pronto",
+      "country": "US",
+      "discogs_id": 15819309,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/FDZbbHIEsu5c41ZHp4ul2snEz3z8muVF4QqUZ6Xinog/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE5/MzA5LTE1OTgzODI0/NTUtNjQ3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Andrew Gold",
+      "title": "Kiss This One Goodbye",
+      "release_title": "Andrew Gold - Whirlwind",
+      "year": "1980",
+      "label": "Asylum Records",
+      "country": "US",
+      "discogs_id": 11619936,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CTRO_wqxldOyG643GAVcLGcpANUwVdqHReLTDWQd-AE/rs:fit/g:sm/q:90/h:600/w:377/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE5/OTM2LTE3NzU4MzUy/MDUtNzM3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lonestar",
+      "title": "Amazed",
+      "release_title": "Various - Promo Only Best Of Love Songs",
+      "year": "2006",
+      "label": "Promo Only",
+      "country": "US",
+      "discogs_id": 24057023,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gRRi9GH0USosPd5BjnzcEPq3D81aM0YAzPrZCxSZWEc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDU3/MDIzLTE2NTkyODEw/MzUtNTEyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Manolo Galván",
+      "title": "Durmiendo En La Misma Cama",
+      "release_title": "Manolo Galván - Mi Público",
+      "year": "1976",
+      "label": "Pronto",
+      "country": "US",
+      "discogs_id": 15819309,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/FDZbbHIEsu5c41ZHp4ul2snEz3z8muVF4QqUZ6Xinog/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE5/MzA5LTE1OTgzODI0/NTUtNjQ3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chicago",
+      "title": "You're The Inspiration",
+      "release_title": "Various - Promo Only Best Of Love Songs",
+      "year": "2006",
+      "label": "Promo Only",
+      "country": "US",
+      "discogs_id": 24057023,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gRRi9GH0USosPd5BjnzcEPq3D81aM0YAzPrZCxSZWEc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDU3/MDIzLTE2NTkyODEw/MzUtNTEyMy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Yuri",
+      "title": "Amiga Mia",
+      "release_title": "Yuri (3) - Amiga Mia",
+      "year": "1994",
+      "label": "Sony Latin",
+      "country": "US",
+      "discogs_id": 25522657,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/_kqJ5mXAb9ky_zZF7T0HeAz5ML7dX1z_N-Yups6C9iA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTIy/NjU3LTE2NzE1NzI3/MzUtODExNy5qcGVn.jpeg"
+    },
+    {
+      "artist": "Matthew Morrison",
+      "title": "Mona Lisas And Mad Hatters / Rocket Man",
+      "release_title": "Matthew Morrison - Matthew Morrison",
+      "year": "2011",
+      "label": "Mercury",
+      "country": "US",
+      "discogs_id": 8392606,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/S-KI7klvY9cPUqmLYNRt8VMTN8Dy0IMMzM9sMGTL758/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTI2/MDYtMTQ2MDc0MDc4/OS03OTI2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andrew Gold",
+      "title": "Nine To Five",
+      "release_title": "Andrew Gold - Whirlwind",
+      "year": "1980",
+      "label": "Asylum Records",
+      "country": "US",
+      "discogs_id": 11619936,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/CTRO_wqxldOyG643GAVcLGcpANUwVdqHReLTDWQd-AE/rs:fit/g:sm/q:90/h:600/w:377/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE5/OTM2LTE3NzU4MzUy/MDUtNzM3MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boz Scaggs",
+      "title": "Sierra",
+      "release_title": "Boz Scaggs - Fade Into Light",
+      "year": "2005",
+      "label": "Virgin",
+      "country": "US",
+      "discogs_id": 23133158,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/iN6yarKWeN-VsueZs1pER6qIxwPnucUK-N294PsnbTE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTMz/MTU4LTE2NTE4NDgy/MzgtNzIyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boz Scaggs",
+      "title": "Lowdown (Unplugged)",
+      "release_title": "Boz Scaggs - Fade Into Light",
+      "year": "2005",
+      "label": "Virgin",
+      "country": "US",
+      "discogs_id": 23133158,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/iN6yarKWeN-VsueZs1pER6qIxwPnucUK-N294PsnbTE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTMz/MTU4LTE2NTE4NDgy/MzgtNzIyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Gary Burton",
+      "title": "I Never Loved A Man (The Way I Love You)",
+      "release_title": "Gary Burton - Good Vibes",
+      "year": "1970",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 25697491,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/9wvB_GYjYwkbyzgrK5ZHwbTKIhoCLxQRocYeD45DdAM/rs:fit/g:sm/q:90/h:600/w:396/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk3/NDkxLTE2NzMxMjYx/NTUtOTQ0MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Boz Scaggs",
+      "title": "Some Things Happen",
+      "release_title": "Boz Scaggs - Fade Into Light",
+      "year": "2005",
+      "label": "Virgin",
+      "country": "US",
+      "discogs_id": 23133158,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/iN6yarKWeN-VsueZs1pER6qIxwPnucUK-N294PsnbTE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTMz/MTU4LTE2NTE4NDgy/MzgtNzIyNC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "Storm King",
+      "release_title": "Bob James - Three",
+      "year": "2013",
+      "label": "Red River Entertainment",
+      "country": "US",
+      "discogs_id": 6993875,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/vo9__9uOjJ1XkJhh9j7t_8LvK7k6KylCn8RwSShjxRA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTM4/NzUtMTQzMTIzOTEw/My00MDk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jean-Luc Ponty \"Experience\" & George Duke Trio",
+      "title": "Starlight, Starbright",
+      "release_title": "The Jean-Luc Ponty Experience* With The George Duke Trio* - The Jean-Luc Ponty Experience",
+      "year": "1994",
+      "label": "One Way Records",
+      "country": "US",
+      "discogs_id": 14575896,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/P5KAUMxIooy4VTcdmTZJvvUc1RldXwnKRDHFiJWHP8I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc1/ODk2LTE1Nzc0NTg3/NTktMTY2My5qcGVn.jpeg"
+    }
+  ]
+}
