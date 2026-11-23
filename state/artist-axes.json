@@ -118134,6 +118134,209 @@
    1971
   ]
  },
+ "johnny smith": {
+  "countries": [
+   "USA & Canada",
+   "UK",
+   "UK",
+   "France",
+   "Japan",
+   "Japan",
+   "US",
+   "Australia",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "US",
+   "Spain",
+   "US",
+   "Australia",
+   "Japan",
+   "US",
+   "Europe",
+   "US",
+   "US",
+   "UK",
+   "Japan",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Pop",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Smooth Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Jazz"
+   ],
+   [
+    "Swing",
+    "Pop"
+   ],
+   [
+    "Hard Bop",
+    "Jazz"
+   ],
+   [
+    "Bop",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ],
+   [
+    "Cool Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 25,
+  "styles": [
+   "Cool Jazz",
+   "Cool Jazz",
+   "Avant-garde Jazz",
+   "Cool Jazz",
+   "Cool Jazz",
+   "Smooth Jazz",
+   "Cool Jazz",
+   "Swing",
+   "Swing",
+   "Cool Jazz",
+   "Cool Jazz",
+   "Swing",
+   "Bop",
+   "Cool Jazz",
+   "Swing",
+   "Hard Bop",
+   "Bop",
+   "Cool Jazz",
+   "Cool Jazz",
+   "Cool Jazz"
+  ],
+  "years": [
+   2021,
+   1968,
+   1968,
+   2016,
+   2005,
+   1965,
+   1960,
+   1967,
+   1997,
+   1961,
+   1963,
+   1987,
+   1967,
+   1997,
+   1967,
+   2001,
+   1962,
+   1959,
+   1994,
+   1967
+  ]
+ },
  "jon lucien": {
   "countries": [
    "US",
