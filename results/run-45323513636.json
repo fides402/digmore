@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-0",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Pop",
+        "style": "Ballad"
+      },
+      {
+        "genre": "Rock",
+        "style": "Soft Rock"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2024,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 31,
+      "artists_found": 29,
+      "fresh_lookups": 0,
+      "styles_considered": 84
+    }
+  },
+  "results": [
+    {
+      "artist": "Sharon Jones & The Dap-Kings",
+      "title": "You're Gonna Get It",
+      "release_title": "Sharon Jones & The Dap-Kings - The Dynamic Sound Of Sharon Jones And The Dap-Kings",
+      "year": "2008",
+      "label": "Daptone Records",
+      "country": "US",
+      "discogs_id": 7912846,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/U5gFuxg97GHGWhSQea3Bf80nvmnWsQNcnVQqSX5KGM0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTI4/NDYtMTQ1MTUxMzI2/Ny02MTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Kay-Gees",
+      "title": "Together",
+      "release_title": "Kay-Gees* - Find A Friend",
+      "year": "1976",
+      "label": "Gang Records",
+      "country": "US",
+      "discogs_id": 5002954,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/ZVuOVk-jCddYhMy9-vySQoN_q8dWh0uCTdWV3_4v4YU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDI5/NTQtMTM4MTg1MDky/OC04Mjg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mary Davis",
+      "title": "Steppin' Out (Dub Version)",
+      "release_title": "Mary Davis - Steppin' Out",
+      "year": "1987",
+      "label": "Tabu Records",
+      "country": "US",
+      "discogs_id": 664848,
+      "rating_avg": 4.07,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/8nPHAMI2-nGLMvIB_po9PNspVd5WIr4TDQlpr7Dsgdk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDg0/OC0xMzA0MzU3ODg5/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Rimshots",
+      "title": "Save That Thing",
+      "release_title": "Rimshots* - Save That Thing / Concerto In F",
+      "year": "1972",
+      "label": "A-I Records",
+      "country": "US",
+      "discogs_id": 5047741,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/m7AiGH8-Oh5EgO4qmXcGtFN07QjqloUtAUm3jpql5jI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDc3/NDEtMTM4MzA3MzA5/MS05ODQ4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cory Wells",
+      "title": "I Know You're Willin' Darlin'",
+      "release_title": "Cory Wells (2) - Midnight Lady (Hiding In The Shadows)",
+      "year": "1978",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 11177065,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Q8vet2Zn86wKwMHF5wqvUXPuc1kUe_DmxEf4ilyejF8/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc3/MDY1LTE1MTEyODUz/ODUtNzQ4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sharon Jones & The Dap-Kings",
+      "title": "Let Them Knock",
+      "release_title": "Sharon Jones & The Dap-Kings - The Dynamic Sound Of Sharon Jones And The Dap-Kings",
+      "year": "2008",
+      "label": "Daptone Records",
+      "country": "US",
+      "discogs_id": 7912846,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/U5gFuxg97GHGWhSQea3Bf80nvmnWsQNcnVQqSX5KGM0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTI4/NDYtMTQ1MTUxMzI2/Ny02MTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tom Snow",
+      "title": "Hungry Nights",
+      "release_title": "Tom Snow - Hungry Nights",
+      "year": "1982",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 28004142,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/ltPQ-y3NnpbBAOOI3akiZyZ8lpzfOx_4sRBHGNFylXI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDA0/MTQyLTE2OTIzMjI5/NTctNzA3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jimmy Castor Bunch",
+      "title": "Supersound",
+      "release_title": "The Jimmy Castor Bunch - Supersound / Drifting",
+      "year": "1976",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1247530,
+      "rating_avg": 4.5,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/qbHZWfZF-XA7s6_POpgFSkMBHgFhkLsl6TUfCPucGDA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc1/MzAtMTU3MzU1NTU4/NC01NjgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Steve Arrington's Hall Of Fame",
+      "title": "15 Rounds",
+      "release_title": "Steve Arrington's Hall Of Fame - 15 Rounds",
+      "year": "1984",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 8452429,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Cd632nfL_sC1G2AVuSE5st20BtQKyQtpiuO9NfKxIqg/rs:fit/g:sm/q:90/h:600/w:557/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTI0/MjktMTQ3MTgwOTY4/Ni01ODI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Main Ingredient",
+      "title": "California My Way",
+      "release_title": "The Main Ingredient - Euphrates River",
+      "year": "1974",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 4111266,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/6KA6VGlZuFSdwhKVGWqxXbQuWs765JHDhKGCg0OyHZg/rs:fit/g:sm/q:90/h:394/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTEy/NjYtMTM1NTU5ODI3/NS0xODM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Main Ingredient",
+      "title": "Happiness Is Just Around The Bend",
+      "release_title": "The Main Ingredient - Euphrates River",
+      "year": "1974",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 4111266,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/6KA6VGlZuFSdwhKVGWqxXbQuWs765JHDhKGCg0OyHZg/rs:fit/g:sm/q:90/h:394/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTEy/NjYtMTM1NTU5ODI3/NS0xODM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Main Ingredient",
+      "title": "Have You Ever Tried It",
+      "release_title": "The Main Ingredient - Euphrates River",
+      "year": "1974",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 4111266,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/6KA6VGlZuFSdwhKVGWqxXbQuWs765JHDhKGCg0OyHZg/rs:fit/g:sm/q:90/h:394/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTEy/NjYtMTM1NTU5ODI3/NS0xODM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Danny Douma",
+      "title": "Endlessly",
+      "release_title": "Danny Douma - Endlessly",
+      "year": "1979",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 10229702,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/K6owWnDJzUA3hJbl4k2sScQu5pDvwRubzTPIRbPnneg/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI5/NzAyLTE0OTM3Njgz/NjQtNTc5NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Kay-Gees",
+      "title": "Find A Friend (Prelude)",
+      "release_title": "Kay-Gees* - Find A Friend",
+      "year": "1976",
+      "label": "Gang Records",
+      "country": "US",
+      "discogs_id": 5002954,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/ZVuOVk-jCddYhMy9-vySQoN_q8dWh0uCTdWV3_4v4YU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDI5/NTQtMTM4MTg1MDky/OC04Mjg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Steve Arrington's Hall Of Fame",
+      "title": "Mellow As A Cello",
+      "release_title": "Steve Arrington's Hall Of Fame - 15 Rounds",
+      "year": "1984",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 8452429,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Cd632nfL_sC1G2AVuSE5st20BtQKyQtpiuO9NfKxIqg/rs:fit/g:sm/q:90/h:600/w:557/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTI0/MjktMTQ3MTgwOTY4/Ni01ODI1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sharon Jones & The Dap-Kings",
+      "title": "Something's Changed",
+      "release_title": "Sharon Jones & The Dap-Kings - The Dynamic Sound Of Sharon Jones And The Dap-Kings",
+      "year": "2008",
+      "label": "Daptone Records",
+      "country": "US",
+      "discogs_id": 7912846,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/U5gFuxg97GHGWhSQea3Bf80nvmnWsQNcnVQqSX5KGM0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTI4/NDYtMTQ1MTUxMzI2/Ny02MTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Rimshots",
+      "title": "Concerto In F",
+      "release_title": "Rimshots* - Save That Thing / Concerto In F",
+      "year": "1972",
+      "label": "A-I Records",
+      "country": "US",
+      "discogs_id": 5047741,
+      "rating_avg": 3.89,
+      "rating_count": 9,
+      "cover_image": "https://i.discogs.com/m7AiGH8-Oh5EgO4qmXcGtFN07QjqloUtAUm3jpql5jI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDc3/NDEtMTM4MzA3MzA5/MS05ODQ4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mary Davis",
+      "title": "Steppin' Out (Club Version)",
+      "release_title": "Mary Davis - Steppin' Out",
+      "year": "1987",
+      "label": "Tabu Records",
+      "country": "US",
+      "discogs_id": 664848,
+      "rating_avg": 4.07,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/8nPHAMI2-nGLMvIB_po9PNspVd5WIr4TDQlpr7Dsgdk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDg0/OC0xMzA0MzU3ODg5/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Zone Identity",
+      "title": "Melting Pot",
+      "release_title": "The Zone Identity - Soul Food / Melting Pot",
+      "year": "2018",
+      "label": "Soul Sauce",
+      "country": "US",
+      "discogs_id": 12950816,
+      "rating_avg": 4.63,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/J-iN19Hkf4Xr-ye6Cx69raJoYCl1oPBDejcOOI6SIPw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUw/ODE2LTE1NDUxNzA3/MzYtMzc1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Main Ingredient",
+      "title": "Euphrates",
+      "release_title": "The Main Ingredient - Euphrates River",
+      "year": "1974",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 4111266,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/6KA6VGlZuFSdwhKVGWqxXbQuWs765JHDhKGCg0OyHZg/rs:fit/g:sm/q:90/h:394/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTEy/NjYtMTM1NTU5ODI3/NS0xODM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Terence Boylan",
+      "title": "Did She Finally Get To You",
+      "release_title": "Terence Boylan - Did She Finally Get To You",
+      "year": "1980",
+      "label": "Asylum Records",
+      "country": "US",
+      "discogs_id": 7594384,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/PwIMJfPCoXRf4wDSKuwVpmYsnzU-DJsxqpOkEzdPXJg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTQz/ODQtMTUxNDAyMTE4/Ny0xNTI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sharon Jones & The Dap-Kings",
+      "title": "Ain't It Hard",
+      "release_title": "Sharon Jones & The Dap-Kings - The Dynamic Sound Of Sharon Jones And The Dap-Kings",
+      "year": "2008",
+      "label": "Daptone Records",
+      "country": "US",
+      "discogs_id": 7912846,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/U5gFuxg97GHGWhSQea3Bf80nvmnWsQNcnVQqSX5KGM0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTI4/NDYtMTQ1MTUxMzI2/Ny02MTk2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Willie Mitchell",
+      "title": "Six To Go",
+      "release_title": "Willie Mitchell - Robbin's Nest / Six To Go",
+      "year": "1970",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 4137380,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/XCjNMN2r-9hzGfniZmdx2SbhSr2-SvwcAblV_HLugDM/rs:fit/g:sm/q:90/h:474/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzcz/ODAtMTM3MzQ4NjM0/Ni02Mjg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Kay-Gees",
+      "title": "Acknowledgement",
+      "release_title": "Kay-Gees* - Find A Friend",
+      "year": "1976",
+      "label": "Gang Records",
+      "country": "US",
+      "discogs_id": 5002954,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/ZVuOVk-jCddYhMy9-vySQoN_q8dWh0uCTdWV3_4v4YU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDI5/NTQtMTM4MTg1MDky/OC04Mjg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Zone Identity",
+      "title": "Soul Food",
+      "release_title": "The Zone Identity - Soul Food / Melting Pot",
+      "year": "2018",
+      "label": "Soul Sauce",
+      "country": "US",
+      "discogs_id": 12950816,
+      "rating_avg": 4.63,
+      "rating_count": 8,
+      "cover_image": "https://i.discogs.com/J-iN19Hkf4Xr-ye6Cx69raJoYCl1oPBDejcOOI6SIPw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUw/ODE2LTE1NDUxNzA3/MzYtMzc1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Jimmy Castor Bunch",
+      "title": "Drifting (Instrumental)",
+      "release_title": "The Jimmy Castor Bunch - Supersound / Drifting",
+      "year": "1976",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 1247530,
+      "rating_avg": 4.5,
+      "rating_count": 12,
+      "cover_image": "https://i.discogs.com/qbHZWfZF-XA7s6_POpgFSkMBHgFhkLsl6TUfCPucGDA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc1/MzAtMTU3MzU1NTU4/NC01NjgzLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Kay-Gees",
+      "title": "Mr. Nothin'",
+      "release_title": "Kay-Gees* - Find A Friend",
+      "year": "1976",
+      "label": "Gang Records",
+      "country": "US",
+      "discogs_id": 5002954,
+      "rating_avg": 4.12,
+      "rating_count": 17,
+      "cover_image": "https://i.discogs.com/ZVuOVk-jCddYhMy9-vySQoN_q8dWh0uCTdWV3_4v4YU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDI5/NTQtMTM4MTg1MDky/OC04Mjg0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lee Dorsey",
+      "title": "Freedom For The Stallion",
+      "release_title": "Lee Dorsey - Freedom For The Stallion",
+      "year": "1971",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 2902811,
+      "rating_avg": 4.0,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/FjFQojiyTSdLfj3bUbjytSP9dBqUJs6XtAX1iTNR3sY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDI4/MTEtMTU0MjA0NTY0/MS0yMDIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Cory Wells",
+      "title": "Midnight Lady (Hiding In The Shadows)",
+      "release_title": "Cory Wells (2) - Midnight Lady (Hiding In The Shadows)",
+      "year": "1978",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 11177065,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Q8vet2Zn86wKwMHF5wqvUXPuc1kUe_DmxEf4ilyejF8/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc3/MDY1LTE1MTEyODUz/ODUtNzQ4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Willie Mitchell",
+      "title": "Robbin's Nest",
+      "release_title": "Willie Mitchell - Robbin's Nest / Six To Go",
+      "year": "1970",
+      "label": "Hi Records",
+      "country": "US",
+      "discogs_id": 4137380,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/XCjNMN2r-9hzGfniZmdx2SbhSr2-SvwcAblV_HLugDM/rs:fit/g:sm/q:90/h:474/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzcz/ODAtMTM3MzQ4NjM0/Ni02Mjg4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Les McCann",
+      "title": "Let Your Learning Be Your Eyes",
+      "release_title": "Les McCann - Hustle To Survive",
+      "year": "1975",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 3640705,
+      "rating_avg": 4.29,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/QXvC51jYz2rHVp1jLCv0EzaRpZDNIrMSwNRMyMLi_0k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA3/MDUtMTQ4NDU2NjY5/OS02Njg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Keith Barbour",
+      "title": "If Only I Could Touch You",
+      "release_title": "Keith Barbour - Bake Me A Woman",
+      "year": "1970",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 8836244,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://st.discogs.com/e63d0e461ce789d47858114835eeecb3924f9a3e/images/spacer.gif"
+    },
+    {
+      "artist": "Francesca Battistelli",
+      "title": "Unusual",
+      "release_title": "Francesca Battistelli - If We're Honest",
+      "year": "2014",
+      "label": "Fervent Records",
+      "country": "US",
+      "discogs_id": 7702279,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/r-bplaf-H2VMjOTDEx4fZLEw5Qc8FBqxYHDQGGwB2A4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDIy/NzktMTQ0NzAzMjI0/OC0yMTEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Brecker",
+      "title": "Suspone",
+      "release_title": "Michael Brecker - Don't Try This At Home",
+      "year": "1988",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 10823622,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/TpkvXI_HfT0no3tX_knBjLq9O6dPLFRFHLKAaXziuOE/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODIz/NjIyLTE1MDQ4OTk5/MzktOTQ1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Brecker",
+      "title": "The Gentleman & Hizcaine *",
+      "release_title": "Michael Brecker - Don't Try This At Home",
+      "year": "1988",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 10823622,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/TpkvXI_HfT0no3tX_knBjLq9O6dPLFRFHLKAaXziuOE/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODIz/NjIyLTE1MDQ4OTk5/MzktOTQ1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Francesca Battistelli",
+      "title": "Write Your Story",
+      "release_title": "Francesca Battistelli - If We're Honest",
+      "year": "2014",
+      "label": "Fervent Records",
+      "country": "US",
+      "discogs_id": 7702279,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/r-bplaf-H2VMjOTDEx4fZLEw5Qc8FBqxYHDQGGwB2A4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDIy/NzktMTQ0NzAzMjI0/OC0yMTEyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bruce Hornsby",
+      "title": "Walk In The Sun (Radio Edit)",
+      "release_title": "Bruce Hornsby - Walk In The Sun",
+      "year": "1995",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 31184671,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/BHAFWkMkR2nXtmEsCEWDUoMbYb6s0sYR9PmMZT-_CRI/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTg0/NjcxLTE3MjA2MjQx/MTktNTI1Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Charlie Rich",
+      "title": "The Most Beautiful Girl",
+      "release_title": "Various - Billboard Top Soft Rock Hits - 1973",
+      "year": "1997",
+      "label": "Rhino Records",
+      "country": "US",
+      "discogs_id": 11024244,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_F97CASzONRC3-nvI9uGvb8oqFZ0eAkCpD_QoEj7Fgs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI0/MjQ0LTE1NTY0Mjcw/NTUtODgwMy5wbmc.jpeg"
+    },
+    {
+      "artist": "Les McCann",
+      "title": "Well, Cuss My Daddy",
+      "release_title": "Les McCann - Hustle To Survive",
+      "year": "1975",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 3640705,
+      "rating_avg": 4.29,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/QXvC51jYz2rHVp1jLCv0EzaRpZDNIrMSwNRMyMLi_0k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA3/MDUtMTQ4NDU2NjY5/OS02Njg3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Thomas",
+      "title": "Poinciana",
+      "release_title": "Joe Thomas - Poinciana",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3881755,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/flhHO6mjvr4jLFWlskMXep9W0FyPB02VfpQzl7Z3lcI/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODE3/NTUtMTM0NzkyOTMw/NS04MTY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Captain And Tennille",
+      "title": "Smile For Me One More Time",
+      "release_title": "Captain & Tennille* - Song Of Joy",
+      "year": "1976",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 13021463,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/qvXK1rFuAHUPkOBvLDuvn9ZHUiSN905pNtVgskOBy20/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDIx/NDYzLTE1NDY2MjE3/NTYtNDMwOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy Owens",
+      "title": "B. S.",
+      "release_title": "Jimmy Owens - Headin' Home",
+      "year": "1978",
+      "label": "Horizon",
+      "country": "US",
+      "discogs_id": 6442279,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/O6UDzztzx871jZtrDAPmQFyvDzfCTuIVFnBTsdA5-a0/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDIy/NzktMTQ4MzEyNzE3/Mi02MTkxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Seals & Crofts",
+      "title": "We May Never Pass This Way (Again)",
+      "release_title": "Various - Billboard Top Soft Rock Hits - 1973",
+      "year": "1997",
+      "label": "Rhino Records",
+      "country": "US",
+      "discogs_id": 11024244,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/_F97CASzONRC3-nvI9uGvb8oqFZ0eAkCpD_QoEj7Fgs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI0/MjQ0LTE1NTY0Mjcw/NTUtODgwMy5wbmc.jpeg"
+    },
+    {
+      "artist": "Michael Brecker",
+      "title": "Scriabin",
+      "release_title": "Michael Brecker - Don't Try This At Home",
+      "year": "1988",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 10823622,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/TpkvXI_HfT0no3tX_knBjLq9O6dPLFRFHLKAaXziuOE/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODIz/NjIyLTE1MDQ4OTk5/MzktOTQ1Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Joe Thomas",
+      "title": "I'm Gone And I'm Glad",
+      "release_title": "Joe Thomas - Poinciana",
+      "year": "1976",
+      "label": "Groove Merchant",
+      "country": "US",
+      "discogs_id": 3881755,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/flhHO6mjvr4jLFWlskMXep9W0FyPB02VfpQzl7Z3lcI/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODE3/NTUtMTM0NzkyOTMw/NS04MTY3LmpwZWc.jpeg"
+    }
+  ]
+}
