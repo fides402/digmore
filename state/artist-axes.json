@@ -110720,6 +110720,260 @@
    1977
   ]
  },
+ "jasmine myra": {
+  "countries": [
+   "Europe",
+   "Europe",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "Europe",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "Europe",
+   "Europe"
+  ],
+  "genres": [
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Classical",
+   "Jazz",
+   "Classical"
+  ],
+  "pairs": [
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Spiritual Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Classical"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Spiritual Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Spiritual Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Classical"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Classical"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Classical"
+   ]
+  ],
+  "releases": 13,
+  "styles": [
+   "Contemporary Jazz",
+   "Modal",
+   "Contemporary Jazz",
+   "Modal",
+   "Contemporary Jazz",
+   "Spiritual Jazz",
+   "Contemporary Jazz",
+   "Modal",
+   "Contemporary Jazz",
+   "Modal",
+   "Avant-garde Jazz",
+   "Contemporary Jazz",
+   "Avant-garde Jazz",
+   "Contemporary Jazz",
+   "Contemporary Jazz",
+   "Spiritual Jazz",
+   "Contemporary Jazz",
+   "Spiritual Jazz",
+   "Contemporary Jazz",
+   "Modal",
+   "Contemporary Jazz",
+   "Modal",
+   "Contemporary Jazz",
+   "Modal",
+   "Avant-garde Jazz",
+   "Contemporary Jazz"
+  ],
+  "years": [
+   2022,
+   2022,
+   2026,
+   2024,
+   2024,
+   2022,
+   2022,
+   2026,
+   2026,
+   2024,
+   2024,
+   2022,
+   2022
+  ]
+ },
  "jean-luc ponty": {
   "countries": [
    "Japan",
@@ -154452,6 +154706,35 @@
    2017
   ]
  },
+ "ohma": {
+  "countries": [
+   "Japan",
+   "US"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Soul-Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 2,
+  "styles": [
+   "Contemporary Jazz",
+   "Soul-Jazz"
+  ],
+  "years": [
+   2025,
+   2022
+  ]
+ },
  "onaje allan gumbs": {
   "countries": [
    "US",
@@ -160495,6 +160778,205 @@
    1987,
    2018,
    1967
+  ]
+ },
+ "phi-psonics": {
+  "countries": [
+   "USA & Canada",
+   "US",
+   "UK",
+   "US",
+   "Switzerland",
+   "UK",
+   "UK",
+   "UK",
+   "US",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "UK",
+   "Switzerland",
+   "UK",
+   "UK"
+  ],
+  "genres": [
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz",
+   "Jazz"
+  ],
+  "pairs": [
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Spiritual Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Spiritual Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Spiritual Jazz",
+    "Jazz"
+   ],
+   [
+    "Avant-garde Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Free Jazz",
+    "Jazz"
+   ],
+   [
+    "Spiritual Jazz",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ],
+   [
+    "Free Improvisation",
+    "Jazz"
+   ],
+   [
+    "Modal",
+    "Jazz"
+   ],
+   [
+    "Spiritual Jazz",
+    "Jazz"
+   ],
+   [
+    "Contemporary Jazz",
+    "Jazz"
+   ]
+  ],
+  "releases": 17,
+  "styles": [
+   "Modal",
+   "Avant-garde Jazz",
+   "Modal",
+   "Spiritual Jazz",
+   "Avant-garde Jazz",
+   "Modal",
+   "Modal",
+   "Free Improvisation",
+   "Free Jazz",
+   "Contemporary Jazz",
+   "Spiritual Jazz",
+   "Free Improvisation",
+   "Modal",
+   "Spiritual Jazz",
+   "Avant-garde Jazz",
+   "Modal",
+   "Free Improvisation",
+   "Free Jazz",
+   "Free Improvisation",
+   "Free Jazz",
+   "Spiritual Jazz",
+   "Modal",
+   "Contemporary Jazz",
+   "Free Improvisation",
+   "Modal",
+   "Spiritual Jazz",
+   "Contemporary Jazz"
+  ],
+  "years": [
+   2020,
+   2020,
+   2022,
+   2020,
+   2021,
+   2023,
+   2025,
+   2022,
+   2020,
+   2024,
+   2022,
+   2023,
+   2025,
+   2025,
+   2021,
+   2022,
+   2023
   ]
  },
  "pieces of a dream": {
