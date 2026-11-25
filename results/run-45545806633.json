@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Pop",
+        "style": "Ballad"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Rock",
+        "style": "Soft Rock"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1970,
+    "year_to": 2023,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 30,
+      "artists_found": 28,
+      "fresh_lookups": 0,
+      "styles_considered": 92
+    }
+  },
+  "results": [
+    {
+      "artist": "Leni Stern",
+      "title": "Groundhog",
+      "release_title": "Leni Stern - Secrets",
+      "year": "1989",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 4324457,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/9zI3FSnPK7LNPRQ_SrGQSkotSFYaXOYxLaonHcIkwz0/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjQ0/NTctMTUzMjI3MDg4/OS02OTIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bill Bruford's Earthworks",
+      "title": "Temple Of The Winds",
+      "release_title": "Bill Bruford's Earthworks - All Heaven Broke Loose",
+      "year": "1991",
+      "label": "Editions EG",
+      "country": "US",
+      "discogs_id": 10242304,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/s1JkWLpYORegdYlADmUCkwezEJviqueppzWTCwhoPsw/rs:fit/g:sm/q:90/h:600/w:393/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MzA0LTE0OTQ3Nzc3/MjMtNTA4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tony Saxon",
+      "title": "Give Her What She Wants",
+      "release_title": "Tony Saxon - Give Her What She Wants / My Days Of Loving You",
+      "year": "1978",
+      "label": "Shobiz",
+      "country": "US",
+      "discogs_id": 4981963,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-QJy5L39zAay7uhm0cbqgrEIIaFFk5AktJY0VdIIBoU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODE5/NjMtMTM4MTI3Mzk1/Ni02MjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Blue Soul Groove",
+      "title": "Out On The Groove",
+      "release_title": "Blue Soul Groove - Turn Back The Time",
+      "year": "2011",
+      "label": "BSG Records",
+      "country": "US",
+      "discogs_id": 24828752,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/mZpYPyZ7fJHA8B8rgwQd_PsGHhapBIKvyxaGDglLMzE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODI4/NzUyLTE2NjU4MjAx/ODUtNTkzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Soul Groove",
+      "title": "Soul Town",
+      "release_title": "Blue Soul Groove - Turn Back The Time",
+      "year": "2011",
+      "label": "BSG Records",
+      "country": "US",
+      "discogs_id": 24828752,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/mZpYPyZ7fJHA8B8rgwQd_PsGHhapBIKvyxaGDglLMzE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODI4/NzUyLTE2NjU4MjAx/ODUtNTkzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fuse One",
+      "title": "To Whom All Things Concern",
+      "release_title": "Fuse One - Fuse One",
+      "year": "1980",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 1319264,
+      "rating_avg": 4.06,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/fgVPAxtYpxk70tCDXWII0cMb8LEk5aAmPulFDRNoB68/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTky/NjQtMTIxMTMxMDEx/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bill Bruford's Earthworks",
+      "title": "Pigalle",
+      "release_title": "Bill Bruford's Earthworks - All Heaven Broke Loose",
+      "year": "1991",
+      "label": "Editions EG",
+      "country": "US",
+      "discogs_id": 10242304,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/s1JkWLpYORegdYlADmUCkwezEJviqueppzWTCwhoPsw/rs:fit/g:sm/q:90/h:600/w:393/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MzA0LTE0OTQ3Nzc3/MjMtNTA4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Loud Jazz",
+      "release_title": "John Scofield - Loud Jazz",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 19556839,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/fSMdM56xiaHmvbOGkZU_VSzJPDNEfdbg4D58NTpKn1Q/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU2/ODM5LTE2MjY3NTY4/NjUtNzQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Spy Vs. Spy",
+      "release_title": "John Scofield - Loud Jazz",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 19556839,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/fSMdM56xiaHmvbOGkZU_VSzJPDNEfdbg4D58NTpKn1Q/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU2/ODM5LTE2MjY3NTY4/NjUtNzQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Wabash",
+      "release_title": "John Scofield - Loud Jazz",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 19556839,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/fSMdM56xiaHmvbOGkZU_VSzJPDNEfdbg4D58NTpKn1Q/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU2/ODM5LTE2MjY3NTY4/NjUtNzQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Soundpilots",
+      "title": "BMC",
+      "release_title": "Soundpilots - Bumper Crop",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 37089609,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/oPKss8U0_stq_tPWMKhTXQzKc6nka0gvjpMsPuANrSI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDg5/NjA5LTE3NzY0MTA5/NTItNDQyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Fuse One",
+      "title": "Double Steal",
+      "release_title": "Fuse One - Fuse One",
+      "year": "1980",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 1319264,
+      "rating_avg": 4.06,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/fgVPAxtYpxk70tCDXWII0cMb8LEk5aAmPulFDRNoB68/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTky/NjQtMTIxMTMxMDEx/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Soundpilots",
+      "title": "Where Do You Call Home",
+      "release_title": "Soundpilots - Bumper Crop",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 37089609,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/oPKss8U0_stq_tPWMKhTXQzKc6nka0gvjpMsPuANrSI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDg5/NjA5LTE3NzY0MTA5/NTItNDQyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bill Bruford's Earthworks",
+      "title": "All Heaven Broke Loose",
+      "release_title": "Bill Bruford's Earthworks - All Heaven Broke Loose",
+      "year": "1991",
+      "label": "Editions EG",
+      "country": "US",
+      "discogs_id": 10242304,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/s1JkWLpYORegdYlADmUCkwezEJviqueppzWTCwhoPsw/rs:fit/g:sm/q:90/h:600/w:393/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MzA0LTE0OTQ3Nzc3/MjMtNTA4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "True Love",
+      "release_title": "John Scofield - Loud Jazz",
+      "year": "1988",
+      "label": "Gramavision",
+      "country": "US",
+      "discogs_id": 19556839,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/fSMdM56xiaHmvbOGkZU_VSzJPDNEfdbg4D58NTpKn1Q/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU2/ODM5LTE2MjY3NTY4/NjUtNzQ3OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bill Bruford's Earthworks",
+      "title": "Nerve",
+      "release_title": "Bill Bruford's Earthworks - All Heaven Broke Loose",
+      "year": "1991",
+      "label": "Editions EG",
+      "country": "US",
+      "discogs_id": 10242304,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/s1JkWLpYORegdYlADmUCkwezEJviqueppzWTCwhoPsw/rs:fit/g:sm/q:90/h:600/w:393/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MzA0LTE0OTQ3Nzc3/MjMtNTA4NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jerry Vale",
+      "title": "Pretend",
+      "release_title": "Jerry Vale - Too Young",
+      "year": "1972",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 6278492,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/iHXY7yzAY-dkxP_nigUPYOcvN86AwqOUXsGeaemaK-o/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzg0/OTItMTQxNTQ0ODkw/OC0yODIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Soundpilots",
+      "title": "Nothing You Can Say",
+      "release_title": "Soundpilots - Bumper Crop",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 37089609,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/oPKss8U0_stq_tPWMKhTXQzKc6nka0gvjpMsPuANrSI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDg5/NjA5LTE3NzY0MTA5/NTItNDQyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Susan Jacks",
+      "title": "Ocean",
+      "release_title": "Susan Jacks - All The Tea In China",
+      "year": "1980",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 9598124,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rcT63__0gd94xW85BYy3XgavJuprdwr5Kyi802DiZBM/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTgx/MjQtMTU1NDUyNDcw/NC00ODg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Blue Soul Groove",
+      "title": "3 Am",
+      "release_title": "Blue Soul Groove - Turn Back The Time",
+      "year": "2011",
+      "label": "BSG Records",
+      "country": "US",
+      "discogs_id": 24828752,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/mZpYPyZ7fJHA8B8rgwQd_PsGHhapBIKvyxaGDglLMzE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODI4/NzUyLTE2NjU4MjAx/ODUtNTkzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Leni Stern",
+      "title": "Who Loves You",
+      "release_title": "Leni Stern - Secrets",
+      "year": "1989",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 4324457,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/9zI3FSnPK7LNPRQ_SrGQSkotSFYaXOYxLaonHcIkwz0/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjQ0/NTctMTUzMjI3MDg4/OS02OTIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Leni Stern",
+      "title": "Point Falling",
+      "release_title": "Leni Stern - Secrets",
+      "year": "1989",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 4324457,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/9zI3FSnPK7LNPRQ_SrGQSkotSFYaXOYxLaonHcIkwz0/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjQ0/NTctMTUzMjI3MDg4/OS02OTIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Leni Stern",
+      "title": "Amethyst",
+      "release_title": "Leni Stern - Secrets",
+      "year": "1989",
+      "label": "Enja Records",
+      "country": "US",
+      "discogs_id": 4324457,
+      "rating_avg": 4.75,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/9zI3FSnPK7LNPRQ_SrGQSkotSFYaXOYxLaonHcIkwz0/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjQ0/NTctMTUzMjI3MDg4/OS02OTIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Soundpilots",
+      "title": "No Recourse",
+      "release_title": "Soundpilots - Bumper Crop",
+      "year": "1998",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 37089609,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/oPKss8U0_stq_tPWMKhTXQzKc6nka0gvjpMsPuANrSI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDg5/NjA5LTE3NzY0MTA5/NTItNDQyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Soul Groove",
+      "title": "Turn Back The Time",
+      "release_title": "Blue Soul Groove - Turn Back The Time",
+      "year": "2011",
+      "label": "BSG Records",
+      "country": "US",
+      "discogs_id": 24828752,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/mZpYPyZ7fJHA8B8rgwQd_PsGHhapBIKvyxaGDglLMzE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODI4/NzUyLTE2NjU4MjAx/ODUtNTkzMC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tony Saxon",
+      "title": "My Days Of Loving You (Anima Mia)",
+      "release_title": "Tony Saxon - Give Her What She Wants / My Days Of Loving You",
+      "year": "1978",
+      "label": "Shobiz",
+      "country": "US",
+      "discogs_id": 4981963,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/-QJy5L39zAay7uhm0cbqgrEIIaFFk5AktJY0VdIIBoU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODE5/NjMtMTM4MTI3Mzk1/Ni02MjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jerry Vale",
+      "title": "Too Young",
+      "release_title": "Jerry Vale - Too Young",
+      "year": "1972",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 6278492,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/iHXY7yzAY-dkxP_nigUPYOcvN86AwqOUXsGeaemaK-o/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzg0/OTItMTQxNTQ0ODkw/OC0yODIyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fuse One",
+      "title": "Waterside",
+      "release_title": "Fuse One - Fuse One",
+      "year": "1980",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 1319264,
+      "rating_avg": 4.06,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/fgVPAxtYpxk70tCDXWII0cMb8LEk5aAmPulFDRNoB68/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTky/NjQtMTIxMTMxMDEx/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Susan Jacks",
+      "title": "All The Tea In China",
+      "release_title": "Susan Jacks - All The Tea In China",
+      "year": "1980",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 9598124,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/rcT63__0gd94xW85BYy3XgavJuprdwr5Kyi802DiZBM/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTgx/MjQtMTU1NDUyNDcw/NC00ODg2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Fuse One",
+      "title": "Grand Prix",
+      "release_title": "Fuse One - Fuse One",
+      "year": "1980",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 1319264,
+      "rating_avg": 4.06,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/fgVPAxtYpxk70tCDXWII0cMb8LEk5aAmPulFDRNoB68/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTky/NjQtMTIxMTMxMDEx/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Victoria Shaw",
+      "title": "Needing A Night Like This",
+      "release_title": "Victoria Shaw - Needing A Night Like This",
+      "year": "1984",
+      "label": "MPB Records",
+      "country": "US",
+      "discogs_id": 6484814,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gsp7jz_RtXNGfSrAFinn2-yrzsyB2i5FgqUlV_EeEWg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODQ4/MTQtMTQyMDM0MDQx/OS0zMjY4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peaches & Herb",
+      "title": "Shake Your Groove Thing",
+      "release_title": "Peaches & Herb - Shake Your Groove Thing",
+      "year": "1978",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 15337862,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/MAc8dcPn8Qeu8svfUqKInZNHHt2NKAnEbS6dehqMJfc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM3/ODYyLTE1ODk5NTIx/MDEtNTY4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Peterson",
+      "title": "To Wait For Love",
+      "release_title": "Ray Peterson - To Wait For Love",
+      "year": "1970",
+      "label": "UNI Records",
+      "country": "US",
+      "discogs_id": 13504994,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/psBxIexa1TBh169n2cV_SHOxmyBimWSlRIe4qzJ7kOk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA0/OTk0LTE1NTU2MTg3/MzgtNDg4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlos C. Ward",
+      "title": "Hello Baby",
+      "release_title": "Carlos C. Ward - People / Hello Baby",
+      "year": "1980",
+      "label": "Long Time Running",
+      "country": "US",
+      "discogs_id": 1959357,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/fW0S8zTpOmNhV_1iOMCo09P26dg7dTHArWMZmcEZWlU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkz/NTctMTU3NjE1NDk0/Mi03MjQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Salsoul Orchestra",
+      "title": "Street Sense",
+      "release_title": "Salsoul Orchestra* - Street Sense / Zambezi",
+      "year": "1979",
+      "label": "Sterling Sound Inc.",
+      "country": "US",
+      "discogs_id": 1966453,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VQ5sNu6bZ7nHxAlgsVvvnaNzFK2JOoKriYpZ8J1rFFY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY0/NTMtMTI1NTUzODE5/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Evie Sands",
+      "title": "Keep My Lovelight Burnin'",
+      "release_title": "Evie Sands - Keep My Lovelight Burnin'",
+      "year": "1979",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 8978527,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1dgNKPciU87EKzzM7J8PjH1JjHvJEjXbU1C_-unfFOA/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Nzg1/MjctMTQ3MjY0NjYy/Ny0zMDc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nigel Olsson",
+      "title": "Thinking Of You",
+      "release_title": "Nigel Olsson - Nigel",
+      "year": "1979",
+      "label": "Bang Records",
+      "country": "US",
+      "discogs_id": 11566612,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mYl0AddAvBPd5jCmZSPHWZMk3kDOHDKFO3X1anpoCms/rs:fit/g:sm/q:90/h:600/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/NjEyLTE1MTg2MjUw/NDMtNTE0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Ray Peterson",
+      "title": "Tell Laura I Love Her",
+      "release_title": "Ray Peterson - To Wait For Love",
+      "year": "1970",
+      "label": "UNI Records",
+      "country": "US",
+      "discogs_id": 13504994,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/psBxIexa1TBh169n2cV_SHOxmyBimWSlRIe4qzJ7kOk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA0/OTk0LTE1NTU2MTg3/MzgtNDg4NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "98 Degrees",
+      "title": "The Way You Want Me To",
+      "release_title": "98°* - The Way You Want Me To",
+      "year": "2001",
+      "label": "Universal Records",
+      "country": "US",
+      "discogs_id": 4607130,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AW8pk0uUwPBgqJT5dQxLl8URDMWsyXwI0bOXhGsgm7s/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDcx/MzAtMTU5MDEyMTMw/Ni0zMjA5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Evie Sands",
+      "title": "I Can't Wait For You",
+      "release_title": "Evie Sands - Keep My Lovelight Burnin'",
+      "year": "1979",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 8978527,
+      "rating_avg": 2.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1dgNKPciU87EKzzM7J8PjH1JjHvJEjXbU1C_-unfFOA/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Nzg1/MjctMTQ3MjY0NjYy/Ny0zMDc5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Peaches & Herb",
+      "title": "All Your Love (Give It Here)",
+      "release_title": "Peaches & Herb - Shake Your Groove Thing",
+      "year": "1978",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 15337862,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/MAc8dcPn8Qeu8svfUqKInZNHHt2NKAnEbS6dehqMJfc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM3/ODYyLTE1ODk5NTIx/MDEtNTY4OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Salsoul Orchestra",
+      "title": "Zambezi",
+      "release_title": "Salsoul Orchestra* - Street Sense / Zambezi",
+      "year": "1979",
+      "label": "Sterling Sound Inc.",
+      "country": "US",
+      "discogs_id": 1966453,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/VQ5sNu6bZ7nHxAlgsVvvnaNzFK2JOoKriYpZ8J1rFFY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY0/NTMtMTI1NTUzODE5/MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Carlos C. Ward",
+      "title": "People",
+      "release_title": "Carlos C. Ward - People / Hello Baby",
+      "year": "1980",
+      "label": "Long Time Running",
+      "country": "US",
+      "discogs_id": 1959357,
+      "rating_avg": 4.4,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/fW0S8zTpOmNhV_1iOMCo09P26dg7dTHArWMZmcEZWlU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkz/NTctMTU3NjE1NDk0/Mi03MjQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Nigel Olsson",
+      "title": "Cassey Blue (Conclusion)",
+      "release_title": "Nigel Olsson - Nigel",
+      "year": "1979",
+      "label": "Bang Records",
+      "country": "US",
+      "discogs_id": 11566612,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mYl0AddAvBPd5jCmZSPHWZMk3kDOHDKFO3X1anpoCms/rs:fit/g:sm/q:90/h:600/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/NjEyLTE1MTg2MjUw/NDMtNTE0OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Nigel Olsson",
+      "title": "Say Goodbye To Hollywood",
+      "release_title": "Nigel Olsson - Nigel",
+      "year": "1979",
+      "label": "Bang Records",
+      "country": "US",
+      "discogs_id": 11566612,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/mYl0AddAvBPd5jCmZSPHWZMk3kDOHDKFO3X1anpoCms/rs:fit/g:sm/q:90/h:600/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/NjEyLTE1MTg2MjUw/NDMtNTE0OC5qcGVn.jpeg"
+    }
+  ]
+}
