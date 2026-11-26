@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Rock"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1975,
+    "year_to": 2017,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 2,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 5,
+      "artists_found": 5,
+      "fresh_lookups": 0,
+      "styles_considered": 32
+    }
+  },
+  "results": [
+    {
+      "artist": "Victor Wooten",
+      "title": "I Dream In Color",
+      "release_title": "Victor Wooten - Live In America",
+      "year": "2001",
+      "label": "Tonet Music",
+      "country": "US",
+      "discogs_id": 17121429,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8JrI31Fw9IThrQ-_6TpZsK7HuRU7F1ZeTqPB9dF76Bk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/NDI5LTE2MTE2OTg0/OTItODg5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "LA4",
+      "title": "Just Friends",
+      "release_title": "LA4 - Just Friends",
+      "year": "1978",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 25824172,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LTCqzWAIKrM9J7rgzDnnYBWMl_RU7C0OnZi4ELZmF3c/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODI0/MTcyLTE2NzQyMDYw/NzctMzcyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "If You Wanna Boogie...Forget It",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 18030067,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Lullaby For Nancy Carol",
+      "release_title": "Chuck Mangione - 70 Miles Young",
+      "year": "1982",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20563699,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/br-d53co6Et2tnCGl5CQvSbK5CuAxmt6T8fjazHXgKE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYz/Njk5LTE2MzQwNTEz/MzUtODA3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Don Friedman",
+      "title": "Early Morning Blues",
+      "release_title": "Don Friedman - Waltz For Marilyn",
+      "year": "2007",
+      "label": "Jazz Excursion Records",
+      "country": "US",
+      "discogs_id": 14626712,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3j0-UcKcZEQ8qWqVFKRd_jV1suJWLkMDvK6aRPs4SRk/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI2/NzEyLTE1Nzg0NDI1/NTItNTA5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Hard Times",
+      "release_title": "The Crusaders - Scratch",
+      "year": "1981",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 18936436,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/KZsT9-xM0Tof-x1ldjSsjbbakQzBI5o5BMfKl1rbEpY/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM2/NDM2LTE2MjI3Njg5/ODctNDQxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "title": "Color Rit",
+      "release_title": "Lee Ritenour - Color Rit",
+      "year": "1989",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 13252990,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/3huK6zH-JIP011LdlndHnmcGqo8tFH_Nw9Kl0-H5kA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUy/OTkwLTE2NjcxNTMy/NDUtNjQyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Teruo Nakamura Rising Sun Band",
+      "title": "Mr. Cherry And Mr. T.",
+      "release_title": "Teruo Nakamura And The Rising Sun* - Manhattan Special",
+      "year": "1977",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 29358490,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/abKZ9O_RDPfqm9jsBKSXZFfvjKl1gOxBq2BbJiGGtXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU4/NDkwLTE3MDQwNDA0/NzgtNTg1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "LA4",
+      "title": "Nouveau Bach",
+      "release_title": "LA4 - Just Friends",
+      "year": "1978",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 25824172,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LTCqzWAIKrM9J7rgzDnnYBWMl_RU7C0OnZi4ELZmF3c/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODI0/MTcyLTE2NzQyMDYw/NzctMzcyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Teruo Nakamura Rising Sun Band",
+      "title": "Mescalito",
+      "release_title": "Teruo Nakamura And The Rising Sun* - Manhattan Special",
+      "year": "1977",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 29358490,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/abKZ9O_RDPfqm9jsBKSXZFfvjKl1gOxBq2BbJiGGtXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU4/NDkwLTE3MDQwNDA0/NzgtNTg1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Victor Wooten",
+      "title": "My Life",
+      "release_title": "Victor Wooten - Live In America",
+      "year": "2001",
+      "label": "Tonet Music",
+      "country": "US",
+      "discogs_id": 17121429,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8JrI31Fw9IThrQ-_6TpZsK7HuRU7F1ZeTqPB9dF76Bk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/NDI5LTE2MTE2OTg0/OTItODg5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "LA4",
+      "title": "Carinhoso",
+      "release_title": "LA4 - Just Friends",
+      "year": "1978",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 25824172,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LTCqzWAIKrM9J7rgzDnnYBWMl_RU7C0OnZi4ELZmF3c/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODI0/MTcyLTE2NzQyMDYw/NzctMzcyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Johnson",
+      "title": "Asia Holiday",
+      "release_title": "Blue Johnson - Siamese Twins",
+      "year": "1995",
+      "label": "Noteworthy Records",
+      "country": "US",
+      "discogs_id": 7568900,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/d_KzrH23H0F4w_Fhqp7e73nDL0p24pybJnUYQ9_ZZmw/rs:fit/g:sm/q:90/h:214/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg5/MDAtMTQ0NDIyMjY3/Ny05MzczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Feels So Good (Vocal)",
+      "release_title": "Chuck Mangione - 70 Miles Young",
+      "year": "1982",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20563699,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/br-d53co6Et2tnCGl5CQvSbK5CuAxmt6T8fjazHXgKE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYz/Njk5LTE2MzQwNTEz/MzUtODA3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Johnson",
+      "title": "Khon Jeen/Khon Thai",
+      "release_title": "Blue Johnson - Siamese Twins",
+      "year": "1995",
+      "label": "Noteworthy Records",
+      "country": "US",
+      "discogs_id": 7568900,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/d_KzrH23H0F4w_Fhqp7e73nDL0p24pybJnUYQ9_ZZmw/rs:fit/g:sm/q:90/h:214/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg5/MDAtMTQ0NDIyMjY3/Ny05MzczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Grease Piece",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 18030067,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "title": "Malibu",
+      "release_title": "Lee Ritenour - Color Rit",
+      "year": "1989",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 13252990,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/3huK6zH-JIP011LdlndHnmcGqo8tFH_Nw9Kl0-H5kA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUy/OTkwLTE2NjcxNTMy/NDUtNjQyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Recuerdo",
+      "release_title": "Chuck Mangione - 70 Miles Young",
+      "year": "1982",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20563699,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/br-d53co6Et2tnCGl5CQvSbK5CuAxmt6T8fjazHXgKE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYz/Njk5LTE2MzQwNTEz/MzUtODA3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "So Far Away",
+      "release_title": "The Crusaders - Scratch",
+      "year": "1981",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 18936436,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/KZsT9-xM0Tof-x1ldjSsjbbakQzBI5o5BMfKl1rbEpY/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM2/NDM2LTE2MjI3Njg5/ODctNDQxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Way Back Home",
+      "release_title": "The Crusaders - Scratch",
+      "year": "1981",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 18936436,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/KZsT9-xM0Tof-x1ldjSsjbbakQzBI5o5BMfKl1rbEpY/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM2/NDM2LTE2MjI3Njg5/ODctNDQxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Victor Wooten",
+      "title": "Pretty Little Lady",
+      "release_title": "Victor Wooten - Live In America",
+      "year": "2001",
+      "label": "Tonet Music",
+      "country": "US",
+      "discogs_id": 17121429,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8JrI31Fw9IThrQ-_6TpZsK7HuRU7F1ZeTqPB9dF76Bk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/NDI5LTE2MTE2OTg0/OTItODg5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Victor Wooten",
+      "title": "Sacred Silence / The Jam Man",
+      "release_title": "Victor Wooten - Live In America",
+      "year": "2001",
+      "label": "Tonet Music",
+      "country": "US",
+      "discogs_id": 17121429,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/8JrI31Fw9IThrQ-_6TpZsK7HuRU7F1ZeTqPB9dF76Bk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/NDI5LTE2MTE2OTg0/OTItODg5MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Don Friedman",
+      "title": "Você E Eu (You And I)",
+      "release_title": "Don Friedman - Waltz For Marilyn",
+      "year": "2007",
+      "label": "Jazz Excursion Records",
+      "country": "US",
+      "discogs_id": 14626712,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3j0-UcKcZEQ8qWqVFKRd_jV1suJWLkMDvK6aRPs4SRk/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI2/NzEyLTE1Nzg0NDI1/NTItNTA5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Don Friedman",
+      "title": "Two For The Road",
+      "release_title": "Don Friedman - Waltz For Marilyn",
+      "year": "2007",
+      "label": "Jazz Excursion Records",
+      "country": "US",
+      "discogs_id": 14626712,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3j0-UcKcZEQ8qWqVFKRd_jV1suJWLkMDvK6aRPs4SRk/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI2/NzEyLTE1Nzg0NDI1/NTItNTA5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Dig A Little Deeper",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 18030067,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "title": "The Kiss",
+      "release_title": "Lee Ritenour - Color Rit",
+      "year": "1989",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 13252990,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/3huK6zH-JIP011LdlndHnmcGqo8tFH_Nw9Kl0-H5kA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUy/OTkwLTE2NjcxNTMy/NDUtNjQyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "title": "Cannonball Run Theme",
+      "release_title": "Chuck Mangione - 70 Miles Young",
+      "year": "1982",
+      "label": "A&M Records",
+      "country": "US",
+      "discogs_id": 20563699,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/br-d53co6Et2tnCGl5CQvSbK5CuAxmt6T8fjazHXgKE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYz/Njk5LTE2MzQwNTEz/MzUtODA3My5qcGVn.jpeg"
+    },
+    {
+      "artist": "Teruo Nakamura Rising Sun Band",
+      "title": "Wiggle Worm",
+      "release_title": "Teruo Nakamura And The Rising Sun* - Manhattan Special",
+      "year": "1977",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 29358490,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/abKZ9O_RDPfqm9jsBKSXZFfvjKl1gOxBq2BbJiGGtXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU4/NDkwLTE3MDQwNDA0/NzgtNTg1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Johnson",
+      "title": "Twins Theme Reprise",
+      "release_title": "Blue Johnson - Siamese Twins",
+      "year": "1995",
+      "label": "Noteworthy Records",
+      "country": "US",
+      "discogs_id": 7568900,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/d_KzrH23H0F4w_Fhqp7e73nDL0p24pybJnUYQ9_ZZmw/rs:fit/g:sm/q:90/h:214/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg5/MDAtMTQ0NDIyMjY3/Ny05MzczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "title": "I Can't Let Go",
+      "release_title": "Lee Ritenour - Color Rit",
+      "year": "1989",
+      "label": "GRP",
+      "country": "US",
+      "discogs_id": 13252990,
+      "rating_avg": 4.2,
+      "rating_count": 10,
+      "cover_image": "https://i.discogs.com/3huK6zH-JIP011LdlndHnmcGqo8tFH_Nw9Kl0-H5kA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUy/OTkwLTE2NjcxNTMy/NDUtNjQyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Crusaders",
+      "title": "Eleanor Rigby",
+      "release_title": "The Crusaders - Scratch",
+      "year": "1981",
+      "label": "MCA Records",
+      "country": "US",
+      "discogs_id": 18936436,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/KZsT9-xM0Tof-x1ldjSsjbbakQzBI5o5BMfKl1rbEpY/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM2/NDM2LTE2MjI3Njg5/ODctNDQxMi5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "What Can A Miracle Do",
+      "release_title": "The Brecker Brothers Band* - Back To Back",
+      "year": "1976",
+      "label": "Arista",
+      "country": "US",
+      "discogs_id": 18030067,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "LA4",
+      "title": "Spain",
+      "release_title": "LA4 - Just Friends",
+      "year": "1978",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 25824172,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/LTCqzWAIKrM9J7rgzDnnYBWMl_RU7C0OnZi4ELZmF3c/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODI0/MTcyLTE2NzQyMDYw/NzctMzcyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Blue Johnson",
+      "title": "River Mekong",
+      "release_title": "Blue Johnson - Siamese Twins",
+      "year": "1995",
+      "label": "Noteworthy Records",
+      "country": "US",
+      "discogs_id": 7568900,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/d_KzrH23H0F4w_Fhqp7e73nDL0p24pybJnUYQ9_ZZmw/rs:fit/g:sm/q:90/h:214/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg5/MDAtMTQ0NDIyMjY3/Ny05MzczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Don Friedman",
+      "title": "What Is This Thing Called Love?",
+      "release_title": "Don Friedman - Waltz For Marilyn",
+      "year": "2007",
+      "label": "Jazz Excursion Records",
+      "country": "US",
+      "discogs_id": 14626712,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/3j0-UcKcZEQ8qWqVFKRd_jV1suJWLkMDvK6aRPs4SRk/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI2/NzEyLTE1Nzg0NDI1/NTItNTA5Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Teruo Nakamura Rising Sun Band",
+      "title": "Sequoia Forest",
+      "release_title": "Teruo Nakamura And The Rising Sun* - Manhattan Special",
+      "year": "1977",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 29358490,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/abKZ9O_RDPfqm9jsBKSXZFfvjKl1gOxBq2BbJiGGtXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU4/NDkwLTE3MDQwNDA0/NzgtNTg1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Auger",
+      "title": "Happiness Is Just Around The Bend",
+      "release_title": "Brian Auger - Here And Now",
+      "year": "1986",
+      "label": "Grudge Records",
+      "country": "US",
+      "discogs_id": 38742006,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "The Marc Fendel Trio",
+      "title": "On A Misty Night",
+      "release_title": "The Marc Fendel Trio - Fear & Hope Are Vision",
+      "year": "1997",
+      "label": "Trio Records",
+      "country": "US",
+      "discogs_id": 36372943,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/L-l65jA5ocXHw0URe1V4AzyXZgX1Cg3mGuX72iD-kBc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzcy/OTQzLTE3Njk5MDIz/MzItNTc5Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Brian Auger",
+      "title": "Let's Keep This Love Together",
+      "release_title": "Brian Auger - Here And Now",
+      "year": "1986",
+      "label": "Grudge Records",
+      "country": "US",
+      "discogs_id": 38742006,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Jeff Lorber",
+      "title": "High Wire",
+      "release_title": "Jeff Lorber - Worth Waiting For",
+      "year": "1993",
+      "label": "PolyGram Records, Inc.",
+      "country": "US",
+      "discogs_id": 16318656,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/hwssNypclNK-HKH8el7Mw4OWTtBC6s1a1zde_A_udGg/rs:fit/g:sm/q:90/h:387/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE4/NjU2LTE2MDcwMzA0/NzctNDM5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Chick Corea & Return To Forever",
+      "title": "You're Everything",
+      "release_title": "Chick Corea And Return To Forever - Light As A Feather",
+      "year": "1998",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 1469187,
+      "rating_avg": 4.55,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/rkamOBVB7PXwBueY3MPylvaH52pBnEROGYiI_QgF58Y/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkx/ODctMTQ4MzcyMzk4/MS0zNDA1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Chick Corea & Return To Forever",
+      "title": "500 Miles High (Alternative Take)",
+      "release_title": "Chick Corea And Return To Forever - Light As A Feather",
+      "year": "1998",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 1469187,
+      "rating_avg": 4.55,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/rkamOBVB7PXwBueY3MPylvaH52pBnEROGYiI_QgF58Y/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkx/ODctMTQ4MzcyMzk4/MS0zNDA1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lester Bowie's Brass Fantasy",
+      "title": "No Shit",
+      "release_title": "Lester Bowie Brass Fantasy* - Avant Pop",
+      "year": "1986",
+      "label": "ECM Records",
+      "country": "US",
+      "discogs_id": 37271052,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/kEDfb02eRkeCuKNk3T_2jdZhbK89xCFeSZaXvCQHAyY/rs:fit/g:sm/q:90/h:600/w:373/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjcx/MDUyLTE3NzgxMTYx/MDAtMTQ3MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Dennis Rollins' Velocity Trio",
+      "title": "Lightworker",
+      "release_title": "Dennis Rollins Velocity Trio* - The 11th Gate",
+      "year": "2011",
+      "label": "Motéma",
+      "country": "US",
+      "discogs_id": 9367403,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/J-M0cPJen_DtXKugbK2V6-4W5NY09NskwIts79ADXV0/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjc0/MDMtMTQ3OTMzOTU5/NS04ODIxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Clyde Criner",
+      "title": "A Song To Tell, A Tale To Sing",
+      "release_title": "Clyde Criner - Behind The Sun",
+      "year": "1988",
+      "label": "Novus",
+      "country": "US",
+      "discogs_id": 1626376,
+      "rating_avg": 4.43,
+      "rating_count": 23,
+      "cover_image": "https://i.discogs.com/qospFxfLK0eo0TG4o2WDccFTyJUpy8v6Z-_2_fiQK6I/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYz/NzYtMTMwOTQ1MTM2/NS5qcGVn.jpeg"
+    }
+  ]
+}
