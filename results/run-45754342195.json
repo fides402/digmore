@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Rock"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1975,
+    "year_to": 2017,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 5,
+      "artists_found": 5,
+      "fresh_lookups": 0,
+      "styles_considered": 32
+    }
+  },
+  "results": [
+    {
+      "artist": "Charlie Byrd",
+      "title": "Saturday Night Fish Fry",
+      "release_title": "Charlie Byrd - Bluebyrd",
+      "year": "1992",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 3182057,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ERdttR9ItEQbYySsx2V8n9hz4C7wslHKDr8-MBA0fvM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODIw/NTctMTMxOTQxOTkz/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Eponymous 4",
+      "title": "Late Thaw",
+      "release_title": "Eponymous 4 - Imprint",
+      "year": "2013",
+      "label": "Observant Records",
+      "country": "US",
+      "discogs_id": 4871147,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jwQmX5e9TcB-eRR6PFe9QIQV4ElpX-fO3smqFB9-JxI/rs:fit/g:sm/q:90/h:356/w:356/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzEx/NDctMTM3ODI3MDk2/NS01NjA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andy Narell",
+      "title": "Armchair Psychology",
+      "release_title": "Andy Narell - Little Secrets",
+      "year": "1989",
+      "label": "Windham Hill Jazz",
+      "country": "US",
+      "discogs_id": 8963090,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KtFMhMtBWCu9aQ4--ctVQD0jFiqd3ne53n2G3ZYGeTg/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjMw/OTAtMTU5NjEyNDg3/Mi05NTM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Charlie Byrd",
+      "title": "Nice Work If You Can Get It",
+      "release_title": "Charlie Byrd - Bluebyrd",
+      "year": "1992",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 3182057,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ERdttR9ItEQbYySsx2V8n9hz4C7wslHKDr8-MBA0fvM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODIw/NTctMTMxOTQxOTkz/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "I Really Hope It's You",
+      "release_title": "Michael Franks - Sleeping Gypsy",
+      "year": "1978",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6401136,
+      "rating_avg": 4.0,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/mGKUlAQhYW31ZMoo2aGYFK0poRFiYEkE-_-O4RvBmJ8/rs:fit/g:sm/q:90/h:421/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDEx/MzYtMTQxODMyMjUy/My0xMzM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Joe Williams",
+      "title": "How Deep Is The Ocean?",
+      "release_title": "Various - June Release ´96",
+      "year": "1996",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 819090,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/yNSYlSHwbgMPtKQKm3aMRd_-0ncOTDmIhO43qjEnAds/rs:fit/g:sm/q:90/h:427/w:419/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTA5/MC0xMTYyMDI3MjU0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ren Woods",
+      "title": "Everybody Get Up",
+      "release_title": "Ren Woods - Everybody Get Up",
+      "year": "1979",
+      "label": "ARC",
+      "country": "US",
+      "discogs_id": 6074735,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/41JO6x9MtC1yNImiitK1z3Q_wmNwtnOIs-Gf_hbAHP0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzQ3/MzUtMTQxMDM4OTI5/NS03NjE0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Ace Spectrum",
+      "title": "Keep Holding On",
+      "release_title": "Ace Spectrum - Keep Holding On",
+      "year": "1975",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 754244,
+      "rating_avg": 4.5,
+      "rating_count": 22,
+      "cover_image": "https://i.discogs.com/y-MYdNqZbcrCofM-XmO88XbQahmoi8VMbaYcg7kUDyI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDI0/NC0xMjE3MjgxMjIy/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mario Adnet",
+      "title": "Borzeguim (Buckskin)",
+      "release_title": "Mario Adnet - Amazonia - On The Forest Trail",
+      "year": "2012",
+      "label": "Adventure Music",
+      "country": "US",
+      "discogs_id": 13166146,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JBSkWXVgQmI8JKhG4L4-03ikMUiNXA7zjdujgqELDWk/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY2/MTQ2LTE1NDkyMDI2/MTgtNDM3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Pam Todd & Love Exchange",
+      "title": "Can't Hold This Feeling",
+      "release_title": "Pam Todd & Love Exchange - Let's Get Together",
+      "year": "1977",
+      "label": "Shyrlden Records",
+      "country": "US",
+      "discogs_id": 2434870,
+      "rating_avg": 4.79,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/vJ9SAh6He-Qj2J2uXeAODyHbRbtbJWZxdRDoBXDdpn8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQ4/NzAtMTI4NDE5MjQy/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sharon Brown",
+      "title": "I Specialize In Love (Instrumental)",
+      "release_title": "Sharon Brown - I Specialize In Love",
+      "year": "2004",
+      "label": "Profile Records",
+      "country": "US",
+      "discogs_id": 7259036,
+      "rating_avg": 4.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/K6OQJl2n-j5rhi2mc9lPd7WQBGay10GMjdXpZtIKz0Q/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTkw/MzYtMTQzNzM4NTU2/OC00MzI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Laura Taylor",
+      "title": "Dancin' In My Feet",
+      "release_title": "Various - Another One Madly '81 / Disco Tops (Part 1 & 2)",
+      "year": "1981",
+      "label": "Disco Special Mix",
+      "country": "US",
+      "discogs_id": 1667176,
+      "rating_avg": 4.58,
+      "rating_count": 31,
+      "cover_image": "https://i.discogs.com/fE5RoeTSeG4JxytlkjsfMMratm_6nYcwTf00M32O7bM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njcx/NzYtMTU3NjYwNzMw/MC03NTc4LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "Down In Brazil",
+      "release_title": "Michael Franks - Sleeping Gypsy",
+      "year": "1978",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6401136,
+      "rating_avg": 4.0,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/mGKUlAQhYW31ZMoo2aGYFK0poRFiYEkE-_-O4RvBmJ8/rs:fit/g:sm/q:90/h:421/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDEx/MzYtMTQxODMyMjUy/My0xMzM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eponymous 4",
+      "title": "Undone",
+      "release_title": "Eponymous 4 - Imprint",
+      "year": "2013",
+      "label": "Observant Records",
+      "country": "US",
+      "discogs_id": 4871147,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jwQmX5e9TcB-eRR6PFe9QIQV4ElpX-fO3smqFB9-JxI/rs:fit/g:sm/q:90/h:356/w:356/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzEx/NDctMTM3ODI3MDk2/NS01NjA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Hendrik Meurkens",
+      "title": "Bossa Sketch",
+      "release_title": "Hendrik Meurkens - Samba To Go",
+      "year": "2009",
+      "label": "ZOHO",
+      "country": "US",
+      "discogs_id": 11164502,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JNElfkEigo-CLYpluKUjJC0DHD1-D0T-qKg3UIlFUhM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY0/NTAyLTE1MjA1NDQz/NjYtMjU5NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mario Adnet",
+      "title": "Trilhas Da Floresta (Forest Trails)",
+      "release_title": "Mario Adnet - Amazonia - On The Forest Trail",
+      "year": "2012",
+      "label": "Adventure Music",
+      "country": "US",
+      "discogs_id": 13166146,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JBSkWXVgQmI8JKhG4L4-03ikMUiNXA7zjdujgqELDWk/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY2/MTQ2LTE1NDkyMDI2/MTgtNDM3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Serry Jr.",
+      "title": "Penumbra",
+      "release_title": "John Serry Jr. - Jazziz",
+      "year": "1980",
+      "label": "Chrysalis",
+      "country": "US",
+      "discogs_id": 13984524,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Pam Todd & Love Exchange",
+      "title": "It Takes A Thief",
+      "release_title": "Pam Todd & Love Exchange - Let's Get Together",
+      "year": "1977",
+      "label": "Shyrlden Records",
+      "country": "US",
+      "discogs_id": 2434870,
+      "rating_avg": 4.79,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/vJ9SAh6He-Qj2J2uXeAODyHbRbtbJWZxdRDoBXDdpn8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQ4/NzAtMTI4NDE5MjQy/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herbie Mann",
+      "title": "Hold On, I'm Comin'",
+      "release_title": "Herbie Mann - Memphis Underground",
+      "year": "1975",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12431481,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/WCuaSKnIl8J-EWASJ9ws8n2ij46Qdurk2Xl7LiK4WtU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMx/NDgxLTE3NDgzNTYz/NzQtNTUxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bombers",
+      "title": "(Everybody) Get Dancin'",
+      "release_title": "Bombers - (Everybody) Get Dancin'",
+      "year": "1979",
+      "label": "West End Records",
+      "country": "US",
+      "discogs_id": 6080500,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Mario Adnet",
+      "title": "Amazonas II (Amazon II)",
+      "release_title": "Mario Adnet - Amazonia - On The Forest Trail",
+      "year": "2012",
+      "label": "Adventure Music",
+      "country": "US",
+      "discogs_id": 13166146,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JBSkWXVgQmI8JKhG4L4-03ikMUiNXA7zjdujgqELDWk/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY2/MTQ2LTE1NDkyMDI2/MTgtNDM3NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Serry Jr.",
+      "title": "Song For You",
+      "release_title": "John Serry Jr. - Jazziz",
+      "year": "1980",
+      "label": "Chrysalis",
+      "country": "US",
+      "discogs_id": 13984524,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Charlie Byrd",
+      "title": "I Ain´t Got Nothin´ But The Blues",
+      "release_title": "Charlie Byrd - Bluebyrd",
+      "year": "1992",
+      "label": "Concord Jazz",
+      "country": "US",
+      "discogs_id": 3182057,
+      "rating_avg": 5.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/ERdttR9ItEQbYySsx2V8n9hz4C7wslHKDr8-MBA0fvM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODIw/NTctMTMxOTQxOTkz/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hendrik Meurkens",
+      "title": "My Foolish Heart",
+      "release_title": "Hendrik Meurkens - Samba To Go",
+      "year": "2009",
+      "label": "ZOHO",
+      "country": "US",
+      "discogs_id": 11164502,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JNElfkEigo-CLYpluKUjJC0DHD1-D0T-qKg3UIlFUhM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY0/NTAyLTE1MjA1NDQz/NjYtMjU5NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Winter & Oscar Castro-Neves",
+      "title": "Tambén Quem Mandou",
+      "release_title": "Paul Winter (2) / Oscar Castro-Neves - Brazilian Days",
+      "year": "1998",
+      "label": "Living Music",
+      "country": "US",
+      "discogs_id": 1888735,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/c2ZHJ-EOafrL4XRxxMNqtwGymY3mIAGRfYRgGjbMg5k/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODg3/MzUtMTI1MDMxMTQz/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Winter & Oscar Castro-Neves",
+      "title": "Canto Triste",
+      "release_title": "Paul Winter (2) / Oscar Castro-Neves - Brazilian Days",
+      "year": "1998",
+      "label": "Living Music",
+      "country": "US",
+      "discogs_id": 1888735,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/c2ZHJ-EOafrL4XRxxMNqtwGymY3mIAGRfYRgGjbMg5k/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODg3/MzUtMTI1MDMxMTQz/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Herbie Mann",
+      "title": "Memphis Underground",
+      "release_title": "Herbie Mann - Memphis Underground",
+      "year": "1975",
+      "label": "Atlantic",
+      "country": "US",
+      "discogs_id": 12431481,
+      "rating_avg": 4.5,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/WCuaSKnIl8J-EWASJ9ws8n2ij46Qdurk2Xl7LiK4WtU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMx/NDgxLTE3NDgzNTYz/NzQtNTUxOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Hendrik Meurkens",
+      "title": "Samba To Go!",
+      "release_title": "Hendrik Meurkens - Samba To Go",
+      "year": "2009",
+      "label": "ZOHO",
+      "country": "US",
+      "discogs_id": 11164502,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/JNElfkEigo-CLYpluKUjJC0DHD1-D0T-qKg3UIlFUhM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY0/NTAyLTE1MjA1NDQz/NjYtMjU5NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Serry Jr.",
+      "title": "Doc Holiday",
+      "release_title": "John Serry Jr. - Jazziz",
+      "year": "1980",
+      "label": "Chrysalis",
+      "country": "US",
+      "discogs_id": 13984524,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Eponymous 4",
+      "title": "Our Best Wasn't Enough",
+      "release_title": "Eponymous 4 - Imprint",
+      "year": "2013",
+      "label": "Observant Records",
+      "country": "US",
+      "discogs_id": 4871147,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jwQmX5e9TcB-eRR6PFe9QIQV4ElpX-fO3smqFB9-JxI/rs:fit/g:sm/q:90/h:356/w:356/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzEx/NDctMTM3ODI3MDk2/NS01NjA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pam Todd & Love Exchange",
+      "title": "Let's Get Together",
+      "release_title": "Pam Todd & Love Exchange - Let's Get Together",
+      "year": "1977",
+      "label": "Shyrlden Records",
+      "country": "US",
+      "discogs_id": 2434870,
+      "rating_avg": 4.79,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/vJ9SAh6He-Qj2J2uXeAODyHbRbtbJWZxdRDoBXDdpn8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQ4/NzAtMTI4NDE5MjQy/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tiva",
+      "title": "Intergalactic Journey",
+      "release_title": "World Renoun Jazz Virtuoso TIVA!* - Infinity Jazz Odyssey 2",
+      "year": "2016",
+      "label": "Sexy.bandcamp.com Records",
+      "country": "US",
+      "discogs_id": 13521561,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/UtvJo7Bq6qn2BeLgXlqztaGvvhP2N6f27xLw3qU3x6A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIx/NTYxLTE1NTU3ODEz/NzItNDQ0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "Don't Be Blue",
+      "release_title": "Michael Franks - Sleeping Gypsy",
+      "year": "1978",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6401136,
+      "rating_avg": 4.0,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/mGKUlAQhYW31ZMoo2aGYFK0poRFiYEkE-_-O4RvBmJ8/rs:fit/g:sm/q:90/h:421/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDEx/MzYtMTQxODMyMjUy/My0xMzM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Paul Winter & Oscar Castro-Neves",
+      "title": "Por Causa De Você",
+      "release_title": "Paul Winter (2) / Oscar Castro-Neves - Brazilian Days",
+      "year": "1998",
+      "label": "Living Music",
+      "country": "US",
+      "discogs_id": 1888735,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/c2ZHJ-EOafrL4XRxxMNqtwGymY3mIAGRfYRgGjbMg5k/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODg3/MzUtMTI1MDMxMTQz/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Andy Narell",
+      "title": "The Songlines",
+      "release_title": "Andy Narell - Little Secrets",
+      "year": "1989",
+      "label": "Windham Hill Jazz",
+      "country": "US",
+      "discogs_id": 8963090,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KtFMhMtBWCu9aQ4--ctVQD0jFiqd3ne53n2G3ZYGeTg/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjMw/OTAtMTU5NjEyNDg3/Mi05NTM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "Antonio's Song / The Rainbow",
+      "release_title": "Michael Franks - Sleeping Gypsy",
+      "year": "1978",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 6401136,
+      "rating_avg": 4.0,
+      "rating_count": 15,
+      "cover_image": "https://i.discogs.com/mGKUlAQhYW31ZMoo2aGYFK0poRFiYEkE-_-O4RvBmJ8/rs:fit/g:sm/q:90/h:421/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDEx/MzYtMTQxODMyMjUy/My0xMzM1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Eponymous 4",
+      "title": "Love And Pride",
+      "release_title": "Eponymous 4 - Imprint",
+      "year": "2013",
+      "label": "Observant Records",
+      "country": "US",
+      "discogs_id": 4871147,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/jwQmX5e9TcB-eRR6PFe9QIQV4ElpX-fO3smqFB9-JxI/rs:fit/g:sm/q:90/h:356/w:356/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzEx/NDctMTM3ODI3MDk2/NS01NjA3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Pam Todd & Love Exchange",
+      "title": "Never On A Sunday",
+      "release_title": "Pam Todd & Love Exchange - Let's Get Together",
+      "year": "1977",
+      "label": "Shyrlden Records",
+      "country": "US",
+      "discogs_id": 2434870,
+      "rating_avg": 4.79,
+      "rating_count": 14,
+      "cover_image": "https://i.discogs.com/vJ9SAh6He-Qj2J2uXeAODyHbRbtbJWZxdRDoBXDdpn8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQ4/NzAtMTI4NDE5MjQy/Mi5qcGVn.jpeg"
+    },
+    {
+      "artist": "Paul Winter & Oscar Castro-Neves",
+      "title": "Coisa Mais Linda",
+      "release_title": "Paul Winter (2) / Oscar Castro-Neves - Brazilian Days",
+      "year": "1998",
+      "label": "Living Music",
+      "country": "US",
+      "discogs_id": 1888735,
+      "rating_avg": 4.25,
+      "rating_count": 4,
+      "cover_image": "https://i.discogs.com/c2ZHJ-EOafrL4XRxxMNqtwGymY3mIAGRfYRgGjbMg5k/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODg3/MzUtMTI1MDMxMTQz/OC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tiva",
+      "title": "Bungle in the Jungles of Venus",
+      "release_title": "World Renoun Jazz Virtuoso TIVA!* - Infinity Jazz Odyssey 2",
+      "year": "2016",
+      "label": "Sexy.bandcamp.com Records",
+      "country": "US",
+      "discogs_id": 13521561,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/UtvJo7Bq6qn2BeLgXlqztaGvvhP2N6f27xLw3qU3x6A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIx/NTYxLTE1NTU3ODEz/NzItNDQ0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Andy Narell",
+      "title": "Chamcha's Cha Cha",
+      "release_title": "Andy Narell - Little Secrets",
+      "year": "1989",
+      "label": "Windham Hill Jazz",
+      "country": "US",
+      "discogs_id": 8963090,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KtFMhMtBWCu9aQ4--ctVQD0jFiqd3ne53n2G3ZYGeTg/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjMw/OTAtMTU5NjEyNDg3/Mi05NTM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tiva",
+      "title": "Sexy Assteroids",
+      "release_title": "World Renoun Jazz Virtuoso TIVA!* - Infinity Jazz Odyssey 2",
+      "year": "2016",
+      "label": "Sexy.bandcamp.com Records",
+      "country": "US",
+      "discogs_id": 13521561,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/UtvJo7Bq6qn2BeLgXlqztaGvvhP2N6f27xLw3qU3x6A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIx/NTYxLTE1NTU3ODEz/NzItNDQ0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Orphy Robinson",
+      "title": "Waiting In Vain",
+      "release_title": "Various - June Release ´96",
+      "year": "1996",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 819090,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/yNSYlSHwbgMPtKQKm3aMRd_-0ncOTDmIhO43qjEnAds/rs:fit/g:sm/q:90/h:427/w:419/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTA5/MC0xMTYyMDI3MjU0/LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Andy Narell",
+      "title": "We Kinda Music",
+      "release_title": "Andy Narell - Little Secrets",
+      "year": "1989",
+      "label": "Windham Hill Jazz",
+      "country": "US",
+      "discogs_id": 8963090,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/KtFMhMtBWCu9aQ4--ctVQD0jFiqd3ne53n2G3ZYGeTg/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjMw/OTAtMTU5NjEyNDg3/Mi05NTM3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sharon Brown",
+      "title": "I Specialize In Love",
+      "release_title": "Sharon Brown - I Specialize In Love",
+      "year": "2004",
+      "label": "Profile Records",
+      "country": "US",
+      "discogs_id": 7259036,
+      "rating_avg": 4.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/K6OQJl2n-j5rhi2mc9lPd7WQBGay10GMjdXpZtIKz0Q/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTkw/MzYtMTQzNzM4NTU2/OC00MzI0LmpwZWc.jpeg"
+    }
+  ]
+}
