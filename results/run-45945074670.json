@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-3",
+    "searches": [
+      {
+        "genre": "Funk / Soul",
+        "style": "Soul"
+      },
+      {
+        "genre": "Rock",
+        "style": "Soft Rock"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Rock",
+        "style": "Pop Rock"
+      },
+      {
+        "genre": "Pop",
+        "style": "Vocal"
+      },
+      {
+        "genre": "Pop",
+        "style": "Ballad"
+      },
+      {
+        "genre": "Rock",
+        "style": "Country Rock"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1971,
+    "year_to": 2023,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 32,
+      "artists_found": 30,
+      "fresh_lookups": 3,
+      "styles_considered": 96
+    }
+  },
+  "results": [
+    {
+      "artist": "Curtis Ohlson",
+      "title": "Loveschool",
+      "release_title": "Curtis Ohlson - So Fast",
+      "year": "1987",
+      "label": "Intima Records",
+      "country": "US",
+      "discogs_id": 386919,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/iIWpfSkp7SGislvupjDmXcH5EvrA59GGRxRdN29QN5o/rs:fit/g:sm/q:90/h:304/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njkx/OS0xMTI0MjUxNDE3/LmpwZw.jpeg"
+    },
+    {
+      "artist": "Sarah Hershberg",
+      "title": "Sing-along",
+      "release_title": "Sarah Hershberg - Love!",
+      "year": "1971",
+      "label": "Franciscan Communications Center",
+      "country": "US",
+      "discogs_id": 31192309,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BUzcMWF85ksjb0LXNFkJK9M7XSdyCWt6JRZxZCu4kTc/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTky/MzA5LTE3MjA3MDY1/NDUtNzM1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Sarah Hershberg",
+      "title": "Love Like A Kid Again",
+      "release_title": "Sarah Hershberg - Love!",
+      "year": "1971",
+      "label": "Franciscan Communications Center",
+      "country": "US",
+      "discogs_id": 31192309,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BUzcMWF85ksjb0LXNFkJK9M7XSdyCWt6JRZxZCu4kTc/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTky/MzA5LTE3MjA3MDY1/NDUtNzM1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "B & G Rhythm",
+      "title": "So Remember",
+      "release_title": "B & G Rhythm - B & G Rhythm",
+      "year": "1978",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 3577496,
+      "rating_avg": 4.1,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/FC5O4KFBairvxuutryNDXixHic5_ZmAfiN0hVM90eRk/rs:fit/g:sm/q:90/h:400/w:377/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc0/OTYtMTMzNTk3NTA2/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Hedges",
+      "title": "All Along The Watchtower",
+      "release_title": "Michael Hedges - The Streamlined Man / All Along The Watchtower",
+      "year": "1985",
+      "label": "Open Air Records",
+      "country": "US",
+      "discogs_id": 2048409,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1qb_z0OP0yS4DlChluTY7KrihiuM4RbrOyTqNF8jF5U/rs:fit/g:sm/q:90/h:363/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDg0/MDktMTUyNzYwNDUz/OS01NTI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Sarah Hershberg",
+      "title": "Those Who Love, Those Who Don't",
+      "release_title": "Sarah Hershberg - Love!",
+      "year": "1971",
+      "label": "Franciscan Communications Center",
+      "country": "US",
+      "discogs_id": 31192309,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BUzcMWF85ksjb0LXNFkJK9M7XSdyCWt6JRZxZCu4kTc/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTky/MzA5LTE3MjA3MDY1/NDUtNzM1MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "New Riders Of The Purple Sage",
+      "title": "Hello Mary Lou (Goodbye Heart)",
+      "release_title": "New Riders Of The Purple Sage - The Best Of New Riders Of The Purple Sage",
+      "year": "1976",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3663054,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/PQcVlrWX3Q7JfXWPdeuNwFnGBBAMOx6z1UsvUtn09Ng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjMw/NTQtMTQ0MTkxMzEz/MS03MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Wayne Newton",
+      "title": "Daddy Don't You Walk So Fast",
+      "release_title": "Wayne Newton - Sings The Hits Of The '70s",
+      "year": "1999",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 12264293,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/80d1InRd_OUG3oN6IPOoW9KpPsHQQIKjlRLmMvqjTYs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY0/MjkzLTE1MzE3MjA3/MTEtODIxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Six Gun",
+      "title": "Long Island Breakdown",
+      "release_title": "Six Gun (3) - Forever You're Mine / Long Island Breakdown",
+      "year": "1983",
+      "label": "IBB Records",
+      "country": "US",
+      "discogs_id": 16060401,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1ptI-czIcNfuzsZKx0JCzpOtYt3lK56saT1tOsBtRNk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYw/NDAxLTE3NjY0NjAz/MzAtOTU4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "Heads",
+      "release_title": "Bob James - Heads / We're All Alone",
+      "year": "1977",
+      "label": "Tappan Zee Records",
+      "country": "US",
+      "discogs_id": 1968343,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "The Dancer",
+      "release_title": "Stanley Clarke - School Days",
+      "year": "1981",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 38622657,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/z9pl5Ttpl5C3kUC29oBhhnTVi3dMkGUPhrH33Llj5og/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjIy/NjU3LTE3OTEyMDc1/MjctNjQ1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "Hot Fun",
+      "release_title": "Stanley Clarke - School Days",
+      "year": "1981",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 38622657,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/z9pl5Ttpl5C3kUC29oBhhnTVi3dMkGUPhrH33Llj5og/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjIy/NjU3LTE3OTEyMDc1/MjctNjQ1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "New Riders Of The Purple Sage",
+      "title": "I Don't Know You",
+      "release_title": "New Riders Of The Purple Sage - The Best Of New Riders Of The Purple Sage",
+      "year": "1976",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3663054,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/PQcVlrWX3Q7JfXWPdeuNwFnGBBAMOx6z1UsvUtn09Ng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjMw/NTQtMTQ0MTkxMzEz/MS03MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tyler Reeve",
+      "title": "Lagovista",
+      "release_title": "Tyler Reeve - Whiskey Down",
+      "year": "2008",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 38039475,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gmK9COyVajA7q8B6uCaiVi0fwVX318Shci0M-ZVRKSI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDM5/NDc1LTE3ODU2NDEx/MjYtNzY5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Curtis Ohlson",
+      "title": "Village Chant",
+      "release_title": "Curtis Ohlson - So Fast",
+      "year": "1987",
+      "label": "Intima Records",
+      "country": "US",
+      "discogs_id": 386919,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/iIWpfSkp7SGislvupjDmXcH5EvrA59GGRxRdN29QN5o/rs:fit/g:sm/q:90/h:304/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njkx/OS0xMTI0MjUxNDE3/LmpwZw.jpeg"
+    },
+    {
+      "artist": "Jamie Grace",
+      "title": "O Come, O Come Emmanuel",
+      "release_title": "Jamie Grace - Christmas Together e.p.",
+      "year": "2011",
+      "label": "Gotee Records",
+      "country": "US",
+      "discogs_id": 7701814,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ekuknc5Gj-rbNreBEeOktlWZlqyebYj64cFMfj4Ym4M/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDE4/MTQtMTQ0NzAyMTgz/Ni05NDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Curtis Ohlson",
+      "title": "Verbal Abuse",
+      "release_title": "Curtis Ohlson - So Fast",
+      "year": "1987",
+      "label": "Intima Records",
+      "country": "US",
+      "discogs_id": 386919,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/iIWpfSkp7SGislvupjDmXcH5EvrA59GGRxRdN29QN5o/rs:fit/g:sm/q:90/h:304/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njkx/OS0xMTI0MjUxNDE3/LmpwZw.jpeg"
+    },
+    {
+      "artist": "Tommy Dorsey And His Orchestra",
+      "title": "Oh! Look At Me Now",
+      "release_title": "Tommy Dorsey And His Orchestra - Oh! Look At Me Now ",
+      "year": "1982",
+      "label": "Victor",
+      "country": "US",
+      "discogs_id": 6492395,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ujm9yH0e3-XsERkKpVIALdODfQaPghalHwD1OrTnNwc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTIz/OTUtMTQyMDQ5NjQz/OS0zMjc1LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Tyler Reeve",
+      "title": "Broken Song",
+      "release_title": "Tyler Reeve - Whiskey Down",
+      "year": "2008",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 38039475,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gmK9COyVajA7q8B6uCaiVi0fwVX318Shci0M-ZVRKSI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDM5/NDc1LTE3ODU2NDEx/MjYtNzY5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "School Days",
+      "release_title": "Stanley Clarke - School Days",
+      "year": "1981",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 38622657,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/z9pl5Ttpl5C3kUC29oBhhnTVi3dMkGUPhrH33Llj5og/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjIy/NjU3LTE3OTEyMDc1/MjctNjQ1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jamie Grace",
+      "title": "Christmas Together",
+      "release_title": "Jamie Grace - Christmas Together e.p.",
+      "year": "2011",
+      "label": "Gotee Records",
+      "country": "US",
+      "discogs_id": 7701814,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ekuknc5Gj-rbNreBEeOktlWZlqyebYj64cFMfj4Ym4M/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDE4/MTQtMTQ0NzAyMTgz/Ni05NDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Lewis 3 & Linda Gail Lewis & Annie Marie Lewis & Mary Jean Lewis",
+      "title": "Mansion Over The Hilltop",
+      "release_title": "The Lewis 3, Linda Gail*, Annie Marie*, Mary Jean* - Perfect World The Lewis 3",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25146352,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JY7LZBDtIiCOpS9VvvP17fmqfP-bWLgjw5h_yjNiEP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTQ2/MzUyLTE2NjgzMDA1/MDQtODMyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Mike Corbett & Jay Hirsh",
+      "title": "Broken Sky",
+      "release_title": "Mike* & Jay* - Broken Sky",
+      "year": "1971",
+      "label": "ATCO Records",
+      "country": "US",
+      "discogs_id": 13621524,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/4v3zoKngJRHm5ZhzbkPUCNM4AvuyCdfq6Sef3DnTeXk/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIx/NTI0LTE1NTc2ODY2/NTItODg1NC5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jamie Grace",
+      "title": "What Child Is This?",
+      "release_title": "Jamie Grace - Christmas Together e.p.",
+      "year": "2011",
+      "label": "Gotee Records",
+      "country": "US",
+      "discogs_id": 7701814,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ekuknc5Gj-rbNreBEeOktlWZlqyebYj64cFMfj4Ym4M/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDE4/MTQtMTQ0NzAyMTgz/Ni05NDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "The Lewis 3 & Linda Gail Lewis & Annie Marie Lewis & Mary Jean Lewis",
+      "title": "I Didn't Know Love Felt This Way",
+      "release_title": "The Lewis 3, Linda Gail*, Annie Marie*, Mary Jean* - Perfect World The Lewis 3",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25146352,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JY7LZBDtIiCOpS9VvvP17fmqfP-bWLgjw5h_yjNiEP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTQ2/MzUyLTE2NjgzMDA1/MDQtODMyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tyler Reeve",
+      "title": "Good Music",
+      "release_title": "Tyler Reeve - Whiskey Down",
+      "year": "2008",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 38039475,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gmK9COyVajA7q8B6uCaiVi0fwVX318Shci0M-ZVRKSI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDM5/NDc1LTE3ODU2NDEx/MjYtNzY5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Wayne Newton",
+      "title": "Loves Me Like A Rock",
+      "release_title": "Wayne Newton - Sings The Hits Of The '70s",
+      "year": "1999",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 12264293,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/80d1InRd_OUG3oN6IPOoW9KpPsHQQIKjlRLmMvqjTYs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY0/MjkzLTE1MzE3MjA3/MTEtODIxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Wayne Newton",
+      "title": "Can You Hear The Song?",
+      "release_title": "Wayne Newton - Sings The Hits Of The '70s",
+      "year": "1999",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 12264293,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/80d1InRd_OUG3oN6IPOoW9KpPsHQQIKjlRLmMvqjTYs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY0/MjkzLTE1MzE3MjA3/MTEtODIxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jamie Grace",
+      "title": "The Chipmunk Song (Christmas Don't Be Late)",
+      "release_title": "Jamie Grace - Christmas Together e.p.",
+      "year": "2011",
+      "label": "Gotee Records",
+      "country": "US",
+      "discogs_id": 7701814,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Ekuknc5Gj-rbNreBEeOktlWZlqyebYj64cFMfj4Ym4M/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDE4/MTQtMTQ0NzAyMTgz/Ni05NDczLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Betcha (Mono)",
+      "release_title": "Stanley Turrentine - Betcha",
+      "year": "1979",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 9716032,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Btd7smzd2dCRvLcP_OW1tVHg5eP6VSa6OsXMvs3OuC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTYw/MzItMTQ4NTIyOTg5/OC04MDQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "B & G Rhythm",
+      "title": "Hibaros",
+      "release_title": "B & G Rhythm - B & G Rhythm",
+      "year": "1978",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 3577496,
+      "rating_avg": 4.1,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/FC5O4KFBairvxuutryNDXixHic5_ZmAfiN0hVM90eRk/rs:fit/g:sm/q:90/h:400/w:377/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc0/OTYtMTMzNTk3NTA2/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "B & G Rhythm",
+      "title": "I Know You",
+      "release_title": "B & G Rhythm - B & G Rhythm",
+      "year": "1978",
+      "label": "Polydor",
+      "country": "US",
+      "discogs_id": 3577496,
+      "rating_avg": 4.1,
+      "rating_count": 29,
+      "cover_image": "https://i.discogs.com/FC5O4KFBairvxuutryNDXixHic5_ZmAfiN0hVM90eRk/rs:fit/g:sm/q:90/h:400/w:377/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc0/OTYtMTMzNTk3NTA2/NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Betcha (Stereo)",
+      "release_title": "Stanley Turrentine - Betcha",
+      "year": "1979",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 9716032,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/Btd7smzd2dCRvLcP_OW1tVHg5eP6VSa6OsXMvs3OuC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTYw/MzItMTQ4NTIyOTg5/OC04MDQwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Six Gun",
+      "title": "Forever You're Mine",
+      "release_title": "Six Gun (3) - Forever You're Mine / Long Island Breakdown",
+      "year": "1983",
+      "label": "IBB Records",
+      "country": "US",
+      "discogs_id": 16060401,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/1ptI-czIcNfuzsZKx0JCzpOtYt3lK56saT1tOsBtRNk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYw/NDAxLTE3NjY0NjAz/MzAtOTU4MC5qcGVn.jpeg"
+    },
+    {
+      "artist": "New Riders Of The Purple Sage",
+      "title": "You Angel You",
+      "release_title": "New Riders Of The Purple Sage - The Best Of New Riders Of The Purple Sage",
+      "year": "1976",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3663054,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/PQcVlrWX3Q7JfXWPdeuNwFnGBBAMOx6z1UsvUtn09Ng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjMw/NTQtMTQ0MTkxMzEz/MS03MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bob James",
+      "title": "We're All Alone",
+      "release_title": "Bob James - Heads / We're All Alone",
+      "year": "1977",
+      "label": "Tappan Zee Records",
+      "country": "US",
+      "discogs_id": 1968343,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "The Lewis 3 & Linda Gail Lewis & Annie Marie Lewis & Mary Jean Lewis",
+      "title": "Forever Has Come To An End",
+      "release_title": "The Lewis 3, Linda Gail*, Annie Marie*, Mary Jean* - Perfect World The Lewis 3",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25146352,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JY7LZBDtIiCOpS9VvvP17fmqfP-bWLgjw5h_yjNiEP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTQ2/MzUyLTE2NjgzMDA1/MDQtODMyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Michael Hedges",
+      "title": "The Streamlined Man",
+      "release_title": "Michael Hedges - The Streamlined Man / All Along The Watchtower",
+      "year": "1985",
+      "label": "Open Air Records",
+      "country": "US",
+      "discogs_id": 2048409,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/1qb_z0OP0yS4DlChluTY7KrihiuM4RbrOyTqNF8jF5U/rs:fit/g:sm/q:90/h:363/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDg0/MDktMTUyNzYwNDUz/OS01NTI5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "Quiet Afternoon",
+      "release_title": "Stanley Clarke - School Days",
+      "year": "1981",
+      "label": "Epic",
+      "country": "US",
+      "discogs_id": 38622657,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/z9pl5Ttpl5C3kUC29oBhhnTVi3dMkGUPhrH33Llj5og/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjIy/NjU3LTE3OTEyMDc1/MjctNjQ1NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "New Riders Of The Purple Sage",
+      "title": "Glendale Train",
+      "release_title": "New Riders Of The Purple Sage - The Best Of New Riders Of The Purple Sage",
+      "year": "1976",
+      "label": "Columbia",
+      "country": "US",
+      "discogs_id": 3663054,
+      "rating_avg": 4.33,
+      "rating_count": 6,
+      "cover_image": "https://i.discogs.com/PQcVlrWX3Q7JfXWPdeuNwFnGBBAMOx6z1UsvUtn09Ng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjMw/NTQtMTQ0MTkxMzEz/MS03MjY3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Wayne Newton",
+      "title": "Alone Again, Naturally",
+      "release_title": "Wayne Newton - Sings The Hits Of The '70s",
+      "year": "1999",
+      "label": "Varèse Sarabande",
+      "country": "US",
+      "discogs_id": 12264293,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/80d1InRd_OUG3oN6IPOoW9KpPsHQQIKjlRLmMvqjTYs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY0/MjkzLTE1MzE3MjA3/MTEtODIxNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Tyler Reeve",
+      "title": "Blankets In The Bed",
+      "release_title": "Tyler Reeve - Whiskey Down",
+      "year": "2008",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 38039475,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/gmK9COyVajA7q8B6uCaiVi0fwVX318Shci0M-ZVRKSI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDM5/NDc1LTE3ODU2NDEx/MjYtNzY5OS5qcGVn.jpeg"
+    },
+    {
+      "artist": "The Lewis 3 & Linda Gail Lewis & Annie Marie Lewis & Mary Jean Lewis",
+      "title": "Johnny Be Good",
+      "release_title": "The Lewis 3, Linda Gail*, Annie Marie*, Mary Jean* - Perfect World The Lewis 3",
+      "year": "2006",
+      "label": "Not On Label",
+      "country": "US",
+      "discogs_id": 25146352,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/JY7LZBDtIiCOpS9VvvP17fmqfP-bWLgjw5h_yjNiEP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTQ2/MzUyLTE2NjgzMDA1/MDQtODMyNS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Curtis Ohlson",
+      "title": "Half Nelson",
+      "release_title": "Curtis Ohlson - So Fast",
+      "year": "1987",
+      "label": "Intima Records",
+      "country": "US",
+      "discogs_id": 386919,
+      "rating_avg": 4.33,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/iIWpfSkp7SGislvupjDmXcH5EvrA59GGRxRdN29QN5o/rs:fit/g:sm/q:90/h:304/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njkx/OS0xMTI0MjUxNDE3/LmpwZw.jpeg"
+    },
+    {
+      "artist": "Sarah Hershberg",
+      "title": "Reap, Reap",
+      "release_title": "Sarah Hershberg - Love!",
+      "year": "1971",
+      "label": "Franciscan Communications Center",
+      "country": "US",
+      "discogs_id": 31192309,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/BUzcMWF85ksjb0LXNFkJK9M7XSdyCWt6JRZxZCu4kTc/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTky/MzA5LTE3MjA3MDY1/NDUtNzM1MS5qcGVn.jpeg"
+    }
+  ]
+}
