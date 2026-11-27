@@ -1,0 +1,598 @@
+{
+  "status": "done",
+  "spec_used": {
+    "id": "lib-1",
+    "searches": [
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Contemporary Jazz"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Disco"
+      },
+      {
+        "genre": "Funk / Soul",
+        "style": "Funk"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Fusion"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Soul-Jazz"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Jazz-Rock"
+      },
+      {
+        "genre": "Jazz",
+        "style": "Bossa Nova"
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "year_from": 1975,
+    "year_to": 2017,
+    "target": 2,
+    "derived": true,
+    "widened": false,
+    "rounds": 1,
+    "obscure": true,
+    "coverage": {
+      "artists_asked": 5,
+      "artists_found": 5,
+      "fresh_lookups": 0,
+      "styles_considered": 32
+    }
+  },
+  "results": [
+    {
+      "artist": "Bob Rodriguez & Ken Filiano & Ron Glick",
+      "title": "Loose And Open",
+      "release_title": "Bob Rodriguez, Ken Filiano, Ron Glick - Mist",
+      "year": "1995",
+      "label": "Nine Winds Records",
+      "country": "US",
+      "discogs_id": 11416961,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/DVDYk3Qef4ZFkPFBRY0QTYR3Zw6dSI2miVsvYJjzLZQ/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE2/OTYxLTE2NDQyNDAw/ODUtODA4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Oregon",
+      "title": "Arion",
+      "release_title": "Oregon - In Performance",
+      "year": "1980",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 4224422,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AmrwujsFD62YVxnALrz4PEf1HSt9wYKR9RvsL-XCz4g/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjQ0/MjItMTM1OTAyODEy/My02NTI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "My Love",
+      "release_title": "Lonnie Liston Smith - Sorceress / My Love",
+      "year": "1977",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 2636440,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tptqUI_p_TXGNxDMO02x5IgWKV9egO3Pw2o2HWUoajE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzY0/NDAtMTM1MjkyNDcy/My0yNTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "The L.A. Express",
+      "title": "Western Horizon",
+      "release_title": "L.A. Express* - L.A. Express",
+      "year": "1976",
+      "label": "Caribou Records",
+      "country": "US",
+      "discogs_id": 2010369,
+      "rating_avg": 3.84,
+      "rating_count": 45,
+      "cover_image": "https://i.discogs.com/FcJ1FSno2vPA4YK2TYr9SaJCK-Telld6qRQdsgcCcFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAz/NjktMTMxNDE0NzQx/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Oregon",
+      "title": "Deer Path",
+      "release_title": "Oregon - In Performance",
+      "year": "1980",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 4224422,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AmrwujsFD62YVxnALrz4PEf1HSt9wYKR9RvsL-XCz4g/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjQ0/MjItMTM1OTAyODEy/My02NTI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Give Peace A Chance (Make Love Not War)",
+      "release_title": "Lonnie Liston Smith - The Best Of Lonnie Liston Smith",
+      "year": "1980",
+      "label": "CBS",
+      "country": "US",
+      "discogs_id": 4137028,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Moonlight In Vermont",
+      "release_title": "Jimmy McGriff - One Of Mine",
+      "year": "1996",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 5425182,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/YoYMe_g5tfV0jEvrC0xmF8PlshblCpOtVq2kXTWLpIE/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjUx/ODItMTM5Mzg5OTA5/Ni0yMTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Sorceress",
+      "release_title": "Lonnie Liston Smith - Sorceress / My Love",
+      "year": "1977",
+      "label": "RCA",
+      "country": "US",
+      "discogs_id": 2636440,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/tptqUI_p_TXGNxDMO02x5IgWKV9egO3Pw2o2HWUoajE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzY0/NDAtMTM1MjkyNDcy/My0yNTU5LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lisa Karp & Dr. John",
+      "title": "Good News Rumors (Lounge Version)",
+      "release_title": "Lisa Karp With Dr. John - Fucsia Blues",
+      "year": "2005",
+      "label": "Adore Records",
+      "country": "US",
+      "discogs_id": 4020362,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Z7V3kbXAWwJq3g8zwhKH4FbVGDG2EqBbd8x_AE6-Kw4/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjAz/NjItMTM1MjU4Mjk2/MS03MDgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Oregon",
+      "title": "Icarus",
+      "release_title": "Oregon - In Performance",
+      "year": "1980",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 4224422,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AmrwujsFD62YVxnALrz4PEf1HSt9wYKR9RvsL-XCz4g/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjQ0/MjItMTM1OTAyODEy/My02NTI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Harold Ousley",
+      "title": "Why Did I Choose You?",
+      "release_title": "Harold Ousley - The People's Groove",
+      "year": "1977",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 6088403,
+      "rating_avg": 4.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/6nNhZx5q5y23kDMfEwIgBHH2F0dT4Phyd-hp13xaRLo/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODg0/MDMtMTQxMDc2NjEy/Ny0xMjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Harold Ousley",
+      "title": "Little Virgo",
+      "release_title": "Harold Ousley - The People's Groove",
+      "year": "1977",
+      "label": "Muse Records",
+      "country": "US",
+      "discogs_id": 6088403,
+      "rating_avg": 4.8,
+      "rating_count": 5,
+      "cover_image": "https://i.discogs.com/6nNhZx5q5y23kDMfEwIgBHH2F0dT4Phyd-hp13xaRLo/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODg0/MDMtMTQxMDc2NjEy/Ny0xMjQxLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Mike Armando",
+      "title": "Funk A Lunk - Mike Armando - guitar, Johnny Ace - bass,  Andy Berne - keys, Michael Johnson - sax, Matt Crawford - drums",
+      "release_title": "Mike Armando - Funk A Lunk",
+      "year": "2017",
+      "label": "MJA Records",
+      "country": "US",
+      "discogs_id": 12961232,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/dWfT0IzIs2YfDzi6Dl2XSW4hTA8tjyWPpuaxNsXx8Ek/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYx/MjMyLTE1NDUzOTM1/MDktMTk3Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "The L.A. Express",
+      "title": "Transylvania Choo Choo",
+      "release_title": "L.A. Express* - L.A. Express",
+      "year": "1976",
+      "label": "Caribou Records",
+      "country": "US",
+      "discogs_id": 2010369,
+      "rating_avg": 3.84,
+      "rating_count": 45,
+      "cover_image": "https://i.discogs.com/FcJ1FSno2vPA4YK2TYr9SaJCK-Telld6qRQdsgcCcFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAz/NjktMTMxNDE0NzQx/Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Gospel Time",
+      "release_title": "Jimmy McGriff - One Of Mine",
+      "year": "1996",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 5425182,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/YoYMe_g5tfV0jEvrC0xmF8PlshblCpOtVq2kXTWLpIE/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjUx/ODItMTM5Mzg5OTA5/Ni0yMTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Emmet Cohen",
+      "title": "Resentment (Without Reason)",
+      "release_title": "Emmet Cohen - In The Element",
+      "year": "2011",
+      "label": "Bada Beep Music",
+      "country": "US",
+      "discogs_id": 14303531,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/dqJrN19AjXL4NrxuefnzWdxz2LCItn_Z3Rn18VZB5R8/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/NTMxLTE1NzE4MzI3/MzEtNjI2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Emmet Cohen",
+      "title": "3 O'Clock in the Morning",
+      "release_title": "Emmet Cohen - In The Element",
+      "year": "2011",
+      "label": "Bada Beep Music",
+      "country": "US",
+      "discogs_id": 14303531,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/dqJrN19AjXL4NrxuefnzWdxz2LCItn_Z3Rn18VZB5R8/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/NTMxLTE1NzE4MzI3/MzEtNjI2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine & Shirley Scott",
+      "title": "Ciao, Ciao",
+      "release_title": "Stanley Turrentine Featuring Shirley Scott - Let It Go",
+      "year": "1992",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 6516351,
+      "rating_avg": 4.71,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/srS4V4ZnSTjBZ9eZ8gUH0BTDoQk99-hElUBR8pLhU3k/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTYz/NTEtMTQyMTAyNDE0/Mi03MzA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Bob Rodriguez & Ken Filiano & Ron Glick",
+      "title": "I Will Say Goodbye",
+      "release_title": "Bob Rodriguez, Ken Filiano, Ron Glick - Mist",
+      "year": "1995",
+      "label": "Nine Winds Records",
+      "country": "US",
+      "discogs_id": 11416961,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/DVDYk3Qef4ZFkPFBRY0QTYR3Zw6dSI2miVsvYJjzLZQ/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE2/OTYxLTE2NDQyNDAw/ODUtODA4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jon Lucien",
+      "title": "We've Got Love",
+      "release_title": "Jon Lucien - Precious Is Love (Majestic Soul)",
+      "year": "1999",
+      "label": "ARTS Records International",
+      "country": "US",
+      "discogs_id": 1278464,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ReuIAa4s6GHJIpOvGtFFjklDnC46sBAmQWPqMxfj2EY/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NjQtMTM0Njg0MzY4/MS01NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stuff",
+      "title": "Reflections Of Divine Love",
+      "release_title": "Stuff (2) - Stuff",
+      "year": "1976",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 5874020,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tZKvRRE6VdlX_Y1uTKg-HZGPytJ_4-wE80XRb6-KvI4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzQw/MjAtMTQwNTA5MzYw/Ni01OTk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lisa Karp & Dr. John",
+      "title": "Curve Of The Truth",
+      "release_title": "Lisa Karp With Dr. John - Fucsia Blues",
+      "year": "2005",
+      "label": "Adore Records",
+      "country": "US",
+      "discogs_id": 4020362,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Z7V3kbXAWwJq3g8zwhKH4FbVGDG2EqBbd8x_AE6-Kw4/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjAz/NjItMTM1MjU4Mjk2/MS03MDgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jon Lucien",
+      "title": "Strawberries Don't Know Cherries",
+      "release_title": "Jon Lucien - Precious Is Love (Majestic Soul)",
+      "year": "1999",
+      "label": "ARTS Records International",
+      "country": "US",
+      "discogs_id": 1278464,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ReuIAa4s6GHJIpOvGtFFjklDnC46sBAmQWPqMxfj2EY/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NjQtMTM0Njg0MzY4/MS01NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Emmet Cohen",
+      "title": "The Swarm",
+      "release_title": "Emmet Cohen - In The Element",
+      "year": "2011",
+      "label": "Bada Beep Music",
+      "country": "US",
+      "discogs_id": 14303531,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/dqJrN19AjXL4NrxuefnzWdxz2LCItn_Z3Rn18VZB5R8/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/NTMxLTE1NzE4MzI3/MzEtNjI2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Rusty Bryant",
+      "title": "The Hooker",
+      "release_title": "Rusty Bryant - Fire Eater",
+      "year": "2017",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 10283332,
+      "rating_avg": 4.76,
+      "rating_count": 59,
+      "cover_image": "https://i.discogs.com/AZYOsHuztznfigkZ1X1vBdNL51RUdIPlRRlAFLX0z34/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/MzMyLTE0OTQ2NDg4/MjAtNDI0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Chicken Dog",
+      "release_title": "John Scofield - A Go Go",
+      "year": "1998",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 11430592,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FzWkKvIHR3VqydDwlMABGDb5WUToEgxQVPujuTx0DI8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/NTkyLTE1MTYxOTgz/MjYtNDI4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Southern Pacific",
+      "release_title": "John Scofield - A Go Go",
+      "year": "1998",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 11430592,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FzWkKvIHR3VqydDwlMABGDb5WUToEgxQVPujuTx0DI8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/NTkyLTE1MTYxOTgz/MjYtNDI4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Don Reeve",
+      "title": "Celtic Cross",
+      "release_title": "Don Reeve - Spirit Wild",
+      "year": "1991",
+      "label": "Crash Landing",
+      "country": "US",
+      "discogs_id": 9133918,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/FjV3zldTyHq-JjyEE1AM33c6p69BML1J8fwHRiPAOQs/rs:fit/g:sm/q:90/h:441/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM5/MTgtMTQ3NTM1NDM3/NC03MzYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Rusty Bryant",
+      "title": "Free At Last",
+      "release_title": "Rusty Bryant - Fire Eater",
+      "year": "2017",
+      "label": "Prestige",
+      "country": "US",
+      "discogs_id": 10283332,
+      "rating_avg": 4.76,
+      "rating_count": 59,
+      "cover_image": "https://i.discogs.com/AZYOsHuztznfigkZ1X1vBdNL51RUdIPlRRlAFLX0z34/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/MzMyLTE0OTQ2NDg4/MjAtNDI0MS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Lisa Karp & Dr. John",
+      "title": "Good News Rumors",
+      "release_title": "Lisa Karp With Dr. John - Fucsia Blues",
+      "year": "2005",
+      "label": "Adore Records",
+      "country": "US",
+      "discogs_id": 4020362,
+      "rating_avg": 3.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/Z7V3kbXAWwJq3g8zwhKH4FbVGDG2EqBbd8x_AE6-Kw4/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjAz/NjItMTM1MjU4Mjk2/MS03MDgwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stuff",
+      "title": "My Sweetness",
+      "release_title": "Stuff (2) - Stuff",
+      "year": "1976",
+      "label": "Warner Bros. Records",
+      "country": "US",
+      "discogs_id": 5874020,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/tZKvRRE6VdlX_Y1uTKg-HZGPytJ_4-wE80XRb6-KvI4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzQw/MjAtMTQwNTA5MzYw/Ni01OTk3LmpwZWc.jpeg"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Kubrick",
+      "release_title": "John Scofield - A Go Go",
+      "year": "1998",
+      "label": "Verve Records",
+      "country": "US",
+      "discogs_id": 11430592,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/FzWkKvIHR3VqydDwlMABGDb5WUToEgxQVPujuTx0DI8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/NTkyLTE1MTYxOTgz/MjYtNDI4Ni5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jon Lucien",
+      "title": "How Insensitive",
+      "release_title": "Jon Lucien - Precious Is Love (Majestic Soul)",
+      "year": "1999",
+      "label": "ARTS Records International",
+      "country": "US",
+      "discogs_id": 1278464,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ReuIAa4s6GHJIpOvGtFFjklDnC46sBAmQWPqMxfj2EY/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NjQtMTM0Njg0MzY4/MS01NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "Bright Moments",
+      "release_title": "Lonnie Liston Smith - The Best Of Lonnie Liston Smith",
+      "year": "1980",
+      "label": "CBS",
+      "country": "US",
+      "discogs_id": 4137028,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "title": "In The Park",
+      "release_title": "Lonnie Liston Smith - The Best Of Lonnie Liston Smith",
+      "year": "1980",
+      "label": "CBS",
+      "country": "US",
+      "discogs_id": 4137028,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://st.discogs.com/e9d2c3b5c0f53a3ae53495cb9d3b2cb8df90ff94/images/spacer.gif"
+    },
+    {
+      "artist": "Bob Rodriguez & Ken Filiano & Ron Glick",
+      "title": "Prolotsian Dances",
+      "release_title": "Bob Rodriguez, Ken Filiano, Ron Glick - Mist",
+      "year": "1995",
+      "label": "Nine Winds Records",
+      "country": "US",
+      "discogs_id": 11416961,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/DVDYk3Qef4ZFkPFBRY0QTYR3Zw6dSI2miVsvYJjzLZQ/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE2/OTYxLTE2NDQyNDAw/ODUtODA4Ny5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "One Of Mine",
+      "release_title": "Jimmy McGriff - One Of Mine",
+      "year": "1996",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 5425182,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/YoYMe_g5tfV0jEvrC0xmF8PlshblCpOtVq2kXTWLpIE/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjUx/ODItMTM5Mzg5OTA5/Ni0yMTQyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Sunshine Alley",
+      "release_title": "Stanley Turrentine - Sugar",
+      "year": "1979",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 33011901,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/aq7_AdP_U1JVWUGR4naiCBO38N8okiTdedUT_MUfDLY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDEx/OTAxLTE3Mzg0MjEw/MjAtNTEyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "title": "Impressions",
+      "release_title": "Stanley Turrentine - Sugar",
+      "year": "1979",
+      "label": "CTI Records",
+      "country": "US",
+      "discogs_id": 33011901,
+      "rating_avg": 4.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/aq7_AdP_U1JVWUGR4naiCBO38N8okiTdedUT_MUfDLY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDEx/OTAxLTE3Mzg0MjEw/MjAtNTEyOS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Jon Lucien",
+      "title": "A Heart In Love",
+      "release_title": "Jon Lucien - Precious Is Love (Majestic Soul)",
+      "year": "1999",
+      "label": "ARTS Records International",
+      "country": "US",
+      "discogs_id": 1278464,
+      "rating_avg": 4.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/ReuIAa4s6GHJIpOvGtFFjklDnC46sBAmQWPqMxfj2EY/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/NjQtMTM0Njg0MzY4/MS01NzUyLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Emmet Cohen",
+      "title": "It's Alright With Me",
+      "release_title": "Emmet Cohen - In The Element",
+      "year": "2011",
+      "label": "Bada Beep Music",
+      "country": "US",
+      "discogs_id": 14303531,
+      "rating_avg": 5.0,
+      "rating_count": 3,
+      "cover_image": "https://i.discogs.com/dqJrN19AjXL4NrxuefnzWdxz2LCItn_Z3Rn18VZB5R8/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/NTMxLTE1NzE4MzI3/MzEtNjI2NS5qcGVn.jpeg"
+    },
+    {
+      "artist": "Don Reeve",
+      "title": "Open Road",
+      "release_title": "Don Reeve - Spirit Wild",
+      "year": "1991",
+      "label": "Crash Landing",
+      "country": "US",
+      "discogs_id": 9133918,
+      "rating_avg": 5.0,
+      "rating_count": 1,
+      "cover_image": "https://i.discogs.com/FjV3zldTyHq-JjyEE1AM33c6p69BML1J8fwHRiPAOQs/rs:fit/g:sm/q:90/h:441/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM5/MTgtMTQ3NTM1NDM3/NC03MzYwLmpwZWc.jpeg"
+    },
+    {
+      "artist": "Oregon",
+      "title": "Wanderlust",
+      "release_title": "Oregon - In Performance",
+      "year": "1980",
+      "label": "Elektra",
+      "country": "US",
+      "discogs_id": 4224422,
+      "rating_avg": 0.0,
+      "rating_count": 0,
+      "cover_image": "https://i.discogs.com/AmrwujsFD62YVxnALrz4PEf1HSt9wYKR9RvsL-XCz4g/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjQ0/MjItMTM1OTAyODEy/My02NTI0LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Stanley Turrentine & Shirley Scott",
+      "title": "Deep Purple",
+      "release_title": "Stanley Turrentine Featuring Shirley Scott - Let It Go",
+      "year": "1992",
+      "label": "Impulse!",
+      "country": "US",
+      "discogs_id": 6516351,
+      "rating_avg": 4.71,
+      "rating_count": 7,
+      "cover_image": "https://i.discogs.com/srS4V4ZnSTjBZ9eZ8gUH0BTDoQk99-hElUBR8pLhU3k/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTYz/NTEtMTQyMTAyNDE0/Mi03MzA2LmpwZWc.jpeg"
+    },
+    {
+      "artist": "Jimmy McGriff",
+      "title": "Spindletop",
+      "release_title": "Jimmy McGriff - One Of Mine",
+      "year": "1996",
+      "label": "Collectables",
+      "country": "US",
+      "discogs_id": 5425182,
+      "rating_avg": 4.0,
+      "rating_count": 2,
+      "cover_image": "https://i.discogs.com/YoYMe_g5tfV0jEvrC0xmF8PlshblCpOtVq2kXTWLpIE/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjUx/ODItMTM5Mzg5OTA5/Ni0yMTQyLmpwZWc.jpeg"
+    }
+  ]
+}
